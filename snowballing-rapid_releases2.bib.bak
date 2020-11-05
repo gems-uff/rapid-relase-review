@@ -79,7 +79,7 @@
   number    = {6},
   pages     = {931--943},
   volume    = {68},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Seismological Society of America},
 }
 
@@ -129,7 +129,7 @@
   number    = {42},
   pages     = {35742--35750},
   volume    = {280},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {ASBMB},
 }
 
@@ -174,7 +174,7 @@
   number    = {2},
   pages     = {301--304},
   volume    = {24},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {ACS Publications},
 }
 
@@ -186,7 +186,7 @@
   number    = {3},
   pages     = {338--343},
   volume    = {71},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Seismological Society of America},
 }
 
@@ -216,7 +216,7 @@
   year         = {2006},
   organization = {IEEE},
   pages        = {8--pp},
-  groups       = {phase_abstract, excluded_ec01_unrelated, start_set},
+  groups       = {excluded_ec01_unrelated, start_set, phase_abstract},
 }
 
 @Article{Souza2015,
@@ -244,7 +244,7 @@
   year         = {2006},
   organization = {IEEE},
   pages        = {10--pp},
-  groups       = {doubt, start_set},
+  groups       = {doubt, start_set, phase_content, excluded_ec01_unrelated},
 }
 
 @InProceedings{Lopez2018,
@@ -259,7 +259,7 @@
   series     = {Lecture {{Notes}} in {{Business Information Processing}}},
   abstract   = {Software quality is an essential competitive factor for the success of software companies today. Increasing the software quality levels of software products and services requires an adequate integration of quality requirements (QRs) in the software life-cycle, which is still scarcely supported in current rapid software development (RSD) approaches. One of the goals of the Q-Rapids (Quality-aware Rapid Software Development) method is providing tool support to decision-makers for QR management in RSD. The Q-Rapids method is based on gathering data from several and heterogeneous sources, to be aggregated into quality-related strategic indicators (e.g., customer satisfaction, product quality) and presented to decision-makers using a highly informative dashboard. The current release of Q-Rapids Tool provides four sets of functionality: (1) data gathering from source tools (e.g. GitLab, Jira, SonarQube, and Jenkins), (2) aggregation of data into three levels of abstraction (metrics, product/process factors, and strategic indicators), (3) visualization of the aggregated data, and (4) navigation through the aggregated data. The tool has been evaluated by four European companies that follow RSD processes.},
   doi        = {10.1007/978-3-319-92901-9_17},
-  groups     = {p_Guzman2017, forward_01, doubt, start_set, phase_intro, excluded_ec01_unrelated},
+  groups     = {p_Guzman2017, forward_01, doubt, start_set, excluded_ec01_unrelated, phase_intro},
   isbn       = {978-3-319-92901-9},
   keywords   = {Agile,Dashboard,Decision-making,Non-functional requirements,Quality requirement,Rapid software development,Strategic indicator},
   language   = {en},
@@ -274,7 +274,7 @@
   year         = {2009},
   organization = {IEEE},
   pages        = {317--323},
-  groups       = {doubt, start_set, phase_intro, excluded_ec01_unrelated},
+  groups       = {doubt, start_set, excluded_ec01_unrelated, phase_intro},
 }
 
 @InProceedings{lohner2000rapid,
@@ -282,7 +282,7 @@
   title        = {Rapid Software Development for CLEO III},
   year         = {2000},
   organization = {Citeseer},
-  groups       = {doubt, start_set, phase_content, excluded_ec01_unrelated},
+  groups       = {doubt, start_set, excluded_ec01_unrelated, phase_content},
 }
 
 @Article{chu2009cholesterol,
@@ -293,7 +293,7 @@
   number    = {5},
   pages     = {1227--1238},
   volume    = {86},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Wiley Online Library},
 }
 
@@ -305,7 +305,7 @@
   number    = {1},
   pages     = {49--52},
   volume    = {296},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -317,7 +317,7 @@
   number    = {1},
   pages     = {11--25},
   volume    = {14},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -347,7 +347,7 @@
   abstract  = {Continuous software engineering refers to the organizational capability to develop, release and learn from software in very short rapid cycles, typically hours, days or a very small numbers of weeks. This requires not only agile processes in teams but in the complete research and development organization. Additionally, the technology used in the different development phases, like requirements engineering and system integration, must support the quick development cycles. Finally, automatic live experimentation for different system alternatives enables fast gathering of required data for decision making. The workshop, the second in the series after the first one at ICSE 2014, aims to bring the research communities of the aforementioned areas together to exchange challenges, ideas, and solutions to bring software engineering a step further to being a holistic continuous process. The workshop program is based on eight papers selected in the peer-review process and supplemented by interaction and discussions at the workshop. The topics range from agile methods, continuous software engineering practices to specific techniques, like visualization and testing.},
   doi       = {10.1109/ICSE.2015.343},
   file      = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\6SL94AQE\\Tichy et al. - 2015 - 2nd International Workshop on Rapid Continuous Sof.pdf:application/pdf},
-  groups    = {start_set, phase_title, excluded_ec04_forewords},
+  groups    = {start_set, excluded_ec04_forewords},
   issn      = {1558-1225},
   keywords  = {Companies,Conferences,Software,Software engineering,Testing},
   timestamp = {2020-10-29T19:17:48Z},
@@ -381,7 +381,7 @@
   number    = {1},
   pages     = {1--11},
   volume    = {5},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Nature Publishing Group},
 }
 
@@ -393,7 +393,7 @@
   number    = {27},
   pages     = {8262--8271},
   volume    = {33},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {ACS Publications},
 }
 
@@ -405,7 +405,7 @@
   number    = {24},
   pages     = {1335--1338},
   volume    = {8},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -416,7 +416,7 @@
   year      = {2015},
   pages     = {53--62},
   volume    = {199},
-  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -427,7 +427,7 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {13--23},
-  groups       = {p_daCosta2018, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_daCosta2018, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{huang2019empirical,
@@ -438,7 +438,7 @@
   number    = {2},
   pages     = {718--750},
   volume    = {24},
-  groups    = {p_daCosta2018, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_daCosta2018, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Springer},
 }
 
@@ -474,7 +474,7 @@
   school = {Universit{\'e} de Paris},
   title  = {Challenges in the collaborative evolution of a proof language and its ecosystem},
   year   = {2019},
-  groups = {p_daCosta2018, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_daCosta2018, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @PhdThesis{el2019leveraging,
@@ -491,7 +491,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {370--377},
-  groups       = {p_Guzman2017, p_Lopez2018, forward_01, doubt, start_set, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Guzman2017, p_Lopez2018, forward_01, doubt, start_set, excluded_ec01_unrelated, phase_abstract},
 }
 
 @InProceedings{kamei2016defect,
@@ -502,7 +502,7 @@
   organization = {IEEE},
   pages        = {33--45},
   volume       = {5},
-  groups       = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @InProceedings{laghari2016fine,
@@ -511,7 +511,7 @@
   title     = {Fine-tuning spectrum based fault localisation with frequent method item sets},
   year      = {2016},
   pages     = {274--285},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{Karvonen2017,
@@ -556,7 +556,7 @@
   number    = {7},
   pages     = {589--618},
   volume    = {28},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Wiley Online Library},
 }
 
@@ -568,7 +568,7 @@
   number    = {1},
   pages     = {505--546},
   volume    = {22},
-  groups    = {p_Hemmati2015, p_Khomh2015, p_Mantyla2013, p_Mantyla2015, p_Souza2015, p_Souza2014, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Hemmati2015, p_Khomh2015, p_Mantyla2013, p_Mantyla2015, p_Souza2015, p_Souza2014, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Springer},
 }
 
@@ -585,7 +585,7 @@
   abstract  = {Abnormal working hours can reduce work health, general well-being, and productivity, independent from a profession. To inform future approaches for automatic stress and overload detection, this paper establishes empirically collected measures of the work patterns of software engineers. To this aim, we perform the first large-scale study of software engineers' working hours by investigating the time stamps of commit activities of 86 large open source software projects, both containing hired and volunteer developers. We find that two thirds of software engineers mainly follow typical office hours, empirically established to be from 10h to 18h, and do not usually work during nights and weekends. Large variations between projects and individuals exist. Surprisingly, we found no support that project maturation would decrease abnormal working hours. In the Firefox case study, we found that hired developers work more during office hours while seniority, either in terms of number of commits or job status, did not impact working hours. We conclude that the use of working hours or timestamps of work products for stress detection requires establishing baselines at the level of individuals.},
   doi       = {10.1145/3180155.3180193},
   file      = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\X8UX676Z\\Claes et al. - 2018 - Do programmers work at night or during the weekend.pdf:application/pdf},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   isbn      = {978-1-4503-5638-1},
   timestamp = {2020-10-29T20:42:37Z},
 }
@@ -601,7 +601,7 @@
   abstract   = {Open Source Software (OSS) is vital to both end users and enterprises. As OSS systems are becoming a type of infrastructure, long-term OSS projects are desired. For the survival of OSS projects, the projects need to not only retain existing developers, but also attract new developers to grow. To better understand how projects retain and attract contributors, our preliminary study aimed to measure the personnel attraction and retention of OSS projects using a pair of population migration metrics, called Magnet (personnel attraction) and Sticky (retention) metrics. Because the preliminary study analyzed only 90 projects and the 90 projects are not representative of GitHub, this paper extend the preliminary study to better understand the generalizability of the results by analyzing 16, 552 projects of GitHub. Furthermore, we also add a pilot study to investigate the typical duration between releases to find more appropriate release duration. The study results show that (1) approximately 23\% of developers remain in the same projects that the developers contribute to, (2) the larger projects are likely to attract and retain more developers, (3) 53\% of terminal projects eventually decay to a state of fewer than ten developers and (4) 55\% of attractive projects remain in an attractive category.},
   doi        = {10.2197/ipsjjip.24.339},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\QJK2ZQFE\\Yamashita et al. - 2016 - Magnet or Sticky Measuring Project Characteristic.pdf:application/pdf},
-  groups     = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups     = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   keywords   = {Developer Transition,Magnet,Mining Software Repositories,Open Source Software,Sticky},
   shorttitle = {Magnet or {{Sticky}}?},
   timestamp  = {2020-10-29T20:44:34Z},
@@ -620,7 +620,7 @@
   abstract   = {Continuous Integration (CI) is a software engineering practice where developers constantly integrate their changes to a project through an automated build process. The goal of CI is to provide developers with prompt feedback on several quality dimensions after each change. Indeed, previous studies provided empirical evidence on a positive association between properly following CI principles and source code quality. A core principle behind CI is Continuous Code Quality (also known as CCQ, which includes automated testing and automated code inspection) may appear simple and effective, yet we know little about its practical adoption. In this paper, we propose a preliminary empirical investigation aimed at understanding how rigorously practitioners follow CCQ. Our study reveals a strong dichotomy between theory and practice: developers do not perform continuous inspection but rather control for quality only at the end of a sprint and most of the times only on the release branch. Preprint [https://doi.org/10.5281/zenodo.1341036]. Data and Materials [http://doi.org/10.5281/zenodo.1341015].},
   doi        = {10.1145/3238147.3240729},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\5QL57AU4\\Vassallo et al. - 2018 - Continuous code quality are we (really) doing tha.pdf:application/pdf},
-  groups     = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups     = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   isbn       = {978-1-4503-5937-5},
   keywords   = {Code Quality,Continuous Integration,Empirical Studies},
   shorttitle = {Continuous Code Quality},
@@ -635,7 +635,7 @@
   number    = {2},
   pages     = {1--38},
   volume    = {50},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {ACM New York, NY, USA},
 }
 
@@ -660,7 +660,7 @@
   title     = {The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds},
   year      = {2018},
   pages     = {857--862},
-  groups    = {p_Khomh2015, p_Mantyla2013, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, p_Mantyla2013, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @InProceedings{an2015empirical,
@@ -670,7 +670,7 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {262--271},
-  groups       = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{teixeira2019managing,
@@ -692,7 +692,7 @@
   year         = {2016},
   organization = {Springer},
   pages        = {207--218},
-  groups       = {p_Clark2014, p_Khomh2015, p_Mantyla2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Clark2014, p_Khomh2015, p_Mantyla2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @PhdThesis{Poo-Caamano2016,
@@ -713,7 +713,7 @@
   author = {Link, Georg JP and Germonprez, Matt},
   title  = {Assessing open source project health},
   year   = {2018},
-  groups = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{abdellatif2020msrbot,
@@ -727,7 +727,7 @@
   pages     = {1--30},
   volume    = {25},
   doi       = {10.1007/s10664-019-09788-5},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Springer},
 }
 
@@ -834,7 +834,7 @@
   abstract  = {Continuous Integration (CI) is a widely-adopted software engineering practice. Despite its undisputed benefits, like higher software quality and improved developer productivity, mastering CI is not easy. Among the several barriers when transitioning to CI, developers need to face a new type of software failures (i.e., build failures) that requires them to understand complex build logs. Even when a team has successfully introduced a CI culture, living up to its principles and improving the CI practice are also challenging. In my research, I want to provide developers with the right support for establishing CI and the proper recommendations for continuously improving their CI process.},
   doi       = {10.1109/ASE.2019.00151},
   file      = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\2FPNW5PH\\Vassallo - 2019 - Enabling Continuous Improvement of a Continuous In.pdf:application/pdf},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   issn      = {2643-1572},
   keywords  = {Best practices,build failures,CI culture,CI practice,CI process,complex build logs,continuous improvement,continuous integration process,Continuous Integration; Build Failures; Anti patterns; Best Practices,developer productivity,Measurement,Organizations,Software,software engineering practice,software failures,software quality,Taxonomy,Testing,Tools,undisputed benefits},
   timestamp = {2020-10-29T21:22:42Z},
@@ -856,7 +856,7 @@
   title  = AUTOCORRELATION #{WEIGHTEDSUMENTROPYBASEDSOFTWAREQUALITYMANAGEMENTFOROPENSOURCEAPPLICATION, journal = International Journal of Advanced Research in Computer Science 8},
   year   = {2017},
   volume = {8},
-  groups = {excluded_title, p_Khomh2015, forward_01, phase_title, excluded_ec01_unrelated},
+  groups = {excluded_title, p_Khomh2015, forward_01, excluded_ec01_unrelated},
 }
 
 @Book{frank2017,
@@ -871,7 +871,7 @@
   publisher = {Diss},
   title     = {Studying User-Developer Interactions Through the Updating and Reviewing Mechanisms of the Google Play Store},
   year      = {2018},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @InProceedings{Kaur2019,
@@ -919,14 +919,14 @@
 @Book{weberbenefits,
   author = {Weber, Michael},
   title  = {The {Benefits} of {Continuous} {Deployment} evaluated using the {JDownloader} {Software}},
-  groups = {p_Clark2014, p_Khomh2015, p_Mantyla2015, p_daCosta2016a, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_Clark2014, p_Khomh2015, p_Mantyla2015, p_daCosta2016a, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @MastersThesis{an2015improving,
   author    = {An, Le},
   title     = {Improving Bug Triaging Using Software Analytics},
   year      = {2015},
-  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Khomh2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Diss},
 }
 
@@ -935,7 +935,7 @@
   publisher = {Diss},
   title     = {Optimising and Assessing the Effectiveness of Spectrum Based Fault Localisation},
   year      = {2018},
-  groups    = {excluded_title, p_Khomh2015, forward_01, phase_title, excluded_ec01_unrelated},
+  groups    = {excluded_title, p_Khomh2015, forward_01, excluded_ec01_unrelated},
 }
 
 @InProceedings{Khalil2019,
@@ -1082,7 +1082,7 @@
   organization = {IEEE},
   pages        = {392--397},
   doi          = {10.1109/icstw.2018.00079},
-  groups       = {p_Hemmati2017, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Hemmati2017, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @InProceedings{mantyla2018natural,
@@ -1134,7 +1134,7 @@
 @Article{boehmfirst,
   author = {Boehm, Barry and Franch, Xavier},
   title  = {First International Workshop on Data-driven System Quality Assurance},
-  groups = {p_Guzman2017, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_Guzman2017, forward_01, excluded_ec01_unrelated, phase_abstract},
   url    = {https://ieeexplore.ieee.org/document/8859472?denied=},
 }
 
@@ -1219,7 +1219,7 @@
   organization = {IEEE},
   pages        = {507--508},
   doi          = {10.1109/qrs-c.2017.87},
-  groups       = {p_Guzman2017, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Guzman2017, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{ameller2019dealing,
@@ -1230,7 +1230,7 @@
   issn      = {0098-5589},
   pages     = {1-1},
   doi       = {10.1109/tse.2019.2904476},
-  groups    = {p_Guzman2017, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Guzman2017, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {IEEE},
 }
 
@@ -1582,7 +1582,7 @@
   author = {Bertlin, Simon},
   title  = {An examination of automated testing and Xray as a test management tool},
   year   = {2020},
-  groups = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_Hemmati2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   issn   = {2192-9076},
   pages  = {16-21},
   url    = {https://www.diva-portal.org/smash/record.jsf?pid=diva2:1446560&dswid=-1882},
@@ -1594,7 +1594,7 @@
   school = {Queen's University (Canada)},
   title  = {Automated Approaches for Reducing the Execution Time of Performance Tests},
   year   = {2017},
-  groups = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_Hemmati2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   issn   = {2047-7473},
   url    = {https://sail.cs.queensu.ca/Downloads/Dissertation2017_HammamAlghamdiMScThesis.pdf},
 }
@@ -1643,7 +1643,7 @@
   organization = {IEEE},
   pages        = {1--6},
   doi          = {10.1109/icissec.2016.7885851},
-  groups       = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Hemmati2015, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @PhdThesis{unterkalmsteiner2015coordinating,
@@ -1688,7 +1688,7 @@
   year      = {2020},
   pages     = {1--12},
   doi       = {10.1145/3377811.3380369},
-  groups    = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Hemmati2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   subtitle  = {strategies for regression testing in continuous integration},
 }
 
@@ -1743,7 +1743,7 @@
   year      = {2019},
   pages     = {1--34},
   volume    = {149},
-  groups    = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Hemmati2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Elsevier},
   url       = {https://www.sciencedirect.com/science/article/pii/S0164121218302085?casa_token=5nobNcnu4HQAAAAA:PU_qxyNnrLHm5gX4e0p0F22IZ0i9zp4NCUuR3E5Nm2kxnyLDqEKzx_BE1vOFJdQIx2mitbs9jdg},
 }
@@ -1834,7 +1834,7 @@
   year         = {2016},
   organization = {IEEE},
   pages        = {279--289},
-  groups       = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Hemmati2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   url          = {https://ieeexplore.ieee.org/abstract/document/7816474},
 }
 
@@ -2025,7 +2025,7 @@
   pages     = {2389--2392},
   volume    = {10},
   doi       = {10.1166/jmihi.2020.32682389},
-  groups    = {p_Mantyla2013, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Mantyla2013, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {American Scientific Publishers},
 }
 
@@ -2620,7 +2620,7 @@
   organization = {Springer},
   pages        = {267--274},
   doi          = {10.1007/978-3-319-48523-2_25},
-  groups       = {p_Mantyla2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_Mantyla2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   issn         = {2194-5357},
 }
 
@@ -2845,7 +2845,7 @@
   number  = {1},
   pages   = {107--116},
   volume  = {6},
-  groups  = {p_Souza2015, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups  = {p_Souza2015, forward_01, excluded_ec01_unrelated, phase_abstract},
   url     = {https://pdfs.semanticscholar.org/6a92/7d0881cb3660d1d21d33fda23a8d05b87c4c.pdf},
 }
 
@@ -2941,7 +2941,7 @@
   organization = {IEEE},
   pages        = {590--594},
   doi          = {10.1109/icsme.2019.00093},
-  groups       = {p_daCosta2016a, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups       = {p_daCosta2016a, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{berhe2020software,
@@ -2953,7 +2953,7 @@
   pages     = {618--625},
   volume    = {170},
   doi       = {10.1016/j.procs.2020.03.142},
-  groups    = {p_daCosta2016a, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_daCosta2016a, forward_01, excluded_ec01_unrelated, phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -3112,7 +3112,7 @@
   year      = {2019},
   pages     = {20--26},
   doi       = {10.1145/3340495.3342752},
-  groups    = {p_Lopez2018, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups    = {p_Lopez2018, forward_01, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{oriol2020data,
@@ -3139,7 +3139,7 @@
   author = {Aghabayli, Aytaj and Pfahl, Dietmar and Mart{\'\i}nez-Fern{\'a}ndez, Silverio and Trendowicz, Adam},
   title  = {Software Runtime Data and Development Data Integration to Monitor External Quality},
   year   = {2019},
-  groups = {p_Lopez2018, forward_01, phase_abstract, excluded_ec01_unrelated},
+  groups = {p_Lopez2018, forward_01, excluded_ec01_unrelated, phase_abstract},
   url    = {http://womencourage.acm.org/2020/wp-content/uploads/2020/07/womENcourage_2020_paper_38.pdf},
 }
 
@@ -7945,7 +7945,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {16--19},
-  groups       = {start_set},
+  groups       = {start_set, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{di2005rapid,
@@ -7956,7 +7956,7 @@
   number    = {10},
   pages     = {4292--4301},
   volume    = {146},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Endocrine Society},
 }
 
@@ -7968,7 +7968,7 @@
   number    = {1},
   pages     = {4--11},
   volume    = {8},
-  groups    = {start_set},
+  groups    = {start_set, phase_content, excluded_ec01_unrelated},
   publisher = {ACM New York, NY, USA},
 }
 
@@ -7980,7 +7980,7 @@
   number    = {8},
   pages     = {4813--4817},
   volume    = {166},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Am Assoc Immnol},
 }
 
@@ -7992,7 +7992,7 @@
   number    = {2},
   pages     = {439--453},
   volume    = {543},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Wiley Online Library},
 }
 
@@ -8004,7 +8004,7 @@
   number    = {4},
   pages     = {1048--1051},
   volume    = {2},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {ACS Publications},
 }
 
@@ -8016,7 +8016,7 @@
   number    = {1},
   pages     = {28239},
   volume    = {4},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Taylor \& Francis},
 }
 
@@ -8028,7 +8028,7 @@
   number    = {6},
   pages     = {2588--2593},
   volume    = {82},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {ACS Publications},
 }
 
@@ -8040,7 +8040,7 @@
   number    = {21},
   pages     = {2534--2536},
   volume    = {24},
-  groups    = {start_set, phase_abstract, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated, phase_abstract},
   publisher = {Oxford University Press},
 }
 
@@ -8051,7 +8051,7 @@
   year      = {2016},
   pages     = {139--143},
   volume    = {1032},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -8062,7 +8062,7 @@
   year         = {2019},
   organization = {Springer},
   pages        = {378--392},
-  groups       = {start_set},
+  groups       = {start_set, phase_abstract, excluded_ec01_unrelated},
 }
 
 @InProceedings{manzano2018definition,
@@ -8072,7 +8072,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {1--5},
-  groups       = {start_set},
+  groups       = {start_set, phase_intro, excluded_ec01_unrelated},
 }
 
 @TechReport{weaver2012rapid,
@@ -8080,7 +8080,7 @@
   institution = {National Renewable Energy Lab.(NREL), Golden, CO (United States)},
   title       = {Rapid application development with Openstudio},
   year        = {2012},
-  groups      = {start_set, phase_abstract, excluded_ec01_unrelated},
+  groups      = {start_set, excluded_ec01_unrelated, phase_abstract},
 }
 
 @Article{matsui2005high,
@@ -8091,7 +8091,7 @@
   number    = {33},
   pages     = {7538--7547},
   volume    = {25},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Soc Neuroscience},
 }
 
@@ -8103,7 +8103,7 @@
   number    = {5},
   pages     = {3008--3044},
   volume    = {24},
-  groups    = {start_set},
+  groups    = {start_set, selected},
   publisher = {Springer},
 }
 
@@ -8112,7 +8112,7 @@
   publisher = {Pearson Education},
   title     = {Continuous delivery: reliable software releases through build, test, and deployment automation},
   year      = {2010},
-  groups    = {start_set, phase_title, excluded_ec05_docs},
+  groups    = {start_set, excluded_ec05_docs},
 }
 
 @Article{burgmann2001rapid,
@@ -8123,7 +8123,7 @@
   number    = {7},
   pages     = {1331--1334},
   volume    = {28},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Wiley Online Library},
 }
 
@@ -8135,7 +8135,7 @@
   number    = {2},
   pages     = {636--647},
   volume    = {57},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Wiley Online Library},
 }
 
@@ -8147,7 +8147,7 @@
   number    = {7181},
   pages     = {973--976},
   volume    = {451},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Nature Publishing Group},
 }
 
@@ -8158,7 +8158,7 @@
   year      = {2017},
   pages     = {137--144},
   volume    = {407},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -8170,7 +8170,7 @@
   number    = {1-3},
   pages     = {54--62},
   volume    = {420},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -8182,7 +8182,7 @@
   number    = {1},
   pages     = {53--64},
   volume    = {5},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Springer},
 }
 
@@ -8194,7 +8194,7 @@
   number    = {1},
   pages     = {86--90},
   volume    = {6},
-  groups    = {start_set},
+  groups    = {start_set, selected},
   publisher = {IEEE},
 }
 
@@ -8206,7 +8206,7 @@
   number    = {2},
   pages     = {150--159},
   volume    = {16},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -8218,7 +8218,7 @@
   number    = {10},
   pages     = {2317--2331},
   volume    = {590},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Wiley Online Library},
 }
 
@@ -8230,7 +8230,7 @@
   number    = {9},
   pages     = {1266--1273},
   volume    = {94},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Haematologica},
 }
 
@@ -8242,7 +8242,7 @@
   number    = {5},
   pages     = {4925--4938},
   volume    = {9},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {ACS Publications},
 }
 
@@ -8254,7 +8254,7 @@
   number    = {5},
   pages     = {1542--1548},
   volume    = {98},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {American Society of Hematology Washington, DC},
 }
 
@@ -8265,7 +8265,7 @@
   year      = {2011},
   pages     = {1--9},
   volume    = {1401},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -8277,7 +8277,7 @@
   number    = {2},
   pages     = {463--470},
   volume    = {315},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -8289,7 +8289,7 @@
   number    = {1},
   pages     = {5--17},
   volume    = {8},
-  groups    = {start_set, phase_abstract, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated, phase_abstract},
   publisher = {Springer},
 }
 
@@ -8301,7 +8301,7 @@
   number    = {1},
   pages     = {381--392},
   volume    = {189},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Am Assoc Immnol},
 }
 
@@ -8310,7 +8310,7 @@
   publisher = {Pearson Education},
   title     = {Rapid development: taming wild software schedules},
   year      = {1996},
-  groups    = {start_set, phase_title, excluded_ec05_docs},
+  groups    = {start_set, excluded_ec05_docs},
 }
 
 @Article{op2003rapid,
@@ -8321,7 +8321,7 @@
   number    = {10},
   pages     = {2320--2332},
   volume    = {15},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Am Soc Plant Biol},
 }
 
@@ -8331,7 +8331,7 @@
   publisher = {CRC Press/Taylor \& Francis},
   title     = {Rapid dopamine release in freely moving rats},
   year      = {2007},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
 }
 
 @InProceedings{callahan1997verification,
@@ -8339,7 +8339,7 @@
   booktitle = {NASA no. 19990025807. Software Engineering Laboratory Series: Proceedings of the Twenty-Second Annual Software Engineering Workshop},
   title     = {Verification and Validation in a Rapid Software Development Process},
   year      = {1997},
-  groups    = {start_set},
+  groups    = {start_set, phase_intro, excluded_ec01_unrelated},
 }
 
 @Article{kushwaha2012analysis,
@@ -8349,7 +8349,7 @@
   year      = {2012},
   number    = {12},
   volume    = {52},
-  groups    = {start_set},
+  groups    = {start_set, selected},
   publisher = {Foundation of Computer Science},
 }
 
@@ -8359,7 +8359,7 @@
   title     = {Comparison of skin traction, pressure, and rapid muscle release with conventional method on intramuscular injection pain: A randomized clinical trial},
   year      = {2018},
   volume    = {7},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Wolters Kluwer--Medknow Publications},
 }
 
@@ -8370,7 +8370,7 @@
   year      = {2014},
   pages     = {319--328},
   volume    = {86},
-  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  groups    = {excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -8382,7 +8382,7 @@
   number    = {9},
   pages     = {815--824},
   volume    = {16},
-  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  groups    = {start_set, excluded_ec01_unrelated},
   publisher = {Oxford University Press},
 }
 
@@ -8390,20 +8390,20 @@
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
-1 StaticGroup:selected\;0\;1\;0x008000ff\;\;\;;
+1 StaticGroup:selected\;0\;0\;0x008000ff\;\;\;;
 1 StaticGroup:secondary\;0\;1\;0x008000ff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:doubt\;0\;1\;0xffff00ff\;\;\;;
-2 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_ec01_unrelated\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_ec03_not_available\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_ec04_forewords\;0\;0\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_ec05_docs\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:phase\;2\;1\;0x000000ff\;\;\;;
-2 StaticGroup:phase_title\;0\;0\;0x8a8a8aff\;\;\;;
-2 StaticGroup:phase_abstract\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:phase_intro\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:phase_content\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:phase_title\;0\;1\;0x000000ff\;\;\;;
+2 StaticGroup:phase_abstract\;0\;0\;0x000000ff\;\;\;;
+2 StaticGroup:phase_intro\;0\;1\;0x000000ff\;\;\;;
+2 StaticGroup:phase_content\;0\;0\;0x000000ff\;\;\;;
 1 StaticGroup:iteration\;2\;1\;0xffffffff\;\;\;;
 2 StaticGroup:start_set\;0\;1\;0xb3b3b3ff\;\;\;;
 2 StaticGroup:forward\;2\;1\;0x0000ffff\;\;\;;
