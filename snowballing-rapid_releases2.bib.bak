@@ -13,7 +13,7 @@
   abstract   = {Many software companies are shifting from the traditional multi-month release cycle to shorter release cycles. For example, Google Chrome and Mozilla Firefox release new versions every 6 weeks. These shorter release cycles reduce the users' waiting time for a new release and offer better feedback and marketing opportunities to companies, but it is unclear if the quality of the software product improves as well, since developers and testers are under more pressure. In this paper, we extend our previous empirical study of Mozilla Firefox on the impact of rapid releases on quality assurance with feedback by Mozilla project members. The study compares crash rates, median uptime, and the proportion of pre- and post-release bugs in traditional releases with those in rapid releases, and we also analyze the source code changes made by developers to identify potential changes in the development process. We found that (1) with shorter release cycles, users do not experience significantly more pre- or post-release bugs (percentage-wise) and (2) bugs are fixed faster, yet (3) users experience these bugs earlier during software execution (the program crashes earlier). Increased integration activity and propagation of harder bugs to later versions account for some of these findings. Overall, our case study suggests that a clear release engineering process with thorough automation is one of the major challenges when switching to rapid releases.},
   doi        = {10.1007/s10664-014-9308-x},
   file       = {Springer Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\SNAK3FIA\\Khomh et al. - 2015 - Understanding the impact of rapid releases on soft.pdf:application/pdf},
-  groups     = {p_Mantyla2013, selected, forward_01, phase_start},
+  groups     = {p_Mantyla2013, selected, forward_01, start_set},
   keywords   = {Bugs, Release cycle, Software quality, Software release, Testing, skimmed},
   language   = {en},
   readstatus = {skimmed},
@@ -30,7 +30,7 @@
   publisher  = {{Springer International Publishing}},
   series     = {Lecture {{Notes}} in {{Computer Science}}},
   abstract   = {Context and Motivation: Rapid software development (RSD) refers to the organizational capability to develop, release, and learn from software in rapid cycles without compromising its quality. To achieve RSD, it is essential to understand and manage software quality along the software lifecycle. Question/Problem: Despite the numerous information sources related to product quality, there is a lack of mechanisms for supporting continuous quality management throughout the whole RSD process. Principal ideas/Results: We propose Q-Rapids, a data-driven, quality-aware RSD framework in which quality and functional requirements are managed together. Quality requirements are incrementally elicited and refined based on data gathered at both development time and runtime. Project, development, and runtime data is aggregated into quality-related indicators to support decision makers in steering future development cycles. Contributions: Q-Rapids aims to increase software quality through continuous data gathering and analysis, as well as continuous management of quality requirements.},
-  groups     = {selected, phase_start},
+  groups     = {selected, start_set},
   isbn       = {978-3-319-54045-0},
   keywords   = {Quality requirements,Rapid software development,Software quality},
   language   = {en},
@@ -47,7 +47,7 @@
   pages     = {20--29},
   abstract  = {Large open and closed source organizations like Google, Facebook and Mozilla are migrating their products towards rapid releases. While this allows faster time-to-market and user feedback, it also implies less time for testing and bug fixing. Since initial research results indeed show that rapid releases fix proportionally less reported bugs than traditional releases, this paper investigates the changes in software testing effort after moving to rapid releases. We analyze the results of 312,502 execution runs of the 1,547 mostly manual system level test cases of Mozilla Fire fox from 2006 to 2012 (5 major traditional and 9 major rapid releases), and triangulated our findings with a Mozilla QA engineer. In rapid releases, testing has a narrower scope that enables deeper investigation of the features and regressions with the highest risk, while traditional releases run the whole test suite. Furthermore, rapid releases make it more difficult to build a large testing community, forcing Mozilla to increase contractor resources in order to sustain testing for rapid releases.},
   doi       = {10.1109/ICSM.2013.13},
-  groups    = {selected, phase_start},
+  groups    = {selected, start_set},
   keywords  = {agile releases,Browsers,bugs,builds,Computer bugs,Google,manual system-level test cases,Measurement,Mozilla,Mozilla Firefox,Mozilla QA engineer,opensource,program testing,rapid release models,release model,Software,software testing,Software testing},
   timestamp = {2019-06-17T22:40:27Z},
 }
@@ -64,7 +64,7 @@
   abstract   = {Software engineering practices strongly affect the security of the code produced. The increasingly popular Rapid Release Cycle (RRC) development methodology and easy network software distribution have enabled rapid feature introduction. RRC's defining characteristic of frequent software revisions would seem to conflict with traditional software engineering wisdom regarding code maturity, reliability and reuse, as well as security. Our investigation of the consequences of rapid release comprises a quantitative, data-driven study of the impact of rapid-release methodology on the security of the Mozilla Firefox browser. We correlate reported vulnerabilities in multiple rapid release versions of Firefox code against those in corresponding extended release versions of the same system; using a common software base with different release cycles eliminates many causes other than RRC for the observables. Surprisingly, the resulting data show that Firefox RRC does not result in higher vulnerability rates and, further, that it is exactly the unfamiliar, newly released software (the "moving targets") that requires time to exploit. These provocative results suggest that a rethinking of the consequences of software engineering practices for security may be warranted.},
   doi        = {10.1145/2660267.2660320},
   file       = {ACM Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\KAVQVI4H\\Clark et al. - 2014 - Moving Targets Security and Rapid-Release in Fire.pdf:application/pdf},
-  groups     = {selected, phase_start},
+  groups     = {selected, start_set},
   isbn       = {978-1-4503-2957-6},
   keywords   = {agile programming,firefox,honeymoon effect:arms race,rapid release cycle,secure software development models,secure software metrics,security,software life-cycle,software qualitysecure software development,vulnerabilities,windows of vulnerability},
   shorttitle = {Moving {{Targets}}},
@@ -79,7 +79,7 @@
   number    = {6},
   pages     = {931--943},
   volume    = {68},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Seismological Society of America},
 }
 
@@ -95,7 +95,7 @@
   volume     = {20},
   abstract   = {Large open and closed source organizations like Google, Facebook and Mozilla are migrating their products towards rapid releases. While this allows faster time-to-market and user feedback, it also implies less time for testing and bug fixing. Since initial research results indeed show that rapid releases fix proportionally less reported bugs than traditional releases, this paper investigates the changes in software testing effort after moving to rapid releases in the context of a case study on Mozilla Firefox, and performs a semi-systematic literature review. The case study analyzes the results of 312,502 execution runs of the 1,547 mostly manual system-level test cases of Mozilla Firefox from 2006 to 2012 (5 major traditional and 9 major rapid releases), and triangulates our findings with a Mozilla QA engineer. We find that rapid releases have a narrower test scope that enables a deeper investigation of the features and regressions with the highest risk. Furthermore, rapid releases make testing more continuous and have proportionally smaller spikes before the main release. However, rapid releases make it more difficult to build a large testing community , and they decrease test suite diversity and make testing more deadline oriented. In addition, our semi-systematic literature review presents the benefits, problems and enablers of rapid releases from 24 papers found using systematic search queries and a similar amount of papers found through other means. The literature review shows that rapid releases are a prevalent industrial practice that are utilized even in some highly critical domains of software engineering, and that rapid releases originated from several software development methodologies such as agile, open source, lean and internet-speed software development. However, empirical studies proving evidence of the claimed advantages and disadvantages of rapid releases are scarce.},
   doi        = {10.1007/s10664-014-9338-4},
-  groups     = {p_Mantyla2013, selected, forward_01, phase_start},
+  groups     = {p_Mantyla2013, selected, forward_01, start_set},
   keywords   = {Agile releases,Bugs,Builds,Mozilla,Open-source,Release model,Software testing},
   language   = {en},
   shorttitle = {On Rapid Releases and Software Testing},
@@ -115,7 +115,7 @@
   abstract   = {The release frequency of software projects has increased in recent years. Adopters of so-called rapid release cycles claim that they can deliver addressed issues (i.e., bugs, enhancements, and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, in our prior work, we found that code integration phases may introduce delays in rapidly releasing software --- 98\% of addressed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of addressed issues, we perform a comparative study of traditional and rapid release cycles. Through an empirical study of 72,114 issue reports from the Firefox system, we observe that, surprisingly, addressed issues take a median of 50 days longer to be integrated in rapid Firefox releases than the traditional ones. To investigate the factors that are related to integration delay in traditional and rapid release cycles, we train regression models that explain if an addressed issue will have its integration delayed or not. Our explanatory models achieve good discrimination (ROC areas of 0.81-0.83) and calibration scores (Brier scores of 0.05-0.16). Deeper analysis of our explanatory models indicates that traditional releases prioritize the integration of backlog issues, while rapid releases prioritize issues that were addressed during the current release cycle. Our results suggest that rapid release cycles may not be a silver bullet for the rapid delivery of addressed issues to users.},
   doi        = {10.1145/2901739.2901764},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\R2XF9NSH\\da Costa et al. - 2016 - The impact of switching to a rapid release cycle o.pdf:application/pdf},
-  groups     = {p_Mantyla2015, p_Souza2015, p_Souza2014, selected, forward_01, phase_start},
+  groups     = {p_Mantyla2015, p_Souza2015, p_Souza2014, selected, forward_01, start_set},
   isbn       = {978-1-4503-4186-8},
   shorttitle = {The Impact of Switching to a Rapid Release Cycle on the Integration Delay of Addressed Issues},
   timestamp  = {2020-10-29T18:53:46Z},
@@ -129,7 +129,7 @@
   number    = {42},
   pages     = {35742--35750},
   volume    = {280},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {ASBMB},
 }
 
@@ -142,7 +142,7 @@
   pages     = {1--10},
   abstract  = {Test case prioritization is one of the most practically useful activities in testing, specially for large scale systems. The goal is ranking the existing test cases in a way that they detect faults as soon as possible, so that any partial execution of the test suite detects maximum number of defects for the given budget. Test prioritization becomes even more important when the test execution is time consuming, e.g., manual system tests vs. automated unit tests. Most existing test case prioritization techniques are based on code coverage, which requires access to source code. However, manual testing is mainly done in a black- box manner (manual testers do not have access to the source code). Therefore, in this paper, we first examine the existing test case prioritization techniques and modify them to be applicable on manual black-box system testing. We specifically study a coverage- based, a diversity-based, and a risk driven approach for test case prioritization. Our empirical study on four older releases of Mozilla Firefox shows that none of the techniques are strongly dominating the others in all releases. However, when we study nine more recent releases of Firefox, where the development has been moved from a traditional to a more agile and rapid release environment, we see a very signifiant difference (on average 65\% effectiveness improvement) between the risk-driven approach and its alternatives. Our conclusion, based on one case study of 13 releases of an industrial system, is that test suites in rapid release environments, potentially, can be very effectively prioritized for execution, based on their historical riskiness; whereas the same conclusions do not hold in the traditional software development environments.},
   doi       = {10.1109/ICST.2015.7102602},
-  groups    = {selected, phase_start},
+  groups    = {selected, start_set},
   keywords  = {code coverage,Companies,Context,coverage-based approach,diversity-based approach,fault detection,Fault detection,historical riskiness,large scale systems,manual black-box system testing,manual test case prioritization,Manuals,Mozilla Firefox,Natural languages,online front-ends,program testing,rapid release environments,risk driven approach,Software,software fault tolerance,source code,source code (software),test execution,Testing},
   timestamp = {2019-06-17T22:40:28Z},
 }
@@ -159,7 +159,7 @@
   volume     = {23},
   abstract   = {The release frequency of software projects has increased in recent years. Adopters of so-called rapid releases\textemdash short release cycles, often on the order of weeks, days, or even hours\textemdash claim that they can deliver fixed issues (i.e., implemented bug fixes and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, our prior work shows that code integration phases may introduce delays for rapidly releasing projects\textemdash 98\% of the fixed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of fixed issues, we perform a comparative study of traditional and rapid release cycles. Our comparative study has two parts: (i) a quantitative empirical analysis of 72,114 issue reports from the Firefox project, and a (ii) qualitative study involving 37 participants, who are contributors of the Firefox, Eclipse, and ArgoUML projects. Our study is divided into quantitative and qualitative analyses. Quantitative analyses reveal that, surprisingly, fixed issues take a median of 54\% (57 days) longer to be integrated in rapid Firefox releases than the traditional ones. To investigate the factors that are related to integration delay in traditional and rapid release cycles, we train regression models that model whether a fixed issue will have its integration delayed or not. Our explanatory models achieve good discrimination (ROC areas of 0.80\textendash 0.84) and calibration scores (Brier scores of 0.05\textendash 0.16) for rapid and traditional releases. Our explanatory models indicate that (i) traditional releases prioritize the integration of backlog issues, while (ii) rapid releases prioritize issues that were fixed in the current release cycle. Complementary qualitative analyses reveal that participants' perception about integration delay is tightly related to activities that involve decision making, risk management, and team collaboration. Moreover, the allure of shipping fixed issues faster is a main motivator for adopting rapid release cycles among participants (although this motivation is not supported by our quantitative analysis). Furthermore, to explain why traditional releases deliver fixed issues more quickly, our participants point out the rush for integration in traditional releases and the increased time that is invested on polishing issues in rapid releases. Our results suggest that rapid release cycles may not be a silver bullet for the rapid delivery of new content to users. Instead, our results suggest that the benefits of rapid releases are increased software stability and user feedback.},
   doi        = {10.1007/s10664-017-9548-7},
-  groups     = {p_Mantyla2015, p_Souza2015, p_Souza2014, p_daCosta2016a, selected, forward_01, phase_start},
+  groups     = {p_Mantyla2015, p_Souza2015, p_Souza2014, p_daCosta2016a, selected, forward_01, start_set},
   keywords   = {skimmed},
   language   = {en},
   readstatus = {skimmed},
@@ -174,7 +174,7 @@
   number    = {2},
   pages     = {301--304},
   volume    = {24},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {ACS Publications},
 }
 
@@ -186,7 +186,7 @@
   number    = {3},
   pages     = {338--343},
   volume    = {71},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Seismological Society of America},
 }
 
@@ -202,7 +202,7 @@
   series     = {{{ESEM}} '14},
   abstract   = {Context: Software release teams try to reduce the time needed for the transit of features or bug fixes from the development environment to the production, crossing all the quality gates. However, little is known about the factors that influence the time-to-production and how they might be controlled in order to speed up the release cycles. Goal: This paper examines step by step the release process of an industrial software organization aiming to identify factors that have a significant impact on the lead time and outcomes of the software releases. Method: Over 14 months of release data have been analyzed (246 releases from the isolated source code branches to the production environment). Results: We discuss three dimensions under which a series of factors could be addressed: technical, organizational, and interactional. We present our findings in terms of implications for release process improvements. Conclusions: Our analyzes reveal that testing is the most time consuming activities (86\%) along with the need for more congruence among teams, especially in the context of parallel development.},
   doi        = {10.1145/2652524.2652589},
-  groups     = {selected, phase_start},
+  groups     = {selected, start_set},
   isbn       = {978-1-4503-2774-9},
   keywords   = {empirical software engineering,lead time,parallel development,rapid release,release cycles,release management,software process,software quality,software release},
   shorttitle = {Factors Impacting Rapid Releases},
@@ -216,7 +216,7 @@
   year         = {2006},
   organization = {IEEE},
   pages        = {8--pp},
-  groups       = {excluded_abstract, phase_start},
+  groups       = {phase_abstract, excluded_ec01_unrelated, start_set},
 }
 
 @Article{Souza2015,
@@ -231,7 +231,7 @@
   volume     = {32},
   abstract   = {Release engineering deals with decisions that impact the daily lives of developers, testers, and users and thus contribute to a product's success. Although gut feeling is important in such decisions, it's increasingly important to leverage existing data, such as bug reports, source code changes, code reviews, and test results, both to support decisions and to help evaluate current practices. The exploration of software engineering data to obtain insightful information is called software analytics.},
   doi        = {10.1109/MS.2015.30},
-  groups     = {selected, phase_start},
+  groups     = {selected, start_set},
   keywords   = {Browsers,bug reopening,Computer bugs,Continuous production,data analysis,Firefox,Linux,Market research,Marketing and sales,Mozilla,patch backouts,rapid releases,release engineering,software analytics,Software analytics,software analytics approach,software development,Software development,software engineering,Software engineering,software engineering data,Web browsers},
   shorttitle = {Rapid {{Releases}} and {{Patch Backouts}}},
   timestamp  = {2019-06-17T22:40:28Z},
@@ -244,7 +244,7 @@
   year         = {2006},
   organization = {IEEE},
   pages        = {10--pp},
-  groups       = {phase_start, doubt},
+  groups       = {doubt, start_set},
 }
 
 @InProceedings{Lopez2018,
@@ -259,7 +259,7 @@
   series     = {Lecture {{Notes}} in {{Business Information Processing}}},
   abstract   = {Software quality is an essential competitive factor for the success of software companies today. Increasing the software quality levels of software products and services requires an adequate integration of quality requirements (QRs) in the software life-cycle, which is still scarcely supported in current rapid software development (RSD) approaches. One of the goals of the Q-Rapids (Quality-aware Rapid Software Development) method is providing tool support to decision-makers for QR management in RSD. The Q-Rapids method is based on gathering data from several and heterogeneous sources, to be aggregated into quality-related strategic indicators (e.g., customer satisfaction, product quality) and presented to decision-makers using a highly informative dashboard. The current release of Q-Rapids Tool provides four sets of functionality: (1) data gathering from source tools (e.g. GitLab, Jira, SonarQube, and Jenkins), (2) aggregation of data into three levels of abstraction (metrics, product/process factors, and strategic indicators), (3) visualization of the aggregated data, and (4) navigation through the aggregated data. The tool has been evaluated by four European companies that follow RSD processes.},
   doi        = {10.1007/978-3-319-92901-9_17},
-  groups     = {p_Guzman2017, forward_01, phase_start, doubt},
+  groups     = {p_Guzman2017, forward_01, doubt, start_set, phase_intro, excluded_ec01_unrelated},
   isbn       = {978-3-319-92901-9},
   keywords   = {Agile,Dashboard,Decision-making,Non-functional requirements,Quality requirement,Rapid software development,Strategic indicator},
   language   = {en},
@@ -274,7 +274,7 @@
   year         = {2009},
   organization = {IEEE},
   pages        = {317--323},
-  groups       = {phase_start, doubt},
+  groups       = {doubt, start_set, phase_intro, excluded_ec01_unrelated},
 }
 
 @InProceedings{lohner2000rapid,
@@ -282,7 +282,7 @@
   title        = {Rapid Software Development for CLEO III},
   year         = {2000},
   organization = {Citeseer},
-  groups       = {phase_start, doubt},
+  groups       = {doubt, start_set, phase_content, excluded_ec01_unrelated},
 }
 
 @Article{chu2009cholesterol,
@@ -293,7 +293,7 @@
   number    = {5},
   pages     = {1227--1238},
   volume    = {86},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Wiley Online Library},
 }
 
@@ -305,7 +305,7 @@
   number    = {1},
   pages     = {49--52},
   volume    = {296},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -317,7 +317,7 @@
   number    = {1},
   pages     = {11--25},
   volume    = {14},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -330,7 +330,7 @@
   pages      = {31--40},
   abstract   = {Large software organizations have been adopting rapid release cycles to deliver features and bug fixes earlier to their users. Because this approach reduces time for testing, it raises concerns about the effectiveness of quality assurance in this setting. In this paper, we study how the adoption of rapid release cycles impacts bug reopening rate, an indicator for the quality of the bug fixing process. To this end, we analyze thousands of bug reports from Mozilla Firefox, both before and after their adoption of rapid releases. Results suggest that the bug reopening rate of versions developed in rapid cycles was about 7\% higher. Also, as a warning to the software analytics community, we report contradictory results from three attempts to answer our research question, performed with varying degrees of knowledge about the Firefox release process.},
   doi        = {10.1109/SBES.2014.10},
-  groups     = {selected, phase_start},
+  groups     = {selected, start_set},
   keywords   = {bug fixing process,bug reopening rate,bug reports,Computer bugs,Databases,Educational institutions,Electronic mail,Internet,Mozilla Firefox,online front-ends,program debugging,program testing,quality assurance,rapid release cycles,Software,software analytics community,software quality,Testing},
   shorttitle = {Do {{Rapid Releases Affect Bug Reopening}}?},
   timestamp  = {2019-06-17T22:02:05Z},
@@ -347,7 +347,7 @@
   abstract  = {Continuous software engineering refers to the organizational capability to develop, release and learn from software in very short rapid cycles, typically hours, days or a very small numbers of weeks. This requires not only agile processes in teams but in the complete research and development organization. Additionally, the technology used in the different development phases, like requirements engineering and system integration, must support the quick development cycles. Finally, automatic live experimentation for different system alternatives enables fast gathering of required data for decision making. The workshop, the second in the series after the first one at ICSE 2014, aims to bring the research communities of the aforementioned areas together to exchange challenges, ideas, and solutions to bring software engineering a step further to being a holistic continuous process. The workshop program is based on eight papers selected in the peer-review process and supplemented by interaction and discussions at the workshop. The topics range from agile methods, continuous software engineering practices to specific techniques, like visualization and testing.},
   doi       = {10.1109/ICSE.2015.343},
   file      = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\6SL94AQE\\Tichy et al. - 2015 - 2nd International Workshop on Rapid Continuous Sof.pdf:application/pdf},
-  groups    = {selected, phase_start},
+  groups    = {start_set, phase_title, excluded_ec04_forewords},
   issn      = {1558-1225},
   keywords  = {Companies,Conferences,Software,Software engineering,Testing},
   timestamp = {2020-10-29T19:17:48Z},
@@ -366,7 +366,7 @@
   annotation = {\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/stvr.1609},
   copyright  = {Copyright \textcopyright{} 2016 John Wiley \& Sons, Ltd.},
   doi        = {10.1002/stvr.1609},
-  groups     = {p_Hemmati2015, p_Mantyla2015, selected, forward_01, phase_start},
+  groups     = {p_Hemmati2015, p_Mantyla2015, selected, forward_01, start_set},
   keywords   = {historical data, manual testing, rapid release, test case prioritization, text mining, skimmed},
   language   = {en},
   readstatus = {skimmed},
@@ -381,7 +381,7 @@
   number    = {1},
   pages     = {1--11},
   volume    = {5},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Nature Publishing Group},
 }
 
@@ -393,7 +393,7 @@
   number    = {27},
   pages     = {8262--8271},
   volume    = {33},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {ACS Publications},
 }
 
@@ -405,7 +405,7 @@
   number    = {24},
   pages     = {1335--1338},
   volume    = {8},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -416,7 +416,7 @@
   year      = {2015},
   pages     = {53--62},
   volume    = {199},
-  groups    = {excluded_title, phase_start},
+  groups    = {excluded_title, phase_title, excluded_ec01_unrelated, start_set},
   publisher = {Elsevier},
 }
 
@@ -427,7 +427,7 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {13--23},
-  groups       = {excluded_abstract, p_daCosta2018, forward_01},
+  groups       = {p_daCosta2018, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{huang2019empirical,
@@ -438,7 +438,7 @@
   number    = {2},
   pages     = {718--750},
   volume    = {24},
-  groups    = {excluded_abstract, p_daCosta2018, forward_01},
+  groups    = {p_daCosta2018, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Springer},
 }
 
@@ -474,7 +474,7 @@
   school = {Universit{\'e} de Paris},
   title  = {Challenges in the collaborative evolution of a proof language and its ecosystem},
   year   = {2019},
-  groups = {excluded_abstract, p_daCosta2018, forward_01},
+  groups = {p_daCosta2018, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @PhdThesis{el2019leveraging,
@@ -491,7 +491,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {370--377},
-  groups       = {p_Guzman2017, p_Lopez2018, forward_01, phase_start, doubt},
+  groups       = {p_Guzman2017, p_Lopez2018, forward_01, doubt, start_set, phase_abstract, excluded_ec01_unrelated},
 }
 
 @InProceedings{kamei2016defect,
@@ -502,7 +502,7 @@
   organization = {IEEE},
   pages        = {33--45},
   volume       = {5},
-  groups       = {excluded_abstract, p_Khomh2015, forward_01},
+  groups       = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @InProceedings{laghari2016fine,
@@ -511,7 +511,7 @@
   title     = {Fine-tuning spectrum based fault localisation with frequent method item sets},
   year      = {2016},
   pages     = {274--285},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{Karvonen2017,
@@ -556,7 +556,7 @@
   number    = {7},
   pages     = {589--618},
   volume    = {28},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Wiley Online Library},
 }
 
@@ -568,7 +568,7 @@
   number    = {1},
   pages     = {505--546},
   volume    = {22},
-  groups    = {excluded_abstract, p_Hemmati2015, p_Khomh2015, p_Mantyla2013, p_Mantyla2015, p_Souza2015, p_Souza2014, forward_01},
+  groups    = {p_Hemmati2015, p_Khomh2015, p_Mantyla2013, p_Mantyla2015, p_Souza2015, p_Souza2014, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Springer},
 }
 
@@ -585,7 +585,7 @@
   abstract  = {Abnormal working hours can reduce work health, general well-being, and productivity, independent from a profession. To inform future approaches for automatic stress and overload detection, this paper establishes empirically collected measures of the work patterns of software engineers. To this aim, we perform the first large-scale study of software engineers' working hours by investigating the time stamps of commit activities of 86 large open source software projects, both containing hired and volunteer developers. We find that two thirds of software engineers mainly follow typical office hours, empirically established to be from 10h to 18h, and do not usually work during nights and weekends. Large variations between projects and individuals exist. Surprisingly, we found no support that project maturation would decrease abnormal working hours. In the Firefox case study, we found that hired developers work more during office hours while seniority, either in terms of number of commits or job status, did not impact working hours. We conclude that the use of working hours or timestamps of work products for stress detection requires establishing baselines at the level of individuals.},
   doi       = {10.1145/3180155.3180193},
   file      = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\X8UX676Z\\Claes et al. - 2018 - Do programmers work at night or during the weekend.pdf:application/pdf},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   isbn      = {978-1-4503-5638-1},
   timestamp = {2020-10-29T20:42:37Z},
 }
@@ -601,7 +601,7 @@
   abstract   = {Open Source Software (OSS) is vital to both end users and enterprises. As OSS systems are becoming a type of infrastructure, long-term OSS projects are desired. For the survival of OSS projects, the projects need to not only retain existing developers, but also attract new developers to grow. To better understand how projects retain and attract contributors, our preliminary study aimed to measure the personnel attraction and retention of OSS projects using a pair of population migration metrics, called Magnet (personnel attraction) and Sticky (retention) metrics. Because the preliminary study analyzed only 90 projects and the 90 projects are not representative of GitHub, this paper extend the preliminary study to better understand the generalizability of the results by analyzing 16, 552 projects of GitHub. Furthermore, we also add a pilot study to investigate the typical duration between releases to find more appropriate release duration. The study results show that (1) approximately 23\% of developers remain in the same projects that the developers contribute to, (2) the larger projects are likely to attract and retain more developers, (3) 53\% of terminal projects eventually decay to a state of fewer than ten developers and (4) 55\% of attractive projects remain in an attractive category.},
   doi        = {10.2197/ipsjjip.24.339},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\QJK2ZQFE\\Yamashita et al. - 2016 - Magnet or Sticky Measuring Project Characteristic.pdf:application/pdf},
-  groups     = {excluded_abstract, p_Khomh2015, forward_01},
+  groups     = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   keywords   = {Developer Transition,Magnet,Mining Software Repositories,Open Source Software,Sticky},
   shorttitle = {Magnet or {{Sticky}}?},
   timestamp  = {2020-10-29T20:44:34Z},
@@ -620,7 +620,7 @@
   abstract   = {Continuous Integration (CI) is a software engineering practice where developers constantly integrate their changes to a project through an automated build process. The goal of CI is to provide developers with prompt feedback on several quality dimensions after each change. Indeed, previous studies provided empirical evidence on a positive association between properly following CI principles and source code quality. A core principle behind CI is Continuous Code Quality (also known as CCQ, which includes automated testing and automated code inspection) may appear simple and effective, yet we know little about its practical adoption. In this paper, we propose a preliminary empirical investigation aimed at understanding how rigorously practitioners follow CCQ. Our study reveals a strong dichotomy between theory and practice: developers do not perform continuous inspection but rather control for quality only at the end of a sprint and most of the times only on the release branch. Preprint [https://doi.org/10.5281/zenodo.1341036]. Data and Materials [http://doi.org/10.5281/zenodo.1341015].},
   doi        = {10.1145/3238147.3240729},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\5QL57AU4\\Vassallo et al. - 2018 - Continuous code quality are we (really) doing tha.pdf:application/pdf},
-  groups     = {excluded_abstract, p_Khomh2015, forward_01},
+  groups     = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   isbn       = {978-1-4503-5937-5},
   keywords   = {Code Quality,Continuous Integration,Empirical Studies},
   shorttitle = {Continuous Code Quality},
@@ -635,7 +635,7 @@
   number    = {2},
   pages     = {1--38},
   volume    = {50},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {ACM New York, NY, USA},
 }
 
@@ -660,7 +660,7 @@
   title     = {The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds},
   year      = {2018},
   pages     = {857--862},
-  groups    = {excluded_abstract, p_Khomh2015, p_Mantyla2013, forward_01},
+  groups    = {p_Khomh2015, p_Mantyla2013, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @InProceedings{an2015empirical,
@@ -670,7 +670,7 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {262--271},
-  groups       = {excluded_abstract, p_Khomh2015, forward_01},
+  groups       = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{teixeira2019managing,
@@ -692,7 +692,7 @@
   year         = {2016},
   organization = {Springer},
   pages        = {207--218},
-  groups       = {excluded_abstract, p_Clark2014, p_Khomh2015, p_Mantyla2015, forward_01},
+  groups       = {p_Clark2014, p_Khomh2015, p_Mantyla2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @PhdThesis{Poo-Caamano2016,
@@ -713,7 +713,7 @@
   author = {Link, Georg JP and Germonprez, Matt},
   title  = {Assessing open source project health},
   year   = {2018},
-  groups = {excluded_abstract, p_Khomh2015, forward_01},
+  groups = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{abdellatif2020msrbot,
@@ -727,7 +727,7 @@
   pages     = {1--30},
   volume    = {25},
   doi       = {10.1007/s10664-019-09788-5},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Springer},
 }
 
@@ -834,7 +834,7 @@
   abstract  = {Continuous Integration (CI) is a widely-adopted software engineering practice. Despite its undisputed benefits, like higher software quality and improved developer productivity, mastering CI is not easy. Among the several barriers when transitioning to CI, developers need to face a new type of software failures (i.e., build failures) that requires them to understand complex build logs. Even when a team has successfully introduced a CI culture, living up to its principles and improving the CI practice are also challenging. In my research, I want to provide developers with the right support for establishing CI and the proper recommendations for continuously improving their CI process.},
   doi       = {10.1109/ASE.2019.00151},
   file      = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\2FPNW5PH\\Vassallo - 2019 - Enabling Continuous Improvement of a Continuous In.pdf:application/pdf},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   issn      = {2643-1572},
   keywords  = {Best practices,build failures,CI culture,CI practice,CI process,complex build logs,continuous improvement,continuous integration process,Continuous Integration; Build Failures; Anti patterns; Best Practices,developer productivity,Measurement,Organizations,Software,software engineering practice,software failures,software quality,Taxonomy,Testing,Tools,undisputed benefits},
   timestamp = {2020-10-29T21:22:42Z},
@@ -856,7 +856,7 @@
   title  = AUTOCORRELATION #{WEIGHTEDSUMENTROPYBASEDSOFTWAREQUALITYMANAGEMENTFOROPENSOURCEAPPLICATION, journal = International Journal of Advanced Research in Computer Science 8},
   year   = {2017},
   volume = {8},
-  groups = {excluded_title, p_Khomh2015, forward_01},
+  groups = {excluded_title, p_Khomh2015, forward_01, phase_title, excluded_ec01_unrelated},
 }
 
 @Book{frank2017,
@@ -871,7 +871,7 @@
   publisher = {Diss},
   title     = {Studying User-Developer Interactions Through the Updating and Reviewing Mechanisms of the Google Play Store},
   year      = {2018},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @InProceedings{Kaur2019,
@@ -913,20 +913,20 @@
   school = {National Central University},
   title  = {"結合本體論與模糊分析網路程序法於軟體測試之風險與風險關聯辨識.},
   year   = {2017.},
-  groups = {excluded_language, p_Khomh2015, forward_01},
+  groups = {excluded_language, p_Khomh2015, forward_01, excluded_ec02_language},
 }
 
 @Book{weberbenefits,
   author = {Weber, Michael},
   title  = {The {Benefits} of {Continuous} {Deployment} evaluated using the {JDownloader} {Software}},
-  groups = {excluded_abstract, p_Clark2014, p_Khomh2015, p_Mantyla2015, p_daCosta2016a, forward_01},
+  groups = {p_Clark2014, p_Khomh2015, p_Mantyla2015, p_daCosta2016a, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @MastersThesis{an2015improving,
   author    = {An, Le},
   title     = {Improving Bug Triaging Using Software Analytics},
   year      = {2015},
-  groups    = {excluded_abstract, p_Khomh2015, forward_01},
+  groups    = {p_Khomh2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Diss},
 }
 
@@ -935,7 +935,7 @@
   publisher = {Diss},
   title     = {Optimising and Assessing the Effectiveness of Spectrum Based Fault Localisation},
   year      = {2018},
-  groups    = {excluded_title, p_Khomh2015, forward_01},
+  groups    = {excluded_title, p_Khomh2015, forward_01, phase_title, excluded_ec01_unrelated},
 }
 
 @InProceedings{Khalil2019,
@@ -1082,7 +1082,7 @@
   organization = {IEEE},
   pages        = {392--397},
   doi          = {10.1109/icstw.2018.00079},
-  groups       = {excluded_abstract, p_Hemmati2017, forward_01},
+  groups       = {p_Hemmati2017, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @InProceedings{mantyla2018natural,
@@ -1134,7 +1134,7 @@
 @Article{boehmfirst,
   author = {Boehm, Barry and Franch, Xavier},
   title  = {First International Workshop on Data-driven System Quality Assurance},
-  groups = {excluded_abstract, p_Guzman2017, forward_01},
+  groups = {p_Guzman2017, forward_01, phase_abstract, excluded_ec01_unrelated},
   url    = {https://ieeexplore.ieee.org/document/8859472?denied=},
 }
 
@@ -1219,7 +1219,7 @@
   organization = {IEEE},
   pages        = {507--508},
   doi          = {10.1109/qrs-c.2017.87},
-  groups       = {excluded_abstract, p_Guzman2017, forward_01},
+  groups       = {p_Guzman2017, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{ameller2019dealing,
@@ -1230,7 +1230,7 @@
   issn      = {0098-5589},
   pages     = {1-1},
   doi       = {10.1109/tse.2019.2904476},
-  groups    = {excluded_abstract, p_Guzman2017, forward_01},
+  groups    = {p_Guzman2017, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {IEEE},
 }
 
@@ -1582,7 +1582,7 @@
   author = {Bertlin, Simon},
   title  = {An examination of automated testing and Xray as a test management tool},
   year   = {2020},
-  groups = {excluded_abstract, p_Hemmati2015, forward_01},
+  groups = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   issn   = {2192-9076},
   pages  = {16-21},
   url    = {https://www.diva-portal.org/smash/record.jsf?pid=diva2:1446560&dswid=-1882},
@@ -1594,7 +1594,7 @@
   school = {Queen's University (Canada)},
   title  = {Automated Approaches for Reducing the Execution Time of Performance Tests},
   year   = {2017},
-  groups = {excluded_abstract, p_Hemmati2015, forward_01},
+  groups = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   issn   = {2047-7473},
   url    = {https://sail.cs.queensu.ca/Downloads/Dissertation2017_HammamAlghamdiMScThesis.pdf},
 }
@@ -1643,7 +1643,7 @@
   organization = {IEEE},
   pages        = {1--6},
   doi          = {10.1109/icissec.2016.7885851},
-  groups       = {excluded_abstract, p_Hemmati2015, forward_01},
+  groups       = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @PhdThesis{unterkalmsteiner2015coordinating,
@@ -1688,7 +1688,7 @@
   year      = {2020},
   pages     = {1--12},
   doi       = {10.1145/3377811.3380369},
-  groups    = {excluded_abstract, p_Hemmati2015, forward_01},
+  groups    = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   subtitle  = {strategies for regression testing in continuous integration},
 }
 
@@ -1743,7 +1743,7 @@
   year      = {2019},
   pages     = {1--34},
   volume    = {149},
-  groups    = {excluded_abstract, p_Hemmati2015, forward_01},
+  groups    = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Elsevier},
   url       = {https://www.sciencedirect.com/science/article/pii/S0164121218302085?casa_token=5nobNcnu4HQAAAAA:PU_qxyNnrLHm5gX4e0p0F22IZ0i9zp4NCUuR3E5Nm2kxnyLDqEKzx_BE1vOFJdQIx2mitbs9jdg},
 }
@@ -1834,7 +1834,7 @@
   year         = {2016},
   organization = {IEEE},
   pages        = {279--289},
-  groups       = {excluded_abstract, p_Hemmati2015, forward_01},
+  groups       = {p_Hemmati2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   url          = {https://ieeexplore.ieee.org/abstract/document/7816474},
 }
 
@@ -2025,7 +2025,7 @@
   pages     = {2389--2392},
   volume    = {10},
   doi       = {10.1166/jmihi.2020.32682389},
-  groups    = {excluded_abstract, p_Mantyla2013, forward_01},
+  groups    = {p_Mantyla2013, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {American Scientific Publishers},
 }
 
@@ -2425,7 +2425,7 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {587--591},
-  groups       = {p_Mantyla2015, forward_01},
+  groups       = {p_Mantyla2015, forward_01, selected},
 }
 
 @InCollection{da2018tools,
@@ -2620,7 +2620,7 @@
   organization = {Springer},
   pages        = {267--274},
   doi          = {10.1007/978-3-319-48523-2_25},
-  groups       = {excluded_abstract, p_Mantyla2015, forward_01},
+  groups       = {p_Mantyla2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   issn         = {2194-5357},
 }
 
@@ -2845,7 +2845,7 @@
   number  = {1},
   pages   = {107--116},
   volume  = {6},
-  groups  = {excluded_abstract, p_Souza2015, forward_01},
+  groups  = {p_Souza2015, forward_01, phase_abstract, excluded_ec01_unrelated},
   url     = {https://pdfs.semanticscholar.org/6a92/7d0881cb3660d1d21d33fda23a8d05b87c4c.pdf},
 }
 
@@ -2941,7 +2941,7 @@
   organization = {IEEE},
   pages        = {590--594},
   doi          = {10.1109/icsme.2019.00093},
-  groups       = {excluded_abstract, p_daCosta2016a, forward_01},
+  groups       = {p_daCosta2016a, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{berhe2020software,
@@ -2953,7 +2953,7 @@
   pages     = {618--625},
   volume    = {170},
   doi       = {10.1016/j.procs.2020.03.142},
-  groups    = {excluded_abstract, p_daCosta2016a, forward_01},
+  groups    = {p_daCosta2016a, forward_01, phase_abstract, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -3112,7 +3112,7 @@
   year      = {2019},
   pages     = {20--26},
   doi       = {10.1145/3340495.3342752},
-  groups    = {excluded_abstract, p_Lopez2018, forward_01},
+  groups    = {p_Lopez2018, forward_01, phase_abstract, excluded_ec01_unrelated},
 }
 
 @Article{oriol2020data,
@@ -3139,7 +3139,7 @@
   author = {Aghabayli, Aytaj and Pfahl, Dietmar and Mart{\'\i}nez-Fern{\'a}ndez, Silverio and Trendowicz, Adam},
   title  = {Software Runtime Data and Development Data Integration to Monitor External Quality},
   year   = {2019},
-  groups = {excluded_abstract, p_Lopez2018, forward_01},
+  groups = {p_Lopez2018, forward_01, phase_abstract, excluded_ec01_unrelated},
   url    = {http://womencourage.acm.org/2020/wp-content/uploads/2020/07/womENcourage_2020_paper_38.pdf},
 }
 
@@ -3220,7 +3220,7 @@
   author          = {Baker, Mitchell},
   title           = {Mozilla Blog},
   citation-number = {4},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {nl},
   url             = {http://blog.lizardwrangler.com/2011/08/25/},
 }
@@ -3364,7 +3364,7 @@
   title           = {Microsoft Security Development Lifecycle for Agile},
   citation-number = {18},
   date            = {2009},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {en},
   url             = {http://www.microsoft.com/security/sdl/},
 }
@@ -3374,7 +3374,7 @@
   title           = {Download site},
   citation-number = {19},
   date            = {2013},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {en},
   publisher       = {Microsoft Corporation},
   url             = {http://www.microsoft.com/},
@@ -3407,7 +3407,7 @@
   title           = {Common vulnerabilities and exposures},
   citation-number = {22},
   date            = {2008},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {fr},
   url             = {http://cve.mitre.org},
 }
@@ -3427,7 +3427,7 @@
   title           = {Mozilla refox esr overview},
   citation-number = {24},
   date            = {2014},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {en},
   url             = {https://www.mozilla.org/en-US/firefox/},
 }
@@ -3578,7 +3578,7 @@
   title           = {Bugzilla@Mozilla},
   citation-number = {38},
   date            = {2013-09},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {it},
   url             = {https://bugzilla.mozilla.org/,},
 }
@@ -3588,7 +3588,7 @@
   title           = {Mozilla Foundation Security Advisories},
   citation-number = {39},
   date            = {2013-09},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {en},
   url             = {https://www.mozilla.org/security/announce/,},
 }
@@ -3620,7 +3620,7 @@
   title           = {Mozilla blog post future releases},
   citation-number = {42},
   date            = {2011},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {es},
   url             = {https://blog.mozilla.org/},
 }
@@ -3630,7 +3630,7 @@
   title           = {National Vulnerability Database},
   citation-number = {43},
   date            = {2008},
-  groups          = {excluded_grey, p_Clark2014, backward_01},
+  groups          = {p_Clark2014, backward_01, excluded_ec05_docs},
   language        = {en},
   url             = {http://nvd.nist.gov},
 }
@@ -7938,93 +7938,452 @@
   url             = {http://books.},
 }
 
-@Article{zhang2013a,
-  author          = {Zhang, D.},
-  journal         = {IEEE Software},
-  title           = {Software Analytics in Practice},
-  number          = {5},
-  pages           = {30–37},
-  volume          = {30},
-  citation-number = {1.},
-  date            = {2013},
-  groups          = {backward_01, p_Souza2015},
-  language        = {en},
+@InProceedings{singi2017test,
+  author       = {Singi, Kapil and Kaulgud, Vikrant and Sharma, Vibhu Saujanya and Dubash, Neville and Podder, Sanjay},
+  booktitle    = {2017 IEEE/ACM 3rd International Workshop on Rapid Continuous Software Engineering (RCoSE)},
+  title        = {Test Optimization from release insights: an analytical hierarchy approach},
+  year         = {2017},
+  organization = {IEEE},
+  pages        = {16--19},
+  groups       = {start_set},
 }
 
-@Book{unknown2014a,
-  publisher       = {MozillaWiki, Mozilla},
-  title           = {Releases},
-  citation-number = {2.},
-  date            = {2014},
-  groups          = {backward_01, p_Souza2015},
-  language        = {fi},
-  url             = {https://wiki.mozilla.org/Releases.},
+@Article{di2005rapid,
+  author    = {Di, Shi and Malcher-Lopes, Renato and Marcheselli, Victor L and Bazan, Nicolas G and Tasker, Jeffrey G},
+  journal   = {Endocrinology},
+  title     = {Rapid glucocorticoid-mediated endocannabinoid release and opposing regulation of glutamate and $\gamma$-aminobutyric acid inputs to hypothalamic magnocellular neurons},
+  year      = {2005},
+  number    = {10},
+  pages     = {4292--4301},
+  volume    = {146},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Endocrine Society},
 }
 
-@Article{unknown2014b,
-  journal         = {Mozilla},
-  title           = {Committing Rules and Responsibilities},
-  citation-number = {3.},
-  date            = {2014},
-  groups          = {backward_01, p_Souza2015},
-  language        = {it},
-  url             = {https://developer.mozilla},
+@Article{armano2000rapid,
+  author    = {Armano, Giuliano and Marchesi, Michele},
+  journal   = {ACM SIGAPP Applied Computing Review},
+  title     = {A rapid development process with UML},
+  year      = {2000},
+  number    = {1},
+  pages     = {4--11},
+  volume    = {8},
+  groups    = {start_set},
+  publisher = {ACM New York, NY, USA},
 }
 
-@Book{unknown2014c,
-  publisher       = {Mozilla},
-  title           = {Tree Rules/Integration},
-  citation-number = {4.},
-  date            = {2014},
-  groups          = {backward_01, p_Souza2015},
-  language        = {sv},
-  url             = {https://wiki.mozilla.org/Tree_Rules/Integration.},
+@Article{bandeira2001cutting,
+  author    = {Bandeira-Melo, Christianne and Sugiyama, Kumiya and Woods, Lesley J and Weller, Peter F},
+  journal   = {The Journal of Immunology},
+  title     = {Cutting edge: eotaxin elicits rapid vesicular transport-mediated release of preformed IL-4 from human eosinophils},
+  year      = {2001},
+  number    = {8},
+  pages     = {4813--4817},
+  volume    = {166},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Am Assoc Immnol},
 }
 
-@Article{baker2011a,
-  author          = {Baker, M.},
-  journal         = {blog},
-  title           = {Rapid Release Follow-Up},
-  citation-number = {5.},
-  date            = {2011-10-03},
-  groups          = {backward_01, p_Souza2015},
-  language        = {nl},
-  url             = {http://blog.lizardwrangler.com/?p=2996.},
+@Article{woo2002ca2+,
+  author    = {Woo, Sun-Hee and Cleemann, Lars and Morad, Martin},
+  journal   = {The Journal of physiology},
+  title     = {Ca2+ current-gated focal and local ca2+ release in rat atrial myocytes: evidence from rapid 2-d confocal imaging},
+  year      = {2002},
+  number    = {2},
+  pages     = {439--453},
+  volume    = {543},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Wiley Online Library},
 }
 
-@InCollection{plewnia2014a,
-  author          = {Plewnia, C. and Dyck, A. and Lichter, H.},
-  booktitle       = {2nd Int’l Workshop Release Eng},
-  title           = {On the Influence of Release Engineering on Software Reputation},
-  citation-number = {1.},
-  date            = {2014},
-  groups          = {backward_01, p_Souza2015},
-  language        = {en},
-  url             = {http://releng.polymtl.ca/RELENG2014/html/proceedings/releng2014_submission__3.pdf.},
+@Article{reed2010low,
+  author    = {Reed, Jamie A and Lucero, Adrianne E and Hu, Steve and Ista, Linnea K and Bore, Mangesh T and L{\'o}pez, Gabriel P and Canavan, Heather E},
+  journal   = {ACS applied materials \& interfaces},
+  title     = {A low-cost, rapid deposition method for “smart” films: applications in mammalian cell release},
+  year      = {2010},
+  number    = {4},
+  pages     = {1048--1051},
+  volume    = {2},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {ACS Publications},
 }
 
-@InProceedings{maentylae2013a,
-  author          = {Mäntylä, M.},
-  booktitle       = {Proc. 29th IEEE Int’l Conf. Software Maintenance (ICSM},
-  title           = {On Rapid Releases and Software Testing},
-  pages           = {20–29},
-  volume          = {13},
-  citation-number = {2.},
-  date            = {2013},
-  groups          = {backward_01, p_Souza2015},
-  language        = {en},
+@Article{fruhbeis2015physical,
+  author    = {Fr{\"u}hbeis, Carsten and Helmig, Susanne and Tug, Suzan and Simon, Perikles and Kr{\"a}mer-Albers, Eva-Maria},
+  journal   = {Journal of extracellular vesicles},
+  title     = {Physical exercise induces rapid release of small extracellular vesicles into the circulation},
+  year      = {2015},
+  number    = {1},
+  pages     = {28239},
+  volume    = {4},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Taylor \& Francis},
 }
 
-@InProceedings{khomh2012a,
-  author          = {Khomh, F.},
-  booktitle       = {Proc. 9th IEEE Working Conf. Mining Software Repositories (MSR},
-  title           = {Do Faster Releases Improve Software Quality? An Empirical Case Study of Mozilla Firefox},
-  pages           = {179–188},
-  volume          = {12},
-  citation-number = {3.},
-  date            = {2012},
-  groups          = {backward_01, p_Souza2015},
-  language        = {en},
+@Article{szabo2010rapid,
+  author    = {Szabo, Zoltan and Guttman, Andr{\'a}s and Karger, Barry L},
+  journal   = {Analytical chemistry},
+  title     = {Rapid release of N-linked glycans from glycoproteins by pressure-cycling technology},
+  year      = {2010},
+  number    = {6},
+  pages     = {2588--2593},
+  volume    = {82},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {ACS Publications},
+}
+
+@Article{kessner2008proteowizard,
+  author    = {Kessner, Darren and Chambers, Matt and Burke, Robert and Agus, David and Mallick, Parag},
+  journal   = {Bioinformatics},
+  title     = {ProteoWizard: open source software for rapid proteomics tools development},
+  year      = {2008},
+  number    = {21},
+  pages     = {2534--2536},
+  volume    = {24},
+  groups    = {start_set, phase_abstract, excluded_ec01_unrelated},
+  publisher = {Oxford University Press},
+}
+
+@Article{szigeti2016rapid,
+  author    = {Szigeti, Marton and Bondar, Judit and Gjerde, Douglas and Keresztessy, Zsolt and Szekrenyes, Akos and Guttman, Andras},
+  journal   = {Journal of Chromatography B},
+  title     = {Rapid N-glycan release from glycoproteins using immobilized PNGase F microcolumns},
+  year      = {2016},
+  pages     = {139--143},
+  volume    = {1032},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Elsevier},
+}
+
+@InProceedings{franch2019quality,
+  author       = {Franch, Xavier and Lopez, Lidia and Mart{\'\i}nez-Fern{\'a}ndez, Silverio and Oriol, Marc and Rodr{\'\i}guez, Pilar and Trendowicz, Adam},
+  booktitle    = {International Conference on Objects, Components, Models and Patterns},
+  title        = {Quality-aware rapid software development project: the Q-rapids project},
+  year         = {2019},
+  organization = {Springer},
+  pages        = {378--392},
+  groups       = {start_set},
+}
+
+@InProceedings{manzano2018definition,
+  author       = {Manzano, Mart{\'\i} and G{\'o}mez, Cristina and Ayala, Claudia and Mart{\'\i}nez-Fern{\'a}ndez, Silverio and Ram, Prabhat and Rodr{\'\i}guez, Pilar and Oriol, Marc},
+  booktitle    = {2018 IEEE 1st International Workshop on Quality Requirements in Agile Projects (QuaRAP)},
+  title        = {Definition of the on-time delivery indicator in rapid software development},
+  year         = {2018},
+  organization = {IEEE},
+  pages        = {1--5},
+  groups       = {start_set},
+}
+
+@TechReport{weaver2012rapid,
+  author      = {Weaver, Evan and Long, Nicholas and Fleming, Katherine and Schott, Marjorie and Benne, Kyle and Hale, Elaine},
+  institution = {National Renewable Energy Lab.(NREL), Golden, CO (United States)},
+  title       = {Rapid application development with Openstudio},
+  year        = {2012},
+  groups      = {start_set, phase_abstract, excluded_ec01_unrelated},
+}
+
+@Article{matsui2005high,
+  author    = {Matsui, Ko and Jahr, Craig E and Rubio, Maria E},
+  journal   = {Journal of Neuroscience},
+  title     = {High-concentration rapid transients of glutamate mediate neural-glial communication via ectopic release},
+  year      = {2005},
+  number    = {33},
+  pages     = {7538--7547},
+  volume    = {25},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Soc Neuroscience},
+}
+
+@Article{castelluccio2019empirical,
+  author    = {Castelluccio, Marco and An, Le and Khomh, Foutse},
+  journal   = {Empirical Software Engineering},
+  title     = {An empirical study of patch uplift in rapid release development pipelines},
+  year      = {2019},
+  number    = {5},
+  pages     = {3008--3044},
+  volume    = {24},
+  groups    = {start_set},
+  publisher = {Springer},
+}
+
+@Book{humble2010continuous,
+  author    = {Humble, Jez and Farley, David},
+  publisher = {Pearson Education},
+  title     = {Continuous delivery: reliable software releases through build, test, and deployment automation},
+  year      = {2010},
+  groups    = {start_set, phase_title, excluded_ec05_docs},
+}
+
+@Article{burgmann2001rapid,
+  author    = {B{\"u}rgmann, R and Kogan, MG and Levin, VE and Scholz, CH and King, RW and Steblov, GM},
+  journal   = {Geophysical Research Letters},
+  title     = {Rapid aseismic moment release following the 5 December, 1997 Kronotsky, Kamchatka, earthquake},
+  year      = {2001},
+  number    = {7},
+  pages     = {1331--1334},
+  volume    = {28},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Wiley Online Library},
+}
+
+@Article{pearce1991rapid,
+  author    = {Pearce, L Bruce and Buck, Theresa and Actamec, Emil},
+  journal   = {Journal of neurochemistry},
+  title     = {Rapid Kinetics of Potassium-Evoked Release of Acetylcholine from Rat Brain Synaptosomes: Analysis by Rapid Superfusion},
+  year      = {1991},
+  number    = {2},
+  pages     = {636--647},
+  volume    = {57},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Wiley Online Library},
+}
+
+@Article{kraal2008martian,
+  author    = {Kraal, Erin R and Van Dijk, Maurits and Postma, George and Kleinhans, Maarten G},
+  journal   = {Nature},
+  title     = {Martian stepped-delta formation by rapid water release},
+  year      = {2008},
+  number    = {7181},
+  pages     = {973--976},
+  volume    = {451},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{ke2017rapid,
+  author    = {Ke, Xiang and Zhou, Xiang and Hao, Gaozi and Xiao, Lei and Liu, Jie and Jiang, Wei},
+  journal   = {Applied Surface Science},
+  title     = {Rapid fabrication of superhydrophobic Al/Fe2O3 nanothermite film with excellent energy-release characteristics and long-term storage stability},
+  year      = {2017},
+  pages     = {137--144},
+  volume    = {407},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Elsevier},
+}
+
+@Article{johnson2012rapid,
+  author    = {Johnson, L and G{\"u}nther-Leopold, I and Waldis, J Kobler and Linder, HP and Low, J and Cui, D and Ekeroth, E and Spahiu, K and Evins, LZ},
+  journal   = {Journal of Nuclear Materials},
+  title     = {Rapid aqueous release of fission products from high burn-up LWR fuel: Experimental results and correlations with fission gas release},
+  year      = {2012},
+  number    = {1-3},
+  pages     = {54--62},
+  volume    = {420},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Elsevier},
+}
+
+@Article{el2008rapid,
+  author    = {El Harbawi, Mohanad and Mustapha, S and Choong, Thomas SY and Rashid, S Abdul and Kadir, SASA and Rashid, Z Abdul},
+  journal   = {International Journal of Environmental Science \& Technology},
+  title     = {Rapid analysis of risk assessment using developed simulation of chemical industrial accidents software package},
+  year      = {2008},
+  number    = {1},
+  pages     = {53--64},
+  volume    = {5},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Springer},
+}
+
+@Article{maurer2002extreme,
+  author    = {Maurer, Frank and Martel, Sebastien},
+  journal   = {IEEE Internet computing},
+  title     = {Extreme programming. Rapid development for Web-based applications},
+  year      = {2002},
+  number    = {1},
+  pages     = {86--90},
+  volume    = {6},
+  groups    = {start_set},
+  publisher = {IEEE},
+}
+
+@Article{smits2006rapid,
+  author    = {Smits, Veronique AJ and Reaper, Philip M and Jackson, Stephen P},
+  journal   = {Current Biology},
+  title     = {Rapid PIKK-dependent release of Chk1 from chromatin promotes the DNA-damage checkpoint response},
+  year      = {2006},
+  number    = {2},
+  pages     = {150--159},
+  volume    = {16},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Elsevier},
+}
+
+@Article{uwechue2012activation,
+  author    = {Uwechue, Nneka M and Marx, Mari-Carmen and Chevy, Quentin and Billups, Brian},
+  journal   = {The Journal of physiology},
+  title     = {Activation of glutamate transport evokes rapid glutamine release from perisynaptic astrocytes},
+  year      = {2012},
+  number    = {10},
+  pages     = {2317--2331},
+  volume    = {590},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Wiley Online Library},
+}
+
+@Article{aue2009lenalidomide,
+  author    = {Aue, Georg and Njuguna, Ndegwa and Tian, Xin and Soto, Susan and Hughes, Thomas and Vire, Berengere and Keyvanfar, Keyvan and Gibellini, Federica and Valdez, Janet and Boss, Carol and others},
+  journal   = {haematologica},
+  title     = {Lenalidomide-induced upregulation of CD80 on tumor cells correlates with T-cell activation, the rapid onset of a cytokine release syndrome and leukemic cell clearance in chronic lymphocytic leukemia},
+  year      = {2009},
+  number    = {9},
+  pages     = {1266--1273},
+  volume    = {94},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Haematologica},
+}
+
+@Article{liu2015ph,
+  author    = {Liu, Qi and Chen, Xiaoming and Jia, Jilei and Zhang, Weifeng and Yang, Tingyuan and Wang, Lianyan and Ma, Guanghui},
+  journal   = {ACS nano},
+  title     = {pH-responsive poly (D, L-lactic-co-glycolic acid) nanoparticles with rapid antigen release behavior promote immune response},
+  year      = {2015},
+  number    = {5},
+  pages     = {4925--4938},
+  volume    = {9},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {ACS Publications},
+}
+
+@Article{renz2001rapid,
+  author    = {Renz, Andrea and Berdel, Wolfgang E and Kreuter, Michael and Belka, Claus and Schulze-Osthoff, Klaus and Los, Marek},
+  journal   = {Blood, The Journal of the American Society of Hematology},
+  title     = {Rapid extracellular release of cytochrome c is specific for apoptosis and marks cell death in vivo},
+  year      = {2001},
+  number    = {5},
+  pages     = {1542--1548},
+  volume    = {98},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {American Society of Hematology Washington, DC},
+}
+
+@Article{quintero2011methodology,
+  author    = {Quintero, Jorge E and Pomerleau, Fran{\c{c}}ois and Huettl, Peter and Johnson, Kirk W and Offord, James and Gerhardt, Greg A},
+  journal   = {Brain research},
+  title     = {Methodology for rapid measures of glutamate release in rat brain slices using ceramic-based microelectrode arrays: basic characterization and drug pharmacology},
+  year      = {2011},
+  pages     = {1--9},
+  volume    = {1401},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Elsevier},
+}
+
+@Article{wiehler2004p38,
+  author    = {Wiehler, Shahina and Cuvelier, Susan L and Chakrabarti, Subhadeep and Patel, Kamala D},
+  journal   = {Biochemical and biophysical research communications},
+  title     = {p38 MAP kinase regulates rapid matrix metalloproteinase-9 release from eosinophils},
+  year      = {2004},
+  number    = {2},
+  pages     = {463--470},
+  volume    = {315},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Elsevier},
+}
+
+@Article{lucas2010java,
+  author    = {Lucas, Blake C and Bogovic, John A and Carass, Aaron and Bazin, Pierre-Louis and Prince, Jerry L and Pham, Dzung L and Landman, Bennett A},
+  journal   = {Neuroinformatics},
+  title     = {The Java Image Science Toolkit (JIST) for rapid prototyping and publishing of neuroimaging software},
+  year      = {2010},
+  number    = {1},
+  pages     = {5--17},
+  volume    = {8},
+  groups    = {start_set, phase_abstract, excluded_ec01_unrelated},
+  publisher = {Springer},
+}
+
+@Article{allen2012neutrophil,
+  author    = {Allen, Charlotte and Thornton, Peter and Denes, Adam and McColl, Barry W and Pierozynski, Adam and Monestier, Marc and Pinteaux, Emmanuel and Rothwell, Nancy J and Allan, Stuart M},
+  journal   = {The Journal of Immunology},
+  title     = {Neutrophil cerebrovascular transmigration triggers rapid neurotoxicity through release of proteases associated with decondensed DNA},
+  year      = {2012},
+  number    = {1},
+  pages     = {381--392},
+  volume    = {189},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Am Assoc Immnol},
+}
+
+@Book{mcconnell1996rapid,
+  author    = {McConnell, Steve},
+  publisher = {Pearson Education},
+  title     = {Rapid development: taming wild software schedules},
+  year      = {1996},
+  groups    = {start_set, phase_title, excluded_ec05_docs},
+}
+
+@Article{op2003rapid,
+  author    = {op den Camp, Roel GL and Przybyla, Dominika and Ochsenbein, Christian and Laloi, Christophe and Kim, Chanhong and Danon, Antoine and Wagner, Daniela and Hideg, {\'E}va and G{\"o}bel, Cornelia and Feussner, Ivo and others},
+  journal   = {The Plant Cell},
+  title     = {Rapid induction of distinct stress responses after the release of singlet oxygen in Arabidopsis},
+  year      = {2003},
+  number    = {10},
+  pages     = {2320--2332},
+  volume    = {15},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Am Soc Plant Biol},
+}
+
+@InCollection{robinson2007rapid,
+  author    = {Robinson, Donita L and Wightman, R Mark},
+  booktitle = {Electrochemical Methods for Neuroscience},
+  publisher = {CRC Press/Taylor \& Francis},
+  title     = {Rapid dopamine release in freely moving rats},
+  year      = {2007},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+}
+
+@InProceedings{callahan1997verification,
+  author    = {Callahan, John R and Easterbrook, Steve M},
+  booktitle = {NASA no. 19990025807. Software Engineering Laboratory Series: Proceedings of the Twenty-Second Annual Software Engineering Workshop},
+  title     = {Verification and Validation in a Rapid Software Development Process},
+  year      = {1997},
+  groups    = {start_set},
+}
+
+@Article{kushwaha2012analysis,
+  author    = {Kushwaha, Abhishek and Verma, Sushil Kumar and Sharma, Chandan},
+  journal   = {International Journal of Computer Applications},
+  title     = {Analysis of the concerns associated with the rapid release cycle},
+  year      = {2012},
+  number    = {12},
+  volume    = {52},
+  groups    = {start_set},
+  publisher = {Foundation of Computer Science},
+}
+
+@Article{salari2018comparison,
+  author    = {Salari, Maryam and Estaji, Zahra and Akrami, Rahim and Rad, Mostafa},
+  journal   = {Journal of Education and Health Promotion},
+  title     = {Comparison of skin traction, pressure, and rapid muscle release with conventional method on intramuscular injection pain: A randomized clinical trial},
+  year      = {2018},
+  volume    = {7},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Wolters Kluwer--Medknow Publications},
+}
+
+@Article{cameron2014dynamics,
+  author    = {Cameron, Courtney M and Wightman, R Mark and Carelli, Regina M},
+  journal   = {Neuropharmacology},
+  title     = {Dynamics of rapid dopamine release in the nucleus accumbens during goal-directed behaviors for cocaine versus natural rewards},
+  year      = {2014},
+  pages     = {319--328},
+  volume    = {86},
+  groups    = {phase_title, excluded_ec01_unrelated, start_set},
+  publisher = {Elsevier},
+}
+
+@Article{kohlbacher2000ball,
+  author    = {Kohlbacher, Oliver and Lenhof, Hans-Peter},
+  journal   = {Bioinformatics},
+  title     = {BALL—rapid software prototyping in computational molecular biology},
+  year      = {2000},
+  number    = {9},
+  pages     = {815--824},
+  volume    = {16},
+  groups    = {start_set, phase_title, excluded_ec01_unrelated},
+  publisher = {Oxford University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -8032,16 +8391,21 @@
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:selected\;0\;1\;0x008000ff\;\;\;;
-1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_title\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_language\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_grey\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_abstract\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_intro\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_content\;0\;1\;0xff0000ff\;\;\;;
+1 StaticGroup:secondary\;0\;1\;0x008000ff\;\;\;;
+1 StaticGroup:excluded\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:doubt\;0\;1\;0xffff00ff\;\;\;;
-1 StaticGroup:phase\;2\;1\;0xffffffff\;\;\;;
-2 StaticGroup:phase_start\;0\;1\;0xb3b3b3ff\;\;\;;
+2 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_ec03_not_available\;0\;1\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_ec04_forewords\;0\;0\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_ec05_docs\;0\;1\;0xff0000ff\;\;\;;
+1 StaticGroup:phase\;2\;1\;0x000000ff\;\;\;;
+2 StaticGroup:phase_title\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:phase_abstract\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:phase_intro\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:phase_content\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:iteration\;2\;1\;0xffffffff\;\;\;;
+2 StaticGroup:start_set\;0\;1\;0xb3b3b3ff\;\;\;;
 2 StaticGroup:forward\;2\;1\;0x0000ffff\;\;\;;
 3 StaticGroup:forward_01\;0\;1\;0x0000ffff\;\;\;;
 2 StaticGroup:backward\;2\;1\;0x00ffffff\;\;\;;

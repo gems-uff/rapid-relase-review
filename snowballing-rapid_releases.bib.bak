@@ -13,7 +13,7 @@
   abstract   = {Many software companies are shifting from the traditional multi-month release cycle to shorter release cycles. For example, Google Chrome and Mozilla Firefox release new versions every 6 weeks. These shorter release cycles reduce the users' waiting time for a new release and offer better feedback and marketing opportunities to companies, but it is unclear if the quality of the software product improves as well, since developers and testers are under more pressure. In this paper, we extend our previous empirical study of Mozilla Firefox on the impact of rapid releases on quality assurance with feedback by Mozilla project members. The study compares crash rates, median uptime, and the proportion of pre- and post-release bugs in traditional releases with those in rapid releases, and we also analyze the source code changes made by developers to identify potential changes in the development process. We found that (1) with shorter release cycles, users do not experience significantly more pre- or post-release bugs (percentage-wise) and (2) bugs are fixed faster, yet (3) users experience these bugs earlier during software execution (the program crashes earlier). Increased integration activity and propagation of harder bugs to later versions account for some of these findings. Overall, our case study suggests that a clear release engineering process with thorough automation is one of the major challenges when switching to rapid releases.},
   doi        = {10.1007/s10664-014-9308-x},
   file       = {Springer Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\SNAK3FIA\\Khomh et al. - 2015 - Understanding the impact of rapid releases on soft.pdf:application/pdf},
-  groups     = {phase_start, p_Mantyla2013, selected, forward_01},
+  groups     = {p_Mantyla2013, selected, forward_01, phase_start},
   keywords   = {Bugs, Release cycle, Software quality, Software release, Testing, skimmed},
   language   = {en},
   readstatus = {skimmed},
@@ -30,7 +30,7 @@
   publisher  = {{Springer International Publishing}},
   series     = {Lecture {{Notes}} in {{Computer Science}}},
   abstract   = {Context and Motivation: Rapid software development (RSD) refers to the organizational capability to develop, release, and learn from software in rapid cycles without compromising its quality. To achieve RSD, it is essential to understand and manage software quality along the software lifecycle. Question/Problem: Despite the numerous information sources related to product quality, there is a lack of mechanisms for supporting continuous quality management throughout the whole RSD process. Principal ideas/Results: We propose Q-Rapids, a data-driven, quality-aware RSD framework in which quality and functional requirements are managed together. Quality requirements are incrementally elicited and refined based on data gathered at both development time and runtime. Project, development, and runtime data is aggregated into quality-related indicators to support decision makers in steering future development cycles. Contributions: Q-Rapids aims to increase software quality through continuous data gathering and analysis, as well as continuous management of quality requirements.},
-  groups     = {phase_start, selected},
+  groups     = {selected, phase_start},
   isbn       = {978-3-319-54045-0},
   keywords   = {Quality requirements,Rapid software development,Software quality},
   language   = {en},
@@ -47,7 +47,7 @@
   pages     = {20--29},
   abstract  = {Large open and closed source organizations like Google, Facebook and Mozilla are migrating their products towards rapid releases. While this allows faster time-to-market and user feedback, it also implies less time for testing and bug fixing. Since initial research results indeed show that rapid releases fix proportionally less reported bugs than traditional releases, this paper investigates the changes in software testing effort after moving to rapid releases. We analyze the results of 312,502 execution runs of the 1,547 mostly manual system level test cases of Mozilla Fire fox from 2006 to 2012 (5 major traditional and 9 major rapid releases), and triangulated our findings with a Mozilla QA engineer. In rapid releases, testing has a narrower scope that enables deeper investigation of the features and regressions with the highest risk, while traditional releases run the whole test suite. Furthermore, rapid releases make it more difficult to build a large testing community, forcing Mozilla to increase contractor resources in order to sustain testing for rapid releases.},
   doi       = {10.1109/ICSM.2013.13},
-  groups    = {phase_start, selected},
+  groups    = {selected, phase_start},
   keywords  = {agile releases,Browsers,bugs,builds,Computer bugs,Google,manual system-level test cases,Measurement,Mozilla,Mozilla Firefox,Mozilla QA engineer,opensource,program testing,rapid release models,release model,Software,software testing,Software testing},
   timestamp = {2019-06-17T22:40:27Z},
 }
@@ -64,7 +64,7 @@
   abstract   = {Software engineering practices strongly affect the security of the code produced. The increasingly popular Rapid Release Cycle (RRC) development methodology and easy network software distribution have enabled rapid feature introduction. RRC's defining characteristic of frequent software revisions would seem to conflict with traditional software engineering wisdom regarding code maturity, reliability and reuse, as well as security. Our investigation of the consequences of rapid release comprises a quantitative, data-driven study of the impact of rapid-release methodology on the security of the Mozilla Firefox browser. We correlate reported vulnerabilities in multiple rapid release versions of Firefox code against those in corresponding extended release versions of the same system; using a common software base with different release cycles eliminates many causes other than RRC for the observables. Surprisingly, the resulting data show that Firefox RRC does not result in higher vulnerability rates and, further, that it is exactly the unfamiliar, newly released software (the "moving targets") that requires time to exploit. These provocative results suggest that a rethinking of the consequences of software engineering practices for security may be warranted.},
   doi        = {10.1145/2660267.2660320},
   file       = {ACM Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\KAVQVI4H\\Clark et al. - 2014 - Moving Targets Security and Rapid-Release in Fire.pdf:application/pdf},
-  groups     = {phase_start, selected},
+  groups     = {selected, phase_start},
   isbn       = {978-1-4503-2957-6},
   keywords   = {agile programming,firefox,honeymoon effect:arms race,rapid release cycle,secure software development models,secure software metrics,security,software life-cycle,software qualitysecure software development,vulnerabilities,windows of vulnerability},
   shorttitle = {Moving {{Targets}}},
@@ -95,7 +95,7 @@
   volume     = {20},
   abstract   = {Large open and closed source organizations like Google, Facebook and Mozilla are migrating their products towards rapid releases. While this allows faster time-to-market and user feedback, it also implies less time for testing and bug fixing. Since initial research results indeed show that rapid releases fix proportionally less reported bugs than traditional releases, this paper investigates the changes in software testing effort after moving to rapid releases in the context of a case study on Mozilla Firefox, and performs a semi-systematic literature review. The case study analyzes the results of 312,502 execution runs of the 1,547 mostly manual system-level test cases of Mozilla Firefox from 2006 to 2012 (5 major traditional and 9 major rapid releases), and triangulates our findings with a Mozilla QA engineer. We find that rapid releases have a narrower test scope that enables a deeper investigation of the features and regressions with the highest risk. Furthermore, rapid releases make testing more continuous and have proportionally smaller spikes before the main release. However, rapid releases make it more difficult to build a large testing community , and they decrease test suite diversity and make testing more deadline oriented. In addition, our semi-systematic literature review presents the benefits, problems and enablers of rapid releases from 24 papers found using systematic search queries and a similar amount of papers found through other means. The literature review shows that rapid releases are a prevalent industrial practice that are utilized even in some highly critical domains of software engineering, and that rapid releases originated from several software development methodologies such as agile, open source, lean and internet-speed software development. However, empirical studies proving evidence of the claimed advantages and disadvantages of rapid releases are scarce.},
   doi        = {10.1007/s10664-014-9338-4},
-  groups     = {phase_start, p_Mantyla2013, selected, forward_01},
+  groups     = {p_Mantyla2013, selected, forward_01, phase_start},
   keywords   = {Agile releases,Bugs,Builds,Mozilla,Open-source,Release model,Software testing},
   language   = {en},
   shorttitle = {On Rapid Releases and Software Testing},
@@ -115,7 +115,7 @@
   abstract   = {The release frequency of software projects has increased in recent years. Adopters of so-called rapid release cycles claim that they can deliver addressed issues (i.e., bugs, enhancements, and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, in our prior work, we found that code integration phases may introduce delays in rapidly releasing software --- 98\% of addressed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of addressed issues, we perform a comparative study of traditional and rapid release cycles. Through an empirical study of 72,114 issue reports from the Firefox system, we observe that, surprisingly, addressed issues take a median of 50 days longer to be integrated in rapid Firefox releases than the traditional ones. To investigate the factors that are related to integration delay in traditional and rapid release cycles, we train regression models that explain if an addressed issue will have its integration delayed or not. Our explanatory models achieve good discrimination (ROC areas of 0.81-0.83) and calibration scores (Brier scores of 0.05-0.16). Deeper analysis of our explanatory models indicates that traditional releases prioritize the integration of backlog issues, while rapid releases prioritize issues that were addressed during the current release cycle. Our results suggest that rapid release cycles may not be a silver bullet for the rapid delivery of addressed issues to users.},
   doi        = {10.1145/2901739.2901764},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\R2XF9NSH\\da Costa et al. - 2016 - The impact of switching to a rapid release cycle o.pdf:application/pdf},
-  groups     = {phase_start, p_Mantyla2015, p_Souza2015, p_Souza2014, selected, forward_01},
+  groups     = {p_Mantyla2015, p_Souza2015, p_Souza2014, selected, forward_01, phase_start},
   isbn       = {978-1-4503-4186-8},
   shorttitle = {The Impact of Switching to a Rapid Release Cycle on the Integration Delay of Addressed Issues},
   timestamp  = {2020-10-29T18:53:46Z},
@@ -142,7 +142,7 @@
   pages     = {1--10},
   abstract  = {Test case prioritization is one of the most practically useful activities in testing, specially for large scale systems. The goal is ranking the existing test cases in a way that they detect faults as soon as possible, so that any partial execution of the test suite detects maximum number of defects for the given budget. Test prioritization becomes even more important when the test execution is time consuming, e.g., manual system tests vs. automated unit tests. Most existing test case prioritization techniques are based on code coverage, which requires access to source code. However, manual testing is mainly done in a black- box manner (manual testers do not have access to the source code). Therefore, in this paper, we first examine the existing test case prioritization techniques and modify them to be applicable on manual black-box system testing. We specifically study a coverage- based, a diversity-based, and a risk driven approach for test case prioritization. Our empirical study on four older releases of Mozilla Firefox shows that none of the techniques are strongly dominating the others in all releases. However, when we study nine more recent releases of Firefox, where the development has been moved from a traditional to a more agile and rapid release environment, we see a very signifiant difference (on average 65\% effectiveness improvement) between the risk-driven approach and its alternatives. Our conclusion, based on one case study of 13 releases of an industrial system, is that test suites in rapid release environments, potentially, can be very effectively prioritized for execution, based on their historical riskiness; whereas the same conclusions do not hold in the traditional software development environments.},
   doi       = {10.1109/ICST.2015.7102602},
-  groups    = {phase_start, selected},
+  groups    = {selected, phase_start},
   keywords  = {code coverage,Companies,Context,coverage-based approach,diversity-based approach,fault detection,Fault detection,historical riskiness,large scale systems,manual black-box system testing,manual test case prioritization,Manuals,Mozilla Firefox,Natural languages,online front-ends,program testing,rapid release environments,risk driven approach,Software,software fault tolerance,source code,source code (software),test execution,Testing},
   timestamp = {2019-06-17T22:40:28Z},
 }
@@ -159,7 +159,7 @@
   volume     = {23},
   abstract   = {The release frequency of software projects has increased in recent years. Adopters of so-called rapid releases\textemdash short release cycles, often on the order of weeks, days, or even hours\textemdash claim that they can deliver fixed issues (i.e., implemented bug fixes and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, our prior work shows that code integration phases may introduce delays for rapidly releasing projects\textemdash 98\% of the fixed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of fixed issues, we perform a comparative study of traditional and rapid release cycles. Our comparative study has two parts: (i) a quantitative empirical analysis of 72,114 issue reports from the Firefox project, and a (ii) qualitative study involving 37 participants, who are contributors of the Firefox, Eclipse, and ArgoUML projects. Our study is divided into quantitative and qualitative analyses. Quantitative analyses reveal that, surprisingly, fixed issues take a median of 54\% (57 days) longer to be integrated in rapid Firefox releases than the traditional ones. To investigate the factors that are related to integration delay in traditional and rapid release cycles, we train regression models that model whether a fixed issue will have its integration delayed or not. Our explanatory models achieve good discrimination (ROC areas of 0.80\textendash 0.84) and calibration scores (Brier scores of 0.05\textendash 0.16) for rapid and traditional releases. Our explanatory models indicate that (i) traditional releases prioritize the integration of backlog issues, while (ii) rapid releases prioritize issues that were fixed in the current release cycle. Complementary qualitative analyses reveal that participants' perception about integration delay is tightly related to activities that involve decision making, risk management, and team collaboration. Moreover, the allure of shipping fixed issues faster is a main motivator for adopting rapid release cycles among participants (although this motivation is not supported by our quantitative analysis). Furthermore, to explain why traditional releases deliver fixed issues more quickly, our participants point out the rush for integration in traditional releases and the increased time that is invested on polishing issues in rapid releases. Our results suggest that rapid release cycles may not be a silver bullet for the rapid delivery of new content to users. Instead, our results suggest that the benefits of rapid releases are increased software stability and user feedback.},
   doi        = {10.1007/s10664-017-9548-7},
-  groups     = {phase_start, p_Mantyla2015, p_Souza2015, p_Souza2014, p_daCosta2016a, selected, forward_01},
+  groups     = {p_Mantyla2015, p_Souza2015, p_Souza2014, p_daCosta2016a, selected, forward_01, phase_start},
   keywords   = {skimmed},
   language   = {en},
   readstatus = {skimmed},
@@ -202,7 +202,7 @@
   series     = {{{ESEM}} '14},
   abstract   = {Context: Software release teams try to reduce the time needed for the transit of features or bug fixes from the development environment to the production, crossing all the quality gates. However, little is known about the factors that influence the time-to-production and how they might be controlled in order to speed up the release cycles. Goal: This paper examines step by step the release process of an industrial software organization aiming to identify factors that have a significant impact on the lead time and outcomes of the software releases. Method: Over 14 months of release data have been analyzed (246 releases from the isolated source code branches to the production environment). Results: We discuss three dimensions under which a series of factors could be addressed: technical, organizational, and interactional. We present our findings in terms of implications for release process improvements. Conclusions: Our analyzes reveal that testing is the most time consuming activities (86\%) along with the need for more congruence among teams, especially in the context of parallel development.},
   doi        = {10.1145/2652524.2652589},
-  groups     = {phase_start, selected},
+  groups     = {selected, phase_start},
   isbn       = {978-1-4503-2774-9},
   keywords   = {empirical software engineering,lead time,parallel development,rapid release,release cycles,release management,software process,software quality,software release},
   shorttitle = {Factors Impacting Rapid Releases},
@@ -231,7 +231,7 @@
   volume     = {32},
   abstract   = {Release engineering deals with decisions that impact the daily lives of developers, testers, and users and thus contribute to a product's success. Although gut feeling is important in such decisions, it's increasingly important to leverage existing data, such as bug reports, source code changes, code reviews, and test results, both to support decisions and to help evaluate current practices. The exploration of software engineering data to obtain insightful information is called software analytics.},
   doi        = {10.1109/MS.2015.30},
-  groups     = {phase_start, selected},
+  groups     = {selected, phase_start},
   keywords   = {Browsers,bug reopening,Computer bugs,Continuous production,data analysis,Firefox,Linux,Market research,Marketing and sales,Mozilla,patch backouts,rapid releases,release engineering,software analytics,Software analytics,software analytics approach,software development,Software development,software engineering,Software engineering,software engineering data,Web browsers},
   shorttitle = {Rapid {{Releases}} and {{Patch Backouts}}},
   timestamp  = {2019-06-17T22:40:28Z},
@@ -244,7 +244,7 @@
   year         = {2006},
   organization = {IEEE},
   pages        = {10--pp},
-  groups       = {excluded_doubt, phase_start},
+  groups       = {phase_start, doubt},
 }
 
 @InProceedings{Lopez2018,
@@ -259,7 +259,7 @@
   series     = {Lecture {{Notes}} in {{Business Information Processing}}},
   abstract   = {Software quality is an essential competitive factor for the success of software companies today. Increasing the software quality levels of software products and services requires an adequate integration of quality requirements (QRs) in the software life-cycle, which is still scarcely supported in current rapid software development (RSD) approaches. One of the goals of the Q-Rapids (Quality-aware Rapid Software Development) method is providing tool support to decision-makers for QR management in RSD. The Q-Rapids method is based on gathering data from several and heterogeneous sources, to be aggregated into quality-related strategic indicators (e.g., customer satisfaction, product quality) and presented to decision-makers using a highly informative dashboard. The current release of Q-Rapids Tool provides four sets of functionality: (1) data gathering from source tools (e.g. GitLab, Jira, SonarQube, and Jenkins), (2) aggregation of data into three levels of abstraction (metrics, product/process factors, and strategic indicators), (3) visualization of the aggregated data, and (4) navigation through the aggregated data. The tool has been evaluated by four European companies that follow RSD processes.},
   doi        = {10.1007/978-3-319-92901-9_17},
-  groups     = {phase_start, p_Guzman2017, selected, forward_01},
+  groups     = {p_Guzman2017, forward_01, phase_start, doubt},
   isbn       = {978-3-319-92901-9},
   keywords   = {Agile,Dashboard,Decision-making,Non-functional requirements,Quality requirement,Rapid software development,Strategic indicator},
   language   = {en},
@@ -274,7 +274,7 @@
   year         = {2009},
   organization = {IEEE},
   pages        = {317--323},
-  groups       = {excluded_doubt, phase_start},
+  groups       = {phase_start, doubt},
 }
 
 @InProceedings{lohner2000rapid,
@@ -282,7 +282,7 @@
   title        = {Rapid Software Development for CLEO III},
   year         = {2000},
   organization = {Citeseer},
-  groups       = {excluded_doubt, phase_start},
+  groups       = {phase_start, doubt},
 }
 
 @Article{chu2009cholesterol,
@@ -330,7 +330,7 @@
   pages      = {31--40},
   abstract   = {Large software organizations have been adopting rapid release cycles to deliver features and bug fixes earlier to their users. Because this approach reduces time for testing, it raises concerns about the effectiveness of quality assurance in this setting. In this paper, we study how the adoption of rapid release cycles impacts bug reopening rate, an indicator for the quality of the bug fixing process. To this end, we analyze thousands of bug reports from Mozilla Firefox, both before and after their adoption of rapid releases. Results suggest that the bug reopening rate of versions developed in rapid cycles was about 7\% higher. Also, as a warning to the software analytics community, we report contradictory results from three attempts to answer our research question, performed with varying degrees of knowledge about the Firefox release process.},
   doi        = {10.1109/SBES.2014.10},
-  groups     = {phase_start, selected},
+  groups     = {selected, phase_start},
   keywords   = {bug fixing process,bug reopening rate,bug reports,Computer bugs,Databases,Educational institutions,Electronic mail,Internet,Mozilla Firefox,online front-ends,program debugging,program testing,quality assurance,rapid release cycles,Software,software analytics community,software quality,Testing},
   shorttitle = {Do {{Rapid Releases Affect Bug Reopening}}?},
   timestamp  = {2019-06-17T22:02:05Z},
@@ -347,7 +347,7 @@
   abstract  = {Continuous software engineering refers to the organizational capability to develop, release and learn from software in very short rapid cycles, typically hours, days or a very small numbers of weeks. This requires not only agile processes in teams but in the complete research and development organization. Additionally, the technology used in the different development phases, like requirements engineering and system integration, must support the quick development cycles. Finally, automatic live experimentation for different system alternatives enables fast gathering of required data for decision making. The workshop, the second in the series after the first one at ICSE 2014, aims to bring the research communities of the aforementioned areas together to exchange challenges, ideas, and solutions to bring software engineering a step further to being a holistic continuous process. The workshop program is based on eight papers selected in the peer-review process and supplemented by interaction and discussions at the workshop. The topics range from agile methods, continuous software engineering practices to specific techniques, like visualization and testing.},
   doi       = {10.1109/ICSE.2015.343},
   file      = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\6SL94AQE\\Tichy et al. - 2015 - 2nd International Workshop on Rapid Continuous Sof.pdf:application/pdf},
-  groups    = {phase_start, selected},
+  groups    = {selected, phase_start},
   issn      = {1558-1225},
   keywords  = {Companies,Conferences,Software,Software engineering,Testing},
   timestamp = {2020-10-29T19:17:48Z},
@@ -366,7 +366,7 @@
   annotation = {\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/stvr.1609},
   copyright  = {Copyright \textcopyright{} 2016 John Wiley \& Sons, Ltd.},
   doi        = {10.1002/stvr.1609},
-  groups     = {phase_start, p_Hemmati2015, p_Mantyla2015, selected, forward_01},
+  groups     = {p_Hemmati2015, p_Mantyla2015, selected, forward_01, phase_start},
   keywords   = {historical data, manual testing, rapid release, test case prioritization, text mining, skimmed},
   language   = {en},
   readstatus = {skimmed},
@@ -465,7 +465,7 @@
   issn      = {0950-5849},
   pages     = {106448},
   doi       = {10.1016/j.infsof.2020.106448},
-  groups    = {excluded_doubt, p_daCosta2018, p_Souza2015, forward_01},
+  groups    = {p_daCosta2018, p_Souza2015, forward_01, doubt},
   publisher = {Elsevier},
 }
 
@@ -481,7 +481,7 @@
   author = {El Mezouar, Mariam},
   title  = {Leveraging the Social Knowledge of Software Systems to Improve the Development Process},
   year   = {2019},
-  groups = {excluded_doubt, p_daCosta2018, forward_01},
+  groups = {p_daCosta2018, forward_01, doubt},
 }
 
 @InProceedings{martinez2018quality,
@@ -491,7 +491,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {370--377},
-  groups       = {excluded_doubt, phase_start, p_Guzman2017, p_Lopez2018, forward_01},
+  groups       = {p_Guzman2017, p_Lopez2018, forward_01, phase_start, doubt},
 }
 
 @InProceedings{kamei2016defect,
@@ -704,7 +704,7 @@
   annotation = {Accepted: 2016-12-02T18:19:44Z},
   copyright  = {Available to the World Wide Web},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\7XAPABBI\\Poo-Caamaño - 2016 - Release management in free and open source softwar.pdf:application/pdf},
-  groups     = {excluded_doubt, p_Khomh2015, forward_01},
+  groups     = {p_Khomh2015, forward_01, doubt},
   language   = {en},
   timestamp  = {2020-10-29T20:58:39Z},
 }
@@ -818,7 +818,7 @@
   annotation = {Accepted: 2019-01-17T18:33:21Z},
   copyright  = {Queen's University's Thesis/Dissertation Non-Exclusive License for Deposit to QSpace and Library and Archives Canada},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\D2522ERT\\Lin - 2019 - How Can Game Developers Leverage Data from Online .pdf:application/pdf},
-  groups     = {excluded_doubt, p_Khomh2015, p_Mantyla2013, p_Souza2015, p_daCosta2016a, forward_01},
+  groups     = {p_Khomh2015, p_Mantyla2013, p_Souza2015, p_daCosta2016a, forward_01, doubt},
   language   = {eng},
   shorttitle = {How {{Can Game Developers Leverage Data}} from {{Online Distribution Platforms}}?},
   timestamp  = {2020-10-29T21:20:41Z},
@@ -863,7 +863,7 @@
   author = {Frank, Ferdinand},
   title  = {Activity of Core and Peripheral Developers: A Case Study on Mozilla Firefox},
   year   = {2017},
-  groups = {excluded_doubt, p_Khomh2015, forward_01},
+  groups = {p_Khomh2015, forward_01, doubt},
 }
 
 @Book{hassan2018studying,
@@ -1323,7 +1323,7 @@
   organization = {Springer},
   pages        = {515--522},
   doi          = {10.1007/978-3-319-69926-4_41},
-  groups       = {excluded_doubt, p_Guzman2017, forward_01},
+  groups       = {p_Guzman2017, forward_01, doubt},
   issn         = {0302-9743},
 }
 
@@ -1449,7 +1449,7 @@
   author = {Bishop, Dave and Rowland, Pam},
   title  = {AGILE AND SECURE SOFTWARE DEVELOPMENT: AN UNFINISHED STORY},
   year   = {2019},
-  groups = {excluded_doubt, p_Clark2014, forward_01},
+  groups = {p_Clark2014, forward_01, doubt},
   url    = {https://scholar.dsu.edu/bispapers/64/},
 }
 
@@ -2155,7 +2155,7 @@
   pages        = {78--90},
   volume       = {5},
   doi          = {10.1109/saner.2016.108},
-  groups       = {excluded_doubt, p_Mantyla2013, forward_01},
+  groups       = {p_Mantyla2013, forward_01, doubt},
 }
 
 @InProceedings{bellomo2014toward,
@@ -2166,7 +2166,7 @@
   organization = {IEEE},
   pages        = {702--707},
   doi          = {10.1109/dsn.2014.104},
-  groups       = {excluded_doubt, p_Mantyla2013, forward_01},
+  groups       = {p_Mantyla2013, forward_01, doubt},
 }
 
 @InProceedings{da2014empirical,
@@ -2400,7 +2400,7 @@
 @Article{borgeslean,
   author = {Borges, Fernando Sambinelli1and Marcos Augusto Francisco},
   title  = {LEAN THINKING IN SOFTWARE ENGINEERING: A},
-  groups = {excluded_doubt, p_Mantyla2015, forward_01},
+  groups = {p_Mantyla2015, forward_01, doubt},
 }
 
 @Misc{wirkkala2020introducing,
@@ -2826,7 +2826,7 @@
   author = {Anderson, Andrew John},
   title  = {Examination of Adoption Theory on the DevOps Practice of Continuous Delivery},
   year   = {2019},
-  groups = {excluded_doubt, p_Souza2015, forward_01},
+  groups = {p_Souza2015, forward_01, doubt},
   pages  = {203-267},
   url    = {https://scholarworks.waldenu.edu/dissertations/7457/},
 }
@@ -5991,6 +5991,2042 @@
   language        = {en},
 }
 
+@InProceedings{adams2016a,
+  author    = {Adams, B. and McIntosh, S.},
+  booktitle = {Proceedings of the 23rd international conference on software analysis, evolution, and reengineering (SANER},
+  title     = {Modern release engineering in a nutshell: why researchers should care},
+  pages     = {78–90},
+  date      = {2016},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{alghamdi2016a,
+  author    = {AlGhamdi, H.M. and Syer, M.D. and Shang, W. and Hassan, A.E.},
+  booktitle = {Proceedings of the international conference on software maintenance and evolution. IEEE, Piscataway},
+  title     = {An automated approach for recommending when to stop performance tests},
+  pages     = {279–289},
+  date      = {2016},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{antoniol2008a,
+  booktitle = {Proceedings of the 2008 conference of the centre for advanced studies on collaborative research (CASCON},
+  title     = {Is it a bug or an enhancement?: a text-based approach to classify change requests},
+  pages     = {23–37},
+  date      = {2008},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{baskerville2004a,
+  author   = {Baskerville, R. and Pries-Heje, J.},
+  journal  = {Inf Syst J},
+  title    = {Short cycle time systems development},
+  pages    = {237–264},
+  volume   = {14},
+  date     = {2004},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InProceedings{baysal-a,
+  author    = {Baysal, O. and Davis, I. and GodfreyMW},
+  booktitle = {Proceedings of the 8th working conference on mining software repositories (MSR). ACM},
+  title     = {A tale of two browsers},
+  address   = {New York},
+  note      = {Empir Software 900 Eng (2018) 23:835–904},
+  pages     = {238–241},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Book{beck2000a,
+  author    = {Beck, K.},
+  publisher = {Addison-Wesley Professional},
+  title     = {Extreme programming explained: embrace change},
+  address   = {Reading},
+  date      = {2000},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{beller2015a,
+  author    = {Beller, M. and Gousios, G. and Zaidman, A.},
+  booktitle = {2015 IEEE/ACM 37th IEEE international conference on software engineering},
+  title     = {How (much) do developers test?},
+  pages     = {559–562},
+  publisher = {IEEE, Piscataway},
+  volume    = {2},
+  date      = {2015},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{boehm1988a,
+  author   = {Boehm, B.W.},
+  journal  = {Computer},
+  title    = {A spiral model of software development and enhancement},
+  number   = {5},
+  pages    = {61–72},
+  volume   = {21},
+  date     = {1988},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Book{charmaz2014a,
+  author    = {Charmaz, K.},
+  publisher = {SAGE, Newbury Park},
+  title     = {Constructing grounded theory},
+  date      = {2014},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{cliff1993a,
+  author   = {Cliff, N. and DA, Costa and SL, Abebe and S, McIntosh and U, Kulesza and AE, Hassan},
+  journal  = {Proceedings of the 30th international conference on software maintenance and evolution (ICSME},
+  title    = {Dominance statistics: ordinal analyses to answer ordinal questions},
+  number   = {494–509},
+  pages    = {281–290},
+  volume   = {114},
+  date     = {1993},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InProceedings{costa2016a,
+  author    = {DA, Costa and S, McIntosh and U, Kulesza and AE, Hassan},
+  booktitle = {Proceedings of the 13th international workshop on mining software repositories. ACM},
+  title     = {The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the mozilla firefox project},
+  address   = {New York},
+  pages     = {374–385},
+  date      = {2016},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{dunn1964a,
+  author   = {Dunn, O.J.},
+  journal  = {Technometrics},
+  title    = {Multiple comparisons using rank sums},
+  number   = {3},
+  pages    = {241–252},
+  volume   = {6},
+  date     = {1964},
+  groups   = {backward_01, p_daCosta2018},
+  language = {es},
+}
+
+@Article{efron1986a,
+  author   = {Efron, B.},
+  journal  = {Journal of the american statistical association, Taylor & Francis, Milton Park},
+  title    = {How biased is the apparent error rate of a prediction rule?},
+  pages    = {461–470},
+  volume   = {81},
+  date     = {1986},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Book{fisher1925a,
+  author    = {Fisher, R.A.},
+  publisher = {Genesis Publishing Pvt Ltd},
+  title     = {Statistical methods for research workers},
+  address   = {New Delhi},
+  date      = {1925},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{giger2010a,
+  author    = {Giger, E. and Pinzger, M. and Gall, H.},
+  booktitle = {Proceedings of the 2nd international workshop on recommendation systems for software engineering (RSSE). ACM},
+  title     = {Predicting the fix time of bugs},
+  address   = {New York},
+  pages     = {52–56},
+  date      = {2010},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{greer2004a,
+  author   = {Greer, D. and Ruhe, G.},
+  journal  = {Inf Softw Technol},
+  title    = {Software release planning: an evolutionary and iterative approach},
+  pages    = {243–253},
+  volume   = {46},
+  date     = {2004},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Book{harrell2001a,
+  author    = {Harrell, F.E.},
+  publisher = {Springer},
+  title     = {Regression modeling strategies: with applications to linear models, logistic regression, and survival analysis},
+  address   = {New York},
+  date      = {2001},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{herraiz2008a,
+  author    = {Herraiz, I. and German, D.M. and Gonzalez-Barahona, J.M. and Robles, G.},
+  booktitle = {Proceedings of the 2008 international working conference on mining software repositories (MSR},
+  title     = {Towards a simplification of the bug report form in eclipse},
+  pages     = {145–148},
+  date      = {2008},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{holm1979a,
+  author   = {Holm, S.},
+  journal  = {Scand J Stat},
+  title    = {A simple sequentially rejective multiple test procedure},
+  pages    = {65–70},
+  volume   = {6},
+  date     = {1979},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InCollection{howell2005a,
+  author    = {Howell, D.C.},
+  booktitle = {Encyclopedia of statistics in behavioral science},
+  publisher = {Wiley Online Library},
+  title     = {Median absolute deviation},
+  address   = {Hoboken},
+  date      = {2005},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{iasonos2008a,
+  author   = {Iasonos, A. and Schrag, D. and Raj, G.V. and Panageas, K.S.},
+  journal  = {Journal of clinical oncology, american society of clinical oncology},
+  title    = {How to build and interpret a nomogram for cancer prognosis},
+  pages    = {1364–1370},
+  volume   = {26},
+  date     = {2008},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InProceedings{jeong2009a,
+  author    = {Jeong, G. and Kim, S. and Zimmermann, T.},
+  booktitle = {Proceedings of the 7th joint meeting of the european software engineering conference and the ACM SIGSOFT symposium on the foundations of software engineering (ESEC/FSE). ACM},
+  title     = {Improving bug triage with bug tossing graphs},
+  address   = {New York},
+  pages     = {111–120},
+  date      = {2009},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InCollection{jiang2014a,
+  author    = {Jiang, Y. and Adams, B.},
+  booktitle = {2nd International Workshop on Release Engineering (RELENG},
+  title     = {How much does integrating this commit cost? - a position paper},
+  date      = {2014},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{jiang2013a,
+  author    = {Jiang, Y. and Adams, B. and German, D.M.},
+  booktitle = {Proceedings of the 10th working conference on mining software repositories (MSR},
+  title     = {my patch make it? and how fast?: case study on the linux kernel},
+  pages     = {101–110},
+  date      = {2013},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{p2008a,
+  author   = {P, Kampstra},
+  journal  = {J Stat Softw},
+  title    = {Beanplot: a boxplot alternative for visual comparison of distributions},
+  pages    = {1–9},
+  volume   = {28},
+  date     = {2008},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{karlsson1997a,
+  author   = {Karlsson, J. and Ryan, K.},
+  journal  = {IEEE Softw},
+  title    = {A cost-value approach for prioritizing requirements},
+  pages    = {67–74},
+  volume   = {14},
+  date     = {1997},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InProceedings{khomh2012a,
+  author    = {Khomh, F. and Dhaliwal, T. and Zou, Y. and Adams, B.},
+  booktitle = {Proceedings of the 9th IEEE working conference on mining software repositories (MSR). IEEE, Piscataway},
+  title     = {Do faster releases improve software quality? an empirical case study of mozilla firefox},
+  pages     = {179–188},
+  date      = {2012},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{kruskal1952a,
+  author   = {Kruskal, W.H. and Wallis, W.A.},
+  journal  = {J Am Stat Assoc},
+  title    = {Use of ranks in one-criterion variance analysis},
+  number   = {260},
+  pages    = {583–621},
+  volume   = {47},
+  date     = {1952},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{leys2013a,
+  author   = {Leys, C. and Ley, C. and Klein, O. and Bernard, P. and Licata, L.},
+  journal  = {J Exp Soc Psychol},
+  title    = {Detecting outliers: do not use standard deviation around the mean, use absolute deviation around the median},
+  pages    = {764–766},
+  volume   = {49},
+  date     = {2013},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{m2014a,
+  journal   = {Journal of Empirical Software Engineering},
+  title     = {On rapid releases and software testing: a case study and a semi-systematic literature review},
+  pages     = {1–42},
+  address   = {Berlin},
+  date      = {2014},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+  publisher = {Springer},
+}
+
+@Article{mcintosh2016a,
+  author   = {McIntosh, S. and Kamei, Y. and Adams, B. and Hassan, A.E.},
+  journal  = {Empir Softw Eng},
+  title    = {An empirical study of the impact of modern code review practices on software quality},
+  number   = {5},
+  pages    = {2146–2189},
+  volume   = {21},
+  date     = {2016},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InProceedings{morakot2015a,
+  author    = {Morakot, C. and Hoa Khanh, D. and Truyen, T. and Aditya, G.},
+  booktitle = {12th international conference on mining software repositories (MSR},
+  title     = {Characterization and prediction of issue-related risks in software projects},
+  pages     = {280–291},
+  date      = {2015},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{morakot2015b,
+  author   = {Morakot, C. and Hoa Khanh, D. and Truyen, T. and Aditya, G.},
+  journal  = {In},
+  title    = {Predicting delays in software projects using networked classification},
+  note     = {30th international conference on automated software engineering (ASE},
+  date     = {2015},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{nagappan2005a,
+  author    = {Nagappan, N. and Ball, T.},
+  journal   = {Proceedings of the 27th international conference on software engineering (ICSE},
+  title     = {Use of relative code churn measures to predict system defect density},
+  pages     = {284–292},
+  volume    = {23},
+  date      = {2005},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+  publisher = {IEEE, Piscataway},
+}
+
+@InCollection{paetsch2003a,
+  author    = {Paetsch, F. and Eberlein, A. and Maurer, F.},
+  booktitle = {Twelfth IEEE international workshops on enabling technologies: infrastructure for collaborative enterprises},
+  title     = {Requirements engineering and agile software development},
+  pages     = {308–313},
+  date      = {2003},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{panjer2007a,
+  author    = {Panjer, L.D.},
+  booktitle = {Proceedings of the 4th international workshop on mining software repositories (MSR},
+  title     = {Predicting eclipse bug lifetimes},
+  pages     = {29},
+  date      = {2007},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{rahman2015a,
+  author    = {Rahman, M.T. and Rigby, P.C.},
+  journal   = {IEEE software journal},
+  title     = {Release stabilization on linux and chrome},
+  pages     = {81–88},
+  volume    = {2},
+  date      = {2015},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+  publisher = {IEEE, Piscataway},
+}
+
+@Article{regnell2005a,
+  author   = {Regnell, B. and Brinkkemper, S.},
+  journal  = {Engineering and managing software requirements},
+  title    = {Market-driven requirements engineering for software products},
+  pages    = {287–308},
+  date     = {2005},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{sandelowski1995a,
+  author   = {Sandelowski, M.},
+  journal  = {Res Nurs Health},
+  title    = {Sample size in qualitative research},
+  number   = {2},
+  pages    = {179–183},
+  volume   = {18},
+  date     = {1995},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@InProceedings{schroter2010a,
+  author    = {Schroter, A. and Bettenburg, N. and Premraj, R.},
+  booktitle = {2010 7th IEEE working conference on mining software repositories (MSR). IEEE, Piscataway},
+  title     = {Do stack traces help developers fix bugs?},
+  pages     = {118–121},
+  date      = {2010},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{schwaber1997a,
+  author    = {Schwaber, K.},
+  journal   = {Business object design and implementation},
+  title     = {Scrum development process},
+  pages     = {117–134},
+  address   = {Berlin},
+  date      = {1997},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {fr},
+  publisher = {Springer},
+}
+
+@Article{sheehan2001a,
+  author   = {Sheehan, K.B.},
+  journal  = {J Comput-Mediat Commun},
+  title    = {E-mail survey response rates: a review},
+  number   = {2},
+  volume   = {6},
+  date     = {2001},
+  doi      = {10.1111/j.1083-6101.2001.tb00117.x},
+  groups   = {backward_01, p_daCosta2018},
+  language = {fr},
+  url      = {https://doi.org/10.1111/j.1083-6101.2001.tb00117.x},
+}
+
+@InProceedings{shihab2010a,
+  author    = {Shihab, E. and Ihara, A. and Kamei, Y. and Ibrahim, W.M. and Ohira, M. and Adams, B. and Hassan, A.E. and Matsumoto, K.},
+  booktitle = {Proceedings of 17th working conference on reverse engineering (WCRE). IEEE, Piscataway},
+  title     = {Predicting re-opened bugs: a case study on the eclipse project},
+  pages     = {249–258},
+  date      = {2010},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{shimagaki2016a,
+  author    = {Shimagaki, J. and Kamei, Y. and McIntosh, S. and Pursehouse, D. and Ubayashi, N.},
+  booktitle = {2016 IEEE international conference on software maintenance and evolution (ICSME). IEEE, Piscataway},
+  title     = {Why are commits being reverted?: a comparative study of industrial and open source projects},
+  pages     = {301–311},
+  date      = {2016},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InCollection{smith2013a,
+  author    = {Smith, E. and Loftin, R. and Murphy-Hill, E. and Bird, C. and Zimmermann, T.},
+  booktitle = {6th international workshop on cooperative and human aspects of software engineering (CHASE},
+  title     = {Improving developer participation rates in surveys},
+  pages     = {89–92},
+  date      = {2013},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{souza2014a,
+  author    = {Souza, R. and Chavez, C. and Bittencourt, R.A.},
+  booktitle = {Proceedings of the brazilian symposium on software engineering (SBES). IEEE, Piscataway},
+  title     = {Do rapid releases affect bug reopening? a case study of firefox},
+  pages     = {31–40},
+  date      = {2014},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {nl},
+}
+
+@Article{souza2015a,
+  author    = {Souza, R. and Chavez, C. and Bittencourt, R.},
+  journal   = {IEEE software journal},
+  title     = {Rapid releases and patch backouts: a software analytics approach},
+  pages     = {89–96},
+  volume    = {32},
+  date      = {2015},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+  publisher = {IEEE, Piscataway},
+}
+
+@Article{spearman1904a,
+  author   = {Spearman, C.},
+  journal  = {Am J Psychol},
+  title    = {The proof and measurement of association between two things},
+  number   = {1},
+  pages    = {72–101},
+  volume   = {15},
+  date     = {1904},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{subramaniam2009a,
+  author   = {Subramaniam, C. and Sen, R. and Nelson, M.L.},
+  journal  = {Journal of decision support systems},
+  title    = {Determinants of open source software project success: a longitudinal study},
+  pages    = {576–585},
+  volume   = {46},
+  address  = {Elsevier, Amsterdam},
+  date     = {2009},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Article{tian2015a,
+  author   = {Tian, Y. and Ali, N. and Lo, D. and Hassan, A.E.},
+  journal  = {Empir Softw Eng},
+  title    = {On the unreliability of bug severity data},
+  pages    = {1–26},
+  volume   = {21},
+  date     = {2015},
+  groups   = {backward_01, p_daCosta2018},
+  language = {en},
+}
+
+@Book{wilks2011a,
+  author    = {Wilks, D.S.},
+  publisher = {Academic Press},
+  title     = {Statistical methods in the atmospheric sciences},
+  address   = {Cambridge},
+  volume    = {100},
+  date      = {2011},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@InProceedings{zaman2011a,
+  author    = {Zaman, S. and Adams, B. and Hassan, A.E.},
+  booktitle = {Proceedings of the 8th working conference on mining software repositories. ACM},
+  title     = {Security versus performance bugs: a case study on firefox},
+  address   = {New York},
+  pages     = {93–102},
+  date      = {2011},
+  groups    = {backward_01, p_daCosta2018},
+  language  = {en},
+}
+
+@Article{h2012a,
+  author          = {H.P.},
+  journal         = {HP Applications Handbook},
+  title           = {Shorten release cycles by bringing developers to application lifecycle management},
+  note            = {Retrieved on Febuary 08, 2012,},
+  citation-number = {1},
+  date            = {2012},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://bit.ly/x5PdXl},
+}
+
+@Misc{investmentwatch2011a,
+  author          = {InvestmentWatch},
+  title           = {Mozilla puts out firefox 5.0 web browser which carries over 1,000 improvements in just about 3 months of development},
+  citation-number = {2},
+  date            = {2011-06},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://bit.ly/aecRrL,},
+}
+
+@Book{beck2004a,
+  author          = {Beck, K. and Andres, C.},
+  publisher       = {Addison-Wesley},
+  title           = {Extreme Programming Explained: Embrace Change},
+  edition         = {2nd},
+  citation-number = {3},
+  date            = {2004},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Misc{shankland2011a,
+  author          = {Shankland, S.},
+  title           = {Rapid-release firefox meets corporate backlash},
+  citation-number = {4},
+  date            = {2011-06},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://cnet.co/ktBsUU,},
+}
+
+@Misc{kaply-a,
+  author          = {Kaply, M.},
+  note            = {Retrieved on January 12, 2012, 2012. [Online]. Available:},
+  title           = {Why do companies stay on old technology?},
+  citation-number = {5},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://bit.ly/k3fruK},
+}
+
+@InProceedings{baysal2011a,
+  author          = {Baysal, O. and Davis, I. and Godfrey, M.W.},
+  booktitle       = {Proc. of the 8th Working Conf. on Mining Software Repositories (MSR},
+  title           = {A tale of two browsers},
+  pages           = {238–241},
+  citation-number = {6},
+  date            = {2011},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@InCollection{khomh2012a,
+  author          = {Khomh, F. and Dhaliwal, T. and Zou, Y. and Adams, B.},
+  booktitle       = {MSR},
+  title           = {Do faster releases improve software quality? an empirical case study of mozilla firefox},
+  pages           = {179–188},
+  citation-number = {7},
+  date            = {2012},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Article{porter2006a,
+  author          = {Porter, A. and Yilmaz, C. and Memon, A.M. and Krishna, A.S. and Schmidt, D.C. and Gokhale, A.},
+  journal         = {Software Process: Improvement and Practice},
+  title           = {Techniques and processes for improving the quality and performance of open-source software},
+  number          = {2},
+  pages           = {163–176,},
+  volume          = {11},
+  citation-number = {8},
+  date            = {2006},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {fr},
+}
+
+@Article{petersen2010a,
+  author          = {Petersen, K. and Wohlin, C.},
+  journal         = {Empirical Softw. Engg},
+  title           = {The effect of moving from a plan-driven to an incremental software development approach with agile practices},
+  number          = {6},
+  pages           = {654–693,},
+  volume          = {15},
+  citation-number = {9},
+  date            = {2010-12},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@InProceedings{j2010a,
+  author          = {J. Li, N. B. Moe and ̊a, T. Dyb},
+  booktitle       = {Proc. of the 2010 ACM-IEEE Intl. Symp. on Empirical Software Engineering and Measurement (ESEM},
+  title           = {Transition from a plan-driven process to scrum: a longitudinal case study on software quality},
+  pages           = {1–13 10},
+  volume          = {13},
+  citation-number = {10},
+  date            = {2010},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Misc{ltd2013a,
+  author          = {Ltd, R.S.},
+  title           = {Web browsers (global marketshare},
+  citation-number = {11},
+  date            = {2013-04},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {de},
+  url             = {http://bit.ly/81klgi,},
+}
+
+@Misc{shankland2010a,
+  author          = {Shankland, S.},
+  title           = {Google ethos speeds up chrome release cycle},
+  citation-number = {12},
+  date            = {2010-07},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://cnet.co/wlS24U,},
+}
+
+@Misc{sicore2011a,
+  author          = {Sicore, D.},
+  title           = {New channels for firefox rapid releases},
+  citation-number = {13},
+  date            = {2011-04},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {fy},
+  url             = {http://bit.ly/},
+}
+
+@Misc{paul2011a,
+  author          = {Paul, R.},
+  title           = {Mozilla outlines 16-week firefox development cycle},
+  citation-number = {14},
+  date            = {2011-03},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http:},
+}
+
+@Misc{mozilla2013a,
+  author          = {Mozilla},
+  title           = {Litmus wiki},
+  citation-number = {15},
+  date            = {2013-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {io},
+  url             = {http://mzl.la/evJmTW,},
+}
+
+@Misc{mozilla2013b,
+  author          = {Mozilla},
+  title           = {Moztrap wiki},
+  citation-number = {16},
+  date            = {2013-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {pl},
+  url             = {http://bit.ly/XBGMfu,},
+}
+
+@Misc{wikipedia2013a,
+  author          = {Wikipedia},
+  title           = {Firefox release history},
+  citation-number = {17},
+  date            = {2013-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://bit.ly/Ngvfln,},
+}
+
+@Misc{mozilla2013c,
+  author          = {Mozilla},
+  note            = {Online]. Available:},
+  title           = {Mozilla source code mercurial repositories},
+  citation-number = {18},
+  date            = {2013},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://hg.mozilla.org/},
+}
+
+@Misc{rogmann2013a,
+  author          = {Rogmann, J.J.},
+  title           = {orddom: Ordinal dominance statistics},
+  citation-number = {19},
+  date            = {2013-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {io},
+  url             = {http://bit.ly/},
+}
+
+@Book{hollander1999a,
+  author          = {Hollander, M. and Wolfe, D.A.},
+  publisher       = {John Wiley and Sons, inc},
+  title           = {Nonparametric Statistical Methods},
+  edition         = {2nd},
+  citation-number = {20},
+  date            = {1999},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Misc{wikipedia2013b,
+  author          = {Wikipedia},
+  note            = {Support Release,},
+  title           = {Extended support release},
+  citation-number = {21},
+  date            = {2013-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {it},
+  url             = {http://bit.ly/ZlgqoM#Extended},
+}
+
+@Misc{paul2012a,
+  author          = {Paul, R.},
+  title           = {Firefox extended support will mitigate rapid release challenges},
+  citation-number = {22},
+  date            = {2012-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+  url             = {http://ars.to/M2TbFQ,},
+}
+
+@Misc{wikipedia2013c,
+  author          = {Wikipedia},
+  title           = {Locale},
+  citation-number = {23},
+  date            = {2013-01},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {it},
+  url             = {http://bit.ly/2iJLwB,},
+}
+
+@Book{kim2012a,
+  author          = {Kim, S.},
+  publisher       = {XkWuyn},
+  title           = {ppcor: Partial and semi-partial (part) correlation},
+  citation-number = {24},
+  date            = {2012-10},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {fr},
+  url             = {http://bit.ly/},
+}
+
+@InProceedings{brown2011a,
+  author          = {Brown, A.W.},
+  booktitle       = {Proc. of the 12th Intl. Conf. on Agile Processes in Software Engineering and Extreme Programming (XP},
+  title           = {A case study in agile-at-scale delivery},
+  pages           = {266–281},
+  volume          = {77},
+  citation-number = {25},
+  date            = {2011-05},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@InProceedings{jenkins2011a,
+  author          = {Jenkins, J.},
+  booktitle       = {Presentation at O’Reilly Velocity Conference},
+  title           = {Velocity culture (the unmet challenge in ops},
+  citation-number = {26},
+  date            = {2011-06},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@InCollection{gamma2005a,
+  author          = {Gamma, E.},
+  booktitle       = {Keynote at the 27th Intl. Conf. on Software Engineering (ICSE},
+  title           = {Agile, open source, distributed, and on-time – inside the eclipse development process},
+  citation-number = {27},
+  date            = {2005-05},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Book{humble2010a,
+  author          = {Humble, J. and Farley, D.},
+  publisher       = {Addison-Wesley Professional},
+  title           = {Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation},
+  edition         = {1st},
+  citation-number = {28},
+  date            = {2010},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Article{petersen2009a,
+  author          = {Petersen, K. and Wohlin, C.},
+  journal         = {J. Syst. Softw},
+  title           = {A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case},
+  number          = {9},
+  pages           = {1479–1490,},
+  volume          = {82},
+  citation-number = {29},
+  date            = {2009-09},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@InProceedings{kettunen2010a,
+  author          = {Kettunen, V. and Kasurinen, J. and Taipale, O. and Smolander, K.},
+  booktitle       = {Proc. of the 19th Intl. Symp. on Software Testing and Analysis (ISSTA},
+  title           = {A study on agility and testing processes in software organizations},
+  pages           = {231–240},
+  citation-number = {30},
+  date            = {2010},
+  groups          = {backward_01, p_Mantyla2013},
+  language        = {en},
+}
+
+@Misc{agarwal2011a,
+  author   = {Agarwal, P.},
+  title    = {Continuous scrum: Agile management of saas products},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {fr},
+  pages    = {51–60},
+}
+
+@Misc{azham2011a,
+  author   = {Azham, Z. and Ghani, I. and Ithnin, N.},
+  title    = {Security backlog in scrum security practices},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {414–417},
+}
+
+@Article{baskerville2006a,
+  author   = {Baskerville, R. and Ramesh, B. and Levine, L. and Pries-Heje, J.},
+  journal  = {IT Professional},
+  title    = {High-speed software development practices: What works, what doesn’t},
+  pages    = {29–36},
+  volume   = {8},
+  date     = {2006},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@InProceedings{baysal2011a,
+  author    = {Baysal, O. and Davis, I. and Godfrey, M.W.},
+  booktitle = {Proceedings of the 8thWorking Conf. on Mining Software Repositories (MSR},
+  title     = {A tale of two browsers},
+  pages     = {238–241},
+  date      = {2011},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{baysal2012a,
+  author   = {Baysal, O. and Kononenko, O. and Holmes, R. and Godfrey, M.},
+  title    = {The secret life of patches: a firefox case study},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {447–455},
+}
+
+@Book{beck2004a,
+  author    = {Beck, K. and Andres, C.},
+  publisher = {Addison-Wesley},
+  title     = {Extreme Programming explained: embrace change},
+  edition   = {2nd edn},
+  date      = {2004},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {fr},
+}
+
+@Misc{begel2007a,
+  author   = {Begel, A. and Nagappan, N.},
+  title    = {Usage and perceptions of agile software development in an industrial context: an exploratory study},
+  date     = {2007},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {255–264},
+}
+
+@Misc{bell2006a,
+  author   = {Bell, R. and Ostrand, T. and Weyuker, E.},
+  title    = {Looking for bugs in all the right places},
+  date     = {2006},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {61–71},
+  volume   = {2006},
+}
+
+@InProceedings{berner2005a,
+  author    = {Berner, S. and Weber, R. and Keller, R.K.},
+  booktitle = {Proceedings of the 27th international conference on Software engineering, ACM},
+  title     = {Observations and lessons learned from automated testing},
+  pages     = {571–579},
+  date      = {2005},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{boshuizen2011a,
+  author   = {Boshuizen, C. and Marshall, W. and Bridges, C. and Kenyon, S. and Klupar, P.},
+  title    = {Learning to follow: embracing commercial technologies and open source for space missions},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {fr},
+  pages    = {8097–8101},
+  volume   = {10},
+}
+
+@InCollection{brown2011a,
+  author    = {Brown, A.W.},
+  booktitle = {Proceeding of the 12th Intl. Conf. on Agile Processes in Software Engineering and Extreme Programming (XP},
+  title     = {A case study in agile-at-scale delivery},
+  pages     = {266–281},
+  volume    = {77},
+  date      = {2011},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{byrt1993a,
+  author   = {Byrt, T. and Bishop, J. and Carlin, J.B.},
+  journal  = {J Clin Epidemiol},
+  title    = {Bias, prevalence and kappa},
+  pages    = {423–429},
+  volume   = {46},
+  date     = {1993},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {fr},
+}
+
+@Article{carney2010a,
+  author   = {Carney, P.A. and Sickles, E.A. and Monsees, B.S. and Bassett, L.W. and Brenner, R.J. and Feig, S.A. and Smith, R.A. and Rosenberg, R.D. and Bogart, T.A. and S, Browning},
+  journal  = {Radiology},
+  title    = {Identifying minimally acceptable interpretive performance criteria for screening mammography 1},
+  pages    = {354–361},
+  volume   = {255},
+  date     = {2010},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{cicchetti1990a,
+  author   = {Cicchetti, D.V. and Feinstein, A.R.},
+  journal  = {J Clin Epidemiol},
+  title    = {High agreement but low kappa: Ii. resolving the paradoxes},
+  pages    = {551–558},
+  volume   = {43},
+  date     = {1990},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{codabux2013a,
+  author   = {Codabux, Z. and Williams, B.},
+  title    = {Managing technical debt: an industrial case study},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {8–15},
+}
+
+@Misc{cohan2007a,
+  author   = {Cohan, S.},
+  title    = {Successful integration of agile development techniques within disa},
+  date     = {2007},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {fr},
+  pages    = {255–260},
+}
+
+@Book{cohen1988a,
+  author    = {Cohen, J.},
+  publisher = {Academic Press},
+  title     = {Statistical power analysis for the behavioral sciences},
+  edition   = {2nd edn},
+  date      = {1988},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Book{cusumano1999a,
+  author    = {Cusumano, M.A. and Yoffie, D.B.},
+  publisher = {Simon and Schuster},
+  title     = {Competing on internet time: Lessons from netscape and its battle with microsoft},
+  date      = {1999},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InCollection{gamma2005a,
+  author    = {Gamma, E.},
+  booktitle = {Keynote at the 27th Intl. Conf. on Software Engineering (ICSE},
+  title     = {Agile, open source, distributed, and on-time – inside the eclipse development process},
+  date      = {2005},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InCollection{greiler2012a,
+  author    = {Greiler, M. and Deursen, A. and Zaidman, A.},
+  booktitle = {Objects, models components patterns},
+  publisher = {Springer},
+  title     = {Measuring test case similarity to support test suite understanding},
+  pages     = {91–107},
+  date      = {2012},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {da},
+}
+
+@Misc{gundebahar2013a,
+  author   = {Gundebahar, M. and Kus Khalilov, M.},
+  title    = {A hybrid deployment model for financial systems with service oriented architecture (soa): Running from client via branch server},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {365–370},
+}
+
+@Misc{heikkil2010a,
+  author   = {Heikkil ̈a V, Rautiainen K, Jansen S},
+  title    = {A revelatory case study on scaling agile release planning},
+  date     = {2010},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {et},
+  pages    = {289–296},
+}
+
+@Article{hemmati2013a,
+  author   = {Hemmati, H. and Arcuri, A. and Briand, L.},
+  journal  = {ACM Trans Softw Eng Methodol (TOSEM},
+  title    = {Achieving scalable model-based testing through test case diversity},
+  number   = {6},
+  volume   = {22},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Book{hodgetts2002a,
+  author    = {Hodgetts, P. and Phillips, D.},
+  publisher = {Addison-Wesley Longman Publishing Co., Inc. Extreme Programming Perspectives},
+  title     = {30. In: eXtreme Adoption eXperiences of a B2B Start Up},
+  date      = {2002},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Book{hollander1999a,
+  author    = {Hollander, M. and Wolfe, D.A.},
+  publisher = {John Wiley and Sons inc},
+  title     = {Nonparametric statistical methods},
+  edition   = {2nd edn},
+  date      = {1999},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{h2012a,
+  author   = {H.P.},
+  journal  = {HP applications handbook},
+  title    = {Shorten release cycles aby bringing developers to application lifecycle management},
+  note     = {Retrieved on February 08, 2012},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Book{humble2010a,
+  author    = {Humble, J. and Farley, D.},
+  publisher = {Addison-Wesley Professional},
+  title     = {Continuous delivery: reliable software releases through build, test, and deployment automation},
+  edition   = {1st edn},
+  date      = {2010},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{investmentwatch2011a,
+  author   = {InvestmentWatch},
+  title    = {Mozilla puts out firefox 5.0 web browser which carries over 1,000 improvements in just about 3 months of development},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://bit.ly/aecRrL},
+}
+
+@Misc{iwai2011a,
+  author   = {Iwai, A. and Aoyama, M.},
+  title    = {Automotive cloud service systems based on service-oriented architecture and its evaluation},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {638–645},
+}
+
+@InProceedings{jansen2006a,
+  author    = {Jansen, S. and Brinkkemper, S.},
+  booktitle = {Proceedings of the International Workshop on Software Product Management},
+  title     = {Ten misconceptions about product software release management explained using update cost/value functions},
+  pages     = {44–50},
+  date      = {2006},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InProceedings{jenkins2011a,
+  author    = {Jenkins, J.},
+  booktitle = {Presentation at O’Reilly Velocity Conference},
+  title     = {Velocity culture (the unmet challenge in ops},
+  date      = {2011},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InCollection{jones2005a,
+  author    = {Jones, G. and Leung, V.},
+  booktitle = {Number 2005-11033},
+  title     = {Visual surveillance: a systems engineering approach for rapid development},
+  pages     = {161–166},
+  date      = {2005},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{kaply2012a,
+  author   = {Kaply, M.},
+  note     = {Retrieved on January 12, 2012},
+  title    = {Why do companies stay on old technology?},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@InProceedings{kettunen2010a,
+  author    = {Kettunen, V. and Kasurinen, J. and Taipale, O. and Smolander, K.},
+  booktitle = {Proc. of the 19th Intl. Symp. on Software Testing and Analysis (ISSTA},
+  title     = {A study on agility and testing processes in software organizations},
+  pages     = {231–240},
+  date      = {2010},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InCollection{khomh2012a,
+  author    = {Khomh, F. and Dhaliwal, T. and Zou, Y. and Adams, B.},
+  booktitle = {MSR},
+  title     = {Do faster releases improve software quality? An empirical case study of mozilla firefox},
+  pages     = {179–188},
+  date      = {2012},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{kim2012a,
+  author   = {Kim, S.},
+  title    = {ppcor: Partial and semi-partial (part) correlation},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {1384–1425},
+  url      = {http://bit.ly/XkWuyn},
+  volume   = {20},
+}
+
+@Misc{kitchenham2004a,
+  author   = {Kitchenham, B.},
+  title    = {Procedures for performing systematic reviews},
+  date     = {2004},
+  groups   = {backward_01, p_Mantyla2015},
+  issue    = {2004},
+  language = {cs},
+  volume   = {33},
+}
+
+@InProceedings{kong2009a,
+  author    = {Kong, S. and Kendall, J.E. and Kendall, K.E.},
+  booktitle = {Proc. of the Americas Conf. on Information Systems (AMCIS},
+  title     = {The challenge of improving software quality: Developers’ beliefs about the contribution of agile practices},
+  pages     = {12},
+  date      = {2009},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{k2012a,
+  journal  = {Fusion Eng Des},
+  title    = {Progress on standardization and automation in software development on w7x},
+  pages    = {2232–2237},
+  volume   = {87},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{landis1977a,
+  author   = {Landis, JR, Koch and G.G.},
+  title    = {The measurement of observer agreement for categorical data},
+  address  = {Biometrics159–174},
+  date     = {1977},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{lavoie2013a,
+  author   = {Lavoie, T. and Merlo, E.},
+  title    = {How much really changes? a case study of firefox version evolution using a clone detector},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {83–89},
+}
+
+@InProceedings{li2010a,
+  author    = {Li, J. and Moe, N.B. and Dyb°a, T.},
+  booktitle = {Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM},
+  title     = {Transition from a plan-driven process to scrum: a longitudinal case study on software quality},
+  pages     = {1–13 10},
+  volume    = {13},
+  date      = {2010},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{li2011a,
+  author   = {Li, X. and Li, Y. and Xie, M. and Ng, S.},
+  journal  = {Inf Softw Technol},
+  title    = {Reliability analysis and optimal version-updating for open source software},
+  pages    = {929–936},
+  volume   = {53},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{rs2013a,
+  author   = {RS, Ltd},
+  title    = {Web browsers (global marketshare},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {de},
+  url      = {http://bit.ly/81klgi},
+}
+
+@Misc{maalej2009a,
+  author   = {Maalej, W.},
+  title    = {Task-first or context-first? tool integration revisited},
+  date     = {2009},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {344–355},
+}
+
+@Article{ma2013a,
+  author   = {Ma ̈ntyla ̈ MV, Itkonen J},
+  journal  = {Inf Softw Technol},
+  title    = {More testers aˆA ̆ S ̧ the effect of crowd size and time restriction in software testing},
+  pages    = {986–1003},
+  volume   = {55},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@InProceedings{mantyla2013a,
+  author    = {Mantyla, M. and Khomh, F. and Adams, B. and Engstrom, E. and Petersen, K.},
+  booktitle = {Proceedings of the 29th IEEE International Conference on Software Maintenance (ICSM},
+  title     = {On rapid releases and software testing},
+  pages     = {20–29},
+  date      = {2013},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InProceedings{marschall2007a,
+  author    = {Marschall, M.},
+  booktitle = {Proc. of the conf. on AGILE},
+  title     = {Transforming a six month release cycle to continuous flow},
+  pages     = {395–400},
+  date      = {2007},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@InProceedings{martin2007a,
+  author    = {Martin, D. and Rooksby, J. and Rouncefield, M. and Sommerville, I.},
+  booktitle = {Software Engineering, 2007. ICSE 2007. 29th International Conference on, IEEE},
+  title     = {good’organisational reasons for’bad’software testing: An ethnographic study of testing in a small software company},
+  pages     = {602–611},
+  date      = {2007},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{mcdaniel1990a,
+  author   = {McDaniel, L.S.},
+  journal  = {J Account Res},
+  title    = {The effects of time pressure and audit program structure on audit performance},
+  pages    = {267–285},
+  volume   = {28},
+  date     = {1990},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{middleton2001a,
+  author   = {Middleton, P.},
+  journal  = {Software Qual J},
+  title    = {Lean software development two case studies},
+  pages    = {241–252},
+  volume   = {9},
+  date     = {2001},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{middleton2012a,
+  author   = {Middleton, P. and Joyce, D.},
+  journal  = {IEEE Trans Eng Manag},
+  title    = {Lean software management: Bbc worldwide case study},
+  pages    = {20–32},
+  volume   = {59},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{mozilla2013a,
+  author   = {Mozilla},
+  title    = {Litmus wiki},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {io},
+  url      = {http://mzl.la/evJmTW},
+}
+
+@Misc{mozilla2013b,
+  author   = {Mozilla},
+  title    = {Moztrap wiki},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {pl},
+  url      = {http://bit.ly/XBGMfu},
+}
+
+@Misc{mozilla2013c,
+  author   = {Mozilla},
+  title    = {Mozilla source code mercurial repositories},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{olsson2012a,
+  author   = {Olsson, H. and Alahyari, H. and Bosch, J.},
+  title    = {Climbing the “stairway to heaven” - a mulitiple-case study exploring barriers in the transition from agile development towards continuous deployment of software},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {392–399},
+}
+
+@Misc{olsson2013a,
+  author   = {Olsson, H. and Bosch, J. and Alahyari, H.},
+  title    = {Towards r&d as innovation experiment systems: a framework for moving beyond agile software development},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {798–805},
+}
+
+@InCollection{otte2008a,
+  author    = {Otte, T. and Moreton, R. and Knoell, H.D.},
+  booktitle = {Proceeding of the 32nd Annual IEEE Intl. Computer Software and Applications Conf. (COMPSAC},
+  title     = {Applied quality assurance methods under the open source development model},
+  pages     = {1247–1252},
+  date      = {2008},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{oza2012a,
+  author   = {Oza, N. and Ebert, C. and Abrahamsson, P.},
+  journal  = {IEEE Softw},
+  title    = {Lean software development},
+  pages    = {0022–25},
+  volume   = {29},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{paasivaara2003a,
+  author   = {Paasivaara, M. and Lassenius, C.},
+  journal  = {Softw Process Improv Pract},
+  title    = {Collaboration practices in global inter-organizational software development projects},
+  pages    = {183–199},
+  volume   = {8},
+  date     = {2003},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{patel2006a,
+  author   = {Patel, C. and Lycett, M. and Macredie, R. and De Cesare, S.},
+  title    = {Perceptions of agility and collaboration in software development practice},
+  date     = {2006},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {10},
+  volume   = {1},
+}
+
+@Misc{paul2011a,
+  author   = {Paul, R.},
+  title    = {Mozilla outlines 16-week firefox development cycle},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://bit.ly/fLHEfo},
+}
+
+@Misc{paul2012a,
+  author   = {Paul, R.},
+  title    = {Firefox extended support will mitigate rapid release challenges},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://ars.to/M2TbFQ},
+}
+
+@InProceedings{p2011a,
+  booktitle = {Empirical software engineering and measurement (ESEM), 2011 International Symposium on IEEE},
+  title     = {Obtaining thresholds for the effectiveness of business process mining},
+  pages     = {453–462},
+  date      = {2011},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Article{petersen2009a,
+  author   = {Petersen, K. and Wohlin, C.},
+  journal  = {J Syst Softw},
+  title    = {A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case},
+  pages    = {1479–1490},
+  volume   = {82},
+  date     = {2009},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{petersen2010a,
+  author   = {Petersen, K. and Wohlin, C.},
+  journal  = {Empir Softw Eng},
+  title    = {The effect of moving from a plan-driven to an incremental software development approach with agile practices},
+  pages    = {654–693},
+  volume   = {15},
+  date     = {2010},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{poppendieck2007a,
+  author    = {Poppendieck, M.},
+  journal   = {Companion to the proceedings of the 29th International Conference on Software Engineering, IEEE Computer Society},
+  title     = {Lean software development},
+  number    = {1384–1425},
+  pages     = {165–166},
+  volume    = {20},
+  date      = {2007},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+  publisher = {Empir Software Eng},
+}
+
+@Article{porter2006a,
+  author   = {Porter, A. and Yilmaz, C. and Memon, A.M. and Krishna, A.S. and Schmidt, D.C. and Gokhale, A.},
+  journal  = {Softw Process Improv Pract},
+  title    = {Techniques and processes for improving the quality and performance of open-source software},
+  pages    = {163–176},
+  volume   = {11},
+  date     = {2006},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@InCollection{rafi2012a,
+  booktitle = {Automation of Software Test (AST), 2012 7th International Workshop on, IEEE},
+  title     = {Benefits and limitations of automated software testing: Systematic literature review and practitioner survey},
+  pages     = {36–42},
+  date      = {2012},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Book{raymond1999a,
+  author    = {Raymond, E.S.},
+  publisher = {O’Reilly & Associates, Inc},
+  title     = {The Cathedral and the Bazaar},
+  address   = {Sebastopol},
+  edition   = {1st edn},
+  date      = {1999},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{reinertsen2009a,
+  author   = {Reinertsen, D.G.},
+  title    = {The principles of product development flow: second generation lean product development},
+  address  = {Celeritas Redondo Beach, Canada},
+  date     = {2009},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {es},
+}
+
+@Misc{rogmann2013a,
+  author   = {Rogmann, J.J.},
+  title    = {Orddom: Ordinal dominance statistics},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {io},
+  url      = {http://bit.ly/Y0K0eo},
+}
+
+@Article{ruhe2005a,
+  author   = {Ruhe, G. and Saliu, M.O.},
+  journal  = {IEEE Softw},
+  title    = {The art and science of software release planning},
+  pages    = {47–53},
+  volume   = {22},
+  date     = {2005},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{runeson2009a,
+  author   = {Runeson P, H ̈ost M},
+  journal  = {Empir Softw Eng},
+  title    = {Guidelines for conducting and reporting case study research in software engineering},
+  pages    = {131–164},
+  volume   = {14},
+  date     = {2009},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@InProceedings{schwaber1995a,
+  author    = {Schwaber, K.},
+  booktitle = {Proceedings of the 10th Annual ACM Conference on Object Oriented Programming Systems, Languages, and Applications (OOPSLA},
+  title     = {Scrum development process},
+  pages     = {117–134},
+  date      = {1995},
+  groups    = {backward_01, p_Mantyla2015},
+  language  = {en},
+}
+
+@Misc{shankland2010a,
+  author   = {Shankland, S.},
+  title    = {Google ethos speeds up chrome release cycle},
+  date     = {2010},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://cnet.co/wlS24U},
+}
+
+@Misc{shankland2011a,
+  author   = {Shankland, S.},
+  title    = {Rapid-release firefox meets corporate backlash},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://cnet.co/ktBsUU},
+}
+
+@Misc{sicore2011a,
+  author   = {Sicore, D.},
+  title    = {New channels for firefox rapid releases},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {fy},
+  url      = {http://bit.ly/hc1zmY},
+}
+
+@Article{sonnentag1994a,
+  author   = {Sonnentag, S. and Brodbeck, F.C. and Heinbokel, T. and Stolte, W.},
+  journal  = {J Occup Organ Psychol},
+  title    = {Stressor-burnout relationship in software development teams},
+  pages    = {327–341},
+  volume   = {67},
+  date     = {1994},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{sundmark2011a,
+  author   = {Sundmark, D. and Petersen, K. and Larsson, S.},
+  title    = {An exploratory case study of testing in an automotive electrical system release process},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  pages    = {166–175},
+}
+
+@Article{sz2011a,
+  author   = {̋oke ́A, Sz},
+  journal  = {Inf Softw Technol},
+  title    = {Conceptual scheduling model and optimized release scheduling for agile environments},
+  pages    = {574–591},
+  volume   = {53},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Article{torkar2011a,
+  author   = {Torkar R, Minoves P, Garrig ́os J},
+  journal  = {J Assoc Inf Syst},
+  title    = {Adopting free/libre/open source software practices, techniques and methods for industrial use},
+  pages    = {88–122},
+  volume   = {12},
+  date     = {2011},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+}
+
+@Misc{wikipedia2013a,
+  author   = {Wikipedia},
+  title    = {Firefox release history},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://bit.ly/Ngvfln},
+}
+
+@Misc{wikipedia2013b,
+  author   = {Wikipedia},
+  note     = {Support Release},
+  title    = {Extended support release},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {it},
+  url      = {http://bit.ly/ZlgqoM#Extended},
+}
+
+@Misc{wikipedia2013c,
+  author   = {Wikipedia},
+  title    = {Locale},
+  date     = {2013},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {it},
+  url      = {http://bit.ly/2iJLwB},
+}
+
+@Misc{versionone2012a,
+  author   = {VersionOne},
+  title    = {7th annual state of agile survey},
+  date     = {2012},
+  groups   = {backward_01, p_Mantyla2015},
+  language = {en},
+  url      = {http://www.versionone.com/pdf/7th-Annual-State-of-Agile-Development-Survey.pdf},
+}
+
+@Article{baskerville2004a,
+  author          = {Baskerville, R. and Pries-Heje, J.},
+  journal         = {Inf. Syst. J},
+  title           = {Short cycle time systems development},
+  note            = {Online]. Available:},
+  number          = {3},
+  pages           = {237–264,},
+  volume          = {14},
+  citation-number = {1},
+  date            = {2004},
+  groups          = {backward, p_Souza2014},
+  language        = {da},
+  url             = {http://dblp.uni-trier.de/db/journals/isj/isj14.html#},
+}
+
+@Misc{khomh2012a,
+  author          = {Khomh, F. and Dhaliwal, T. and Zou, Y. and Adams, B.},
+  note            = {Online]. Available:},
+  title           = {Do faster releases improve software quality? an empirical case study of mozilla firefox},
+  citation-number = {2},
+  date            = {2012},
+  editor          = {MSR, M.Lanza and Pent, M.D. and Xi, T.},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  pages           = {179–188},
+  publisher       = {IEEE},
+  url             = {http://dblp.uni-trier.de/db/conf/msr/},
+}
+
+@InProceedings{zimmermann2012a,
+  author          = {Zimmermann, T. and Nagappan, N. and Guo, P.J. and Murphy, B.},
+  booktitle       = {Proceedings of the 2012 International Conference on Software Engineering, ser. ICSE 2012},
+  title           = {Characterizing and predicting which bugs get reopened},
+  address         = {Piscataway, NJ, USA},
+  note            = {Online]. Available:},
+  pages           = {1074–1083},
+  publisher       = {IEEE Press},
+  citation-number = {3},
+  date            = {2012},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  url             = {http://dl.acm.org/citation.},
+}
+
+@Book{patton2005a,
+  author          = {Patton, R.},
+  publisher       = {Sams},
+  title           = {Software Testing},
+  address         = {Indianapolis, IN, USA},
+  edition         = {2nd},
+  citation-number = {4},
+  date            = {2005},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+}
+
+@InProceedings{g2008a,
+  booktitle       = {Proceedings of the 2008 conference of the center for advanced studies on collaborative research: meeting of minds, ser. CASCON ’08},
+  title           = {Is it a bug or an enhancement?: a text-based approach to classify change requests},
+  address         = {New York, NY, USA},
+  note            = {Online]. Available:},
+  pages           = {304–23 318},
+  publisher       = {ACM},
+  volume          = {23},
+  citation-number = {5},
+  date            = {2008},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  url             = {http://doi.acm.org/10.1145/1463788.1463819},
+}
+
+@TechReport{herzig2012a,
+  author          = {Herzig, K. and Just, S. and Zeller, A.},
+  institution     = {Universitt des Saarlandes},
+  title           = {It’s not a bug, it’s a feature: How misclassification impacts bug prediction},
+  address         = {Saarbrcken, Germany},
+  type            = {Tech. Rep.,},
+  citation-number = {6},
+  date            = {2012-08},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+}
+
+@InProceedings{mantyla2013a,
+  author          = {Mantyla, M. and Khomh, F. and Adams, B. and Engstrom, E. and Petersen, K.},
+  booktitle       = {Software Maintenance (ICSM), 2013 29th IEEE International Conference on},
+  title           = {On rapid releases and software testing},
+  pages           = {20–29},
+  citation-number = {7},
+  date            = {2013-09},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+}
+
+@Misc{jono2012a,
+  author          = {Jono},
+  title           = {Everybody hates firefox updates},
+  citation-number = {8},
+  date            = {2012},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  url             = {http://evilbrainjono.net/blog?permalink=1094.},
+}
+
+@Misc{dean2013a,
+  author          = {Dean, S.},
+  title           = {Firefox’s move to a rapid release cycle didn’t just upset users},
+  citation-number = {9},
+  date            = {2013},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  url             = {http://ostatic.com/blog/firefoxs-move-to-a-rapid-releasecycle-},
+}
+
+@InProceedings{shihab2010a,
+  author          = {Shihab, E. and Ihara, A. and Kamei, Y. and Ibrahim, W.M. and Ohira, M. and Adams, B. and Hassan, A.E. and Matsumoto, K.-i},
+  booktitle       = {Proceedings of the 2010 17th Working Conference on Reverse Engineering, ser. WCRE ’10},
+  title           = {Predicting re-opened bugs: A case study on the eclipse project},
+  address         = {Washington, DC, USA},
+  note            = {Online]. Available:},
+  pages           = {249–258},
+  publisher       = {IEEE Computer Society},
+  citation-number = {10},
+  date            = {2010},
+  doi             = {10.1109/WCRE.2010.36},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  url             = {http://dx.doi.org/10.1109/WCRE.2010.36},
+}
+
+@Thesis{shihab2012a,
+  address         = {Kingston, Ontario, Canada},
+  author          = {Shihab, E.},
+  citation-number = {11},
+  date            = {2012},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  school          = {School of Computing, Queen’s University},
+  title           = {An exploration of challenges limiting pragmatic software defect prediction},
+  type            = {Ph.D. dissertation,},
+}
+
+@Misc{almossawi2012a,
+  author          = {Almossawi, A.},
+  title           = {Investigating the architectural drivers of defects in open-source software systems: an empirical study of defects and reopened defects in gnome},
+  citation-number = {12},
+  date            = {2012},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+}
+
+@InProceedings{jongyindee2011a,
+  author          = {Jongyindee, A. and Ohira, M. and Ihara, A. and Matsumoto, K.-i},
+  booktitle       = {Proc. of the 2011 Joint Conf. of the 21st International Workshop on Softw. Measurement and the 6th International Conf. on Softw. Process and Product Measurement},
+  title           = {Good or bad committers? a case study of committers’ cautiousness and the consequences on the bug fixing process in the Eclipse project},
+  address         = {Washington, DC, USA},
+  note            = {Online]. Available:},
+  pages           = {116–125},
+  publisher       = {IEEE Computer Society},
+  citation-number = {13},
+  date            = {2011},
+  doi             = {10.1109/IWSM-MENSURA.2011.24},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  url             = {http://dx.doi.org/10.1109/IWSM-MENSURA.2011.24},
+}
+
+@Misc{mozilla2014a,
+  author          = {Mozilla},
+  title           = {Mozillawiki: Releases},
+  citation-number = {14},
+  date            = {2014},
+  groups          = {backward, p_Souza2014},
+  language        = {et},
+  url             = {https://wiki.mozilla.org/Releases.},
+}
+
+@Misc{mozilla2011a,
+  author          = {Mozilla},
+  title           = {Mozilla release processes},
+  citation-number = {15},
+  date            = {2011},
+  groups          = {backward, p_Souza2014},
+  language        = {fr},
+  url             = {http://mozilla.github.io/process-releases/.},
+}
+
+@InProceedings{souza2013a,
+  author          = {Souza, R. and Chavez, C. and Bittencourt, R.},
+  booktitle       = {Proc. of the 1st Workshop on Data Analysis Patterns in Softw. Engineering},
+  title           = {Patterns for cleaning up bug data},
+  publisher       = {IEEE},
+  citation-number = {16},
+  date            = {2013-05},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+}
+
+@Misc{mcdonald2009a,
+  author          = {McDonald, J. and Delaware, U.},
+  note            = {Online]. Available:},
+  title           = {Handbook of Biological Statistics},
+  citation-number = {17},
+  date            = {2009},
+  groups          = {backward, p_Souza2014},
+  language        = {en},
+  publisher       = {Sparky House Publishing},
+  url             = {http://books.},
+}
+
+@Article{zhang2013a,
+  author          = {Zhang, D.},
+  journal         = {IEEE Software},
+  title           = {Software Analytics in Practice},
+  number          = {5},
+  pages           = {30–37},
+  volume          = {30},
+  citation-number = {1.},
+  date            = {2013},
+  groups          = {backward_01, p_Souza2015},
+  language        = {en},
+}
+
+@Book{unknown2014a,
+  publisher       = {MozillaWiki, Mozilla},
+  title           = {Releases},
+  citation-number = {2.},
+  date            = {2014},
+  groups          = {backward_01, p_Souza2015},
+  language        = {fi},
+  url             = {https://wiki.mozilla.org/Releases.},
+}
+
+@Article{unknown2014b,
+  journal         = {Mozilla},
+  title           = {Committing Rules and Responsibilities},
+  citation-number = {3.},
+  date            = {2014},
+  groups          = {backward_01, p_Souza2015},
+  language        = {it},
+  url             = {https://developer.mozilla},
+}
+
+@Book{unknown2014c,
+  publisher       = {Mozilla},
+  title           = {Tree Rules/Integration},
+  citation-number = {4.},
+  date            = {2014},
+  groups          = {backward_01, p_Souza2015},
+  language        = {sv},
+  url             = {https://wiki.mozilla.org/Tree_Rules/Integration.},
+}
+
+@Article{baker2011a,
+  author          = {Baker, M.},
+  journal         = {blog},
+  title           = {Rapid Release Follow-Up},
+  citation-number = {5.},
+  date            = {2011-10-03},
+  groups          = {backward_01, p_Souza2015},
+  language        = {nl},
+  url             = {http://blog.lizardwrangler.com/?p=2996.},
+}
+
+@InCollection{plewnia2014a,
+  author          = {Plewnia, C. and Dyck, A. and Lichter, H.},
+  booktitle       = {2nd Int’l Workshop Release Eng},
+  title           = {On the Influence of Release Engineering on Software Reputation},
+  citation-number = {1.},
+  date            = {2014},
+  groups          = {backward_01, p_Souza2015},
+  language        = {en},
+  url             = {http://releng.polymtl.ca/RELENG2014/html/proceedings/releng2014_submission__3.pdf.},
+}
+
+@InProceedings{maentylae2013a,
+  author          = {Mäntylä, M.},
+  booktitle       = {Proc. 29th IEEE Int’l Conf. Software Maintenance (ICSM},
+  title           = {On Rapid Releases and Software Testing},
+  pages           = {20–29},
+  volume          = {13},
+  citation-number = {2.},
+  date            = {2013},
+  groups          = {backward_01, p_Souza2015},
+  language        = {en},
+}
+
+@InProceedings{khomh2012a,
+  author          = {Khomh, F.},
+  booktitle       = {Proc. 9th IEEE Working Conf. Mining Software Repositories (MSR},
+  title           = {Do Faster Releases Improve Software Quality? An Empirical Case Study of Mozilla Firefox},
+  pages           = {179–188},
+  volume          = {12},
+  citation-number = {3.},
+  date            = {2012},
+  groups          = {backward_01, p_Souza2015},
+  language        = {en},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -5998,12 +8034,14 @@
 1 StaticGroup:selected\;0\;1\;0x008000ff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_title\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_abstract\;0\;1\;0xff0000ff\;\;\;;
-2 StaticGroup:excluded_doubt\;0\;1\;0xffff00ff\;\;\;;
 2 StaticGroup:excluded_language\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_grey\;0\;1\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_abstract\;0\;1\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_intro\;0\;1\;0xff0000ff\;\;\;;
+2 StaticGroup:excluded_content\;0\;1\;0xff0000ff\;\;\;;
+2 StaticGroup:doubt\;0\;1\;0xffff00ff\;\;\;;
 1 StaticGroup:phase\;2\;1\;0xffffffff\;\;\;;
-2 StaticGroup:phase_start\;0\;1\;0xffffffff\;\;\;;
+2 StaticGroup:phase_start\;0\;1\;0xb3b3b3ff\;\;\;;
 2 StaticGroup:forward\;2\;1\;0x0000ffff\;\;\;;
 3 StaticGroup:forward_01\;0\;1\;0x0000ffff\;\;\;;
 2 StaticGroup:backward\;2\;1\;0x00ffffff\;\;\;;
@@ -6019,8 +8057,8 @@
 2 StaticGroup:p_Kerzazi2014b\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:p_Mantyla2013\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:p_Mantyla2015\;0\;1\;0xffffffff\;\;\;;
-2 StaticGroup:p_Souza2015\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:p_Souza2014\;0\;1\;0xffffffff\;\;\;;
+2 StaticGroup:p_Souza2015\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:p_Tichy2015\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:p_Lopez2018\;0\;1\;0xffffffff\;\;\;;
 }
