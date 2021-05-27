@@ -11,7 +11,7 @@
 
 # RQ1. What characterizes a rapid release cycle?
 
-The authors use Firefox rapid release cycle, which comprises a major release every six weeks.
+The authors use Firefox rapid release cycle, which comprises a release every six weeks.
 
 # RQ2. What are the implications of adopting a rapid release cycle?
 
