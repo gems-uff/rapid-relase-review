@@ -43,3 +43,5 @@ The authors conducted statistical tests  (Mann-Whitney-Wilcoxon tests and Cliff'
 
 # RQ6. What corpus do the studies use to compare rapid and traditional releases?
 
+  - Firefox traditional releases 1.0 to 4.0.
+  - Firefox rapid releases 5 to 27.

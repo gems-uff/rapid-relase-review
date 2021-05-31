@@ -377,7 +377,7 @@
   groups    = {selected, start_set},
 }
 
-@InProceedings{da2016impact,
+@InProceedings{daCosta2016impact,
   author    = {da Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E},
   booktitle = {Proceedings of the 13th International Conference on Mining Software Repositories},
   title     = {The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the mozilla firefox project},
@@ -408,7 +408,7 @@
   publisher = {Springer},
 }
 
-@Article{da2018impact,
+@Article{daCosta2018impact,
   author    = {da Costa, Daniel Alencar and McIntosh, Shane and Treude, Christoph and Kulesza, Uir{\'a} and Hassan, Ahmed E},
   journal   = {Empirical Software Engineering},
   title     = {The impact of rapid release cycles on the integration delay of fixed issues},
