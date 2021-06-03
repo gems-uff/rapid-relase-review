@@ -3366,7 +3366,7 @@
   year            = {2007},
   address         = {Minneapolis, MN},
   citation-number = {1.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
   pages           = {85–103},
 }
@@ -3391,7 +3391,7 @@
   pages           = {929–948},
   volume          = {27},
   citation-number = {3.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3441,7 +3441,7 @@
   pages           = {119–129},
   publisher       = {IEEE},
   citation-number = {7.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3490,7 +3490,7 @@
   year            = {2003},
   volume          = {28},
   citation-number = {11.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
   pages           = {128–137},
 }
@@ -3504,7 +3504,7 @@
   pages           = {252–261},
   publisher       = {IEEE},
   citation-number = {12.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3530,7 +3530,7 @@
   pages           = {329–338},
   publisher       = {IEEE Computer Society},
   citation-number = {14.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3542,7 +3542,7 @@
   address         = {London, UK},
   pages           = {140–150},
   citation-number = {15.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3619,7 +3619,7 @@
   pages           = {1–14},
   publisher       = {IBM Press},
   citation-number = {21.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3632,7 +3632,7 @@
   pages           = {799–808},
   volume          = {51},
   citation-number = {22.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3645,7 +3645,7 @@
   pages           = {64–73},
   publisher       = {Noosa Heads},
   citation-number = {23.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3657,7 +3657,7 @@
   address         = {Chicago, IL},
   pages           = {201–212},
   citation-number = {24.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3670,7 +3670,7 @@
   pages           = {225–237},
   volume          = {33},
   citation-number = {25.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3683,7 +3683,7 @@
   pages           = {233–244},
   publisher       = {IEEE},
   citation-number = {26.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3739,7 +3739,7 @@
   title           = {Manifesto for agile software development},
   year            = {2007},
   citation-number = {31.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3788,7 +3788,7 @@
   pages           = {442–453},
   publisher       = {IEEE},
   citation-number = {35.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3825,7 +3825,7 @@
   year            = {2009},
   pages           = {776–780},
   citation-number = {38.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
@@ -3837,7 +3837,7 @@
   address         = {Chicago, IL},
   pages           = {469–473},
   citation-number = {39.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing},
   language        = {en},
 }
 
