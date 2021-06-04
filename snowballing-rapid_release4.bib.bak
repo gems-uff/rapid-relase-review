@@ -3101,7 +3101,7 @@
   school = {Universit{\'e} de Paris},
   title  = {Challenges in the collaborative evolution of a proof language and its ecosystem},
   year   = {2019},
-  groups = {forward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, excluded_ec05_docs},
+  groups = {forward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs},
 }
 
 @PhdThesis{el2019leveraging,
