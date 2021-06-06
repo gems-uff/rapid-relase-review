@@ -457,7 +457,7 @@
   year     = {2006},
   pages    = {29–36},
   volume   = {8},
-  groups   = {backward_1, need_check, mantyla2015rapid},
+  groups   = {backward_1, mantyla2015rapid, selected},
   language = {en},
 }
 
@@ -644,7 +644,7 @@
   title    = {Shorten release cycles aby bringing developers to application lifecycle management},
   year     = {2012},
   note     = {Retrieved on February 08, 2012},
-  groups   = {backward_1, need_check, khomh2015understanding, mantyla2015rapid, mantyla2013rapid},
+  groups   = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec03_unavailable, excluded_phase_title},
   language = {en},
 }
 
@@ -682,7 +682,7 @@
   title     = {Visual surveillance: a systems engineering approach for rapid development},
   year      = {2005},
   pages     = {161–166},
-  groups    = {backward_1, need_check, mantyla2015rapid},
+  groups    = {backward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_abstract},
   language  = {en},
 }
 
@@ -803,7 +803,7 @@
   year     = {2001},
   pages    = {241–252},
   volume   = {9},
-  groups   = {backward_1, need_check, mantyla2015rapid},
+  groups   = {backward_1, mantyla2015rapid, excluded_phase_text, excluded_ec01_unrelated},
   language = {en},
 }
 
@@ -893,7 +893,7 @@
   year     = {2009},
   pages    = {1479–1490},
   volume   = {82},
-  groups   = {backward_1, mantyla2013rapid, need_check, mantyla2015rapid},
+  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, selected},
   language = {en},
 }
 
@@ -987,7 +987,7 @@
   title     = {Scrum development process},
   year      = {1995},
   pages     = {117–134},
-  groups    = {backward_1, need_check, mantyla2015rapid, daCosta2018impact},
+  groups    = {backward_1, mantyla2015rapid, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_text},
   language  = {en},
 }
 
@@ -1427,7 +1427,7 @@
   address         = {Kingston, Ontario, Canada},
   month           = jun,
   citation-number = {33},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, need_check, souza2015rapid, khomh2015understanding, mantyla2015rapid},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected},
   language        = {en},
 }
 
@@ -1596,7 +1596,7 @@
   pages           = {185 185},
   publisher       = {IEEE},
   citation-number = {48},
-  groups          = {backward_1, clark2014moving, need_check},
+  groups          = {backward_1, clark2014moving, need_check, doubt},
   language        = {en},
 }
 
@@ -3256,11 +3256,11 @@
   groups    = {forward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
 }
 
-@Article{guo2019impact,
+@MastersThesis{guo2019impact,
   author = {GUO, YUNFANG},
   title  = {The Impact of Adopting Continuous Integration on the Delivery Time of Pull Requests: A Partial Replication and Extension},
   year   = {2019},
-  groups = {forward_1, daCosta2016impact, need_check},
+  groups = {forward_1, daCosta2016impact, excluded_ec05_docs, excluded_phase_title},
 }
 
 @InProceedings{kula2018characterizing,
@@ -3289,7 +3289,7 @@
   year      = {2020},
   pages     = {618--625},
   volume    = {170},
-  groups    = {forward_1, daCosta2016impact, need_check},
+  groups    = {forward_1, daCosta2016impact, excluded_phase_abstract, excluded_ec01_unrelated},
   publisher = {Elsevier},
 }
 
@@ -3544,7 +3544,7 @@
   school = {Blekinge Tekniska H{\"o}gskola},
   title  = {Introduction of Agile Practices: Strategies and Impacts},
   year   = {2018},
-  groups = {forward_1, mantyla2015rapid, need_check, excluded_ec05_docs, excluded_phase_title},
+  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
 }
 
 @Article{paasivaarabottom,
@@ -3582,17 +3582,6 @@
   year      = {2019},
   groups    = {forward_1, mantyla2015rapid, need_check},
   publisher = {Helsingin yliopisto},
-}
-
-@InProceedings{kula2017understanding,
-  author       = {Kula, Raula Gaikovina and Matsumoto, Kenichi},
-  booktitle    = {Open Source Systems: Towards Robust Practices: 13th IFIP WG 2.13 International Conference, OSS 2017, Buenos Aires, Argentina, May 22-23, 2017, Proceedings},
-  title        = {Understanding When to Adopt a Library: A Case Study on ASF Projects},
-  year         = {2017},
-  organization = {Springer},
-  pages        = {128},
-  volume       = {496},
-  groups       = {forward_1, mantyla2015rapid, need_check},
 }
 
 @Article{karvonenascientiae,
@@ -3648,7 +3637,7 @@
   title     = {Releasing fast and slow: an exploratory case study at ING},
   year      = {2019},
   pages     = {785--795},
-  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, need_check},
+  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected},
 }
 
 @Article{dang2019efficiently,
@@ -3675,7 +3664,7 @@
   author = {Shahin, Mojtaba},
   title  = {An empirical study of architecting and organizing for DevOps},
   year   = {2018},
-  groups = {forward_1, mantyla2015rapid, need_check, excluded_ec05_docs, excluded_phase_title},
+  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
 }
 
 @InProceedings{haghighatkhah2018test,
@@ -3816,7 +3805,7 @@
   year         = {2017},
   organization = {Springer, Cham},
   pages        = {128--138},
-  groups       = {forward_1, mantyla2015rapid, need_check},
+  groups       = {forward_1, mantyla2015rapid, selected},
 }
 
 @InProceedings{barreira2016analysis,
@@ -4348,7 +4337,7 @@
   year      = {2019},
   month     = apr,
   abstract  = {L'ing\'enierie de production (release engineering) englobe toutes les activit\'es visant \`a \guillemotleft construire un pipeline qui transforme le code source en un produit int\'egr\'e, compil\'e, empaquet\'e, test\'e et sign\'e pr\^et \`a \^etre publier\guillemotright. La strat\'egie des production et les pratiques de publication peuvent avoir un impact sur la qualit\'e d'un produit logiciel. Bien que cet impact ait \'et\'e longuement discut\'e et \'etudi\'e dans la communaut\'e du g\'enie logiciel, il reste encore plusieurs probl\`emes \`a r\'esoudre. Cette th\`ese s'attaque \`a quelque-uns de ces probl\`emes non r\'esoulus de l'ing\'enierie de production en vue de proposer des solutions. En particulier, nous investigons : 1) pourquoi les activit\'es de r\'evision de code (code review) peuvent rater des erreurs de code susceptibles de causer des plantages (crashs); (2) comment pr\'evenir les bogues lors de l'approbation et l'int\'egration des patches urgents; 3) dans un \'ecosyst\`eme logiciel, comment att\'enuer le risque de bogues dus \`a des injections de DLL. Nous avons choisi d'\'etudier ces probl\`emes car ils correspondent \`a trois phases importantes des processus de production de logiciels, c'est-\`a-dire la r\'evision de code, les patches urgents, et la publication de logiciels dans un \'ecosyst\`eme. Les solutions \`a ces probl\`emes peuvent aider les entreprises de logiciels \`a am\'eliorer leur strat\'egie de production et de publication. Ce qui augmentera leur productivit\'e de d\'eveloppement et la qualit\'e g\'en\'erale de leurs produits logiciels.----------ABSTRACT: Release engineering encompasses all the activities aimed at ``building a pipeline that transforms source code into an integrated, compiled, packaged, tested, and signed product that is ready for release''. The strategy of the release processes and practices can impact the quality of a software artefact. Although such impact has been extensively discussed and studied in the software engineering community, there are still many pending issues to resolve. The goal of this thesis is to study and solve some of these pending issues. More specifically, we examine 1) why code review practices can miss crash-prone code; 2) how urgent patches (also called patch uplift) are approved to release and how to prevent regressions due to urgent patches; 3) in a software ecosystem, how to mitigate the risk of defects due to DLL injections. We chose to study these problems because they correspond to three important phases of software release processes, i.e., code review, patch uplift, and releasing software in an ecosystem. The solutions of these problems can help software organizations improve their release strategy; increasing their development productivity and the overall user-perceived quality of their products.},
-  groups    = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, daCosta2016impact, need_check, excluded_ec05_docs, excluded_phase_title},
+  groups    = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, daCosta2016impact, excluded_ec05_docs, excluded_phase_title},
   language  = {en},
   timestamp = {2020-10-29T21:16:32Z},
 }
@@ -4379,7 +4368,7 @@
   pages      = {243--247},
   abstract   = {During the past years, overload at work leading to psychological diseases, such as burnouts, have drawn more public attention. This paper is a preliminary step toward an analysis of the work patterns and possible indicators of overload and time pressure on software developers with mining software repositories approach. We explore the working pattern of developers in the context of Mozilla Firefox, a large and long-lived open source project. To that end we investigate the impact of the move from traditional to rapid release cycle on work pattern. Moreover we compare Mozilla Firefox work pattern with another Mozilla product, Firefox OS, which has a different release cycle than Firefox. We find that both projects exhibit healthy working patterns, i.e. lower activity during the weekends and outside of office hours. Firefox experiences proportionally more activity on weekends than Firefox OS (Cohen's d = 0.94). We find that switching to rapid releases has reduced weekend work (Cohen's d = 1.43) and working during the night (Cohen's d = 0.45). This result holds even when we limit the analyzes on the hired resources, i.e. considering only individuals with Mozilla foundation email address, although, the effect sizes are smaller for weekends (Cohen's d = 0.64) and nights (Cohen's d = 0.23). Moreover, we use dissimilarity word clouds and find that work during the weekend is more technical while work during the week expresses more positive sentiment with words like "good" and "nice". Our results suggest that moving to rapid releases have positive impact on the work health and work-life-balance of software engineers. However, caution is needed as our results are based on a limited set of quantitative data from a single organization.},
   doi        = {10.1109/MSR.2017.3},
-  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, need_check},
+  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected},
   keywords   = {abnormal working hours,bugzilla,burnouts,Computer bugs,Data mining,diseases,Diseases,dissimilarity word clouds,Electronic mail,empirical software engineering,firefox,Firefox OS,human factors,mozilla,Mozilla Firefox work pattern,open source project,psychological diseases,psychology,Psychology,public domain software,rapid releases,release,Software,software developers,software engineer work health,software engineer work-life-balance,software engineering,software repositories approach,Switches,time pressure,weekend,work content,working pattern},
   shorttitle = {Abnormal {{Working Hours}}},
   timestamp  = {2020-10-29T20:49:21Z},
@@ -4470,7 +4459,7 @@
   annote    = {Accepted: 2016-12-02T18:19:44Z},
   copyright = {Available to the World Wide Web},
   file      = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\7XAPABBI\\Poo-Caamaño - 2016 - Release management in free and open source softwar.pdf:application/pdf},
-  groups    = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, need_check, excluded_ec05_docs, excluded_phase_title},
+  groups    = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title},
   language  = {en},
   timestamp = {2020-10-29T20:58:39Z},
 }
@@ -4602,7 +4591,7 @@
   school = {Universit{\"a}t Passau},
   title  = {Activity of Core and Peripheral Developers: A Case Study on Mozilla Firefox},
   year   = {2017},
-  groups = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, need_check, excluded_ec05_docs, excluded_phase_title},
+  groups = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title},
 }
 
 @Book{hassan2018studying,
@@ -4819,7 +4808,7 @@
   author = {Bishop, Dave and Rowland, Pam},
   title  = {AGILE AND SECURE SOFTWARE DEVELOPMENT: AN UNFINISHED STORY},
   year   = {2019},
-  groups = {forward_1, clark2014moving, need_check},
+  groups = {forward_1, clark2014moving, need_check, doubt},
 }
 
 @Article{jeske2020big,
@@ -5131,15 +5120,17 @@
 0 AllEntriesGroup:;
 1 StaticGroup:selected\;0\;1\;0x008000ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
+1 StaticGroup:doubt\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec02_language\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec04_cover\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec05_docs\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec03_unavailable\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
 3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_abstract\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_intro\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:step\;2\;1\;0x8a8a8aff\;\;\;;
