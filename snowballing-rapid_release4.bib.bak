@@ -242,7 +242,7 @@
   number     = {2},
   pages      = {89--96},
   volume     = {32},
-  groups     = {start_set, backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Firefox},
+  groups     = {start_set, backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
   keywords   = {read},
   publisher  = {IEEE},
   readstatus = {read},
@@ -266,7 +266,7 @@
   number    = {6},
   pages     = {e1609},
   volume    = {27},
-  groups    = {start_set, forward_1, hemmati2015prioritizing, mantyla2015rapid, selected, Firefox},
+  groups    = {start_set, forward_1, hemmati2015prioritizing, mantyla2015rapid, selected, Firefox, Recorded},
   publisher = {Wiley Online Library},
 }
 
@@ -332,7 +332,7 @@
   number    = {2},
   pages     = {336--373},
   volume    = {20},
-  groups    = {start_set, forward_1, mantyla2013rapid, selected, Firefox},
+  groups    = {start_set, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
   publisher = {Springer},
 }
 
@@ -353,7 +353,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {20--29},
-  groups       = {start_set, backward_1, souza2015rapid, selected, Firefox},
+  groups       = {start_set, backward_1, souza2015rapid, selected, Firefox, Recorded},
 }
 
 @InProceedings{clark2014moving,
@@ -362,7 +362,7 @@
   title     = {Moving targets: Security and rapid-release in firefox},
   year      = {2014},
   pages     = {1256--1266},
-  groups    = {start_set, selected, Firefox},
+  groups    = {start_set, selected, Firefox, Recorded},
 }
 
 @InProceedings{daCosta2016impact,
@@ -371,7 +371,7 @@
   title     = {The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the mozilla firefox project},
   year      = {2016},
   pages     = {374--385},
-  groups    = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Firefox},
+  groups    = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Firefox, Recorded, Firefox},
 }
 
 @InProceedings{hemmati2015prioritizing,
@@ -381,7 +381,7 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {1--10},
-  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Firefox},
+  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Firefox, Recorded},
 }
 
 @Article{mantyla2015rapid,
@@ -392,7 +392,7 @@
   number    = {5},
   pages     = {1384--1425},
   volume    = {20},
-  groups    = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Firefox},
+  groups    = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
   publisher = {Springer},
 }
 
@@ -404,7 +404,7 @@
   number    = {2},
   pages     = {835--904},
   volume    = {23},
-  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Firefox},
+  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Firefox, Recorded},
   publisher = {Springer},
 }
 
@@ -457,7 +457,7 @@
   year     = {2006},
   pages    = {29–36},
   volume   = {8},
-  groups   = {backward_1, mantyla2015rapid, selected},
+  groups   = {backward_1, mantyla2015rapid, selected, Other reports},
   language = {en},
 }
 
@@ -467,17 +467,17 @@
   title     = {A tale of two browsers},
   year      = {2011},
   pages     = {238–241},
-  groups    = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, daCosta2016impact, daCosta2018impact, selected},
+  groups    = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, daCosta2016impact, daCosta2018impact, excluded_phase_text, excluded_ec01_unrelated},
   language  = {en},
 }
 
-@Misc{begel2007a,
+@InProceedings{begel2007a,
   author   = {Begel, A. and Nagappan, N.},
   title    = {Usage and perceptions of agile software development in an industrial context: an exploratory study},
   year     = {2007},
-  groups   = {backward_1, mantyla2015rapid, selected},
-  language = {en},
   pages    = {255–264},
+  groups   = {backward_1, mantyla2015rapid, selected, Other Studies},
+  language = {en},
 }
 
 @Misc{bell2006a,
@@ -724,13 +724,13 @@
   language = {en},
 }
 
-@Misc{lavoie2013a,
+@InProceedings{lavoie2013a,
   author   = {Lavoie, T. and Merlo, E.},
   title    = {How much really changes? a case study of firefox version evolution using a clone detector},
   year     = {2013},
-  groups   = {backward_1, mantyla2015rapid, selected},
-  language = {en},
   pages    = {83–89},
+  groups   = {backward_1, mantyla2015rapid, selected, Firefox},
+  language = {en},
 }
 
 @InProceedings{li2010a,
@@ -740,7 +740,7 @@
   year      = {2010},
   pages     = {1–13 10},
   volume    = {13},
-  groups    = {backward_1, mantyla2013rapid, mantyla2015rapid, selected},
+  groups    = {backward_1, mantyla2013rapid, mantyla2015rapid, selected, Others},
   language  = {en},
 }
 
@@ -825,7 +825,7 @@
   year      = {2012},
   pages     = {392-399},
   doi       = {10.1109/SEAA.2012.54},
-  groups    = {backward_1, mantyla2015rapid, selected},
+  groups    = {backward_1, mantyla2015rapid, selected, Others},
 }
 
 @Misc{olsson2013a,
@@ -894,7 +894,7 @@
   year     = {2009},
   pages    = {1479–1490},
   volume   = {82},
-  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, selected},
+  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, selected, Other Studies},
   language = {en},
 }
 
@@ -905,7 +905,7 @@
   year     = {2010},
   pages    = {654–693},
   volume   = {15},
-  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, selected},
+  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, selected, Others},
   language = {en},
 }
 
@@ -996,7 +996,7 @@
   author   = {Shankland, S.},
   title    = {Google ethos speeds up chrome release cycle},
   year     = {2010},
-  groups   = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, selected, excluded_ec07_news},
+  groups   = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news},
   language = {en},
   url      = {https://www.cnet.com/news/google-ethos-speeds-up-chrome-release-cycle/},
 }
@@ -1428,7 +1428,7 @@
   address         = {Kingston, Ontario, Canada},
   month           = jun,
   citation-number = {33},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox},
   language        = {en},
 }
 
@@ -1815,7 +1815,7 @@
   title     = {Transforming a six month release cycle to continuous flow},
   year      = {2007},
   pages     = {395–400},
-  groups    = {backward_1, khomh2015understanding, mantyla2015rapid, selected},
+  groups    = {backward_1, khomh2015understanding, mantyla2015rapid, selected, Other reports},
   language  = {en},
 }
 
@@ -2226,7 +2226,7 @@
   title           = {Firefox extended support will mitigate rapid release challenges},
   year            = {2012},
   citation-number = {22},
-  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, selected, excluded_ec07_news},
+  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec07_news},
   language        = {en},
   url             = {https://arstechnica.com/information-technology/2012/01/firefox-extended-support-will-mitigate-rapid-release-challenges/},
 }
@@ -2263,7 +2263,7 @@
   year            = {2010},
   pages           = {231–240},
   citation-number = {30},
-  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, selected},
+  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, selected, Other Studies},
   language        = {en},
 }
 
@@ -2426,7 +2426,7 @@
   pages           = {81 88},
   volume          = {number 2},
   citation-number = {25},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, selected},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, selected, Other Studies},
   language        = {en},
   publisher       = {IEEE},
 }
@@ -2736,7 +2736,7 @@
   title     = {Modern release engineering in a nutshell: why researchers should care},
   year      = {2016},
   pages     = {78–90},
-  groups    = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, selected},
+  groups    = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, selected, Others},
   language  = {en},
 }
 
@@ -3026,7 +3026,7 @@
   title     = {Do rapid releases affect bug reopening? a case study of firefox},
   year      = {2014},
   pages     = {31–40},
-  groups    = {backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected},
+  groups    = {backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Firefox},
   language  = {nl},
 }
 
@@ -3270,7 +3270,7 @@
   title     = {Characterizing Rapid Releases in a Large Banking Company: A Case Study.},
   year      = {2018},
   pages     = {56--60},
-  groups    = {forward_1, daCosta2016impact, mantyla2015rapid, selected},
+  groups    = {forward_1, daCosta2016impact, mantyla2015rapid, selected, Other Studies},
 }
 
 @InProceedings{suwa2017analysis,
@@ -3357,7 +3357,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {411--421},
-  groups       = {forward_1, daCosta2016impact, selected},
+  groups       = {forward_1, daCosta2016impact, excluded_phase_text, excluded_ec01_unrelated},
 }
 
 @InProceedings{matzke1992physics,
@@ -3377,7 +3377,7 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {1--12},
-  groups       = {forward_1, daCosta2016impact, daCosta2018impact, selected},
+  groups       = {forward_1, daCosta2016impact, daCosta2018impact, selected, Other Studies},
 }
 
 @InProceedings{palomba2017recommending,
@@ -3445,7 +3445,7 @@
   title     = {On Understanding the Release Patterns of Open Source Java Projects},
   year      = {2019},
   pages     = {9--18},
-  groups    = {forward_1, mantyla2015rapid, khomh2015understanding, selected},
+  groups    = {forward_1, mantyla2015rapid, khomh2015understanding, selected, Other Studies},
 }
 
 @Article{gustafsson2019machine,
@@ -3619,7 +3619,7 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {587--591},
-  groups       = {forward_1, mantyla2015rapid, selected},
+  groups       = {forward_1, mantyla2015rapid, selected, Dataset},
 }
 
 @InCollection{da2018tools,
@@ -3638,7 +3638,7 @@
   title     = {Releasing fast and slow: an exploratory case study at ING},
   year      = {2019},
   pages     = {785--795},
-  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected},
+  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected, Other Studies},
 }
 
 @Article{dang2019efficiently,
@@ -3751,7 +3751,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {569--570},
-  groups       = {forward_1, mantyla2015rapid, selected},
+  groups       = {forward_1, mantyla2015rapid, selected, Other Studies},
 }
 
 @Article{shahin2019empirical,
@@ -3806,7 +3806,7 @@
   year         = {2017},
   organization = {Springer, Cham},
   pages        = {128--138},
-  groups       = {forward_1, mantyla2015rapid, selected},
+  groups       = {forward_1, mantyla2015rapid, selected, Other Studies},
 }
 
 @InProceedings{barreira2016analysis,
@@ -3970,7 +3970,7 @@
   number    = {3},
   pages     = {86--95},
   volume    = {34},
-  groups    = {forward_1, mantyla2015rapid, selected},
+  groups    = {forward_1, mantyla2015rapid, selected, Other Studies},
   publisher = {IEEE},
 }
 
@@ -4024,7 +4024,7 @@
   number    = {2},
   pages     = {50--54},
   volume    = {32},
-  groups    = {forward_1, mantyla2015rapid, selected},
+  groups    = {forward_1, mantyla2015rapid, selected, Other reports},
   publisher = {IEEE},
 }
 
@@ -4369,7 +4369,7 @@
   pages      = {243--247},
   abstract   = {During the past years, overload at work leading to psychological diseases, such as burnouts, have drawn more public attention. This paper is a preliminary step toward an analysis of the work patterns and possible indicators of overload and time pressure on software developers with mining software repositories approach. We explore the working pattern of developers in the context of Mozilla Firefox, a large and long-lived open source project. To that end we investigate the impact of the move from traditional to rapid release cycle on work pattern. Moreover we compare Mozilla Firefox work pattern with another Mozilla product, Firefox OS, which has a different release cycle than Firefox. We find that both projects exhibit healthy working patterns, i.e. lower activity during the weekends and outside of office hours. Firefox experiences proportionally more activity on weekends than Firefox OS (Cohen's d = 0.94). We find that switching to rapid releases has reduced weekend work (Cohen's d = 1.43) and working during the night (Cohen's d = 0.45). This result holds even when we limit the analyzes on the hired resources, i.e. considering only individuals with Mozilla foundation email address, although, the effect sizes are smaller for weekends (Cohen's d = 0.64) and nights (Cohen's d = 0.23). Moreover, we use dissimilarity word clouds and find that work during the weekend is more technical while work during the week expresses more positive sentiment with words like "good" and "nice". Our results suggest that moving to rapid releases have positive impact on the work health and work-life-balance of software engineers. However, caution is needed as our results are based on a limited set of quantitative data from a single organization.},
   doi        = {10.1109/MSR.2017.3},
-  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected},
+  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected, Firefox, Recorded},
   keywords   = {abnormal working hours,bugzilla,burnouts,Computer bugs,Data mining,diseases,Diseases,dissimilarity word clouds,Electronic mail,empirical software engineering,firefox,Firefox OS,human factors,mozilla,Mozilla Firefox work pattern,open source project,psychological diseases,psychology,Psychology,public domain software,rapid releases,release,Software,software developers,software engineer work health,software engineer work-life-balance,software engineering,software repositories approach,Switches,time pressure,weekend,work content,working pattern},
   shorttitle = {Abnormal {{Working Hours}}},
   timestamp  = {2020-10-29T20:49:21Z},
@@ -4430,7 +4430,7 @@
   title      = {The {{Impact}} of {{Digital Platform Rapid Release Strategy}} on {{App Update Behavior}}: {{An Empirical Study}} of {{Firefox}}},
   year       = {2019},
   month      = nov,
-  groups     = {forward_1, daCosta2018impact, mantyla2015rapid, clark2014moving, forward_01, p_Khomh2015_forward, p_Costa2018_forward, khomh2015understanding, selected},
+  groups     = {forward_1, daCosta2018impact, mantyla2015rapid, clark2014moving, forward_01, p_Khomh2015_forward, p_Costa2018_forward, khomh2015understanding, selected, Firefox},
   shorttitle = {The {{Impact}} of {{Digital Platform Rapid Release Strategy}} on {{App Update Behavior}}},
   timestamp  = {2020-10-29T19:55:33Z},
 }
@@ -4528,7 +4528,7 @@
   volume    = {35},
   abstract  = {Recently, many software companies have shifted to shorter release cycles from the traditional multi-month release cycle. Evolution and transition of release cycles may affect the test effort in the system. This paper analyses 25 traditional releases},
   doi       = {10.3233/JIFS-169703},
-  groups    = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, mantyla2015rapid, selected},
+  groups    = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, mantyla2015rapid, selected, Other Studies},
   language  = {en},
   publisher = {{IOS Press}},
   timestamp = {2020-10-29T21:04:40Z},
@@ -4748,12 +4748,6 @@
   groups  = {forward_1, souza2015rapid, excluded_ec04_cover, excluded_phase_title},
 }
 
-@Article{costaimpact,
-  author = {Costa, Daniel A},
-  title  = {The Impact of Switching to a Rapid Release cycle on Integration Delay of Addressed Issues},
-  groups = {forward_1, souza2015rapid, mantyla2015rapid, selected},
-}
-
 @Article{souza2015integration,
   author  = {Souza, Rodrigo and Chavez, Christina and Bittencourt, Roberto A},
   journal = {TinyToCS},
@@ -4782,7 +4776,7 @@
   year      = {2017},
   pages     = {72--86},
   volume    = {128},
-  groups    = {forward_1, souza2015rapid, selected},
+  groups    = {forward_1, souza2015rapid, selected, Other reports},
   publisher = {Elsevier},
 }
 
@@ -5048,14 +5042,14 @@
 }
 
 @Article{da2018empirical,
-  author    = {Da Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E and Abebe, Surafel Lemma},
+  author    = {da Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E and Abebe, Surafel Lemma},
   journal   = {Empirical Software Engineering},
   title     = {An empirical study of the integration time of fixed issues},
   year      = {2018},
   number    = {1},
   pages     = {334--383},
   volume    = {23},
-  groups    = {forward_1, mantyla2013rapid, selected},
+  groups    = {forward_1, mantyla2013rapid, selected, Firefox},
   publisher = {Springer},
 }
 
@@ -5115,11 +5109,16 @@
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:selected\;2\;1\;0x008000ff\;\;\;;
-2 StaticGroup:Firefox\;0\;0\;0x008000ff\;\;\;;
+2 StaticGroup:Firefox\;0\;0\;0x99cc99ff\;\;\;;
+2 StaticGroup:Other Studies\;0\;1\;0x99cc99ff\;\;\;;
+2 StaticGroup:Other reports\;0\;0\;0x99cc99ff\;\;\;;
+2 StaticGroup:Others\;0\;1\;0x99cc99ff\;\;\;;
+2 StaticGroup:Dataset\;0\;1\;0x99cc99ff\;\;\;;
+1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec01_unrelated\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec05_docs\;0\;0\;0xff0000ff\;\;\;;
@@ -5130,7 +5129,7 @@
 3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_text\;0\;0\;0xff0000ff\;\;\;;
 1 StaticGroup:step\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:start_set\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:backward\;2\;1\;0x8a8a8aff\;\;\;;
