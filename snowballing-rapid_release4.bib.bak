@@ -242,7 +242,7 @@
   number     = {2},
   pages      = {89--96},
   volume     = {32},
-  groups     = {start_set, backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
+  groups     = {start_set, backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Recorded, Firefox},
   keywords   = {read},
   publisher  = {IEEE},
   readstatus = {read},
@@ -266,7 +266,7 @@
   number    = {6},
   pages     = {e1609},
   volume    = {27},
-  groups    = {start_set, forward_1, hemmati2015prioritizing, mantyla2015rapid, selected, Firefox, Recorded},
+  groups    = {start_set, forward_1, hemmati2015prioritizing, mantyla2015rapid, selected, Recorded, Firefox},
   publisher = {Wiley Online Library},
 }
 
@@ -332,7 +332,7 @@
   number    = {2},
   pages     = {336--373},
   volume    = {20},
-  groups    = {start_set, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
+  groups    = {start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox},
   publisher = {Springer},
 }
 
@@ -353,7 +353,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {20--29},
-  groups       = {start_set, backward_1, souza2015rapid, selected, Firefox, Recorded},
+  groups       = {start_set, backward_1, souza2015rapid, selected, Recorded, Firefox},
 }
 
 @InProceedings{clark2014moving,
@@ -362,7 +362,7 @@
   title     = {Moving targets: Security and rapid-release in firefox},
   year      = {2014},
   pages     = {1256--1266},
-  groups    = {start_set, selected, Firefox, Recorded},
+  groups    = {start_set, selected, Recorded, Firefox},
 }
 
 @InProceedings{daCosta2016impact,
@@ -371,7 +371,7 @@
   title     = {The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the mozilla firefox project},
   year      = {2016},
   pages     = {374--385},
-  groups    = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Firefox, Recorded, Firefox},
+  groups    = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox},
 }
 
 @InProceedings{hemmati2015prioritizing,
@@ -381,7 +381,7 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {1--10},
-  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Firefox, Recorded},
+  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Recorded, Firefox},
 }
 
 @Article{mantyla2015rapid,
@@ -392,7 +392,7 @@
   number    = {5},
   pages     = {1384--1425},
   volume    = {20},
-  groups    = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
+  groups    = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox},
   publisher = {Springer},
 }
 
@@ -404,7 +404,7 @@
   number    = {2},
   pages     = {835--904},
   volume    = {23},
-  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Firefox, Recorded},
+  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox},
   publisher = {Springer},
 }
 
@@ -3026,7 +3026,7 @@
   title     = {Do rapid releases affect bug reopening? a case study of firefox},
   year      = {2014},
   pages     = {31–40},
-  groups    = {backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Firefox},
+  groups    = {backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Firefox, Recorded},
   language  = {nl},
 }
 
@@ -4369,7 +4369,7 @@
   pages      = {243--247},
   abstract   = {During the past years, overload at work leading to psychological diseases, such as burnouts, have drawn more public attention. This paper is a preliminary step toward an analysis of the work patterns and possible indicators of overload and time pressure on software developers with mining software repositories approach. We explore the working pattern of developers in the context of Mozilla Firefox, a large and long-lived open source project. To that end we investigate the impact of the move from traditional to rapid release cycle on work pattern. Moreover we compare Mozilla Firefox work pattern with another Mozilla product, Firefox OS, which has a different release cycle than Firefox. We find that both projects exhibit healthy working patterns, i.e. lower activity during the weekends and outside of office hours. Firefox experiences proportionally more activity on weekends than Firefox OS (Cohen's d = 0.94). We find that switching to rapid releases has reduced weekend work (Cohen's d = 1.43) and working during the night (Cohen's d = 0.45). This result holds even when we limit the analyzes on the hired resources, i.e. considering only individuals with Mozilla foundation email address, although, the effect sizes are smaller for weekends (Cohen's d = 0.64) and nights (Cohen's d = 0.23). Moreover, we use dissimilarity word clouds and find that work during the weekend is more technical while work during the week expresses more positive sentiment with words like "good" and "nice". Our results suggest that moving to rapid releases have positive impact on the work health and work-life-balance of software engineers. However, caution is needed as our results are based on a limited set of quantitative data from a single organization.},
   doi        = {10.1109/MSR.2017.3},
-  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected, Firefox, Recorded},
+  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected, Recorded, Firefox},
   keywords   = {abnormal working hours,bugzilla,burnouts,Computer bugs,Data mining,diseases,Diseases,dissimilarity word clouds,Electronic mail,empirical software engineering,firefox,Firefox OS,human factors,mozilla,Mozilla Firefox work pattern,open source project,psychological diseases,psychology,Psychology,public domain software,rapid releases,release,Software,software developers,software engineer work health,software engineer work-life-balance,software engineering,software repositories approach,Switches,time pressure,weekend,work content,working pattern},
   shorttitle = {Abnormal {{Working Hours}}},
   timestamp  = {2020-10-29T20:49:21Z},
@@ -5049,7 +5049,7 @@
   number    = {1},
   pages     = {334--383},
   volume    = {23},
-  groups    = {forward_1, mantyla2013rapid, selected, Firefox},
+  groups    = {forward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_text},
   publisher = {Springer},
 }
 
@@ -5109,7 +5109,7 @@
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:selected\;2\;1\;0x008000ff\;\;\;;
-2 StaticGroup:Firefox\;0\;0\;0x99cc99ff\;\;\;;
+2 StaticGroup:Firefox\;0\;1\;0x008000ff\;\;\;;
 2 StaticGroup:Other Studies\;0\;1\;0x99cc99ff\;\;\;;
 2 StaticGroup:Other reports\;0\;0\;0x99cc99ff\;\;\;;
 2 StaticGroup:Others\;0\;1\;0x99cc99ff\;\;\;;

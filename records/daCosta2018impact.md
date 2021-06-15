@@ -26,7 +26,7 @@ The paper reinforces the discovered found by the authors' previous paper and inc
 
 Also, the paper complements their previous findings:
 
-  The integration of fixed issues is delayed due to reasons associated with the development activities, decision-making, team collaboration, or risk. Moreover, integration delays lead to user/developer frustration.
+  - The integration of fixed issues is delayed due to reasons associated with the development activities, decision-making, team collaboration, or risk. Moreover, integration delays lead to user/developer frustration.
 
   - The promise of delivering fixed issues more quickly is the most recurrent motivator to switch to a rapid release cycle. In addition, the promise of improving management flexibility and the quality of fixed issues are other perceived advantages of switching to rapid release cycles.
 
@@ -34,7 +34,7 @@ Also, the paper complements their previous findings:
 
 # RQ3. What metrics do the studies use to compare rapid and traditional releases?
 
-The same metrics of the previous paper, plus:
+The same metrics of the previous paper.
 
 # RQ4. How do the studies mine release information?
 

@@ -47,8 +47,9 @@ The authors mined:
 
 # RQ5. How do the studies evaluate their findings?
 
-The authors conducted statistical tests (Wilcoxon rank-sum test and Fisher’s exact test) to compare the metrics in traditional and rapid release cycles. They also contacted Firefox engineers, using
-the firefox-dev mailing list and asked to explain the numbers according to their experience.
+The authors conducted statistical tests (Wilcoxon rank-sum test and Fisher’s exact test) to compare the metrics in traditional and rapid release cycles. 
+
+They also contacted Firefox engineers, using the firefox-dev mailing list and asked to explain the numbers according to their experience.
 
 # RQ6. What corpus do the studies use to compare rapid and traditional releases?
 
