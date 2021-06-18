@@ -729,7 +729,7 @@
   title    = {How much really changes? a case study of firefox version evolution using a clone detector},
   year     = {2013},
   pages    = {83–89},
-  groups   = {backward_1, mantyla2015rapid, selected, Firefox},
+  groups   = {backward_1, mantyla2015rapid, selected, Firefox, Recorded},
   language = {en},
 }
 
@@ -894,7 +894,7 @@
   year     = {2009},
   pages    = {1479–1490},
   volume   = {82},
-  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, selected, Other Studies},
+  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_phase_text, excluded_ec01_unrelated},
   language = {en},
 }
 
@@ -1428,7 +1428,7 @@
   address         = {Kingston, Ontario, Canada},
   month           = jun,
   citation-number = {33},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox, Recorded},
   language        = {en},
 }
 
@@ -2263,7 +2263,7 @@
   year            = {2010},
   pages           = {231–240},
   citation-number = {30},
-  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, selected, Other Studies},
+  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, selected, Other Studies, Recorded},
   language        = {en},
 }
 
@@ -2426,7 +2426,7 @@
   pages           = {81 88},
   volume          = {number 2},
   citation-number = {25},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, selected, Other Studies},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_text},
   language        = {en},
   publisher       = {IEEE},
 }
@@ -2738,6 +2738,7 @@
   pages     = {78–90},
   groups    = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, selected, Others},
   language  = {en},
+  relevance = {relevant},
 }
 
 @InProceedings{alghamdi2016a,
@@ -3970,7 +3971,7 @@
   number    = {3},
   pages     = {86--95},
   volume    = {34},
-  groups    = {forward_1, mantyla2015rapid, selected, Other Studies},
+  groups    = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
   publisher = {IEEE},
 }
 
@@ -4430,7 +4431,7 @@
   title      = {The {{Impact}} of {{Digital Platform Rapid Release Strategy}} on {{App Update Behavior}}: {{An Empirical Study}} of {{Firefox}}},
   year       = {2019},
   month      = nov,
-  groups     = {forward_1, daCosta2018impact, mantyla2015rapid, clark2014moving, forward_01, p_Khomh2015_forward, p_Costa2018_forward, khomh2015understanding, selected, Firefox},
+  groups     = {forward_1, daCosta2018impact, mantyla2015rapid, clark2014moving, forward_01, p_Khomh2015_forward, p_Costa2018_forward, khomh2015understanding, selected, Firefox, Recorded},
   shorttitle = {The {{Impact}} of {{Digital Platform Rapid Release Strategy}} on {{App Update Behavior}}},
   timestamp  = {2020-10-29T19:55:33Z},
 }
@@ -5114,22 +5115,22 @@
 2 StaticGroup:Other reports\;0\;0\;0x99cc99ff\;\;\;;
 2 StaticGroup:Others\;0\;1\;0x99cc99ff\;\;\;;
 2 StaticGroup:Dataset\;0\;1\;0x99cc99ff\;\;\;;
-1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
+1 StaticGroup:Recorded\;0\;0\;0x001a80ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec01_unrelated\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec05_docs\;0\;0\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec03_unavailable\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec06_sist_review\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec03_unavailable\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec06_sist_review\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
 3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_text\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:step\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:start_set\;0\;1\;0xffffffff\;\;\;;
 2 StaticGroup:backward\;2\;1\;0x8a8a8aff\;\;\;;
