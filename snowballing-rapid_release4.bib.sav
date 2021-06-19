@@ -3271,7 +3271,7 @@
   title     = {Characterizing Rapid Releases in a Large Banking Company: A Case Study.},
   year      = {2018},
   pages     = {56--60},
-  groups    = {forward_1, daCosta2016impact, mantyla2015rapid, selected, Other Studies},
+  groups    = {forward_1, daCosta2016impact, mantyla2015rapid, selected, Other Studies, Recorded},
 }
 
 @InProceedings{suwa2017analysis,
@@ -3639,7 +3639,7 @@
   title     = {Releasing fast and slow: an exploratory case study at ING},
   year      = {2019},
   pages     = {785--795},
-  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected, Other Studies},
+  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected, Other Studies, Recorded},
 }
 
 @Article{dang2019efficiently,
@@ -5115,7 +5115,7 @@
 2 StaticGroup:Other reports\;0\;0\;0x99cc99ff\;\;\;;
 2 StaticGroup:Others\;0\;1\;0x99cc99ff\;\;\;;
 2 StaticGroup:Dataset\;0\;1\;0x99cc99ff\;\;\;;
-1 StaticGroup:Recorded\;0\;0\;0x001a80ff\;\;\;;
+1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
