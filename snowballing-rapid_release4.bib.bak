@@ -476,7 +476,7 @@
   title    = {Usage and perceptions of agile software development in an industrial context: an exploratory study},
   year     = {2007},
   pages    = {255–264},
-  groups   = {backward_1, mantyla2015rapid, selected, Other Studies},
+  groups   = {backward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
   language = {en},
 }
 
@@ -3446,7 +3446,7 @@
   title     = {On Understanding the Release Patterns of Open Source Java Projects},
   year      = {2019},
   pages     = {9--18},
-  groups    = {forward_1, mantyla2015rapid, khomh2015understanding, selected, Other Studies},
+  groups    = {forward_1, mantyla2015rapid, khomh2015understanding, excluded_ec03_unavailable, excluded_phase_text},
 }
 
 @Article{gustafsson2019machine,
@@ -3752,7 +3752,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {569--570},
-  groups       = {forward_1, mantyla2015rapid, selected, Other Studies},
+  groups       = {forward_1, mantyla2015rapid, selected, Other Studies, Recorded},
 }
 
 @Article{shahin2019empirical,
@@ -3807,7 +3807,7 @@
   year         = {2017},
   organization = {Springer, Cham},
   pages        = {128--138},
-  groups       = {forward_1, mantyla2015rapid, selected, Other Studies},
+  groups       = {forward_1, mantyla2015rapid, selected, Other Studies, Recorded},
 }
 
 @InProceedings{barreira2016analysis,
@@ -5115,7 +5115,7 @@
 2 StaticGroup:Other reports\;0\;0\;0x99cc99ff\;\;\;;
 2 StaticGroup:Others\;0\;1\;0x99cc99ff\;\;\;;
 2 StaticGroup:Dataset\;0\;1\;0x99cc99ff\;\;\;;
-1 StaticGroup:Recorded\;0\;0\;0x001a80ff\;\;\;;
+1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
