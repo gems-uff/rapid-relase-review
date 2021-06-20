@@ -4030,7 +4030,7 @@
   number    = {2},
   pages     = {50--54},
   volume    = {32},
-  groups    = {forward_1, mantyla2015rapid, selected, Other reports},
+  groups    = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
   publisher = {IEEE},
 }
 
@@ -4782,7 +4782,7 @@
   year      = {2017},
   pages     = {72--86},
   volume    = {128},
-  groups    = {forward_1, souza2015rapid, selected, Other reports},
+  groups    = {forward_1, souza2015rapid, excluded_ec01_unrelated, excluded_phase_text},
   publisher = {Elsevier},
 }
 
