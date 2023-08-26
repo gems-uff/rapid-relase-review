@@ -242,7 +242,7 @@
   number     = {2},
   pages      = {89--96},
   volume     = {32},
-  groups     = {start_set, backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Recorded, Firefox},
+  groups     = {start_set, backward_1, daCosta2016impact, daCosta2018impact, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
   publisher  = {IEEE},
   readstatus = {read},
 }
@@ -265,7 +265,7 @@
   number    = {6},
   pages     = {e1609},
   volume    = {27},
-  groups    = {start_set, forward_1, hemmati2015prioritizing, mantyla2015rapid, selected, Recorded, Firefox},
+  groups    = {start_set, forward_1, hemmati2015prioritizing, mantyla2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
   publisher = {Wiley Online Library},
 }
 
@@ -331,7 +331,7 @@
   number    = {2},
   pages     = {336--373},
   volume    = {20},
-  groups    = {start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox},
+  groups    = {start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
   publisher = {Springer},
 }
 
@@ -352,7 +352,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {20--29},
-  groups       = {start_set, backward_1, souza2015rapid, selected, Recorded, Firefox},
+  groups       = {start_set, backward_1, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
 }
 
 @InProceedings{Clark2014,
@@ -361,16 +361,7 @@
   title     = {Moving targets: Security and rapid-release in firefox},
   year      = {2014},
   pages     = {1256--1266},
-  groups    = {start_set, selected, Recorded, Firefox},
-}
-
-@InProceedings{Costa2016,
-  author    = {da Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E},
-  booktitle = {Proceedings of the 13th International Conference on Mining Software Repositories},
-  title     = {The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the mozilla firefox project},
-  year      = {2016},
-  pages     = {374--385},
-  groups    = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox},
+  groups    = {start_set, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
 }
 
 @InProceedings{Hemmati2015,
@@ -380,30 +371,18 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {1--10},
-  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Recorded, Firefox},
-}
-
-@Article{Mantyla2015,
-  author    = {M{\"a}ntyl{\"a}, Mika V and Adams, Bram and Khomh, Foutse and Engstr{\"o}m, Emelie and Petersen, Kai},
-  journal   = {Empirical Software Engineering},
-  title     = {On rapid releases and software testing: a case study and a semi-systematic literature review},
-  year      = {2015},
-  number    = {5},
-  pages     = {1384--1425},
-  volume    = {20},
-  groups    = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox},
-  publisher = {Springer},
+  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
 }
 
 @Article{Costa2018,
-  author    = {da Costa, Daniel Alencar and McIntosh, Shane and Treude, Christoph and Kulesza, Uir{\'a} and Hassan, Ahmed E},
+  author    = {Costa, Daniel Alencar and McIntosh, Shane and Treude, Christoph and Kulesza, Uir{\'a} and Hassan, Ahmed E},
   journal   = {Empirical Software Engineering},
   title     = {The impact of rapid release cycles on the integration delay of fixed issues},
   year      = {2018},
   number    = {2},
   pages     = {835--904},
   volume    = {23},
-  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox},
+  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
   publisher = {Springer},
 }
 
@@ -1358,18 +1337,6 @@
   language        = {en},
 }
 
-@InProceedings{Khomh2012,
-  author          = {Khomh, Foutse and Dhaliwal, Tejinder and Zou, Ying and Adams, Bram},
-  booktitle       = {Mining Software Repositories, 2012 9th Working Conference},
-  title           = {Do Faster Releases Improve Software Quality? An Empirical Case Study of Mozilla Firefox},
-  year            = {2012},
-  address         = {Kingston, Ontario, Canada},
-  month           = jun,
-  citation-number = {33},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox, Recorded, todo},
-  language        = {en},
-}
-
 @Misc{laforge2010a,
   author          = {Laforge, Anthony},
   month           = jul,
@@ -1719,15 +1686,6 @@
   url      = {https://crash-stats.mozilla.com/home/products/firefox.},
 }
 
-@InProceedings{khomh2011a,
-  author    = {Khomh, F. and Chan, B. and Zou, Y. and Hassan, A.E.},
-  booktitle = {Proceedings of the 18th working conference on reverse engineering (WCRE},
-  title     = {An entropy evaluation approach for triaging field crashes: A case study of mozilla firefox},
-  year      = {2011},
-  groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec01_unrelated},
-  language  = {en},
-}
-
 @InProceedings{sliwerski2005a,
   author    = {Sliwerski, J. and Zimmermann, T. and Zeller, A.},
   booktitle = {Proceedings of the 2005 international workshop on mining software repositories (MSR},
@@ -1776,15 +1734,6 @@
   year     = {2012},
   groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
   language = {en},
-}
-
-@Misc{versionone2009a,
-  author   = {VersionOne},
-  title    = {4th annual state of agile survey},
-  year     = {2009},
-  groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
-  language = {en},
-  url      = {http://bit.ly/6BPw5},
 }
 
 @Book{p2002a,
@@ -4914,7 +4863,7 @@
   title           = {Shorten release cycles by bringing developers to application lifecycle management},
   note            = {Retrieved on Febuary 08, 2012. [Online]. Available:},
   citation-number = {1},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/x5PdXl},
 }
@@ -4925,7 +4874,7 @@
   year            = {2011},
   note            = {Retrieved on January 12,},
   citation-number = {2},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/aecRrL},
 }
@@ -4935,11 +4884,13 @@
   journal         = {Software Process: Improvement and Practice},
   title           = {Techniques and processes for improving the quality and performance of open-source software},
   year            = {2006},
+  issn            = {1077-4866},
   number          = {2},
   pages           = {163–176,},
   volume          = {11},
   citation-number = {5},
-  groups          = {backward_2, khomh2012},
+  doi             = {10.1002/spip.260},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_intro},
   language        = {fr},
 }
 
@@ -4948,7 +4899,7 @@
   title           = {Web browsers (global marketshare},
   year            = {2012},
   citation-number = {7},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   publisher       = {Roxr Software Ltd},
   url             = {http://bit.ly/81klgi},
@@ -4961,7 +4912,7 @@
   month           = apr,
   note            = {Retrieved on January 12,},
   citation-number = {10},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/hc1zmY},
 }
@@ -4971,19 +4922,9 @@
   title           = {Socorro: Mozilla’s crash reporting system},
   year            = {2011},
   citation-number = {12},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/9A9zKP},
-}
-
-@InProceedings{Khomh,
-  author          = {Khomh, F. and Chan, B. and Zou, Y. and Hassan, A.E.},
-  booktitle       = {Proc. of the 18th Working Conf},
-  title           = {An entropy evaluation approach for triaging field crashes: A case study of mozilla firefox},
-  note            = {on Reverse Engineering (WCRE), 2011.},
-  citation-number = {15},
-  groups          = {backward_2, khomh2012},
-  language        = {en},
 }
 
 @Misc{2012a,
@@ -4991,7 +4932,7 @@
   title           = {Understanding the corporate impact},
   year            = {2012},
   citation-number = {17},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/mBzP37},
 }
@@ -5001,7 +4942,7 @@
   title           = {Why do companies stay on old technology?},
   year            = {2012},
   citation-number = {18},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/k3fruK},
 }
@@ -5012,7 +4953,7 @@
   year            = {2012},
   note            = {Online]. Available:},
   citation-number = {19},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec07_news, excluded_phase_title},
   language        = {en},
   url             = {http://cnet.co/mQZ6Tf},
 }
@@ -5024,7 +4965,7 @@
   year            = {2002},
   edition         = {Third Edition, 3rd},
   citation-number = {20},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title},
   language        = {en},
 }
 
@@ -5033,7 +4974,7 @@
   title           = {Sourcemonitor},
   year            = {2012},
   citation-number = {21},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/9AKzN8},
 }
@@ -5045,7 +4986,7 @@
   year            = {2011},
   month           = jun,
   citation-number = {24},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title},
   language        = {en},
 }
 
@@ -5055,7 +4996,7 @@
   title           = {eXtreme Adoption eXperiences of a B2B Start Up},
   year            = {2002},
   citation-number = {32},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, need_check},
   language        = {en},
   publisher       = {Addison-Wesley Longman Publishing Co., Inc},
 }
@@ -5069,19 +5010,8 @@
   pages           = {1–5,},
   volume          = {30},
   citation-number = {34},
-  groups          = {backward_2, khomh2012},
+  groups          = {backward_2, khomh2012, need_check},
   language        = {en},
-}
-
-@Book{Beck2000,
-  author          = {Beck, K.},
-  publisher       = {Addison-Wesley Professional},
-  title           = {Extreme programming explained: embrace change},
-  year            = {2000},
-  edition         = {2nd},
-  citation-number = {5},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012},
-  language        = {fr},
 }
 
 @InProceedings{Baysal2011,
@@ -5112,7 +5042,7 @@
   title           = {Google ethos speeds up chrome release cycle},
   year            = {2010},
   citation-number = {8},
-  groups          = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news, backward_2, khomh2012},
+  groups          = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news, backward_2, khomh2012, excluded_phase_title},
   language        = {en},
   url             = {https://www.cnet.com/news/google-ethos-speeds-up-chrome-release-cycle/},
 }
@@ -5263,16 +5193,6 @@
   language        = {en},
 }
 
-@Misc{VersionOne2012,
-  author          = {VersionOne},
-  title           = {7th annual state of agile survey},
-  year            = {2012},
-  citation-number = {31},
-  groups          = {backward_1, mantyla2015rapid, excluded_ec03_unavailable, excluded_phase_title, backward_2, khomh2012},
-  language        = {en},
-  url             = {http://www.versionone.com/pdf/7th-Annual-State-of-Agile-Development-Survey.pdf},
-}
-
 @Article{Kuppuswami2003,
   author          = {Kuppuswami, S. and Vivekanandan, K. and Ramaswamy, P. and Rodrigues, P.},
   journal         = {SIGSOFT Softw Eng Notes},
@@ -5298,6 +5218,200 @@
   language        = {en},
 }
 
+@InProceedings{Tufano2015,
+  author          = {Tufano, M. and Palomba, F. and Bavota, G. and Oliveto, R. and Penta, M. and Lucia, A. and Poshyvanyk, D.},
+  booktitle       = {Software Engineering (ICSE), 2015 IEEE/ACM 37th IEEE International Conference on},
+  title           = {When and why your code starts to smell bad},
+  year            = {2015},
+  month           = may,
+  pages           = {403–414},
+  publisher       = {IEEE},
+  volume          = {1},
+  citation-number = {5},
+  groups          = {kula2018, backward_2, excluded_phase_abstract, excluded_ec01_unrelated},
+  language        = {en},
+}
+
+@InProceedings{Rubin2016,
+  author          = {Rubin, J. and Rinard, M.},
+  booktitle       = {Proceedings of the 38th International Conference on Software Engineering},
+  title           = {The challenges of staying together while moving fast: An exploratory study},
+  year            = {2016},
+  month           = may,
+  pages           = {982–993},
+  publisher       = {ACM},
+  citation-number = {6},
+  groups          = {kula2018, backward_2, excluded_phase_abstract, excluded_ec01_unrelated},
+  language        = {en},
+}
+
+@TechReport{I.N.G.2018,
+  author          = {I.N.G.},
+  year            = {2018},
+  month           = mar,
+  type            = {Annual Report},
+  citation-number = {7},
+  groups          = {kula2018, backward_2, excluded_phase_title, excluded_ec01_unrelated},
+  language        = {en},
+  school          = {ING Group N.V},
+}
+
+@Book{Creswell2017,
+  author          = {Creswell, J.W. and Creswell, J.D.},
+  publisher       = {Sage publications},
+  title           = {Research design: Qualitative, quantitative, and mixed methods approaches},
+  year            = {2017},
+  citation-number = {8},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Book{Flick2014,
+  author          = {Flick, U.},
+  publisher       = {Sage},
+  title           = {An introduction to qualitative research},
+  year            = {2014},
+  citation-number = {9},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Corbin1990,
+  author          = {Corbin, J.M. and Strauss, A.},
+  journal         = {Qualitative sociology},
+  title           = {Grounded theory research: Procedures, canons, and evaluative criteria},
+  year            = {1990},
+  number          = {1},
+  pages           = {3–21},
+  volume          = {13},
+  citation-number = {10},
+  groups          = {kula2018, backward_2, excluded_phase_title, excluded_ec01_unrelated},
+  language        = {en},
+}
+
+@InCollection{Mann1947,
+  author          = {Mann, H.B. and Whitney, D.R.},
+  booktitle       = {The annals of mathematical statistics},
+  title           = {On a test of whether one of two random variables is stochastically larger than the other},
+  year            = {1947},
+  pages           = {50–60},
+  citation-number = {11},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Hejderup2018,
+  author          = {Hejderup, J. and Deursen, A. and Gousios, G.},
+  booktitle       = {Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results},
+  title           = {Software ecosystem call graph for dependency management},
+  year            = {2018},
+  month           = may,
+  pages           = {101–104},
+  publisher       = {ACM},
+  citation-number = {12},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Decan2017,
+  author          = {Decan, A. and Mens, T. and Claes, M.},
+  booktitle       = {2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER},
+  title           = {An empirical comparison of dependency issues in OSS packaging ecosystems},
+  year            = {2017},
+  month           = feb,
+  pages           = {2–12},
+  publisher       = {IEEE},
+  citation-number = {13},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Book{Decan2018,
+  author          = {Decan, A. and Mens, T. and Grosjean, P.},
+  publisher       = {Empirical Software Engineering},
+  title           = {An empirical comparison of dependency network evolution in seven software packaging ecosystems},
+  year            = {2018},
+  citation-number = {14},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  pages           = {1–36},
+}
+
+@InProceedings{Khomh2012,
+  author          = {Khomh, Foutse and Dhaliwal, Tejinder and Zou, Ying and Adams, Bram},
+  booktitle       = {Mining Software Repositories, 2012 9th Working Conference},
+  title           = {Do Faster Releases Improve Software Quality? An Empirical Case Study of Mozilla Firefox},
+  year            = {2012},
+  address         = {Kingston, Ontario, Canada},
+  month           = jun,
+  pages           = {179–188},
+  publisher       = {IEEE Press},
+  citation-number = {33},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox, Recorded, todo, processed_backward, kula2018, backward_2},
+  language        = {en},
+}
+
+@InProceedings{khomh2011a,
+  author          = {Khomh, F. and Chan, B. and Zou, Y. and Hassan, A.E.},
+  booktitle       = {Proceedings of the 18th working conference on reverse engineering (WCRE},
+  title           = {An entropy evaluation approach for triaging field crashes: A case study of mozilla firefox},
+  year            = {2011},
+  note            = {on Reverse Engineering (WCRE), 2011.},
+  citation-number = {15},
+  groups          = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec01_unrelated, backward_2, khomh2012, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Misc{VersionOne2012,
+  author          = {VersionOne},
+  title           = {7th annual state of agile survey},
+  year            = {2012},
+  citation-number = {31},
+  groups          = {backward_1, mantyla2015rapid, excluded_ec03_unavailable, excluded_phase_title, backward_2, khomh2012, khomh2015understanding, excluded_ec01_unrelated},
+  language        = {en},
+  url             = {http://www.versionone.com/pdf/7th-Annual-State-of-Agile-Development-Survey.pdf},
+}
+
+@Book{Beck2000,
+  author          = {Beck, K.},
+  publisher       = {Addison-Wesley Professional},
+  title           = {Extreme programming explained: embrace change},
+  year            = {2000},
+  edition         = {2nd},
+  citation-number = {5},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, kula2018, backward_2},
+  language        = {fr},
+  readstatus      = {read},
+  relevance       = {relevant},
+}
+
+@InProceedings{Costa2016,
+  author          = {Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E},
+  booktitle       = {Proceedings of the 13th International Conference on Mining Software Repositories},
+  title           = {The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the mozilla firefox project},
+  year            = {2016},
+  month           = may,
+  pages           = {374--385},
+  publisher       = {IEEE},
+  citation-number = {4},
+  groups          = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward,kula2018, backward_2},
+  language        = {en},
+}
+
+@Article{2015,
+  author          = {M{\"a}ntyl{\"a}, Mika V and Adams, Bram and Khomh, Foutse and Engstr{\"o}m, Emelie and Petersen, Kai},
+  journal         = {Empirical Software Engineering},
+  title           = {On rapid releases and software testing: a case study and a semi-systematic literature review},
+  year            = {2015},
+  number          = {5},
+  pages           = {1384–1425},
+  volume          = {20},
+  citation-number = {2},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, kula2018, backward_2},
+  language        = {en},
+  publisher       = {Springer},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -5309,7 +5423,7 @@
 3 StaticGroup:excluded_ec03_unavailable\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec05_docs\;0\;0\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec06_sist_review\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec06_sist_review\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
 3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
@@ -5325,10 +5439,13 @@
 2 StaticGroup:hemmati2017prioritizing\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:khomh2012\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:khomh2015understanding\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:kula2018\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:mantyla2013rapid\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:mantyla2015rapid\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:souza2015rapid\;0\;1\;0x8a8a8aff\;\;\;;
-1 StaticGroup:todo\;2\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:processed\;2\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:processed_backward\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:processed_forward\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
 1 StaticGroup:selected\;2\;1\;0x008000ff\;\;\;;
 2 StaticGroup:Dataset\;0\;0\;0x99cc99ff\;\;\;;
@@ -5343,4 +5460,5 @@
 2 StaticGroup:forward\;2\;1\;0x8a8a8aff\;\;\;;
 3 StaticGroup:forward_1\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:start_set\;0\;1\;0xffffffff\;\;\;;
+1 StaticGroup:todo\;2\;1\;0x8a8a8aff\;\;\;;
 }
