@@ -269,15 +269,6 @@
   publisher = {Wiley Online Library},
 }
 
-@InProceedings{kerzazi2014factors,
-  author    = {Kerzazi, Noureddine and Khomh, Foutse},
-  booktitle = {Proceedings of the 8th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
-  title     = {Factors impacting rapid releases: an industrial case study},
-  year      = {2014},
-  pages     = {1--8},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_text},
-}
-
 @Article{chu2009cholesterol,
   author    = {Chu, Jessica and Thomas, L Michael and Watkins, Simon C and Franchi, Luigi and N{\'u}{\~n}ez, Gabriel and Salter, Russell D},
   journal   = {Journal of leukocyte biology},
@@ -323,18 +314,6 @@
   publisher = {Nature Publishing Group},
 }
 
-@Article{Khomh2015,
-  author    = {Khomh, Foutse and Adams, Bram and Dhaliwal, Tejinder and Zou, Ying},
-  journal   = {Empirical Software Engineering},
-  title     = {Understanding the impact of rapid releases on software quality},
-  year      = {2015},
-  number    = {2},
-  pages     = {336--373},
-  volume    = {20},
-  groups    = {start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
-  publisher = {Springer},
-}
-
 @InProceedings{guzman2017can,
   author       = {Guzm{\'a}n, Liliana and Oriol, Marc and Rodr{\'\i}guez, Pilar and Franch, Xavier and Jedlitschka, Andreas and Oivo, Markku},
   booktitle    = {International Working Conference on Requirements Engineering: Foundation for Software Quality},
@@ -343,47 +322,6 @@
   organization = {Springer},
   pages        = {167--173},
   groups       = {start_set, excluded_ec01_unrelated, excluded_phase_text, forward_1, mantyla2015rapid},
-}
-
-@InProceedings{Mantyla2013,
-  author       = {M{\"a}ntyl{\"a}, Mika V and Khomh, Foutse and Adams, Bram and Engstr{\"o}m, Emelie and Petersen, Kai},
-  booktitle    = {2013 IEEE International Conference on Software Maintenance},
-  title        = {On rapid releases and software testing},
-  year         = {2013},
-  organization = {IEEE},
-  pages        = {20--29},
-  groups       = {start_set, backward_1, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
-}
-
-@InProceedings{Clark2014,
-  author    = {Clark, Sandy and Collis, Michael and Blaze, Matt and Smith, Jonathan M},
-  booktitle = {Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security},
-  title     = {Moving targets: Security and rapid-release in firefox},
-  year      = {2014},
-  pages     = {1256--1266},
-  groups    = {start_set, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
-}
-
-@InProceedings{Hemmati2015,
-  author       = {Hemmati, Hadi and Fang, Zhihan and Mantyla, Mika V},
-  booktitle    = {2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)},
-  title        = {Prioritizing manual test cases in traditional and rapid release environments},
-  year         = {2015},
-  organization = {IEEE},
-  pages        = {1--10},
-  groups       = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
-}
-
-@Article{Costa2018,
-  author    = {Costa, Daniel Alencar and McIntosh, Shane and Treude, Christoph and Kulesza, Uir{\'a} and Hassan, Ahmed E},
-  journal   = {Empirical Software Engineering},
-  title     = {The impact of rapid release cycles on the integration delay of fixed issues},
-  year      = {2018},
-  number    = {2},
-  pages     = {835--904},
-  volume    = {23},
-  groups    = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward},
-  publisher = {Springer},
 }
 
 @Article{arnoult2005release,
@@ -436,15 +374,6 @@
   pages    = {29–36},
   volume   = {8},
   comment  = {Sem evidencias.},
-  groups   = {backward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
-  language = {en},
-}
-
-@InProceedings{begel2007a,
-  author   = {Begel, A. and Nagappan, N.},
-  title    = {Usage and perceptions of agile software development in an industrial context: an exploratory study},
-  year     = {2007},
-  pages    = {255–264},
   groups   = {backward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
   language = {en},
 }
@@ -510,15 +439,6 @@
   volume   = {43},
   groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
   language = {en},
-}
-
-@Misc{codabux2013a,
-  author   = {Codabux, Z. and Williams, B.},
-  title    = {Managing technical debt: an industrial case study},
-  year     = {2013},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
-  language = {en},
-  pages    = {8–15},
 }
 
 @Misc{cohan2007a,
@@ -656,6 +576,7 @@
 }
 
 @Article{k2012a,
+  author   = {K{\"u}hner, Georg and Bluhm, Torsten and Heimann, Peter and Hennig, Christine and Kroiss, Hugo and Krom, Jon and Laqua, Heike and Lewerentz, Marc and Maier, Josef and Schacht, J{\"o}rg and others},
   journal  = {Fusion Eng Des},
   title    = {Progress on standardization and automation in software development on w7x},
   year     = {2012},
@@ -679,20 +600,8 @@
   title    = {How much really changes? a case study of firefox version evolution using a clone detector},
   year     = {2013},
   pages    = {83–89},
-  groups   = {backward_1, mantyla2015rapid, selected, Firefox, Recorded, todo},
+  groups   = {backward_1, mantyla2015rapid, selected, Firefox, Recorded, todo, processed_backward},
   language = {en},
-}
-
-@InProceedings{li2010a,
-  author    = {Li, J. and Moe, N.B. and Dyb°a, T.},
-  booktitle = {Proceedings of the 2010 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM},
-  title     = {Transition from a plan-driven process to scrum: a longitudinal case study on software quality},
-  year      = {2010},
-  pages     = {1–13 10},
-  volume    = {13},
-  comment   = {O paper fala sobre SCRUM e não sobre RR.},
-  groups    = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
-  language  = {en},
 }
 
 @Article{li2011a,
@@ -822,35 +731,13 @@
 }
 
 @InProceedings{p2011a,
+  author    = {P{\'e}rez-Castillo, Ricardo and Piattini, Mario and Garcia, Felix and de Guzm, Ignacio Garcia-Rodriguez and others},
   booktitle = {Empirical software engineering and measurement (ESEM), 2011 International Symposium on IEEE},
   title     = {Obtaining thresholds for the effectiveness of business process mining},
   year      = {2011},
   pages     = {453–462},
   groups    = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
   language  = {en},
-}
-
-@Article{petersen2009a,
-  author   = {Petersen, K. and Wohlin, C.},
-  journal  = {J Syst Softw},
-  title    = {A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case},
-  year     = {2009},
-  pages    = {1479–1490},
-  volume   = {82},
-  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_phase_text, excluded_ec01_unrelated},
-  language = {en},
-}
-
-@Article{petersen2010a,
-  author   = {Petersen, K. and Wohlin, C.},
-  journal  = {Empir Softw Eng},
-  title    = {The effect of moving from a plan-driven to an incremental software development approach with agile practices},
-  year     = {2010},
-  pages    = {654–693},
-  volume   = {15},
-  comment  = {Fala de processos ageis.},
-  groups   = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
-  language = {en},
 }
 
 @Article{poppendieck2007a,
@@ -867,6 +754,7 @@
 }
 
 @InCollection{rafi2012a,
+  author    = {Rafi, Dudekula Mohammad and Moses, Katam Reddy Kiran and Petersen, Kai and M{\"a}ntyl{\"a}, Mika V},
   booktitle = {Automation of Software Test (AST), 2012 7th International Workshop on, IEEE},
   title     = {Benefits and limitations of automated software testing: Systematic literature review and practitioner survey},
   year      = {2012},
@@ -967,17 +855,6 @@
   language = {en},
 }
 
-@Article{torkar2011a,
-  author   = {Torkar R, Minoves P, Garrig ́os J},
-  journal  = {J Assoc Inf Syst},
-  title    = {Adopting free/libre/open source software practices, techniques and methods for industrial use},
-  year     = {2011},
-  pages    = {88–122},
-  volume   = {12},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
-  language = {en},
-}
-
 @Misc{wikipedia2013a,
   author   = {Wikipedia},
   title    = {Firefox release history},
@@ -1048,16 +925,6 @@
   groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
   language        = {nl},
   url             = {http://blog.lizardwrangler.com/2011/08/25/},
-}
-
-@Article{beck2001a,
-  author          = {Beck, Kent and Beedle, Mike and Bennekum, Arie and Cockburn, Alistair and Cunningham, Ward and Fowler, Martin and Grenning, James and Highsmith, Jim and Hunt, Andrew and ries, Ron Je and Kern, Jon and Marick, Brian and Martin, Robert C. and Mellor, Steve and Schwaber, Ken},
-  title           = {Manifesto for Agile Software Development},
-  year            = {2001},
-  citation-number = {5},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec01_unrelated, hemmati2015prioritizing, hemmati2017prioritizing, excluded_phase_title},
-  language        = {en},
-  url             = {http://www.agilemanifesto.org/.},
 }
 
 @Article{bessey2010a,
@@ -1634,17 +1501,6 @@
   url      = {http://www.zdnet.com/the-truth-about-goobuntu-googles-in-house-desktop-ubuntu-linux-7000003462/},
 }
 
-@Article{porter2006a,
-  author   = {Porter, A. and Yilmaz, C. and Memon, A.M. and Krishna, A.S. and Schmidt, D.C. and Gokhale, A.},
-  journal  = {Softw Process Improv Pract},
-  title    = {Techniques and processes for improving the quality and performance of open-source software},
-  year     = {2006},
-  pages    = {163–176},
-  volume   = {11},
-  groups   = {backward_1, khomh2015understanding, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title},
-  language = {en},
-}
-
 @Article{li2012a,
   author   = {Li, P.L. and Kivett, R. and Zhan, Z. and Se, Jeon and Nagappan, N. and Murphy, B. and Ko, A.J.},
   journal  = {Proceedings of the 33rd international conference on software engineering (ICSE},
@@ -1717,16 +1573,6 @@
   language = {en},
 }
 
-@Book{yin2002a,
-  author    = {Yin, R.K.},
-  publisher = {SAGE Publications},
-  title     = {Case study research: design and methods},
-  year      = {2002},
-  edition   = {3rd edn},
-  groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
-  language  = {et},
-}
-
 @Misc{software2012a,
   author   = {Software, C.},
   note     = {Accessed 12 Jan 2012},
@@ -1745,17 +1591,6 @@
   note      = {30. in: extreme adoption experiences of a B2B start up},
   groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
   language  = {en},
-}
-
-@Article{stewart2005a,
-  author   = {Stewart, K.J. and Darcy, D.P. and Daniel, S.L.},
-  journal  = {SIGSOFT Softw Eng Notes},
-  title    = {Observations on patterns of development in open source software projects},
-  year     = {2005},
-  pages    = {1–5},
-  volume   = {30},
-  groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
-  language = {en},
 }
 
 @InProceedings{zaman2012a,
@@ -1797,18 +1632,6 @@
   volume    = {1},
   groups    = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
   language  = {en},
-}
-
-@InCollection{bertolino2007a,
-  author          = {Bertolino, A.},
-  booktitle       = {2007 Future of Software Engineering},
-  publisher       = {IEEE Computer Society},
-  title           = {Software testing research: Achievements, challenges, dreams},
-  year            = {2007},
-  pages           = {85–103},
-  citation-number = {1},
-  groups          = {backward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2017prioritizing},
-  language        = {en},
 }
 
 @InProceedings{arafeen2013a,
@@ -2002,7 +1825,7 @@
   title           = {Firefox extended support will mitigate rapid release challenges},
   year            = {2012},
   citation-number = {22},
-  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec07_news},
+  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec07_news, excluded_phase_title},
   language        = {en},
   url             = {https://arstechnica.com/information-technology/2012/01/firefox-extended-support-will-mitigate-rapid-release-challenges/},
 }
@@ -2026,41 +1849,7 @@
   year            = {2010},
   pages           = {231–240},
   citation-number = {30},
-  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, selected, Other Studies, Recorded, todo},
-  language        = {en},
-}
-
-@InProceedings{antoniol2008a,
-  author          = {Antoniol, G. and Ayari, K. and Penta, M.D. and Khomh, F. and Gueheneuc, Y.},
-  booktitle       = {Proceed- ings of the 2008 conference of the Centre for Advanced Studies on Collaborative Research (CASCON},
-  title           = {Is it a bug or an enhancement?: a textbased approach to classify change requests},
-  year            = {2008},
-  pages           = {23,},
-  citation-number = {2},
-  groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@Article{baskerville2004a,
-  author          = {Baskerville, R. and Pries-Heje, J.},
-  journal         = {Information Systems Journal},
-  title           = {Short cycle time systems development},
-  year            = {2004},
-  pages           = {237 264,},
-  volume          = {14},
-  citation-number = {3},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_intro},
-  language        = {en},
-}
-
-@InProceedings{costa2014a,
-  author          = {Costa, D.A. and Abebe, S.L. and McIntosh, S. and Kulesza, U. and Hassan, A.E.},
-  booktitle       = {Proc. of the 30th Int'l Conf. on Software Maintenance and Evolu- tion (ICSME},
-  title           = {An empirical study of delays in the integration of addressed issues},
-  year            = {2014},
-  pages           = {281 290,},
-  citation-number = {7},
-  groups          = {backward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, forward_1, mantyla2013rapid},
+  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, selected, Other Studies, Recorded, todo, processed_backward},
   language        = {en},
 }
 
@@ -2098,29 +1887,6 @@
   groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   publisher       = {American Society of Clinical Oncology},
-}
-
-@InProceedings{jeong2009a,
-  author          = {Jeong, G. and Kim, S. and Zimmermann, T.},
-  booktitle       = {Proceedings of the 7th joint meeting of the European software engineer- ing conference and the ACM SIGSOFT symposium on The foundations of software engineering (ESEC/FSE},
-  title           = {Improving bug triage with bug tossing graphs},
-  year            = {2009},
-  pages           = {111 120},
-  publisher       = {ACM},
-  citation-number = {14},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@InProceedings{jiang2013a,
-  author          = {Jiang, Y. and Adams, B. and German, D.M.},
-  booktitle       = {Proceedings of the 10th Working Conference on Mining Software Repositories (MSR},
-  title           = {Will my patch make it? and how fast?: Case study on the linux kernel},
-  year            = {2013},
-  pages           = {101 110,},
-  citation-number = {16},
-  groups          = {backward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_abstract},
-  language        = {en},
 }
 
 @Article{kampstra2008a,
@@ -2169,44 +1935,6 @@
   citation-number = {23},
   groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
-}
-
-@Article{rahman2015a,
-  author          = {Rahman, M.T. and Rigby, P.C.},
-  journal         = {IEEE Software Journal},
-  title           = {Release stabilization on linux and chrome},
-  year            = {2015},
-  pages           = {81 88},
-  volume          = {number 2},
-  citation-number = {25},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_text},
-  language        = {en},
-  publisher       = {IEEE},
-}
-
-@InProceedings{shihab2010a,
-  author          = {Shihab, E. and Ihara, A. and Kamei, Y. and Ibrahim, W.M. and Ohira, M. and Adams, B. and Hassan, A.E. and Matsumoto, K.-i},
-  booktitle       = {Proceedings of 17th Working Confer- ence on Reverse Engineering (WCRE},
-  title           = {Predicting re-opened bugs: A case study on the eclipse project},
-  year            = {2010},
-  pages           = {249 258},
-  publisher       = {IEEE},
-  citation-number = {27},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@Article{subramaniam2009a,
-  author          = {Subramaniam, C. and Sen, R. and Nelson, M.L.},
-  journal         = {Journal of Decision Support Systems},
-  title           = {Determinants of open source software project success: A longitudinal study},
-  year            = {2009},
-  pages           = {576 585},
-  volume          = {46},
-  citation-number = {30},
-  groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_abstract},
-  language        = {fr},
-  publisher       = {Elsevier},
 }
 
 @Article{rothermel2001a,
@@ -2426,16 +2154,6 @@
   language        = {en},
 }
 
-@Misc{jenkins2011a,
-  author          = {Jenkins, J.},
-  title           = {Velocity culture (the unmet challenge in ops): Presentation at O’Reilly Velocity Conference},
-  year            = {2011},
-  address         = {Santa Clara, CA},
-  citation-number = {29.},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, hemmati2015prioritizing, mantyla2013rapid, hemmati2017prioritizing, excluded_ec05_docs, excluded_phase_title},
-  language        = {en},
-}
-
 @InProceedings{baysal2012a,
   author          = {Baysal, O. and Kononenko, O. and Holmes, R. and Godfrey, M.W.},
   booktitle       = {19th Working Conference on Reverse Engineering, WCRE 2012},
@@ -2481,17 +2199,6 @@
   groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   url             = {https://github.com/stepthom/tcp.lda},
-}
-
-@InProceedings{adams2016a,
-  author    = {Adams, B. and McIntosh, S.},
-  booktitle = {Proceedings of the 23rd international conference on software analysis, evolution, and reengineering (SANER},
-  title     = {Modern release engineering in a nutshell: why researchers should care},
-  year      = {2016},
-  pages     = {78–90},
-  groups    = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, excluded_phase_text, excluded_ec01_unrelated},
-  language  = {en},
-  relevance = {relevant},
 }
 
 @InProceedings{alghamdi2016a,
@@ -2571,17 +2278,6 @@
   language  = {en},
 }
 
-@InProceedings{giger2010a,
-  author    = {Giger, E. and Pinzger, M. and Gall, H.},
-  booktitle = {Proceedings of the 2nd international workshop on recommendation systems for software engineering (RSSE). ACM},
-  title     = {Predicting the fix time of bugs},
-  year      = {2010},
-  address   = {New York},
-  pages     = {52–56},
-  groups    = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, daCosta2016impact},
-  language  = {en},
-}
-
 @Article{greer2004a,
   author   = {Greer, D. and Ruhe, G.},
   journal  = {Inf Softw Technol},
@@ -2631,16 +2327,6 @@
   title     = {How much does integrating this commit cost? - a position paper},
   year      = {2014},
   groups    = {backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
-  language  = {en},
-}
-
-@InProceedings{jiang2013a,
-  author    = {Jiang, Y. and Adams, B. and German, D.M.},
-  booktitle = {Proceedings of the 10th working conference on mining software repositories (MSR},
-  title     = {my patch make it? and how fast?: case study on the linux kernel},
-  year      = {2013},
-  pages     = {101–110},
-  groups    = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_abstract},
   language  = {en},
 }
 
@@ -2696,16 +2382,6 @@
   year      = {2003},
   pages     = {308–313},
   groups    = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_abstract},
-  language  = {en},
-}
-
-@InProceedings{panjer2007a,
-  author    = {Panjer, L.D.},
-  booktitle = {Proceedings of the 4th international workshop on mining software repositories (MSR},
-  title     = {Predicting eclipse bug lifetimes},
-  year      = {2007},
-  pages     = {29},
-  groups    = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
   language  = {en},
 }
 
@@ -3024,7 +2700,7 @@
   title     = {Characterizing Rapid Releases in a Large Banking Company: A Case Study.},
   year      = {2018},
   pages     = {56--60},
-  groups    = {forward_1, daCosta2016impact, mantyla2015rapid, selected, Other Studies, Recorded, todo},
+  groups    = {forward_1, daCosta2016impact, mantyla2015rapid, selected, Other Studies, Recorded, todo, processed_backward},
 }
 
 @InProceedings{suwa2017analysis,
@@ -3087,14 +2763,6 @@
   groups       = {forward_1, daCosta2016impact, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title},
 }
 
-@Article{palomba2017recommending,
-  author  = {Palomba, Fabio and Salza, Pasquale and Ciurumelea, Adelina and Panichella, Sebastiano and Gall, Harald and Ferrucci, Filomena and Lucia, AD},
-  journal = {ICSE’17},
-  title   = {Recommending and localizing code changes for mobile apps based on user reviews},
-  year    = {2017},
-  groups  = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
-}
-
 @InProceedings{de2018empirical,
   author    = {de la Mora, Fernando L{\'o}pez and Nadi, Sarah},
   booktitle = {Proceedings of the 14th International Conference on Predictive Models and Data Analytics in Software Engineering},
@@ -3102,16 +2770,6 @@
   year      = {2018},
   pages     = {22--31},
   groups    = {forward_1, daCosta2016impact, excluded_phase_title, excluded_ec01_unrelated},
-}
-
-@InProceedings{castelluccio2017safe,
-  author       = {Castelluccio, Marco and An, Le and Khomh, Foutse},
-  booktitle    = {2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
-  title        = {Is it Safe to Uplift this Patch?: An Empirical Study on Mozilla Firefox},
-  year         = {2017},
-  organization = {IEEE},
-  pages        = {411--421},
-  groups       = {forward_1, daCosta2016impact, excluded_phase_text, excluded_ec01_unrelated},
 }
 
 @InProceedings{matzke1992physics,
@@ -3132,16 +2790,6 @@
   organization = {IEEE},
   pages        = {1--12},
   groups       = {forward_1, daCosta2016impact, daCosta2018impact, selected, Other Studies, Recorded, todo},
-}
-
-@InProceedings{palomba2017recommending,
-  author       = {Palomba, Fabio and Salza, Pasquale and Ciurumelea, Adelina and Panichella, Sebastiano and Gall, Harald and Ferrucci, Filomena and De Lucia, Andrea},
-  booktitle    = {2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)},
-  title        = {Recommending and localizing change requests for mobile apps based on user reviews},
-  year         = {2017},
-  organization = {IEEE},
-  pages        = {106--117},
-  groups       = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
 }
 
 @Article{palomba2017toward,
@@ -3373,11 +3021,11 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {587--591},
-  groups       = {forward_1, mantyla2015rapid, selected, Dataset, Recorded, todo},
+  groups       = {forward_1, mantyla2015rapid, selected, Dataset, Recorded, todo, processed_backward},
 }
 
 @InCollection{da2018tools,
-  author    = {da Silva Filho, Heleno Cardoso and de Figueiredo Carneiro, Glauco and Costa, Ed Santana Martins and Monteiro, Miguel},
+  author    = {Silva Filho, Heleno Cardoso and de Figueiredo Carneiro, Glauco and Costa, Ed Santana Martins and Monteiro, Miguel},
   booktitle = {Information Technology-New Generations},
   publisher = {Springer},
   title     = {Tools to Support SMEs to Migrate to the Cloud: Opportunities and Challenges},
@@ -3392,7 +3040,7 @@
   title     = {Releasing fast and slow: an exploratory case study at ING},
   year      = {2019},
   pages     = {785--795},
-  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected, Other Studies, Recorded, todo},
+  groups    = {forward_1, mantyla2015rapid, daCosta2016impact, hemmati2015prioritizing, khomh2015understanding, clark2014moving, selected, Other Studies, Recorded, todo, processed_backward},
 }
 
 @Article{dang2019efficiently,
@@ -3505,7 +3153,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {569--570},
-  groups       = {forward_1, mantyla2015rapid, selected, Other Studies, Recorded, todo},
+  groups       = {forward_1, mantyla2015rapid, selected, Other Studies, Recorded, todo, processed_backward},
 }
 
 @Article{shahin2019empirical,
@@ -3560,7 +3208,7 @@
   year         = {2017},
   organization = {Springer, Cham},
   pages        = {128--138},
-  groups       = {forward_1, mantyla2015rapid, selected, Other Studies, Recorded, todo},
+  groups       = {forward_1, mantyla2015rapid, selected, Other Studies, Recorded, todo, processed_backward},
 }
 
 @InProceedings{barreira2016analysis,
@@ -3746,17 +3394,6 @@
   organization = {IEEE},
   pages        = {1--4},
   groups       = {forward_1, mantyla2015rapid, excluded_phase_text, excluded_ec01_unrelated},
-}
-
-@Article{karvonen2017systematic,
-  author    = {Karvonen, Teemu and Behutiye, Woubshet and Oivo, Markku and Kuvaja, Pasi},
-  journal   = {Information and Software Technology},
-  title     = {Systematic literature review on the impacts of agile release engineering practices},
-  year      = {2017},
-  pages     = {87--100},
-  volume    = {86},
-  groups    = {forward_1, mantyla2015rapid, hemmati2015prioritizing, khomh2015understanding, souza2015rapid, clark2014moving, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title},
-  publisher = {Elsevier},
 }
 
 @Article{haghighatkhah2017automotive,
@@ -4123,7 +3760,7 @@
   pages      = {243--247},
   abstract   = {During the past years, overload at work leading to psychological diseases, such as burnouts, have drawn more public attention. This paper is a preliminary step toward an analysis of the work patterns and possible indicators of overload and time pressure on software developers with mining software repositories approach. We explore the working pattern of developers in the context of Mozilla Firefox, a large and long-lived open source project. To that end we investigate the impact of the move from traditional to rapid release cycle on work pattern. Moreover we compare Mozilla Firefox work pattern with another Mozilla product, Firefox OS, which has a different release cycle than Firefox. We find that both projects exhibit healthy working patterns, i.e. lower activity during the weekends and outside of office hours. Firefox experiences proportionally more activity on weekends than Firefox OS (Cohen's d = 0.94). We find that switching to rapid releases has reduced weekend work (Cohen's d = 1.43) and working during the night (Cohen's d = 0.45). This result holds even when we limit the analyzes on the hired resources, i.e. considering only individuals with Mozilla foundation email address, although, the effect sizes are smaller for weekends (Cohen's d = 0.64) and nights (Cohen's d = 0.23). Moreover, we use dissimilarity word clouds and find that work during the weekend is more technical while work during the week expresses more positive sentiment with words like "good" and "nice". Our results suggest that moving to rapid releases have positive impact on the work health and work-life-balance of software engineers. However, caution is needed as our results are based on a limited set of quantitative data from a single organization.},
   doi        = {10.1109/MSR.2017.3},
-  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected, Recorded, Firefox, todo},
+  groups     = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, selected, Recorded, Firefox, todo, processed_backward},
   keywords   = {abnormal working hours,bugzilla,burnouts,Computer bugs,Data mining,diseases,Diseases,dissimilarity word clouds,Electronic mail,empirical software engineering,firefox,Firefox OS,human factors,mozilla,Mozilla Firefox work pattern,open source project,psychological diseases,psychology,Psychology,public domain software,rapid releases,release,Software,software developers,software engineer work health,software engineer work-life-balance,software engineering,software repositories approach,Switches,time pressure,weekend,work content,working pattern},
   shorttitle = {Abnormal {{Working Hours}}},
   timestamp  = {2020-10-29T20:49:21Z},
@@ -4145,22 +3782,6 @@
   groups    = {forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_abstract},
   isbn      = {978-1-4503-5638-1},
   timestamp = {2020-10-29T20:42:37Z},
-}
-
-@InProceedings{Khalil2019,
-  author    = {Khalil, Z. Abou and Constantinou, E. and Mens, T. and Duchien, L. and Quinton, C.},
-  booktitle = {2019 {{IEEE International Conference}} on {{Software Maintenance}} and {{Evolution}} ({{ICSME}})},
-  title     = {A {{Longitudinal Analysis}} of {{Bug Handling Across Eclipse Releases}}},
-  year      = {2019},
-  month     = sep,
-  pages     = {1--12},
-  abstract  = {Large open source software projects, like Eclipse, follow a continuous software development process, with a regular release cycle. During each release, new bugs are reported, triaged and resolved. Previous studies have focused on various aspects of bug fixing, such as bug triaging, bug prediction, and bug process analysis. Most studies, however, do not distinguish between what happens before and after each scheduled release. We are also unaware of studies that compare bug fixing activities across different project releases. This paper presents an empirical analysis of the bug handling process of Eclipse over a 15-year period, considering 138K bug reports from Bugzilla, including 16 annual Eclipse releases and two quarterly releases in 2018. We compare the bug resolution rate, the fixing rate, the bug triaging time and the fixing time before and after each release date, and we study the possible impact of "release pressure". Among others, our results reveal that Eclipse bug handling activity is improving over time, with an important decrease in the number of reported bugs before releases, an increase in the bug fixing rate and an increasingly balanced bug handling workload before and after releases. The recent transition from an annual to a quarterly release cycle continued to improve the bug handling process.},
-  doi       = {10.1109/ICSME.2019.00010},
-  file      = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\S68UFEYT\\Khalil et al. - 2019 - A Longitudinal Analysis of Bug Handling Across Ecl.pdf:application/pdf},
-  groups    = {forward_01, p_Khomh2015_forward, p_Costa2018_forward, forward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
-  issn      = {2576-3148},
-  keywords  = {16 annual Eclipse releases,bug fixing rate,bug prediction,bug process analysis,bug resolution rate,bug triaging time,Computer bugs,continuous software development process,Delays,different project releases,Eclipse bug handling activity,empirical analysis; bug fixing process; software maintenance; rapid release cycle; bug triaging; Bugzilla; Releases,History,increasingly balanced bug handling workload,Interviews,open source software projects,program debugging,public domain software,quarterly release cycle,quarterly releases,regular release cycle,release date,release pressure,reported bugs,scheduled release,Software,software fault tolerance,Switches},
-  timestamp = {2020-10-29T19:51:19Z},
 }
 
 @InProceedings{Khalil2019a,
@@ -4512,7 +4133,7 @@
 }
 
 @Article{da2016framework,
-  author    = {Da Costa, Daniel Alencar and McIntosh, Shane and Shang, Weiyi and Kulesza, Uir{\'a} and Coelho, Roberta and Hassan, Ahmed E},
+  author    = {Costa, Daniel Alencar and McIntosh, Shane and Shang, Weiyi and Kulesza, Uir{\'a} and Coelho, Roberta and Hassan, Ahmed E},
   journal   = {IEEE Transactions on Software Engineering},
   title     = {A framework for evaluating the results of the szz approach for identifying bug-introducing changes},
   year      = {2016},
@@ -4653,7 +4274,7 @@
 }
 
 @InCollection{da2018impact,
-  author    = {da Silva, Ant{\'o}nio C{\'e}sar B Gomes and de Figueiredo Carneiro, Glauco and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito and Constantino, Kattiana and Figueiredo, Eduardo},
+  author    = {Silva, Ant{\'o}nio C{\'e}sar B Gomes and de Figueiredo Carneiro, Glauco and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito and Constantino, Kattiana and Figueiredo, Eduardo},
   booktitle = {Information Technology-New Generations},
   publisher = {Springer},
   title     = {On the impact of product quality attributes on open source project evolution},
@@ -4683,7 +4304,7 @@
 }
 
 @InProceedings{da2017influence,
-  author    = {da Silva, Antonio Cesar Brandao Gomes and Constantino, Kattiana and de Figueiredo Carneiro, Glauco and de Paula, Antonio Carlos Marcelino and Figueiredo, Eduardo and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito},
+  author    = {Silva, Antonio Cesar Brandao Gomes and Constantino, Kattiana and de Figueiredo Carneiro, Glauco and de Paula, Antonio Carlos Marcelino and Figueiredo, Eduardo and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito},
   booktitle = {ICEIS (2)},
   title     = {The Influence of Software Product Quality Attributes on Open Source Projects: A Characterization Study.},
   year      = {2017},
@@ -4726,7 +4347,7 @@
 }
 
 @InProceedings{da2016agility,
-  author       = {da Silva, Antonio C{\'e}sar Brandao Gomes and de Figueiredo Carneiro, Glauco and de Paula, Antonio Carlos Marcelino and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito},
+  author       = {Silva, Antonio C{\'e}sar Brandao Gomes and de Figueiredo Carneiro, Glauco and de Paula, Antonio Carlos Marcelino and Monteiro, Miguel Pessoa and e Abreu, Fernando Brito},
   booktitle    = {2016 10th International Conference on the Quality of Information and Communications Technology (QUATIC)},
   title        = {Agility and Quality Attributes in Open Source Software Projects Release Practices},
   year         = {2016},
@@ -4767,7 +4388,7 @@
   booktitle = {XXV Congreso Argentino de Ciencias de la Computaci{\'o}n (CACIC)(Universidad Nacional de R{\'\i}o Cuarto, C{\'o}rdoba, 14 al 18 de octubre de 2019)},
   title     = {Rapid Releases and Testing Problems at the industry: A survey},
   year      = {2019},
-  groups    = {forward_1, mantyla2013rapid},
+  groups    = {forward_1, mantyla2013rapid, need_check},
 }
 
 @Article{paunovicbiological,
@@ -4796,7 +4417,7 @@
 }
 
 @Article{da2018empirical,
-  author    = {da Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E and Abebe, Surafel Lemma},
+  author    = {Costa, Daniel Alencar and McIntosh, Shane and Kulesza, Uir{\'a} and Hassan, Ahmed E and Abebe, Surafel Lemma},
   journal   = {Empirical Software Engineering},
   title     = {An empirical study of the integration time of fixed issues},
   year      = {2018},
@@ -4879,21 +4500,6 @@
   url             = {http://bit.ly/aecRrL},
 }
 
-@Article{Porter2006,
-  author          = {Porter, A. and Yilmaz, C. and Memon, A.M. and Krishna, A.S. and Schmidt, D.C. and Gokhale, A.},
-  journal         = {Software Process: Improvement and Practice},
-  title           = {Techniques and processes for improving the quality and performance of open-source software},
-  year            = {2006},
-  issn            = {1077-4866},
-  number          = {2},
-  pages           = {163–176,},
-  volume          = {11},
-  citation-number = {5},
-  doi             = {10.1002/spip.260},
-  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_intro},
-  language        = {fr},
-}
-
 @Misc{2012,
   note            = {Retrieved on January 12,},
   title           = {Web browsers (global marketshare},
@@ -4958,17 +4564,6 @@
   url             = {http://cnet.co/mQZ6Tf},
 }
 
-@Book{Yin2002,
-  author          = {Yin, R.K.},
-  publisher       = {SAGE Publications},
-  title           = {Case Study Research: Design and Methods},
-  year            = {2002},
-  edition         = {Third Edition, 3rd},
-  citation-number = {20},
-  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title},
-  language        = {en},
-}
-
 @Misc{2012d,
   note            = {Accessed on January 12,},
   title           = {Sourcemonitor},
@@ -4977,17 +4572,6 @@
   groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
   language        = {en},
   url             = {http://bit.ly/9AKzN8},
-}
-
-@InProceedings{Jenkins2011,
-  author          = {Jenkins, J.},
-  booktitle       = {Presentation at O’Reilly Velocity Conference},
-  title           = {Velocity culture (the unmet challenge in ops},
-  year            = {2011},
-  month           = jun,
-  citation-number = {24},
-  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title},
-  language        = {en},
 }
 
 @Misc{Hodgetts2002,
@@ -5001,30 +4585,6 @@
   publisher       = {Addison-Wesley Longman Publishing Co., Inc},
 }
 
-@Article{Stewart2005,
-  author          = {Stewart, K.J. and Darcy, D.P. and Daniel, S.L.},
-  journal         = {SIGSOFT Softw. Eng. Notes},
-  title           = {Observations on patterns of development in open source software projects},
-  year            = {2005},
-  month           = may,
-  pages           = {1–5,},
-  volume          = {30},
-  citation-number = {34},
-  groups          = {backward_2, khomh2012, need_check},
-  language        = {en},
-}
-
-@InProceedings{Baysal2011,
-  author          = {Baysal, O. and Davis, I. and Godfrey, M.W.},
-  booktitle       = {Proceedings of the 8thWorking Conf. on Mining Software Repositories (MSR},
-  title           = {A tale of two browsers},
-  year            = {2011},
-  pages           = {238–241},
-  citation-number = {4},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, daCosta2016impact, daCosta2018impact, excluded_phase_text, excluded_ec01_unrelated, backward_2, khomh2012},
-  language        = {en},
-}
-
 @Misc{Downer2011,
   author          = {Downer, T.},
   note            = {Accessed 6 Jan 2012},
@@ -5034,27 +4594,6 @@
   groups          = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012},
   language        = {en},
   url             = {http://bit.ly/q8RCuw},
-}
-
-@Misc{Shankland2010,
-  author          = {Shankland, S.},
-  month           = jul,
-  title           = {Google ethos speeds up chrome release cycle},
-  year            = {2010},
-  citation-number = {8},
-  groups          = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news, backward_2, khomh2012, excluded_phase_title},
-  language        = {en},
-  url             = {https://www.cnet.com/news/google-ethos-speeds-up-chrome-release-cycle/},
-}
-
-@Misc{Shankland2011,
-  author          = {Shankland, S.},
-  title           = {Rapid-release firefox meets corporate backlash},
-  year            = {2011},
-  citation-number = {9},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec07_news, excluded_phase_title, backward_2, khomh2012},
-  language        = {en},
-  url             = {http://cnet.co/ktBsUU},
 }
 
 @Misc{Paul2011,
@@ -5090,30 +4629,6 @@
   language        = {en},
 }
 
-@InProceedings{Marschall2007,
-  author          = {Marschall, M.},
-  booktitle       = {Proceedings of the conference on AGILE},
-  title           = {Transforming a six month release cycle to continuous flow},
-  year            = {2007},
-  pages           = {395–400},
-  citation-number = {16},
-  comment         = {Report sobre um caso de continuous deploy. Não responde o questionario.},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text, backward_2, khomh2012},
-  language        = {en},
-}
-
-@InProceedings{Otte2008,
-  author          = {Otte, T. and Moreton, R. and Knoell, H.D.},
-  booktitle       = {Proceedings of the 32nd Annual IEEE international computer software and applications conference (COMPSAC},
-  title           = {Applied quality assurance methods under the open source development model},
-  year            = {2008},
-  pages           = {1247–1252},
-  publisher       = {COMPSAC},
-  citation-number = {22},
-  groups          = {backward_1, mantyla2015rapid, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012},
-  language        = {en},
-}
-
 @InProceedings{Brown2011,
   author          = {Brown, A.W.},
   booktitle       = {Proc. of the 12th Intl. Conf. on Agile Processes in Software Engineering and Extreme Programming (XP},
@@ -5124,17 +4639,6 @@
   volume          = {77},
   citation-number = {25},
   groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_abstract, backward_2, khomh2012},
-  language        = {en},
-}
-
-@InCollection{Gamma2005,
-  author          = {Gamma, E.},
-  booktitle       = {Keynote at the 27th Intl. Conf. on Software Engineering (ICSE},
-  title           = {Agile, open source, distributed, and on-time – inside the eclipse development process},
-  year            = {2005},
-  month           = may,
-  citation-number = {25},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012},
   language        = {en},
 }
 
@@ -5170,17 +4674,6 @@
   language        = {en},
 }
 
-@Book{Humble2010,
-  author          = {Humble, J. and Farley, D.},
-  publisher       = {Addison-Wesley Professional},
-  title           = {Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation},
-  year            = {2010},
-  edition         = {1st},
-  citation-number = {2},
-  groups          = {backward_1, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, mantyla2013rapid, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012},
-  language        = {en},
-}
-
 @InProceedings{Kong2009,
   author          = {Kong, S. and Kendall, J.E. and Kendall, K.E.},
   booktitle       = {Proceedings of the Americas conference on information systems},
@@ -5190,20 +4683,6 @@
   pages           = {12},
   citation-number = {30},
   groups          = {backward_1, mantyla2015rapid, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012},
-  language        = {en},
-}
-
-@Article{Kuppuswami2003,
-  author          = {Kuppuswami, S. and Vivekanandan, K. and Ramaswamy, P. and Rodrigues, P.},
-  journal         = {SIGSOFT Softw Eng Notes},
-  title           = {The effects of individual xp practices on software development effort},
-  year            = {2003},
-  month           = nov,
-  number          = {6},
-  pages           = {6 ,},
-  volume          = {28},
-  citation-number = {33},
-  groups          = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_text, backward_2, khomh2012},
   language        = {en},
 }
 
@@ -5218,33 +4697,6 @@
   language        = {en},
 }
 
-@InProceedings{Tufano2015,
-  author          = {Tufano, M. and Palomba, F. and Bavota, G. and Oliveto, R. and Penta, M. and Lucia, A. and Poshyvanyk, D.},
-  booktitle       = {Software Engineering (ICSE), 2015 IEEE/ACM 37th IEEE International Conference on},
-  title           = {When and why your code starts to smell bad},
-  year            = {2015},
-  month           = may,
-  pages           = {403–414},
-  publisher       = {IEEE},
-  volume          = {1},
-  citation-number = {5},
-  groups          = {kula2018, backward_2, excluded_phase_abstract, excluded_ec01_unrelated},
-  language        = {en},
-}
-
-@InProceedings{Rubin2016,
-  author          = {Rubin, J. and Rinard, M.},
-  booktitle       = {Proceedings of the 38th International Conference on Software Engineering},
-  title           = {The challenges of staying together while moving fast: An exploratory study},
-  year            = {2016},
-  month           = may,
-  pages           = {982–993},
-  publisher       = {ACM},
-  citation-number = {6},
-  groups          = {kula2018, backward_2, excluded_phase_abstract, excluded_ec01_unrelated},
-  language        = {en},
-}
-
 @TechReport{I.N.G.2018,
   author          = {I.N.G.},
   year            = {2018},
@@ -5254,101 +4706,6 @@
   groups          = {kula2018, backward_2, excluded_phase_title, excluded_ec01_unrelated},
   language        = {en},
   school          = {ING Group N.V},
-}
-
-@Book{Creswell2017,
-  author          = {Creswell, J.W. and Creswell, J.D.},
-  publisher       = {Sage publications},
-  title           = {Research design: Qualitative, quantitative, and mixed methods approaches},
-  year            = {2017},
-  citation-number = {8},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@Book{Flick2014,
-  author          = {Flick, U.},
-  publisher       = {Sage},
-  title           = {An introduction to qualitative research},
-  year            = {2014},
-  citation-number = {9},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@Article{Corbin1990,
-  author          = {Corbin, J.M. and Strauss, A.},
-  journal         = {Qualitative sociology},
-  title           = {Grounded theory research: Procedures, canons, and evaluative criteria},
-  year            = {1990},
-  number          = {1},
-  pages           = {3–21},
-  volume          = {13},
-  citation-number = {10},
-  groups          = {kula2018, backward_2, excluded_phase_title, excluded_ec01_unrelated},
-  language        = {en},
-}
-
-@InCollection{Mann1947,
-  author          = {Mann, H.B. and Whitney, D.R.},
-  booktitle       = {The annals of mathematical statistics},
-  title           = {On a test of whether one of two random variables is stochastically larger than the other},
-  year            = {1947},
-  pages           = {50–60},
-  citation-number = {11},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@InProceedings{Hejderup2018,
-  author          = {Hejderup, J. and Deursen, A. and Gousios, G.},
-  booktitle       = {Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results},
-  title           = {Software ecosystem call graph for dependency management},
-  year            = {2018},
-  month           = may,
-  pages           = {101–104},
-  publisher       = {ACM},
-  citation-number = {12},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@InProceedings{Decan2017,
-  author          = {Decan, A. and Mens, T. and Claes, M.},
-  booktitle       = {2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER},
-  title           = {An empirical comparison of dependency issues in OSS packaging ecosystems},
-  year            = {2017},
-  month           = feb,
-  pages           = {2–12},
-  publisher       = {IEEE},
-  citation-number = {13},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-}
-
-@Book{Decan2018,
-  author          = {Decan, A. and Mens, T. and Grosjean, P.},
-  publisher       = {Empirical Software Engineering},
-  title           = {An empirical comparison of dependency network evolution in seven software packaging ecosystems},
-  year            = {2018},
-  citation-number = {14},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
-  language        = {en},
-  pages           = {1–36},
-}
-
-@InProceedings{Khomh2012,
-  author          = {Khomh, Foutse and Dhaliwal, Tejinder and Zou, Ying and Adams, Bram},
-  booktitle       = {Mining Software Repositories, 2012 9th Working Conference},
-  title           = {Do Faster Releases Improve Software Quality? An Empirical Case Study of Mozilla Firefox},
-  year            = {2012},
-  address         = {Kingston, Ontario, Canada},
-  month           = jun,
-  pages           = {179–188},
-  publisher       = {IEEE Press},
-  citation-number = {33},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox, Recorded, todo, processed_backward, kula2018, backward_2},
-  language        = {en},
 }
 
 @InProceedings{khomh2011a,
@@ -5372,6 +4729,2522 @@
   url             = {http://www.versionone.com/pdf/7th-Annual-State-of-Agile-Development-Survey.pdf},
 }
 
+@Misc{Kniberg,
+  author          = {Kniberg, H.},
+  note            = {Available at},
+  title           = {Spotify engineering culture},
+  citation-number = {5},
+  date            = {2014/},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {et},
+  pages           = {– – – –1,},
+  url             = {https://},
+  volume          = {03/ 27},
+}
+
+@Article{Rossi2014,
+  author          = {Rossi, C.},
+  journal         = {Keynote at RELENG},
+  title           = {Moving to mobile: The challenges of moving from web to mobile releases},
+  year            = {2014},
+  citation-number = {6},
+  groups          = {kula2019, backward_2, excluded_ec03_unavailable, excluded_phase_title},
+  language        = {en},
+}
+
+@TechReport{I.N.G.2017,
+  author          = {I.N.G.},
+  title           = {Annual ING Group N.V},
+  year            = {2017},
+  note            = {Available at https://www.ing.com/Aboutus/ Annual-reporting-suite/Annual-Report/ 2017-Annual-Report-Empoweringpeople. htm,},
+  citation-number = {11},
+  groups          = {kula2019, backward_2, excluded_ec03_unavailable, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Vassallo2016,
+  author          = {Vassallo, Carmine and Zampetti, Fiorella and Romano, Daniele and Beller, Moritz and Panichella, Annibale and Penta, Massimiliano and Zaidman, Andy},
+  booktitle       = {Software Maintenance and Evolution (ICSME), 2016 IEEE International Conference on},
+  title           = {Continuous delivery practices in a large financial organization},
+  year            = {2016},
+  pages           = {519–528},
+  publisher       = {IEEE},
+  citation-number = {12},
+  groups          = {kula2019, backward_2},
+  language        = {en},
+}
+
+@Article{Runeson2009,
+  author          = {Runeson, Per and Höst, Martin},
+  journal         = {Empirical software engineering},
+  title           = {Guidelines for conducting and reporting case study research in software engineering},
+  year            = {2009},
+  number          = {2},
+  volume          = {14},
+  citation-number = {13},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Li2015,
+  author          = {Li, Zengyang and Avgeriou, Paris and Liang, Peng},
+  journal         = {Journal of Systems and Software},
+  title           = {A systematic mapping study on technical debt and its management},
+  year            = {2015},
+  pages           = {193–220},
+  volume          = {101},
+  citation-number = {19},
+  groups          = {kula2019, backward_2},
+  language        = {en},
+}
+
+@Article{McCabe1976,
+  author          = {McCabe, Thomas J.},
+  journal         = {IEEE Transactions on software Engineering},
+  title           = {A complexity measure},
+  year            = {1976},
+  number          = {4},
+  pages           = {308–320},
+  volume          = {2},
+  citation-number = {20},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Eisenberg2012,
+  author          = {Eisenberg, Robert J.},
+  journal         = {ACM SIGSOFT Software Engineering Notes},
+  title           = {A threshold based approach to technical debt},
+  year            = {2012},
+  number          = {2},
+  pages           = {1–6},
+  volume          = {37},
+  citation-number = {21},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Bonferroni1936,
+  author          = {Bonferroni, C.},
+  journal         = {Pubblicazioni del R Istituto Superiore di Scienze Economiche e Commericiali di Firenze},
+  title           = {Teoria statistica delle classi e calcolo delle probabilita},
+  year            = {1936},
+  pages           = {3–62},
+  volume          = {8},
+  citation-number = {24},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {it},
+}
+
+@InProceedings{Bellomo2013,
+  author          = {Bellomo, Stephany and Nord, Robert L. and Ozkaya, Ipek},
+  booktitle       = {Proceedings of the 2013 International Conference on Software Engineering},
+  title           = {A study of enabling factors for rapid fielding: combined practices to balance speed and stability},
+  year            = {2013},
+  pages           = {982–991},
+  publisher       = {IEEE Press},
+  citation-number = {27},
+  groups          = {kula2019, backward_2, need_check},
+  language        = {en},
+}
+
+@InProceedings{Ruhe2003,
+  author          = {Ruhe, Günther and Greer},
+  booktitle       = {Empirical Software Engineering, 2003. ISESE 2003. Proceedings. 2003 International Symposium on},
+  title           = {Quantitative studies in software release planning under risk and resource constraints},
+  year            = {2003},
+  pages           = {262–270},
+  publisher       = {IEEE},
+  citation-number = {35},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Popli2014,
+  author          = {Popli, Rashmi and Chauhan, Naresh},
+  booktitle       = {Optimization, Reliabilty, and Information Technology (ICROIT), 2014 International Conference on},
+  title           = {Cost and effort estimation in agile software development},
+  year            = {2014},
+  pages           = {57–61},
+  publisher       = {IEEE},
+  citation-number = {36},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_text},
+  language        = {en},
+}
+
+@Article{Furnham1986,
+  author          = {Furnham, Adrian},
+  journal         = {Personality and individual differences},
+  title           = {Response bias, social desirability and dissimulation},
+  year            = {1986},
+  number          = {3},
+  pages           = {385–400},
+  volume          = {7},
+  citation-number = {37},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {fr},
+}
+
+@InProceedings{Rubin2016,
+  author          = {Rubin, J. and Rinard, M.},
+  booktitle       = {Proceedings of the 38th International Conference on Software Engineering},
+  title           = {The challenges of staying together while moving fast: An exploratory study},
+  year            = {2016},
+  month           = may,
+  pages           = {982–993},
+  publisher       = {ACM},
+  citation-number = {6},
+  groups          = {kula2018, backward_2, excluded_phase_abstract, excluded_ec01_unrelated, kula2019},
+  language        = {en},
+}
+
+@Book{Creswell2017,
+  author          = {Creswell, J.W. and Creswell, J.D.},
+  publisher       = {Sage publications},
+  title           = {Research design: Qualitative, quantitative, and mixed methods approaches},
+  year            = {2017},
+  citation-number = {8},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019},
+  language        = {en},
+}
+
+@Book{Flick2014,
+  author          = {Flick, U.},
+  publisher       = {Sage},
+  title           = {An introduction to qualitative research},
+  year            = {2014},
+  citation-number = {9},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019},
+  language        = {en},
+}
+
+@Article{Corbin1990,
+  author          = {Corbin, J.M. and Strauss, A.},
+  journal         = {Qualitative sociology},
+  title           = {Grounded theory research: Procedures, canons, and evaluative criteria},
+  year            = {1990},
+  number          = {1},
+  pages           = {3–21},
+  volume          = {13},
+  citation-number = {10},
+  groups          = {kula2018, backward_2, excluded_phase_title, excluded_ec01_unrelated, kula2019},
+  language        = {en},
+}
+
+@InProceedings{Decan2017,
+  author          = {Decan, A. and Mens, T. and Claes, M.},
+  booktitle       = {2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER},
+  title           = {An empirical comparison of dependency issues in OSS packaging ecosystems},
+  year            = {2017},
+  month           = feb,
+  pages           = {2–12},
+  publisher       = {IEEE},
+  citation-number = {13},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019},
+  language        = {en},
+}
+
+@Article{Petersen2010,
+  author          = {Petersen, K. and Wohlin, C.},
+  journal         = {Empir Softw Eng},
+  title           = {The effect of moving from a plan-driven to an incremental software development approach with agile practices},
+  year            = {2010},
+  number          = {6},
+  pages           = {654–693},
+  volume          = {15},
+  citation-number = {34},
+  comment         = {Fala de processos ageis.},
+  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text, kula2019, backward_2},
+  language        = {en},
+}
+
+@Article{Ambler2008,
+  author          = {Ambler, S.},
+  journal         = {Balancing Agility and Formalism in Software Engineering},
+  title           = {Agile Software Development at Scale},
+  year            = {2008},
+  pages           = {1–12,},
+  volume          = {5082},
+  address         = {Berlin},
+  citation-number = {1},
+  doi             = {10.1007/978-3-},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {nl},
+  publisher       = {Springer},
+  url             = {http://dx.doi.org/10.1007/978-3-},
+}
+
+@Book{Boehm2004,
+  author          = {Boehm, B. and Turner, R.},
+  publisher       = {Addison Wesley},
+  title           = {Balancing Agility and Discipline: A Guide for the Perplexed},
+  year            = {2004},
+  address         = {Boston},
+  citation-number = {4},
+  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Eisenhardt1989,
+  author          = {Eisenhardt, K.M.},
+  journal         = {Academy of Management Review},
+  title           = {Building theories from case study research”},
+  year            = {1989},
+  pages           = {532– 550,},
+  volume          = {14},
+  citation-number = {5},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Book{E.U.2003,
+  author          = {E.U.},
+  publisher       = {European Commission},
+  title           = {SME Definition},
+  year            = {2003},
+  citation-number = {6},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Book{Fitzgerald2002,
+  author          = {Fitzgerald, B. and Russo, N. and Stolterman, E.},
+  publisher       = {McGraw-Hill},
+  title           = {Information Systems Development – Methods in Action},
+  year            = {2002},
+  address         = {London},
+  citation-number = {7},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Glas2009,
+  author          = {Glas, M. and Ziemer, S.},
+  booktitle       = {Proc. 24th ACM SIGPLAN conference companion on Object-oriented programming systems, languages and applications},
+  title           = {Challenges for agile development of large systems in the aviation industry”},
+  year            = {2009},
+  address         = {Orlando, Florida, USA},
+  pages           = {901–908,},
+  citation-number = {8},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://doi.acm.org},
+}
+
+@Article{Glaser2002,
+  author          = {Glaser, B.G.},
+  journal         = {Forum: Qualitative Social Research (FQS},
+  title           = {Constuctivist Grounded Theory?”},
+  year            = {2002},
+  number          = {3},
+  volume          = {3},
+  citation-number = {9},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Book{Glaser1967,
+  author          = {Glaser, B. and Strauss, A.L.},
+  publisher       = {Aldine},
+  title           = {The Discovery of Grounded Theory: Strategies for Qualitative Research},
+  year            = {1967},
+  address         = {Chicago},
+  citation-number = {10},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Highsmith2001,
+  author          = {Highsmith, J. and Cockburn, A.},
+  journal         = {Computer},
+  title           = {Agile Software Development: the Business of Innovation},
+  year            = {2001},
+  number          = {9},
+  pages           = {120–127},
+  volume          = {34},
+  citation-number = {11},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://doi.ieeecomputersociety.org},
+}
+
+@InProceedings{Itkonen2005,
+  author          = {Itkonen, J. and Rautiainen, K. and Lassenius, C.},
+  booktitle       = {Proceedings of the International Conference on Agility (ICAM 2005},
+  title           = {Towards Understanding Quality Assurance in Agile Software Development},
+  year            = {2005},
+  pages           = {201–207},
+  citation-number = {12},
+  groups          = {kettunen2010, backward_2, excluded_ec03_unavailable, excluded_phase_title},
+  language        = {en},
+}
+
+@Misc{I.S.O./I.E.C.2002,
+  author          = {I.S.O./I.E.C.},
+  title           = {ISO/IEC 15504-1, Information Technology - Process Assessment - Part 1: Concepts and Vocabulary},
+  year            = {2002},
+  citation-number = {13},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Misc{I.S.O./I.E.C.2008,
+  author          = {I.S.O./I.E.C.},
+  title           = {ISO/IEC 29119-2, Software Testing Standard – Activity Descriptions for Test Process Diagram},
+  year            = {2008},
+  citation-number = {14},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Karhu2009,
+  author          = {Karhu, K. and Repo, T. and Taipale, O. and Smolander, K.},
+  booktitle       = {Proc. 2nd IEEE Int. Conf. on Software Testing Verification and Validation},
+  title           = {Empirical observations on software testing automation”},
+  year            = {2009},
+  address         = {Denver, USA},
+  citation-number = {15},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@InProceedings{Kasurinen2009,
+  author          = {Kasurinen, J. and Taipale, O. and Smolander, K.},
+  booktitle       = {Proc. 16th Asia-Pacific Conference on Software Engineering},
+  title           = {Analysis of Problems in Testing Practices”},
+  year            = {2009},
+  address         = {Penang, Malaysia},
+  pages           = {1 –3 12 ,},
+  citation-number = {16},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@Misc{Kasurinen2010,
+  author          = {Kasurinen, J. and Taipale, O. and Smolander, K.},
+  note            = {Special Issue on Software Test Automation, in press,},
+  title           = {Software Test Automation in Practice: Empirical Observations”, accepted to Advances in Software Engineering},
+  year            = {2010},
+  citation-number = {17},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Klein1999,
+  author          = {Klein, H.K. and Myers, M.D.},
+  journal         = {MIS Quarterly},
+  title           = {A set of principles for conducting and evaluating interpretive field studies in information systems”},
+  year            = {1999},
+  pages           = {67–94,},
+  volume          = {23},
+  citation-number = {18},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Krasteva2008,
+  author          = {Krasteva, I. and Ilieva, S.},
+  booktitle       = {Proc. 2008 International Workshop on Scrutinizing agile practices or shoot-out at the agile corral},
+  title           = {Adopting an agile methodology: why it did not work”},
+  year            = {2008},
+  address         = {Leipzig, Germany},
+  pages           = {33–36,},
+  citation-number = {19},
+  groups          = {kettunen2010, backward_2, need_check},
+  language        = {en},
+  url             = {http://doi.acm.org},
+}
+
+@Book{Locke2001,
+  author          = {Locke, K.},
+  publisher       = {SAGE Publications Ltd},
+  title           = {Grounded Theory in Management Research},
+  year            = {2001},
+  citation-number = {20},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Pare1997,
+  author          = {Pare ́, G. and Elam, J.J.},
+  booktitle       = {IFIP TC8 WG International Conference on Information Systems and Qualitative Research},
+  title           = {Using case study research to build theories of IT Implementation”},
+  year            = {1997},
+  address         = {Philadelphia, USA},
+  citation-number = {21},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Puleio2006,
+  author          = {Puleio, M.},
+  booktitle       = {Proceedings of AGILE 2006 Conference},
+  title           = {How Not to Do Agile Testing},
+  year            = {2006},
+  volume          = {AGILE’06},
+  citation-number = {22},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@Book{Schwaber2002,
+  author          = {Schwaber, K. and Beedle, M.},
+  publisher       = {Prentice-Hall},
+  title           = {Agile Software Development with Scrum},
+  year            = {2002},
+  address         = {Upper Saddle River, NJ},
+  citation-number = {24},
+  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Shaye2008,
+  author          = {Shaye, S.},
+  booktitle       = {Agile 2008 Conference (AGILE},
+  title           = {Transitioning a Team to Agile Test Methods},
+  year            = {2008},
+  pages           = {470–477},
+  volume          = {08},
+  citation-number = {26},
+  groups          = {kettunen2010, backward_2, need_check},
+  language        = {en},
+}
+
+@Book{Sommerville1995,
+  author          = {Sommerville, I.},
+  publisher       = {Addison Wesley},
+  title           = {Software Engineering},
+  year            = {1995},
+  edition         = {5th},
+  citation-number = {27},
+  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title},
+  language        = {nl},
+}
+
+@InProceedings{Stolberg2009,
+  author          = {Stolberg, S.},
+  booktitle       = {Agile Conference 2009 (AGILE},
+  title           = {Enabling Agile Testing Ghrough Continuous Integration},
+  year            = {2009},
+  pages           = {369–374},
+  volume          = {09},
+  citation-number = {28},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@Book{Strauss1990,
+  author          = {Strauss, A. and Corbin, J.},
+  publisher       = {SAGE Publications},
+  title           = {Basics of Qualitative Research: Grounded Theory Procedures and Techniques},
+  year            = {1990},
+  address         = {Newbury Park, CA},
+  citation-number = {29},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InCollection{Sumrell2007,
+  author          = {Sumrell, M.},
+  booktitle       = {AGILE 2007},
+  title           = {From Waterfall to Agile - How does a QA Team Transition?},
+  year            = {2007},
+  pages           = {291–295},
+  citation-number = {30},
+  groups          = {kettunen2010, backward_2, Others, selected},
+  language        = {en},
+}
+
+@Article{Talby2006,
+  author          = {Talby, D. and Keren, A. and Hazzan, O. and Dubinsky, Y.},
+  journal         = {Software, IEEE},
+  title           = {Agile Software Testing in a Large-Scale Project},
+  year            = {2006},
+  number          = {4},
+  pages           = {30–37},
+  volume          = {23},
+  citation-number = {31},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Thagard1997,
+  author          = {Thagard, P. and Shelley, C.},
+  journal         = {Logic and Scientific methods},
+  title           = {Abductive reasoning: Logic, visual thinking and coherence”},
+  year            = {1997},
+  pages           = {413–427,},
+  address         = {Dordrecht},
+  citation-number = {32},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  publisher       = {Kluwer},
+}
+
+@Article{Foundation2009,
+  author          = {Foundation, TMMi},
+  journal         = {Version},
+  title           = {Test Maturity Model integration (TMMi) reference model},
+  year            = {2009},
+  number          = {0},
+  volume          = {2},
+  citation-number = {33},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Onwuegbuzie2007,
+  author          = {A., Onwuegbuzie and N.L, Leech},
+  journal         = {Quality and Quantity},
+  title           = {Validity and Qualitative Research: An Oxymoron?”},
+  year            = {2007},
+  number          = {2},
+  pages           = {233–249,},
+  volume          = {41},
+  citation-number = {34},
+  doi             = {10.1007/s11135-006-9000-3},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Book{Robson2002,
+  author          = {Robson, Colin},
+  publisher       = {Wiley-Blackwell},
+  title           = {Real world research: A resource for social scientists and practitionerresearchers},
+  year            = {2002},
+  edition         = {Second},
+  citation-number = {16},
+  groups          = {kula2019, backward_2, kettunen2010, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{̊a2008,
+  author          = {̊a, T. Dyb and Dingsøyr, T.},
+  journal         = {Information and software technology},
+  title           = {Empirical studies of agile software development: A systematic review},
+  year            = {2008},
+  number          = {9-10},
+  pages           = {833–859,},
+  volume          = {50},
+  citation-number = {6},
+  groups          = {joshi2019, backward_2, need_check},
+  language        = {en},
+}
+
+@Article{Salo2008,
+  author          = {Salo, O. and Abrahamsson, P.},
+  journal         = {IET software},
+  title           = {Agile methods in european embedded software development organisations: a survey on the actual use and usefulness of extreme programming and scrum},
+  year            = {2008},
+  number          = {1},
+  pages           = {58–64,},
+  volume          = {2},
+  citation-number = {8},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@InProceedings{Murphy2013,
+  author          = {Murphy, B. and Bird, C. and Zimmermann, T. and Williams, L. and Nagappan, N. and Begel, A.},
+  booktitle       = {Empirical Software Engineering and Measurement, 2013 ACM/IEEE International Symposium on},
+  title           = {Have agile techniques been the silver bullet for software development at microsoft?},
+  year            = {2013},
+  pages           = {75–84},
+  publisher       = {IEEE},
+  citation-number = {9},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Kalliamvakou2014,
+  author          = {Kalliamvakou, E. and Gousios, G. and Blincoe, K. and Singer, L. and German, D.M. and Damian, D.},
+  booktitle       = {Proceedings of the 11th working conference on mining software repositories},
+  title           = {The promises and perils of mining github},
+  year            = {2014},
+  pages           = {92–101},
+  publisher       = {ACM},
+  citation-number = {10},
+  groups          = {joshi2019, backward_2, excluded_phase_title, excluded_ec01_unrelated},
+  language        = {en},
+}
+
+@InProceedings{Nagappan2013,
+  author          = {Nagappan, M. and Zimmermann, T. and Bird, C.},
+  booktitle       = {Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering},
+  title           = {Diversity in software engineering research},
+  year            = {2013},
+  pages           = {466–476},
+  publisher       = {ACM},
+  citation-number = {11},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Ray2014,
+  author          = {Ray, B. and Posnett, D. and Filkov, V. and Devanbu, P.},
+  booktitle       = {Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering},
+  title           = {A large scale study of programming languages and code quality in github},
+  year            = {2014},
+  pages           = {155–165},
+  publisher       = {ACM},
+  citation-number = {12},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Valkenhoef2011,
+  author          = {Valkenhoef, G. and Tervonen, T. and Brock, B. and Postmus, D.},
+  journal         = {Information and software technology},
+  title           = {Quantitative release planning in extreme programming},
+  year            = {2011},
+  number          = {11},
+  pages           = {1227–1235,},
+  volume          = {53},
+  citation-number = {13},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InCollection{Dyck2015,
+  author          = {Dyck, A. and Penners, R. and Lichter, H.},
+  booktitle       = {Release Engineering (RELENG), 2015 IEEE/ACM 3rd International Workshop on},
+  publisher       = {IEEE},
+  title           = {Towards definitions for release engineering and devops},
+  year            = {2015},
+  pages           = {3–3},
+  citation-number = {14},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@InProceedings{Thung2013,
+  author          = {Thung, F. and Bissyande, T.F. and Lo, D. and Jiang, L.},
+  booktitle       = {Software maintenance and reengineering (csmr), 2013 17th european conference on},
+  title           = {Network structure of social coding in github},
+  year            = {2013},
+  pages           = {323–326},
+  publisher       = {IEEE},
+  citation-number = {15},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Borges2018,
+  author          = {Borges, H. and Valente, M.T.},
+  journal         = {Journal of Systems and Software},
+  title           = {Whats in a github star? understanding repository starring practices in a social coding platform},
+  year            = {2018},
+  pages           = {112–129,},
+  volume          = {146},
+  citation-number = {16},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Adams2016,
+  author          = {Adams, B. and McIntosh, S.},
+  booktitle       = {Proceedings of the 23rd international conference on software analysis, evolution, and reengineering (SANER},
+  title           = {Modern release engineering in a nutshell: why researchers should care},
+  year            = {2016},
+  pages           = {78–90},
+  publisher       = {IEEE},
+  volume          = {5},
+  citation-number = {4},
+  groups          = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, excluded_phase_text, excluded_ec01_unrelated, kula2019, backward_2, joshi2019},
+  language        = {en},
+  relevance       = {relevant},
+}
+
+@Book{Humble2010,
+  author          = {Humble, J. and Farley, D.},
+  publisher       = {Addison-Wesley Professional},
+  title           = {Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation},
+  year            = {2010},
+  edition         = {1st},
+  citation-number = {2},
+  groups          = {backward_1, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, mantyla2013rapid, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, joshi2019},
+  language        = {en},
+  pages           = {590},
+}
+
+@InProceedings{Begel2007,
+  author          = {Begel, A. and Nagappan, N.},
+  booktitle       = {Empirical Software Engineering and Measurement, 2007. ESEM 2007. First International Symposium on},
+  title           = {Usage and perceptions of agile software development in an industrial context: an exploratory study},
+  year            = {2007},
+  pages           = {255–264},
+  publisher       = {IEEE},
+  citation-number = {38},
+  groups          = {backward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text, kula2019, backward_2, joshi2019},
+  language        = {en},
+}
+
+@Article{Almering2007,
+  author          = {Almering, V. and Genuchten, M. and Cloudt, G. and Sonnemans, P.},
+  journal         = {IEEE Softw},
+  title           = {Using software reliability growth models in practice},
+  year            = {2007},
+  number          = {6},
+  pages           = {82–88},
+  volume          = {24},
+  citation-number = {1.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Book{2001,
+  publisher       = {Kluwer Academic Publishers},
+  title           = {Machine Learning},
+  year            = {2001},
+  address         = {Breiman, L},
+  citation-number = {2.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Goel1985,
+  author          = {Goel, A.L.},
+  journal         = {IEEE Trans. Softw. Eng},
+  title           = {Software reliability models: assumptions, limitations, and applicability},
+  year            = {1985},
+  number          = {12},
+  pages           = {1411–1423},
+  volume          = {11},
+  citation-number = {3.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Kula2014,
+  author          = {Kula, R.G. and Roover, C.D. and German, D. and Ishio, T. and Inoue, K.},
+  booktitle       = {Proceedings of the 2014 Second IEEE Working Conference on Software Visualization},
+  title           = {Visualizing the evolution of systems and their library dependencies},
+  year            = {2014},
+  pages           = {127–136},
+  citation-number = {6.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{2008,
+  journal         = {Web Intell. Agent Syst},
+  title           = {Knowledge reuse for software reuse},
+  year            = {2008},
+  number          = {1},
+  pages           = {59–81},
+  volume          = {6},
+  citation-number = {8.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {de},
+}
+
+@InProceedings{Mileva2009,
+  author          = {Mileva, Y.M. and Dallmeier, V. and Burger, M. and Zeller, A.},
+  booktitle       = {Proceedings of the Joint International and Annual ERCIM Workshops on Principles of Software Evolution and Software EvolutionWorkshops (IWPSE-Evol},
+  title           = {Mining trends of library usage},
+  year            = {2009},
+  pages           = {57–62},
+  citation-number = {9.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Plate2015,
+  author          = {Plate, H. and Ponta, E. and S.},
+  booktitle       = {Proceedings of the International Conference on Software Maintenance and Evolution (ICSME},
+  title           = {Impact assessment for vulnerabilities in open-source software libraries},
+  year            = {2015},
+  pages           = {411–420},
+  citation-number = {10.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{TosinDanielOyetoyan2015,
+  author          = {Tosin Daniel Oyetoyan, D.S.C.},
+  booktitle       = {2015 IEEE 31st International Conference on Software Maintenance and Evolution (ICSME},
+  title           = {Thurmann-Nielsen, C.: A decision support system to refactor class cycles},
+  year            = {2015},
+  citation-number = {12.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Yamada1983,
+  author          = {Yamada, S. and Ohba, M. and Osaki, S.},
+  journal         = {IEEE Trans. Reliab},
+  title           = {S-shaped reliability growth modeling for software error detection},
+  year            = {1983},
+  number          = {5},
+  pages           = {475–484},
+  volume          = {32},
+  citation-number = {14.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Yano2015,
+  author          = {Yano, Y. and Kula, R.G. and Ishio, T. and Inoue, K.},
+  booktitle       = {Proceedings of the IEEE 23rd International Conference on Program Comprehension},
+  title           = {Verxcombo: an interactive data visualization of popular library version combinations},
+  year            = {2015},
+  note            = {A. Ihara et al.},
+  pages           = {291–294},
+  citation-number = {15.},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Tufano2015,
+  author          = {Tufano, M. and Palomba, F. and Bavota, G. and Oliveto, R. and Penta, M. and Lucia, A. and Poshyvanyk, D.},
+  booktitle       = {Software Engineering (ICSE), 2015 IEEE/ACM 37th IEEE International Conference on},
+  title           = {When and why your code starts to smell bad},
+  year            = {2015},
+  month           = may,
+  pages           = {403–414},
+  publisher       = {IEEE},
+  volume          = {1},
+  citation-number = {5},
+  groups          = {kula2018, backward_2, excluded_phase_abstract, excluded_ec01_unrelated, kula2019, ihara2017},
+  language        = {en},
+}
+
+@Article{F.McCarey2008,
+  author          = {F. McCarey, M. ́O Cinn ́eide and Kushmerick, N.},
+  journal         = {Web Intelligence and Agent Systems},
+  title           = {Knowledge reuse for software reuse},
+  year            = {2008},
+  number          = {1},
+  pages           = {59–81,},
+  volume          = {6},
+  citation-number = {1},
+  groups          = {fujibayashi2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {da},
+}
+
+@InProceedings{Oyetoyan2015,
+  author          = {Oyetoyan, D.S.C.Tosin Daniel and Thurmann-Nielsen, C.},
+  booktitle       = {Proceedings of the 31st IEEE International Conference on Software Maintenance and Evolution (ICSME},
+  title           = {A decision support system to refactor class cycles},
+  year            = {2015},
+  citation-number = {4},
+  groups          = {fujibayashi2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Misc{,
+  title           = {Mozilla foundation},
+  citation-number = {1},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {fr},
+  url             = {ftp.mozilla.org/pub/mozilla.org/firefox.},
+}
+
+@InProceedings{Lavoie2012,
+  author          = {Lavoie, T. and Merlo, E.},
+  booktitle       = {Proceedings of the 6th International Workshop on Software Clones, ser. IWSC ’12},
+  title           = {An accurate estimation of the levenshtein distance using metric trees and manhattan distance},
+  year            = {2012},
+  address         = {New York, NY, USA},
+  note            = {Online]. Available:},
+  pages           = {1–7},
+  publisher       = {ACM},
+  citation-number = {2},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://doi.acm.org/10.1145/1985404.1985411},
+}
+
+@InProceedings{Baxter1998,
+  author          = {Baxter, I. and Yahin, A. and Moura, M.Sant’Anna and Bier, L.},
+  booktitle       = {Proceedings of the International Conference on Software Maintenance},
+  title           = {Clone detection using abstract syntax trees},
+  year            = {1998},
+  pages           = {368–377},
+  publisher       = {IEEE Computer Society Press},
+  citation-number = {4},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Mayrand1996,
+  author          = {Mayrand, J. and Leblanc, C. and Merlo, E.},
+  booktitle       = {Proceedings of the International Conference on Software Maintenance},
+  title           = {Experiment on the automatic detection of function clones in a software system using metrics},
+  year            = {1996},
+  address         = {Monterey, CA},
+  month           = nov,
+  pages           = {244–253},
+  publisher       = {IEEE Computer Society Press},
+  citation-number = {5},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{̈ode2009,
+  author          = {̈ode, N. G and Koschke, R.},
+  booktitle       = {Proceedings of the 2009 European Conference on Software Maintenance and Reengineering, ser. CSMR’ 2009},
+  title           = {Incremental clone detection},
+  year            = {2009},
+  pages           = {219–228},
+  publisher       = {IEEE Computer Society},
+  citation-number = {6},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Ducasse2006,
+  author          = {Ducasse, S. and Nierstrasz, O. and Rieger, M.},
+  journal         = {International Journal on Software Maintenance and Evolution: Research and Practice - Wiley InterScience},
+  title           = {On the effectiveness of clone detection by string matching},
+  year            = {2006},
+  number          = {18},
+  pages           = {37–58,},
+  citation-number = {7},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@TechReport{Roy2007,
+  author          = {Roy, C. and Cordy, J.},
+  title           = {A survey on software clone detection research},
+  year            = {2007},
+  month           = nov,
+  type            = {Tech. Rep. 2007-541,},
+  citation-number = {8},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  school          = {School of Computing, Queen’s University},
+}
+
+@InCollection{Hemel2012,
+  author          = {Hemel, A. and Koschke, R.},
+  booktitle       = {WCRE’},
+  title           = {Reverse engineering variability in source code using clone detection: A case study for linux variants of consumer electronic devices},
+  year            = {2012},
+  pages           = {357–366},
+  volume          = {12},
+  citation-number = {9},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Godfrey2005,
+  author          = {Godfrey, M. and Zou, L.},
+  journal         = {Software Engineering� IEEE Transactions on},
+  title           = {Using origin analysis to detect merging and splitting of source code entities},
+  year            = {2005},
+  number          = {2},
+  pages           = {166–181,},
+  volume          = {31},
+  citation-number = {10},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{McConnell2011,
+  author          = {McConnell, S.},
+  journal         = {Making Software, O’Reilly},
+  title           = {What does 10x mean? measuring variations in programmer productivity},
+  year            = {2011},
+  volume          = {16},
+  citation-number = {1},
+  groups          = {claes2017, backward_2, excluded_ec03_unavailable, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Bannai2014,
+  author          = {Bannai, A. and Tamakoshi, A.},
+  journal         = {Scandinavian journal of work, environment & health},
+  title           = {The association between long working hours and health: a systematic review of epidemiological evidence},
+  year            = {2014},
+  number          = {1},
+  pages           = {5–18,},
+  volume          = {40},
+  citation-number = {2},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Binnewies2010,
+  author          = {Binnewies, C. and Sonnentag, S. and Mojza, E.J.},
+  journal         = {Journal of Occupational and Organizational Psychology},
+  title           = {Recovery during the weekend and fluctuations in weekly job performance: a week-level study examining intra-individual relationships},
+  year            = {2010},
+  number          = {2},
+  pages           = {419–441,},
+  volume          = {83},
+  citation-number = {3},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Sonnentag2010,
+  author          = {Sonnentag, S. and Binnewies, C. and Mojza, E.J.},
+  journal         = {Journal of Applied Psychology},
+  title           = {Staying well and engaged when demands are high: the role of psychological detachment},
+  year            = {2010},
+  number          = {5},
+  pages           = {965,},
+  volume          = {95},
+  citation-number = {4},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Sall2007,
+  author          = {Sall, E.A. and Bhat, C.R.},
+  journal         = {Transportation},
+  title           = {An analysis of weekend work activity patterns in the san francisco bay area},
+  year            = {2007},
+  note            = {Online]. Available:},
+  number          = {2},
+  pages           = {161–175,},
+  volume          = {34},
+  citation-number = {5},
+  doi             = {10.1007/s11116-006-0008-2},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http:},
+}
+
+@Article{Wang2012,
+  author          = {Wang, X. and Xu, S. and Peng, L. and Wang, Z. and Wang, C. and Zhang, C. and Wang, X.},
+  journal         = {CoRR},
+  title           = {Exploring scientists’ working timetable: Do scientists often work overtime?},
+  year            = {2012},
+  note            = {Online]. Available:},
+  number          = {2686},
+  volume          = {1208},
+  citation-number = {6},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://arxiv.org/abs/1208.2686},
+}
+
+@Article{McKee2016,
+  author          = {McKee, M.},
+  journal         = {BMJ},
+  title           = {The weekend effect: now you see it, now you don’t},
+  year            = {2016},
+  note            = {Online]. Available:},
+  volume          = {353},
+  citation-number = {7},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://www.bmj.com/content/},
+}
+
+@Article{Aylin2015,
+  author          = {Aylin, P.},
+  journal         = {BMJ},
+  title           = {Making sense of the evidence for the “weekend effect”},
+  year            = {2015},
+  note            = {Online]. Available:},
+  volume          = {351},
+  citation-number = {8},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://www.bmj.com/content/},
+}
+
+@Article{Alexander2010,
+  author          = {Alexander, B. and Dijst, M. and Ettema, D.},
+  journal         = {Transportation},
+  title           = {Working from 9 to 6? an analysis of in-home and out-of-home working schedules},
+  year            = {2010},
+  note            = {Online]. Available:},
+  number          = {3},
+  pages           = {505–523,},
+  volume          = {37},
+  citation-number = {9},
+  doi             = {10.1007/s11116-009-9257-1},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://dx.doi.org/10.1007/s11116-009-9257-1},
+}
+
+@InProceedings{Eyolfson2011,
+  author          = {Eyolfson, J. and Tan, L. and Lam, P.},
+  booktitle       = {Proceedings of the 8th Working Conference on Mining Software Repositories, ser. MSR ’11},
+  title           = {Do time of day and developer experience affect commit bugginess?},
+  year            = {2011},
+  address         = {New York, NY, USA},
+  note            = {Online]. Available:},
+  pages           = {153–162},
+  publisher       = {ACM},
+  citation-number = {10},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://doi.acm.org/10.1145/1985441.1985464},
+}
+
+@InProceedings{E.Guzman2014,
+  author          = {E. Guzman, D. Az ́ocar and Li, Y.},
+  booktitle       = {Proceedings of the 11th Working Conference on Mining Software Repositories, ser. MSR 2014},
+  title           = {Sentiment analysis of commit comments in github: An empirical study},
+  year            = {2014},
+  address         = {New York, NY, USA},
+  note            = {Online]. Available:},
+  pages           = {352–355},
+  publisher       = {ACM},
+  citation-number = {11},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+  url             = {http://doi.acm.org/10.1145/2597073.2597118},
+}
+
+@Article{Ariely2002,
+  author          = {Ariely, D. and Wertenbroch, K.},
+  journal         = {Psychological science},
+  title           = {Procrastination, deadlines, and performance: Self-control by precommitment},
+  year            = {2002},
+  number          = {3},
+  pages           = {219–224,},
+  volume          = {13},
+  citation-number = {13},
+  groups          = {claes2017, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {fr},
+}
+
+@Article{Saha2015,
+  author          = {Saha, R.K. and Khurshid, S. and Perry, D.E.},
+  journal         = {Information and software technology},
+  title           = {Understanding the triaging and fixing processes of long lived bugs},
+  year            = {2015},
+  pages           = {114–128,},
+  volume          = {65},
+  citation-number = {1},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InCollection{Weiss2007,
+  author          = {Weiss, C. and Premraj, R. and Zimmermann, T. and Zeller, A.},
+  booktitle       = {International Workshop on Mining Software Repositories},
+  publisher       = {IEEE},
+  title           = {How long will it take to fix this bug?},
+  year            = {2007},
+  citation-number = {2},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Marks2011,
+  author          = {Marks, L. and Zou, Y. and Hassan, A.E.},
+  booktitle       = {International Conference on Predictive Models in Software Engineering, ACM},
+  title           = {Studying the fix-time for bugs in large open source projects},
+  year            = {2011},
+  citation-number = {5},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Kumar2013,
+  author          = {Kumar, A. and Gupta, A.},
+  booktitle       = {India Software Engineering Conference},
+  title           = {Evolution of developer social network and its impact on bug fixing process},
+  year            = {2013},
+  pages           = {63–72,},
+  publisher       = {ACM},
+  citation-number = {6},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Hooimeijer2007,
+  author          = {Hooimeijer, P. and WWeimer},
+  booktitle       = {International Conference on Automated Software Engineering (ASE},
+  title           = {Modeling bug report quality},
+  year            = {2007},
+  pages           = {34–43,},
+  publisher       = {ACM},
+  citation-number = {7},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Zhang2012,
+  author          = {Zhang, F. and Khomh, F. and Zou, Y. and Hassan, A.E.},
+  booktitle       = {Working Conference on Reverse Engineering},
+  title           = {An empirical study on factors impacting bug fixing time},
+  year            = {2012},
+  pages           = {225–234,},
+  publisher       = {IEEE},
+  citation-number = {8},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Hu2014,
+  author          = {Hu, H. and Zhang, H. and Xuan, J. and Sun, W.},
+  booktitle       = {International Symposium on Software Reliability Engineering (ISSRE},
+  title           = {Effective bug triage based on historical bug-fix information},
+  year            = {2014},
+  pages           = {122– 132,},
+  publisher       = {IEEE},
+  citation-number = {9},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Zhang2013,
+  author          = {Zhang, H. and Gong, L. and Versteeg, S.},
+  booktitle       = {International Conference on Software Engineering (ICSE},
+  title           = {Predicting bug-fixing time: an empirical study of commercial software projects},
+  year            = {2013},
+  pages           = {1042– 1051,},
+  publisher       = {IEEE Press},
+  citation-number = {10},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Bhattacharya2013,
+  author          = {Bhattacharya, P. and Ulanova, L. and Neamtiu, I. and Koduru, S.C.},
+  booktitle       = {European Conference on Software Maintenance and Reengineering (CSMR},
+  title           = {An empirical analysis of bug reports and bug fixing in open source Android apps},
+  year            = {2013},
+  month           = mar,
+  pages           = {133–143,},
+  citation-number = {11},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@InProceedings{Gupta2017,
+  author          = {Gupta, M.},
+  booktitle       = {International Conference on Software Maintenance and Evolution},
+  title           = {Improving software maintenance using process mining and predictive analytics},
+  year            = {2017},
+  pages           = {681–686,},
+  publisher       = {IEEE},
+  citation-number = {12},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Xuan2015,
+  author          = {Xuan, J. and Jiang, H. and Hu, Y. and Ren, Z. and Zou, W. and Luo, Z. and Wu, X.},
+  journal         = {IEEE transactions on knowledge and data engineering},
+  title           = {Towards effective bug triage with software data reduction techniques},
+  year            = {2015},
+  number          = {1},
+  pages           = {264–280,},
+  volume          = {27},
+  citation-number = {14},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Xuan2010,
+  author          = {Xuan, J. and Jiang, H. and Ren, Z. and Yan, J. and Luo, Z.},
+  booktitle       = {International Conference on Software Engineering and Knowledge Engineering (SEKE},
+  title           = {Automatic bug triage using semi-supervised text classification},
+  year            = {2010},
+  pages           = {209–214,},
+  citation-number = {15},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Anvik2006,
+  author          = {Anvik, J.},
+  booktitle       = {International Conference on Software Engineering, ICSE ’06},
+  title           = {Automating bug report assignment},
+  year            = {2006},
+  pages           = {937–940,},
+  publisher       = {ACM},
+  citation-number = {16},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Anvik2006a,
+  author          = {Anvik, J. and Hiew, L. and Murphy, G.C.},
+  booktitle       = {International Conference on Software Engineering (ICSE},
+  title           = {Who should fix this bug?},
+  year            = {2006},
+  pages           = {361–370,},
+  publisher       = {ACM},
+  citation-number = {17},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Canfora2006,
+  author          = {Canfora, G. and Cerulo, L.},
+  booktitle       = {ACM Symposium on Applied Computing (SAC},
+  title           = {Supporting change request assignment in open source development},
+  year            = {2006},
+  pages           = {1767–1772,},
+  publisher       = {ACM},
+  citation-number = {18},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {fr},
+}
+
+@InProceedings{Shokripour2013,
+  author          = {Shokripour, R. and Anvik, J. and Kasirun, Z.M. and Zamani, S.},
+  booktitle       = {Working Conference on Mining Software Repositories (MSR},
+  title           = {Why so complicated? Simple term filtering and weighting for locationbased bug report assignment recommendation},
+  year            = {2013},
+  pages           = {2–11,},
+  publisher       = {IEEE},
+  citation-number = {19},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Xia2013,
+  author          = {Xia, X. and Lo, D. and Wang, X. and Zhou, B.},
+  booktitle       = {Working Conference on Reverse Engineering (WCRE},
+  title           = {Accurate developer recommendation for bug resolution},
+  year            = {2013},
+  pages           = {72–81,},
+  publisher       = {IEEE},
+  citation-number = {20},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Xia2015,
+  author          = {Xia, X. and Lo, D. and Wang, X. and Zhou, B.},
+  journal         = {Journal of Software: Evolution and Process},
+  title           = {Dual analysis for recommending developers to resolve bugs},
+  year            = {2015},
+  number          = {3},
+  pages           = {195–220,},
+  volume          = {27},
+  citation-number = {21},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Spinellis2009,
+  author          = {Spinellis, D. and Gousios, G. and Karakoidas, V. and Louridas, P. and Adams, P.J. and Samoladas, I. and Stamelos, I.},
+  journal         = {Electronic Notes in Theoretical Computer Science},
+  title           = {Evaluating the quality of open source software},
+  year            = {2009},
+  pages           = {5–28,},
+  volume          = {233},
+  citation-number = {22},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{MurphyHill2013,
+  author          = {Murphy-Hill, E. and Zimmermann, T. and Bird, C. and Nagappan, N.},
+  booktitle       = {Proceedings of the 2013 International Conference on Software Engineering},
+  title           = {The design of bug fixes},
+  year            = {2013},
+  pages           = {332–341,},
+  publisher       = {IEEE Press},
+  citation-number = {25},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Zou2015,
+  author          = {Zou, W. and Xia, X. and Zhang, W. and Chen, Z. and Lo, D.},
+  booktitle       = {Computer Software and Applications Conference (COMPSAC},
+  title           = {An empirical study of bug fixing rate},
+  year            = {2015},
+  pages           = {254–263,},
+  publisher       = {IEEE},
+  citation-number = {28},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Mens2008,
+  author          = {Mens, T. and Fernandez-Ramil, J. and Degrandsart, S.},
+  booktitle       = {International Conference on Software Maintenance},
+  title           = {The evolution of Eclipse},
+  year            = {2008},
+  month           = sep,
+  pages           = {386–395,},
+  citation-number = {30},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@InProceedings{Businge2012,
+  author          = {Businge, J. and Serebrenik, A. and Brand, M.},
+  booktitle       = {International Conference on Software Maintenance (ICSM},
+  title           = {Survival of Eclipse third-party plug-ins},
+  year            = {2012},
+  month           = sep,
+  pages           = {368–377,},
+  publisher       = {IEEE},
+  citation-number = {31},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Misc{,
+  title           = {Eclipse bugzilla repository},
+  citation-number = {32},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  url             = {https://bugs.eclipse.org.},
+}
+
+@Misc{,
+  title           = {Eclipse},
+  citation-number = {33},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  url             = {https://wiki.eclipse.org/Simultaneous},
+}
+
+@Misc{,
+  title           = {Disco process mining tool},
+  citation-number = {34},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {it},
+  url             = {https://fluxicon.com/disco/.},
+}
+
+@InProceedings{Saha2015a,
+  author          = {Saha, R.K. and Lawall, J. and Khurshid, S. and Perry, D.E.},
+  booktitle       = {Working Conference on Mining Software Repositories (MSR},
+  title           = {Are these bugs really “normal”?},
+  year            = {2015},
+  month           = may,
+  pages           = {258–268,},
+  volume          = {s},
+  citation-number = {35},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Tu2018,
+  author          = {Tu, F. and Zhu, J. and Zheng, Q. and Zhou, M.},
+  booktitle       = {Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE},
+  title           = {Be careful of when: an empirical study on time-related misuse of issue tracking data},
+  year            = {2018},
+  pages           = {307–318,},
+  publisher       = {ACM},
+  citation-number = {36},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@InProceedings{Luijten2010,
+  author          = {Luijten, B. and Visser, J. and Zaidman, A.},
+  booktitle       = {2010 7th IEEE Working Conference on Mining Software Repositories},
+  title           = {Assessment of issue handling efficiency},
+  year            = {2010},
+  pages           = {94–97,},
+  publisher       = {IEEE},
+  citation-number = {37},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Book{Aalen2008,
+  author          = {Aalen, O. and Borgan, O. and Gjessing, H.},
+  publisher       = {Springer Science & Business Media},
+  title           = {Survival and event history analysis: a process point of view},
+  year            = {2008},
+  citation-number = {41},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Bland2004,
+  author          = {Bland, J.M. and Altman, D.G.},
+  journal         = {BMJ},
+  title           = {The logrank test},
+  year            = {2004},
+  number          = {7447},
+  pages           = {1073,},
+  volume          = {328},
+  citation-number = {42},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {no},
+}
+
+@Misc{Sewe,
+  author          = {Sewe, A.},
+  title           = {One year of automated error reporting},
+  citation-number = {43},
+  date            = {2016/july/article3.php, July 2016},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  url             = {https://www.eclipse.org/community/eclipse},
+}
+
+@Misc{,
+  title           = {Eclipse transition to smaller release cycles},
+  citation-number = {44},
+  groups          = {abou2019, backward_2, need_check},
+  language        = {fr},
+  url             = {https:},
+}
+
+@Misc{,
+  title           = {Eclipse development process},
+  citation-number = {45},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  url             = {https://www.eclipse.org/},
+}
+
+@InProceedings{Lamkanfi2010,
+  author          = {Lamkanfi, A. and Demeyer, S. and Giger, E. and Goethals, B.},
+  booktitle       = {2010 7th IEEE Working Conference on Mining Software Repositories},
+  title           = {Predicting the severity of a reported bug},
+  year            = {2010},
+  pages           = {1–10,},
+  publisher       = {IEEE},
+  citation-number = {46},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Cliff1993,
+  author          = {Cliff, Norman},
+  journal         = {Psychological bulletin},
+  title           = {Dominance statistics: Ordinal analyses to answer ordinal questions},
+  year            = {1993},
+  month           = nov,
+  number          = {3},
+  pages           = {4994– 509,},
+  volume          = {114},
+  citation-number = {25},
+  groups          = {kula2019, backward_2, abou2019, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {fr},
+}
+
+@Article{Adner2016,
+  author   = {Adner, R.},
+  journal  = {Journal of Management},
+  title    = {Ecosystem as Structure},
+  year     = {2016},
+  number   = {1},
+  pages    = {39–58},
+  volume   = {43},
+  groups   = {luo2019, backward_2},
+  language = {fr},
+}
+
+@Article{Adner2010,
+  author   = {Adner, R. and Kapoor, R.},
+  journal  = {Strategic Management Journal},
+  title    = {Value Creation in Innovation Ecosystems: How the Structure of Technological Interdependence Affects Firm Performance in New Technology Generations},
+  year     = {2010},
+  number   = {3},
+  pages    = {306–333},
+  volume   = {31},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Arora2010,
+  author   = {Arora, A. and Krishnan, R. and Telang, R. and Yang, Y.},
+  journal  = {Information Systems Research},
+  title    = {An Empirical Analysis of Software Vendors’ Patch Release Behavior: Impact of Vulnerability Disclosure},
+  year     = {2010},
+  number   = {1},
+  pages    = {115–132},
+  volume   = {21},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Atkins2002,
+  author    = {Atkins, D.L. and Ball, T. and Graves, T.L. and Mockus, A.},
+  journal   = {IEEE Transactions on Software Engineering},
+  title     = {Using Version Control Data to Evaluate the Impact of Software Tools: A Case Study of the Version Editor},
+  year      = {2002},
+  number    = {7},
+  pages     = {625–637},
+  volume    = {28},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+  publisher = {IEEE},
+}
+
+@Article{Baldwin2009,
+  author   = {Baldwin, C.Y. and Woodard, C.J.},
+  journal  = {Platforms, Markets and Innovation},
+  title    = {The Achitecture of Platforms: A Unified View Platforms, Markets and Innovation},
+  year     = {2009},
+  pages    = {19–44},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Benestad2009,
+  author   = {Benestad, H.C. and Anda, B. and Arisholm, E.},
+  journal  = {Journal of Software Maintenance and Evolution},
+  title    = {Understanding Software Maintenance and Evolution by Analyzing Individual Changes: A Literature Review},
+  year     = {2009},
+  pages    = {349–378},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Bergin2003,
+  author   = {Bergin, S. and Keating, J.},
+  journal  = {Journal of Software Maintenance and Evolution},
+  title    = {A Case Study on the Adaptive Maintenance of an Internet Application},
+  year     = {2003},
+  number   = {4},
+  pages    = {245–264},
+  volume   = {15},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@InProceedings{Bianco2014,
+  author    = {Bianco, V.D. and Myllarniemi, V. and Komssi, M. and Raatikainen, M.},
+  booktitle = {Proceedings - Working IEEE/IFIP Conference on Software Architecture 2014, WICSA 2014},
+  title     = {The Role of Platform Boundary Resources in Software Ecosystems: A Case Study},
+  year      = {2014},
+  address   = {Sydney, Australia},
+  pages     = {11–20},
+  publisher = {IEEE},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Boudreau2010,
+  author   = {Boudreau, K.},
+  journal  = {Management Science},
+  title    = {Open Platform Strategies and Innovation: Granting Access vs. Devolving Control},
+  year     = {2010},
+  number   = {10},
+  pages    = {1849–1872},
+  volume   = {56},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Chapin2001,
+  author   = {Chapin, N. and Hale, J.E. and Khan, K.M. and Ramil, J.F. and Tan, W.G.},
+  journal  = {Journal of Software Maintenance and Evolution},
+  title    = {Types of Software Evolution and Software Maintenance},
+  year     = {2001},
+  number   = {1},
+  pages    = {3–30},
+  volume   = {13},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Choi2019,
+  author   = {Choi, G. and Nam, C. and Kim, S.},
+  journal  = {Telecommunications Policy},
+  title    = {The Impacts of Technology Platform Openness on Application Developers’ Intention to Continuously Use a Platform: From an Ecosystem Perspective},
+  year     = {2019},
+  number   = {2},
+  pages    = {140–153},
+  volume   = {43},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Comino2019,
+  author   = {Comino, S. and Manenti, F.M. and Mariuzzo, F.},
+  journal  = {Journal of Economics and Management Strategy},
+  title    = {Updates management in mobile applications: iTunes versus Google Play"},
+  year     = {2019},
+  number   = {3},
+  pages    = {392–419},
+  volume   = {28},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Eaton2015,
+  author   = {Eaton, B. and Elaluf-Calderwood, S. and Sørensen, C. and Yoo, Y.},
+  journal  = {MIS Quartely},
+  title    = {Distributed Tuning of Boundary Resources: The Case of Apple’s IOS Service System},
+  year     = {2015},
+  number   = {1},
+  pages    = {217–244},
+  volume   = {39},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Fowler2002,
+  author   = {Fowler, M.},
+  journal  = {IEEE Software},
+  title    = {Public versus Published Interfaces},
+  year     = {2002},
+  number   = {2},
+  pages    = {18–19},
+  volume   = {19},
+  groups   = {luo2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language = {en},
+}
+
+@InProceedings{Ghazawneh2010,
+  author    = {Ghazawneh, A. and Henfridsson, O.},
+  booktitle = {International Conference on Information Systems},
+  title     = {Governing Third-Party Development through Platform Boundary Resources},
+  year      = {2010},
+  pages     = {48},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Ghazawneh2013,
+  author   = {Ghazawneh, A. and Henfridsson, O.},
+  journal  = {Information Systems Journal},
+  title    = {Balancing Platform Control and External Contribution in Third-Party Development: The Boundary Resources Model},
+  year     = {2013},
+  number   = {2},
+  pages    = {173–192},
+  volume   = {23},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Herbsleb2003,
+  author   = {Herbsleb, J.D. and Mockus, A.},
+  journal  = {IEEE Transactions on Software Engineering},
+  title    = {An Empirical Study of Communication Media and Issues in Globally Distributed Software Development},
+  year     = {2003},
+  number   = {6},
+  pages    = {481–494},
+  volume   = {29},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Huber2017,
+  author   = {Huber, T.L. and Kude, T. and Dibbern, J.},
+  journal  = {Information Systems Research},
+  title    = {Governance Practices in Platform Ecosystems: Navigating Tensions between Cocreated Value and Governance Costs},
+  year     = {2017},
+  number   = {3},
+  pages    = {563–584},
+  volume   = {28},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Iyer2015,
+  author   = {Iyer, B. and Subramaniam, M.},
+  journal  = {Harvard Business Review},
+  title    = {The Strategic Value of APIs},
+  year     = {2015},
+  note     = {at:},
+  groups   = {luo2019, backward_2},
+  language = {en},
+  url      = {https://hbr.org/2015/01/the-strategic-value-of-apis.},
+}
+
+@Article{Kapoor2017,
+  author   = {Kapoor, R. and Agarwal, S.},
+  journal  = {Organization Science},
+  title    = {Sustaining Superior Performance in Business Ecosystems: Evidence from Application Software Developers in the IOS and Android Smartphone Ecosystems},
+  year     = {2017},
+  number   = {3},
+  pages    = {531–551},
+  volume   = {28},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Karhu2018,
+  author   = {Karhu, K. and Gustafsson, R. and Lyytinen, K.},
+  journal  = {Information Systems Research},
+  title    = {Exploiting and Defending Open Digital Platforms with Boundary Resources: Android’s Five Platform Forks},
+  year     = {2018},
+  number   = {2},
+  pages    = {479–497},
+  volume   = {29},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Book{Lehman1985,
+  author    = {Lehman, M.M. and Belady, L.A.},
+  publisher = {Academic Press},
+  title     = {Program Evolution: The Process of Software Change},
+  year      = {1985},
+  address   = {New York NY},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Lau2011,
+  author   = {Lau, A.K.W. and Yam, R.C.M. and Tang, E.},
+  journal  = {Journal of Product Innovation Management},
+  title    = {The Impact of Product Innovativeness on Performance},
+  year     = {2011},
+  number   = {2},
+  pages    = {270–284},
+  volume   = {28},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Lee2014,
+  author   = {Lee, G. and Raghu, T.S.},
+  journal  = {Journal of Management Information Systems},
+  title    = {Determinants of Mobile Apps’ Success: Evidence from the App Store Market},
+  year     = {2014},
+  number   = {2},
+  pages    = {133–170},
+  volume   = {31},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Maya2012,
+  author   = {Maya, M. and Abran, A. and Bourque, P.},
+  journal  = {Software Metrics},
+  title    = {Measuring the Size of Small Functional Enhancements to Software},
+  year     = {2012},
+  pages    = {111–121},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Michlmayr2012,
+  author   = {Michlmayr, M. and Fitzgerald, B.},
+  journal  = {International Journal of Open Source Software and Processes},
+  title    = {Time-Based Release Management in Free and Open Source (FOSS) Projects},
+  year     = {2012},
+  number   = {1},
+  pages    = {1–19},
+  volume   = {4},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Mockus2000,
+  author   = {Mockus, A. and Weiss, D.M.},
+  journal  = {Bell Labs Technical Journal},
+  title    = {Predicting Risk of Software Changes},
+  year     = {2000},
+  number   = {2},
+  pages    = {169–180},
+  volume   = {5},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@InProceedings{Roshan2018,
+  author    = {Roshan, M. and Hekkala, R. and Tuunainen, V.K.},
+  booktitle = {Twenty-Sixth European Conference on Information Systems (ECIS},
+  title     = {Utilization of Accelerator Facilities in Mobile App Developer Startups},
+  year      = {2018},
+  pages     = {16},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Ruhe2005,
+  author   = {Ruhe, G. and Saliu, M.O.},
+  journal  = {Software IEEE},
+  title    = {Release Planning the Art and Science},
+  year     = {2005},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@InProceedings{Smedlund2015,
+  author    = {Smedlund, A. and Faghankhani, H.},
+  booktitle = {Proceedings of the Annual Hawaii International Conference on System Sciences},
+  title     = {Platform Orchestration for Efficiency, Development, and Innovation},
+  year      = {2015},
+  pages     = {1380–1388},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Song2018,
+  author   = {Song, P. and Xue, L. and Rai, A. and Zhang, C.},
+  journal  = {MIS Quarterly},
+  title    = {The Ecosystem of Software Platform: A Study of Asymmetric Cross-Side Network Effects and Platform Governance},
+  year     = {2018},
+  number   = {1},
+  pages    = {121–142},
+  volume   = {42},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@InProceedings{Souza2004,
+  author    = {Souza, C.R.B. and Redmiles, D. and Cheng, L. and Millen, D. and Patterson, J.},
+  booktitle = {Proceedings of the 12th ACM SIGSOFT Twelfth International Symposium on Foundations of Software Engineering},
+  title     = {How a Good Software Practice Thwarts Collaboration – The Multiple Roles of APIs in Software Development},
+  year      = {2004},
+  pages     = {221–230},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Tan2008,
+  author   = {Tan, F.B. and Chou, J.P.C.},
+  journal  = {International Journal of Human-Computer Interaction},
+  title    = {The Relationship Between Mobile Service Quality , Perceived Technology Compatibility , and Users ’ Perceived Playfulness in the Context of Mobile Information and Entertainment Services},
+  year     = {2008},
+  number   = {7},
+  pages    = {649–671},
+  volume   = {24},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Book{Tiwana2014,
+  author    = {Tiwana, A.},
+  publisher = {Elsevier, Amsterdam},
+  title     = {Platform Ecosystems: Aligning Architecture, Governance, and Strategy},
+  year      = {2014},
+  address   = {Waltham MA},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Tiwana2015,
+  author   = {Tiwana, A.},
+  journal  = {Information Systems Research},
+  title    = {Evolutionary Competition in Platform Ecosystems},
+  year     = {2015},
+  number   = {2},
+  pages    = {266–281},
+  volume   = {26},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Tiwana2018,
+  author   = {Tiwana, A.},
+  journal  = {Information Systems Research},
+  title    = {Platform Synergy: Architectural Origins and Competitive Consequences},
+  year     = {2018},
+  number   = {4},
+  pages    = {829–848},
+  volume   = {29},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Tiwana2010,
+  author   = {Tiwana, A. and Konsynski, B. and Bush, A.A.},
+  journal  = {Information Systems Research},
+  title    = {Platform Evolution: Coevolution of Platform Architecture, Governance, and Environmental Dynamics},
+  year     = {2010},
+  number   = {4},
+  pages    = {675–687},
+  volume   = {21},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Xu2013,
+  author   = {Xu, S.X. and Zhang, X.},
+  journal  = {Mis Quarterly},
+  title    = {Impact of Wikipedia on Market Information Environment: Evidence on Management Disclosure and Investor Reaction},
+  year     = {2013},
+  number   = {4},
+  pages    = {1043–1068},
+  volume   = {37},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Book{Xue2017,
+  author    = {Xue, L. and Rai, A. and Song, P. and Cheng, Z.},
+  publisher = {Social Science Electronic Publishing},
+  title     = {Third-Party Developers’ Adoption of APIs and Their Continued New App Development in Software Platform: A Competing Risk Analysis},
+  year      = {2017},
+  groups    = {luo2019, backward_2},
+  language  = {en},
+}
+
+@Article{Yakura2002,
+  author   = {Yakura, E.K.},
+  journal  = {Academy of Management},
+  title    = {Charting Time : Timelines as Temporal Boundary Objects},
+  year     = {2002},
+  number   = {5},
+  pages    = {956–970},
+  volume   = {45},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Ye2018,
+  author   = {Ye, H.J. and Kankanhalli, A.},
+  journal  = {MIS Quarterly},
+  title    = {User Service Innovation on Mobile Phone Platforms: Investigating Impacts of Lead Userness, Toolkit Support, and Design Autonomy},
+  year     = {2018},
+  number   = {1},
+  pages    = {165–187},
+  volume   = {42},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Yin2014,
+  author   = {Yin, P.-L. and Davis, J.P. and Muzyrya, Y.},
+  journal  = {The American Economic Review},
+  title    = {Entrepreneurial Innovation: Killer Apps in the iPhone Ecosystem},
+  year     = {2014},
+  number   = {5},
+  pages    = {255–259},
+  volume   = {104},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Yoo2010,
+  author   = {Yoo, Y. and Henfridsson, O. and Lyytinen, K.},
+  journal  = {Information Systems Research},
+  title    = {The New Organizing Logic of Digital Innovation: An Agenda for Information Systems Research},
+  year     = {2010},
+  number   = {4},
+  pages    = {724–735},
+  volume   = {21},
+  groups   = {luo2019, backward_2},
+  language = {en},
+}
+
+@Article{Michlmayr2015,
+  author          = {Michlmayr, Martin and Fitzgerald, Brian and Stol, Klaas-Jan},
+  journal         = {IEEE Software},
+  title           = {Why and how should open source projects adopt time-based releases?},
+  year            = {2015},
+  number          = {2},
+  pages           = {55–63},
+  volume          = {32},
+  citation-number = {33},
+  groups          = {kula2019, backward_2, luo2019},
+  language        = {en},
+}
+
+@InProceedings{Zimmermann2012,
+  author          = {Zimmermann, T. and Nagappan, N. and Guo, P.J. and Murphy, B.},
+  booktitle       = {Proceedings of the 2012 International Conference on Software Engineering, ser. ICSE 2012},
+  title           = {Characterizing and predicting which bugs get reopened},
+  year            = {2012},
+  address         = {Piscataway, NJ, USA},
+  note            = {Online]. Available:},
+  pages           = {1074–1083},
+  publisher       = {IEEE Press},
+  citation-number = {3},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  url             = {http://dl.acm.org/citation.},
+}
+
+@Book{Patton2005,
+  author          = {Patton, R.},
+  publisher       = {Sams},
+  title           = {Software Testing},
+  year            = {2005},
+  address         = {Indianapolis, IN, USA},
+  edition         = {2nd},
+  citation-number = {4},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+}
+
+@TechReport{Herzig2012,
+  author          = {Herzig, K. and Just, S. and Zeller, A.},
+  title           = {It’s not a bug, it’s a feature: How misclassification impacts bug prediction},
+  year            = {2012},
+  address         = {Saarbrcken, Germany},
+  month           = aug,
+  type            = {Tech. Rep.,},
+  citation-number = {6},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  school          = {Universitt des Saarlandes},
+}
+
+@Misc{Jono2012,
+  author          = {Jono},
+  title           = {Everybody hates firefox updates},
+  year            = {2012},
+  citation-number = {8},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  url             = {http://evilbrainjono.net/blog?permalink=1094.},
+}
+
+@Misc{Dean2013,
+  author          = {Dean, S.},
+  title           = {Firefox’s move to a rapid release cycle didn’t just upset users},
+  year            = {2013},
+  citation-number = {9},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  pages           = {– – –},
+  url             = {http://ostatic.com/blog/firefoxs-move-to-a-rapid-releasecycle-},
+}
+
+@Thesis{Shihab2012,
+  address         = {Kingston, Ontario, Canada},
+  author          = {Shihab, E.},
+  citation-number = {11},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  school          = {School of Computing, Queen’s University},
+  title           = {An exploration of challenges limiting pragmatic software defect prediction},
+  type            = {Ph.D. dissertation,},
+  year            = {2012},
+}
+
+@Misc{Almossawi2012,
+  author          = {Almossawi, A.},
+  title           = {Investigating the architectural drivers of defects in open-source software systems: an empirical study of defects and reopened defects in gnome},
+  year            = {2012},
+  citation-number = {12},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+}
+
+@InProceedings{Jongyindee2011,
+  author          = {Jongyindee, A. and Ohira, M. and Ihara, A. and Matsumoto, K.-i},
+  booktitle       = {Proc. of the 2011 Joint Conf. of the 21st International Workshop on Softw. Measurement and the 6th International Conf. on Softw. Process and Product Measurement},
+  title           = {Good or bad committers? a case study of committers’ cautiousness and the consequences on the bug fixing process in the Eclipse project},
+  year            = {2011},
+  address         = {Washington, DC, USA},
+  note            = {Online]. Available:},
+  pages           = {116–125},
+  publisher       = {IEEE Computer Society},
+  citation-number = {13},
+  doi             = {10.1109/IWSM-MENSURA.2011.24},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  url             = {http://dx.doi.org/10.1109/IWSM-MENSURA.2011.24},
+}
+
+@Misc{Mozilla2014,
+  author          = {Mozilla},
+  title           = {Mozillawiki: Releases},
+  year            = {2014},
+  citation-number = {14},
+  groups          = {souza2014, backward_2},
+  language        = {et},
+  url             = {https://wiki.mozilla.org/Releases.},
+}
+
+@Misc{Mozilla2011,
+  author          = {Mozilla},
+  title           = {Mozilla release processes},
+  year            = {2011},
+  citation-number = {15},
+  groups          = {souza2014, backward_2},
+  language        = {fr},
+  url             = {http://mozilla.github.io/process-releases/.},
+}
+
+@InProceedings{Souza2013,
+  author          = {Souza, R. and Chavez, C. and Bittencourt, R.},
+  booktitle       = {Proc. of the 1st Workshop on Data Analysis Patterns in Softw. Engineering},
+  title           = {Patterns for cleaning up bug data},
+  year            = {2013},
+  month           = may,
+  publisher       = {IEEE},
+  citation-number = {16},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+}
+
+@Misc{McDonald2009,
+  author          = {McDonald, J. and Delaware, U.},
+  note            = {Online]. Available:},
+  title           = {Handbook of Biological Statistics},
+  year            = {2009},
+  citation-number = {17},
+  groups          = {souza2014, backward_2},
+  language        = {en},
+  publisher       = {Sparky House Publishing},
+  url             = {http://books.},
+}
+
+@Article{Kaur2013,
+  author          = {Kaur, A. and Kaur, K.},
+  journal         = {International Journal of Software Engineering and Knowledge Engineering},
+  title           = {Statistical comparison of modelling methods for software maintainability prediction},
+  year            = {2013},
+  number          = {6},
+  pages           = {743–774},
+  volume          = {23},
+  citation-number = {1},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Misc{,
+  title           = {Apache Software Foundation (ASF},
+  citation-number = {2},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {de},
+  url             = {http://www.},
+}
+
+@Article{Croux2010,
+  author          = {Croux, C. and Dehon, C.},
+  journal         = {Statistical Methods and Applications},
+  title           = {Influence functions of the Spearman and Kendall correlation measures},
+  year            = {2010},
+  number          = {4},
+  pages           = {497–515},
+  volume          = {19},
+  citation-number = {3},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Toure2014,
+  author          = {Toure, F. and Badri, M. and Lamontagne, L.},
+  journal         = {Journal of Software Engineering Research and Development},
+  title           = {A metrics suite for JUnit test code: A multiple case study on open source software},
+  year            = {2014},
+  number          = {1},
+  pages           = {14–26},
+  volume          = {2},
+  citation-number = {7},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Toure2018,
+  author          = {Toure, F. and Badri, M. and Lamontagne, L.},
+  journal         = {Innovations in Systems and Software Engineering},
+  title           = {Predicting different levels of the unit testing effort of classes using source code metrics: A multiple case study on open-source software},
+  year            = {2018},
+  number          = {1},
+  pages           = {15–46},
+  volume          = {14},
+  citation-number = {8},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Misc{Github,
+  author          = {Github},
+  note            = {IntellijIdea,},
+  title           = {GitHub},
+  citation-number = {9},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {nl},
+  url             = {http://ww.github.com},
+}
+
+@Article{Demsar2006,
+  author          = {Demsar, J.},
+  journal         = {Journal of Machine Learning Research},
+  title           = {Statistical comparisons of classifiers over multiple data sets},
+  year            = {2006},
+  pages           = {1–30},
+  volume          = {7},
+  citation-number = {11},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Misc{Jira,
+  author          = {Jira},
+  citation-number = {12},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  url             = {http://www.jira.atlassian.org},
+}
+
+@Article{Aggarwal2006,
+  author          = {Aggarwal, K.K. and Singh, Y. and Kaur, A. and R.},
+  journal         = {Journal of Object Technology},
+  title           = {Malhotra empirical study of object-oriented metrics},
+  year            = {2006},
+  number          = {8},
+  pages           = {149–173},
+  volume          = {5},
+  citation-number = {15},
+  groups          = {vig2018, backward_2},
+  language        = {cs},
+}
+
+@Article{Badri2011,
+  author          = {Badri, L. and Badri, M. and Toure, F.},
+  journal         = {International Journal of Software Engineering and Its Applications},
+  title           = {An empirical analysis of lack of cohesion metrics for predicting testability of classes},
+  year            = {2011},
+  number          = {2},
+  pages           = {69–86},
+  volume          = {5},
+  citation-number = {16},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Badri2010,
+  author          = {Badri, L. and Badri, M. and Toure, F.},
+  journal         = {International Conference on Advanced Software Engineering and Its Applications},
+  title           = {Exploring empirically the relationship between lack of cohesion and testability in object-oriented systems},
+  year            = {2010},
+  pages           = {78–92},
+  citation-number = {17},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Badri2012,
+  author          = {Badri, M. and Toure, F.},
+  journal         = {Journal of Software Engineering and Applications},
+  title           = {Empirical analysis of object-oriented design metrics for predicting unit testing effort of classes},
+  year            = {2012},
+  number          = {7},
+  pages           = {513–524},
+  volume          = {5},
+  citation-number = {18},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Badri2015,
+  author          = {Badri, M. and FToure and Lamontagne, L.},
+  journal         = {Procedia Computer Science},
+  title           = {Predicting unit test effort levels of classes: An exploratory study based on multinomial logistic regression modeling},
+  year            = {2015},
+  pages           = {529–538},
+  volume          = {62},
+  citation-number = {19},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@InProceedings{Badri2017,
+  author          = {Badri, M. and Badri, L. and Flageol, W. and Toure, F.},
+  booktitle       = {International Conference on Machine Learning and Soft Computing},
+  title           = {Investigating the Accuracy of Test Code Size Prediction using Use Case Metrics and Machine Learning Algorithms: An Empirical Study},
+  year            = {2017},
+  pages           = {25–33},
+  citation-number = {20},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Bruntink2006,
+  author          = {Bruntink, M. and Deursen, A.},
+  journal         = {Journal of Systems and Software},
+  title           = {An empirical study into class testability},
+  year            = {2006},
+  number          = {9},
+  pages           = {1219–1232},
+  volume          = {79},
+  citation-number = {21},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@InCollection{Bruntink2004,
+  author          = {Bruntink, M. and Deursen, A.},
+  booktitle       = {International Workshop on Source Code Analysis and Manipulation},
+  title           = {Predicting class testability using object-oriented metrics},
+  year            = {2004},
+  pages           = {136–145},
+  citation-number = {22},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Friedman1940,
+  author          = {Friedman, M.},
+  journal         = {The Annals of Mathematical Statistics},
+  title           = {A comparison of alternative tests of significance for the problem of m rankings},
+  year            = {1940},
+  number          = {1},
+  pages           = {86–92},
+  volume          = {11},
+  citation-number = {23},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Misc{Leon2008,
+  author          = {Leon, M. and Deursen, A. and Zaidman, A. and Bruntink, M.},
+  title           = {On the Interplay Between Software Testing and Evolution and its Effect on Program Comprehension},
+  year            = {2008},
+  citation-number = {24},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+  pages           = {173–202},
+}
+
+@Article{Malhotra2016,
+  author          = {Malhotra, R.},
+  journal         = {Applied Soft Computing},
+  title           = {An empirical framework for defect prediction using machine learning techniques with Android software},
+  year            = {2016},
+  pages           = {1034–1050},
+  volume          = {49},
+  citation-number = {29},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Lessmann2008,
+  author          = {Lessmann, S. and Baesens, B. and Mues, C. and Pietsch, S.},
+  journal         = {IEEE Transactions on Software Engineering},
+  title           = {Benchmarking classification models for software defect prediction: A proposed framework and novel findings},
+  year            = {2008},
+  number          = {4},
+  pages           = {485–496},
+  volume          = {34},
+  citation-number = {31},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{McIlroy2016,
+  author          = {McIlroy, S. and Ali, N. and Hassan, A.E.},
+  journal         = {Empirical Software Engineering},
+  title           = {Fresh apps: An empirical study of frequently-updated mobile apps in the Google play store},
+  year            = {2016},
+  number          = {3},
+  pages           = {1346–1370},
+  volume          = {21},
+  citation-number = {32},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Misc{,
+  title           = {Waikato Environment for Knowledge Analysis, www. cs.waikato.ac.nz/ml/weka/},
+  citation-number = {36},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Singh2010,
+  author          = {Singh, Y. and Saha, A.},
+  journal         = {Journal of Software Engineering},
+  title           = {Predicting testability of eclipse: A case study},
+  year            = {2010},
+  number          = {2},
+  pages           = {122–136},
+  volume          = {4},
+  citation-number = {37},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Zhou2012,
+  author          = {Zhou, Y. and Leung, H. and Song, Q. and Zhao, J. and Lu, H. and Chen, L. and Xu, B.},
+  journal         = {Science China Information Sciences},
+  title           = {An in-depth investigation into the relationships between structural metrics and unit testability in object-oriented systems},
+  year            = {2012},
+  number          = {12},
+  pages           = {2800–2815},
+  volume          = {55},
+  citation-number = {38},
+  groups          = {vig2018, backward_2},
+  language        = {en},
+}
+
 @Book{Beck2000,
   author          = {Beck, K.},
   publisher       = {Addison-Wesley Professional},
@@ -5379,10 +7252,322 @@
   year            = {2000},
   edition         = {2nd},
   citation-number = {5},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, kula2018, backward_2},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, kula2018, kula2019, kettunen2010, vig2018},
   language        = {fr},
   readstatus      = {read},
   relevance       = {relevant},
+}
+
+@InProceedings{Marschall2007,
+  author          = {Marschall, M.},
+  booktitle       = {Proceedings of the conference on AGILE},
+  title           = {Transforming a six month release cycle to continuous flow},
+  year            = {2007},
+  pages           = {395–400},
+  publisher       = {IEEE},
+  citation-number = {16},
+  comment         = {Report sobre um caso de continuous deploy. Não responde o questionario.},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text, backward_2, khomh2012, kula2019, vig2018},
+  language        = {en},
+}
+
+@InProceedings{Baysal2011,
+  author          = {Baysal, O. and Davis, I. and Godfrey, M.W.},
+  booktitle       = {Proceedings of the 8thWorking Conf. on Mining Software Repositories (MSR},
+  title           = {A tale of two browsers},
+  year            = {2011},
+  pages           = {238–241},
+  citation-number = {4},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, daCosta2016impact, daCosta2018impact, excluded_phase_text, excluded_ec01_unrelated, backward_2, khomh2012, vig2018},
+  language        = {en},
+}
+
+@Article{Petersen2009,
+  author          = {Petersen, K. and Wohlin, C.},
+  journal         = {J Syst Softw},
+  title           = {A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case},
+  year            = {2009},
+  number          = {9},
+  pages           = {1479–1490},
+  volume          = {82},
+  citation-number = {28},
+  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_phase_text, excluded_ec01_unrelated, vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Shapiro1965,
+  author          = {Shapiro, Samuel Sanford and Wilk, Martin B.},
+  journal         = {Biometrika},
+  title           = {An analysis of variance test for normality (complete samples},
+  year            = {1965},
+  number          = {3/4},
+  pages           = {591–611},
+  volume          = {52},
+  citation-number = {23},
+  groups          = {kula2019, backward_2, vig2018, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Misc{Shankland2010,
+  author          = {Shankland, S.},
+  month           = jul,
+  title           = {Google ethos speeds up chrome release cycle},
+  year            = {2010},
+  citation-number = {8},
+  groups          = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news, backward_2, khomh2012, excluded_phase_title, vig2018},
+  language        = {en},
+  url             = {https://www.cnet.com/news/google-ethos-speeds-up-chrome-release-cycle/},
+}
+
+@InProceedings{Otte2008,
+  author          = {Otte, T. and Moreton, R. and Knoell, H.D.},
+  booktitle       = {Proceedings of the 32nd Annual IEEE international computer software and applications conference (COMPSAC},
+  title           = {Applied quality assurance methods under the open source development model},
+  year            = {2008},
+  pages           = {1247–1252},
+  publisher       = {COMPSAC},
+  citation-number = {22},
+  groups          = {backward_1, mantyla2015rapid, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012, vig2018},
+  language        = {en},
+}
+
+@Article{Baskerville2004,
+  author          = {Baskerville, R. and Pries-Heje, J.},
+  journal         = {Inf. Syst. J},
+  title           = {Short cycle time systems development},
+  year            = {2004},
+  note            = {Online]. Available:},
+  number          = {3},
+  pages           = {237–264,},
+  volume          = {14},
+  citation-number = {1},
+  groups          = {souza2014, backward_2, backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+  url             = {http://dblp.uni-trier.de/db/journals/isj/isj14.html#},
+}
+
+@Misc{Beck2001,
+  author          = {Beck, K. and Beedle, M. and Bennekum, A. and Cockburn, A. and Cunningham, W. and Fowler, M. and Grenning, J. and Highsmith, J. and Hunt, A. and Jeffries, R.},
+  title           = {Manifesto for agile software development},
+  year            = {2001},
+  citation-number = {4},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec01_unrelated, hemmati2015prioritizing, hemmati2017prioritizing, excluded_phase_title, joshi2019, backward_2},
+  language        = {en},
+  url             = {http://www.agilemanifesto.org/.},
+}
+
+@Article{Bertolino2007,
+  author          = {Bertolino, A.},
+  journal         = {Future of Software Engineering},
+  title           = {Software Testing Research: Achievements, Challenges, Dreams},
+  year            = {2007},
+  pages           = {85–103},
+  volume          = {FOSE '07},
+  booktitle       = {2007 Future of Software Engineering},
+  citation-number = {3},
+  groups          = {backward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2017prioritizing, kettunen2010, backward_2},
+  language        = {nl},
+  publisher       = {IEEE Computer Society},
+}
+
+@InProceedings{Castelluccio2017,
+  author       = {Castelluccio, M. and An, L. and Khomh, F.},
+  booktitle    = {Proceedings - 2017 IEEE International Conference on Software Maintenance and Evolution, ICSME 2017},
+  title        = {Is It Safe to Uplift This Patch? An Empirical Study on Mozilla Firefox},
+  year         = {2017},
+  organization = {IEEE},
+  pages        = {411–421},
+  groups       = {forward_1, daCosta2016impact, excluded_phase_text, excluded_ec01_unrelated, luo2019, backward_2},
+  language     = {en},
+}
+
+@InProceedings{Codabux2013,
+  author          = {Codabux, Zadia and Williams, Byron},
+  booktitle       = {Proceedings of the 4th International Workshop on Managing Technical Debt},
+  title           = {Managing technical debt: An industrial case study},
+  year            = {2013},
+  pages           = {8–15},
+  publisher       = {IEEE Press},
+  citation-number = {42},
+  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, kula2019, backward_2},
+  language        = {en},
+}
+
+@InProceedings{Costa2014,
+  author          = {Costa, Daniel Alencar and Abebe, Surafel Lemma and McIntosh, Shane and Kulesza, Uirá and Hassan, Ahmed E.},
+  booktitle       = {Software Maintenance and Evolution (ICSME), 2014 IEEE International Conference on},
+  title           = {An empirical study of delays in the integration of addressed issues},
+  year            = {2014},
+  pages           = {281–290},
+  publisher       = {IEEE},
+  citation-number = {41},
+  groups          = {backward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, forward_1, mantyla2013rapid, kula2019, backward_2},
+  language        = {en},
+}
+
+@Article{Decan2018,
+  author          = {Decan, A. and Mens, T. and Grosjean, P.},
+  journal         = {Empirical Software Engineering},
+  title           = {An empirical comparison of dependency network evolution in seven software packaging ecosystems},
+  year            = {2018},
+  pages           = {1–36},
+  citation-number = {14},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019, backward_2},
+  language        = {en},
+  publisher       = {Empirical Software Engineering},
+}
+
+@InCollection{Gamma2005,
+  author          = {Gamma, E.},
+  booktitle       = {Keynote at the 27th Intl. Conf. on Software Engineering (ICSE},
+  title           = {Agile, open source, distributed, and on-time – inside the eclipse development process},
+  year            = {2005},
+  month           = may,
+  citation-number = {25},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, vig2018, backward_2},
+  language        = {en},
+}
+
+@InCollection{Giger2010,
+  author          = {Giger, E. and Pinzger, M. and Gall, H.},
+  booktitle       = {International Workshop on Recommendation Systems for Software Engineering},
+  publisher       = {ACM},
+  title           = {Predicting the fix time of bugs},
+  year            = {2010},
+  address         = {New York},
+  pages           = {52–56,},
+  citation-number = {4},
+  groups          = {abou2019, backward_2, backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, daCosta2016impact},
+  language        = {en},
+}
+
+@InProceedings{Hejderup2018,
+  author          = {Hejderup, J. and Deursen, A. and Gousios, G.},
+  booktitle       = {Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results},
+  title           = {Software ecosystem call graph for dependency management},
+  year            = {2018},
+  month           = may,
+  pages           = {101–104},
+  publisher       = {ACM},
+  citation-number = {12},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019, backward_2},
+  language        = {en},
+}
+
+@InProceedings{Jenkins2011,
+  author          = {Jenkins, J.},
+  booktitle       = {Presentation at O’Reilly Velocity Conference},
+  title           = {Velocity culture (the unmet challenge in ops},
+  year            = {2011},
+  address         = {Santa Clara, CA},
+  month           = jun,
+  citation-number = {24},
+  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, backward_1, khomh2015understanding, mantyla2015rapid, hemmati2015prioritizing, mantyla2013rapid, hemmati2017prioritizing, excluded_ec05_docs, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Jeong2009,
+  author          = {Jeong, G. and Kim, S. and Zimmermann, T.},
+  booktitle       = {Joint European Software Engineering Conference and ACM SIGSOFT Symposium Foundations of Software Engineering (ESEC/FSE},
+  title           = {Improving bug triage with bug tossing graphs},
+  year            = {2009},
+  pages           = {111–120,},
+  publisher       = {ACM},
+  citation-number = {13},
+  groups          = {abou2019, backward_2, backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{jiang2013a,
+  author          = {Jiang, Y. and Adams, B. and German, D.M.},
+  booktitle       = {Proceedings of the 10th Working Conference on Mining Software Repositories (MSR},
+  title           = {Will my patch make it? and how fast?: Case study on the linux kernel},
+  year            = {2013},
+  pages           = {101 110,},
+  citation-number = {16},
+  groups          = {backward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_abstract, backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {en},
+}
+
+@Article{Karvonen2017,
+  author          = {Karvonen, T. and Behutiye, W. and Oivo, M. and Kuvaja, P.},
+  journal         = {Information and Software Technology},
+  title           = {Systematic literature review on the impacts of agile release engineering practices},
+  year            = {2017},
+  pages           = {87–100,},
+  volume          = {86},
+  booktitle       = {Information and Software Technology (86), Elsevier B.V},
+  citation-number = {2},
+  groups          = {joshi2019, backward_2, forward_1, mantyla2015rapid, hemmati2015prioritizing, khomh2015understanding, souza2015rapid, clark2014moving, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, luo2019, backward_2},
+  language        = {en},
+  publisher       = {Elsevier},
+}
+
+@InProceedings{Kerzazi2014,
+  author          = {Kerzazi, Noureddine and Khomh, Foutse},
+  booktitle       = {Proceedings of the 8th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement},
+  title           = {Factors impacting rapid releases: an industrial case study},
+  year            = {2014},
+  pages           = {61},
+  publisher       = {ACM},
+  citation-number = {26},
+  groups          = {kula2019, backward_2, start_set, excluded_ec01_unrelated, excluded_phase_text},
+  language        = {en},
+}
+
+@InProceedings{Khalil2019,
+  author          = {Khalil, Z. Abou and Constantinou, E. and Mens, T. and Duchien, L. and Quinton, C.},
+  booktitle       = {2019 {{IEEE International Conference}} on {{Software Maintenance}} and {{Evolution}} ({{ICSME}})},
+  title           = {A {{Longitudinal Analysis}} of {{Bug Handling Across Eclipse Releases}}},
+  year            = {2019},
+  month           = sep,
+  pages           = {1--12},
+  abstract        = {Large open source software projects, like Eclipse, follow a continuous software development process, with a regular release cycle. During each release, new bugs are reported, triaged and resolved. Previous studies have focused on various aspects of bug fixing, such as bug triaging, bug prediction, and bug process analysis. Most studies, however, do not distinguish between what happens before and after each scheduled release. We are also unaware of studies that compare bug fixing activities across different project releases. This paper presents an empirical analysis of the bug handling process of Eclipse over a 15-year period, considering 138K bug reports from Bugzilla, including 16 annual Eclipse releases and two quarterly releases in 2018. We compare the bug resolution rate, the fixing rate, the bug triaging time and the fixing time before and after each release date, and we study the possible impact of "release pressure". Among others, our results reveal that Eclipse bug handling activity is improving over time, with an important decrease in the number of reported bugs before releases, an increase in the bug fixing rate and an increasingly balanced bug handling workload before and after releases. The recent transition from an annual to a quarterly release cycle continued to improve the bug handling process.},
+  citation-number = {29},
+  doi             = {10.1109/ICSME.2019.00010},
+  file            = {IEEE Xplore Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\S68UFEYT\\Khalil et al. - 2019 - A Longitudinal Analysis of Bug Handling Across Ecl.pdf:application/pdf},
+  groups          = {forward_01, p_Khomh2015_forward, p_Costa2018_forward, forward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, abou2019, backward_2},
+  issn            = {2576-3148},
+  keywords        = {16 annual Eclipse releases,bug fixing rate,bug prediction,bug process analysis,bug resolution rate,bug triaging time,Computer bugs,continuous software development process,Delays,different project releases,Eclipse bug handling activity,empirical analysis; bug fixing process; software maintenance; rapid release cycle; bug triaging; Bugzilla; Releases,History,increasingly balanced bug handling workload,Interviews,open source software projects,program debugging,public domain software,quarterly release cycle,quarterly releases,regular release cycle,release date,release pressure,reported bugs,scheduled release,Software,software fault tolerance,Switches},
+  language        = {pt},
+  timestamp       = {2020-10-29T19:51:19Z},
+  url             = {https://zenodo.org/},
+}
+
+@InProceedings{Khomh2012,
+  author          = {Khomh, Foutse and Dhaliwal, Tejinder and Zou, Ying and Adams, Bram},
+  booktitle       = {Mining Software Repositories, 2012 9th Working Conference},
+  title           = {Do Faster Releases Improve Software Quality? An Empirical Case Study of Mozilla Firefox},
+  year            = {2012},
+  address         = {Kingston, Ontario, Canada},
+  editor          = {MSR, M.Lanza and Pent, M.D. and Xi, T.},
+  month           = jun,
+  note            = {V. Vig and A. Kaur / Test effort estimation and prediction 1669},
+  pages           = {179–188},
+  publisher       = {IEEE Press},
+  volume          = {12},
+  citation-number = {33},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, clark2014moving, hemmati2015prioritizing, hemmati2017prioritizing, souza2015rapid, khomh2015understanding, mantyla2015rapid, selected, Firefox, Recorded, todo, processed_backward, kula2018, backward_2, kula2019, ihara2017, luo2019, vig2018, lavoie2013, backward_2, souza2014, backward_2, abou2019, backward_2},
+  language        = {en},
+  url             = {http://dblp.uni-trier.de/db/conf/msr/},
+}
+
+@Article{Khomh2015,
+  author          = {Khomh, Foutse and Adams, Bram and Dhaliwal, Tejinder and Zou, Ying},
+  journal         = {Empirical Software Engineering},
+  title           = {Understanding the impact of rapid releases on software quality},
+  year            = {2015},
+  month           = apr,
+  note            = {Online]. Available:},
+  number          = {2},
+  pages           = {336--373},
+  volume          = {20},
+  citation-number = {12},
+  doi             = {10.1007/s10664-014-9308-x},
+  groups          = {start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, claes2017, backward_2, abou2019, kula2019, backward_2, luo2019, vig2018},
+  language        = {en},
+  publisher       = {Springer},
+  url             = {http://dx.doi.org/10.1007/s10664-014-9308-x},
 }
 
 @InProceedings{Costa2016,
@@ -5394,8 +7579,258 @@
   pages           = {374--385},
   publisher       = {IEEE},
   citation-number = {4},
-  groups          = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward,kula2018, backward_2},
+  groups          = {start_set, backward_1, daCosta2018impact, forward_1, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward,kula2018, backward_2, kula2019, backward_2, abou2019, backward_2},
   language        = {en},
+}
+
+@Article{Costa2018,
+  author          = {Costa, Daniel Alencar and McIntosh, Shane and Treude, Christoph and Kulesza, Uir{\'a} and Hassan, Ahmed E},
+  journal         = {Empirical Software Engineering},
+  title           = {The impact of rapid release cycles on the integration delay of fixed issues},
+  year            = {2018},
+  number          = {2},
+  pages           = {835--904},
+  volume          = {23},
+  citation-number = {27},
+  groups          = {start_set, forward_1, daCosta2016impact, mantyla2015rapid, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, abou2019, backward_2, luo2019, backward_2},
+  language        = {en},
+  publisher       = {Springer},
+}
+
+@InProceedings{Kula2015,
+  author          = {Kula, R.G. and German, D. and Ishio, T. and Inoue, K.},
+  booktitle       = {Proceedings of the 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering},
+  title           = {Trusting a library: a study of the latency to adopt the latest maven release},
+  year            = {2015},
+  pages           = {520– 524},
+  citation-number = {5.},
+  groups          = {ihara2017, backward_2, fujibayashi2017, excluded_ec01_unrelated, excluded_phase_intro},
+  language        = {en},
+}
+
+@Article{Kuppuswami2003,
+  author          = {Kuppuswami, S. and Vivekanandan, K. and Ramaswamy, P. and Rodrigues, P.},
+  journal         = {SIGSOFT Softw Eng Notes},
+  title           = {The effects of individual xp practices on software development effort},
+  year            = {2003},
+  month           = nov,
+  number          = {6},
+  pages           = {6 ,},
+  volume          = {28},
+  citation-number = {33},
+  groups          = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_text, backward_2, khomh2012, vig2018, backward_2},
+  language        = {en},
+}
+
+@InProceedings{Li2010,
+  author          = {Li, Jingyue and Moe, Nils B. and Dybå, Tore},
+  booktitle       = {Proceedings of the 2010 ACM-IEEE international symposium on empirical software engineering and measurement},
+  title           = {Transition from a plan-driven process to scrum: a longitudinal case study on software quality},
+  year            = {2010},
+  pages           = {13},
+  publisher       = {ACM},
+  volume          = {13},
+  citation-number = {39},
+  comment         = {O paper fala sobre SCRUM e não sobre RR.},
+  groups          = {kula2019, backward_2, backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text},
+  language        = {en},
+}
+
+@InCollection{Mann1947,
+  author          = {Mann, H.B. and Whitney, D.R.},
+  booktitle       = {The annals of mathematical statistics},
+  title           = {On a test of whether one of two random variables is stochastically larger than the other},
+  year            = {1947},
+  pages           = {50–60},
+  citation-number = {11},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019, backward_2},
+  journal         = {The annals of mathematical statistics},
+  language        = {en},
+}
+
+@InProceedings{Mantyla2013,
+  author          = {M{\"a}ntyl{\"a}, Mika V and Khomh, Foutse and Adams, Bram and Engstr{\"o}m, Emelie and Petersen, Kai},
+  booktitle       = {2013 IEEE International Conference on Software Maintenance},
+  title           = {On rapid releases and software testing},
+  year            = {2013},
+  month           = sep,
+  organization    = {IEEE},
+  pages           = {20--29},
+  citation-number = {7},
+  groups          = {start_set, backward_1, souza2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, souza2014, backward_2},
+  language        = {en},
+}
+
+@Article{palomba2017recommending,
+  author       = {Palomba, Fabio and Salza, Pasquale and Ciurumelea, Adelina and Panichella, Sebastiano and Gall, Harald and Ferrucci, Filomena and Lucia, AD},
+  journal      = {ICSE’17},
+  title        = {Recommending and localizing code changes for mobile apps based on user reviews},
+  year         = {2017},
+  pages        = {106--117},
+  booktitle    = {2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)},
+  groups       = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
+  organization = {IEEE},
+}
+
+@InCollection{Panjer2007,
+  author          = {Panjer, L.D.},
+  booktitle       = {International Workshop on Mining Software Repositories},
+  publisher       = {IEEE Computer Society},
+  title           = {Predicting Eclipse bug lifetimes},
+  year            = {2007},
+  pages           = {29,},
+  citation-number = {3},
+  groups          = {abou2019, backward_2, backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Article{Porter2006,
+  author          = {Porter, A. and Yilmaz, C. and Memon, A.M. and Krishna, A.S. and Schmidt, D.C. and Gokhale, A.},
+  journal         = {Software Process: Improvement and Practice},
+  title           = {Techniques and processes for improving the quality and performance of open-source software},
+  year            = {2006},
+  issn            = {1077-4866},
+  number          = {2},
+  pages           = {163–176,},
+  volume          = {11},
+  citation-number = {5},
+  doi             = {10.1002/spip.260},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_intro, backward_1, khomh2015understanding, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, kula2019, backward_2},
+  language        = {fr},
+}
+
+@Article{rahman2015a,
+  author          = {Rahman, M.T. and Rigby, P.C.},
+  journal         = {IEEE Software Journal},
+  title           = {Release stabilization on linux and chrome},
+  year            = {2015},
+  number          = {2},
+  pages           = {81 88},
+  volume          = {number 2},
+  citation-number = {25},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_text, luo2019, backward_2},
+  language        = {en},
+  publisher       = {IEEE},
+}
+
+@Book{Scott1974,
+  author          = {Scott, A.J. and Knott},
+  publisher       = {International Biometric Society},
+  title           = {M.: A cluster analysis method for grouping means in the analysis of variance},
+  year            = {1974},
+  volume          = {30},
+  citation-number = {11.},
+  groups          = {ihara2017, backward_2, fujibayashi2017, excluded_ec01_unrelated, excluded_phase_title},
+  journal         = {International Biometric Society},
+  language        = {en},
+}
+
+@Article{Seaman1999,
+  author          = {Seaman, Carolyn B.},
+  journal         = {IEEE Transactions on software engineering},
+  title           = {Qualitative methods in empirical studies of software engineering},
+  year            = {1999},
+  number          = {4},
+  pages           = {557–572},
+  volume          = {25},
+  citation-number = {14},
+  groups          = {kula2019, backward_2, kettunen2010, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@Misc{Shankland2011,
+  author          = {Shankland, S.},
+  title           = {Rapid-release firefox meets corporate backlash},
+  year            = {2011},
+  citation-number = {9},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec07_news, excluded_phase_title, backward_2, khomh2012, luo2019, backward_2},
+  language        = {en},
+  publisher       = {CNET},
+  url             = {http://cnet.co/ktBsUU},
+}
+
+@InProceedings{Shihab2010,
+  author          = {Shihab, E. and Ihara, A. and Kamei, Y. and Ibrahim, W.M. and Ohira, M. and Adams, B. and Hassan, A.E. and Matsumoto, K.-i},
+  booktitle       = {Proceedings of the 2010 17th Working Conference on Reverse Engineering, ser. WCRE ’10},
+  title           = {Predicting re-opened bugs: A case study on the eclipse project},
+  year            = {2010},
+  address         = {Washington, DC, USA},
+  note            = {Online]. Available:},
+  pages           = {249–258},
+  publisher       = {IEEE Computer Society},
+  citation-number = {10},
+  doi             = {10.1109/WCRE.2010.36},
+  groups          = {souza2014, backward_2, backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  url             = {http://dx.doi.org/10.1109/WCRE.2010.36},
+}
+
+@Article{Stewart2005,
+  author          = {Stewart, K.J. and Darcy, D.P. and Daniel, S.L.},
+  journal         = {SIGSOFT Softw. Eng. Notes},
+  title           = {Observations on patterns of development in open source software projects},
+  year            = {2005},
+  month           = may,
+  number          = {4},
+  pages           = {1–5,},
+  volume          = {30},
+  citation-number = {34},
+  groups          = {backward_2, khomh2012, need_check, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, vig2018, backward_2},
+  language        = {en},
+}
+
+@Article{Subramaniam2009,
+  author          = {Subramaniam, Chandrasekar and Sen, Ravi and Nelson, Matthew L.},
+  journal         = {Decision Support Systems},
+  title           = {Determinants of open source software project success: A longitudinal study},
+  year            = {2009},
+  number          = {2},
+  pages           = {576–585},
+  volume          = {46},
+  citation-number = {1},
+  groups          = {kula2019, backward_2, backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_abstract},
+  language        = {fr},
+  publisher       = {Elsevier},
+}
+
+@Article{Torkar2011,
+  author          = {Torkar, Richard and Minoves, Pau and Garrigós, Janina},
+  journal         = {Journal of the AIS},
+  title           = {Adopting free/libre/open source software practices, techniques and methods for industrial use},
+  year            = {2011},
+  number          = {1},
+  pages           = {88–122},
+  volume          = {12},
+  citation-number = {43},
+  groups          = {kula2019, backward_2, backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  language        = {en},
+}
+
+@Book{Yin2002,
+  author          = {Yin, R.K.},
+  publisher       = {SAGE Publications},
+  title           = {Case Study Research: Design and Methods},
+  year            = {2002},
+  edition         = {Third Edition, 3rd},
+  citation-number = {20},
+  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
+  language        = {en},
+}
+
+@InProceedings{2008a,
+  author          = {Antoniol, G. and Ayari, K. and Penta, M.D. and Khomh, F. and Gueheneuc, Y.},
+  booktitle       = {Proceedings of the 2008 conference of the center for advanced studies on collaborative research: meeting of minds, ser. CASCON ’08},
+  title           = {Is it a bug or an enhancement?: a text-based approach to classify change requests},
+  year            = {2008},
+  address         = {New York, NY, USA},
+  note            = {Online]. Available:},
+  pages           = {304–23 318},
+  publisher       = {ACM},
+  volume          = {23},
+  citation-number = {5},
+  groups          = {souza2014, backward_2, backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+  url             = {http://doi.acm.org/10.1145/1463788.1463819},
 }
 
 @Article{2015,
@@ -5407,9 +7842,45 @@
   pages           = {1384–1425},
   volume          = {20},
   citation-number = {2},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, kula2018, backward_2},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, daCosta2016impact, daCosta2018impact, start_set, forward_1, mantyla2013rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, kula2018, backward_2, kula2019, backward_2, luo2019, joshi2019, backward_2, fujibayashi2017, vig2018, ihara2017, backward_2},
   language        = {en},
   publisher       = {Springer},
+}
+
+@Book{Hess2004,
+  author          = {Hess, M. and Kromrey, J.},
+  publisher       = {American Educational Research Association},
+  title           = {Robust confidence intervals for effect sizes: A comparative study of Cohen’s d and Cliff’s delta under non-normality and heterogeneous variances},
+  year            = {2004},
+  booktitle       = {in annual meeting of the American Educational Research Association},
+  citation-number = {39},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  language        = {en},
+}
+
+@InProceedings{Clark2014,
+  author          = {Clark, Sandy and Collis, Michael and Blaze, Matt and Smith, Jonathan M},
+  booktitle       = {Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security},
+  title           = {Moving targets: Security and rapid-release in firefox},
+  year            = {2014},
+  pages           = {1256--1266},
+  publisher       = {ACM},
+  citation-number = {28},
+  groups          = {start_set, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, kula2019, backward_2, luo2019},
+  language        = {en},
+}
+
+@InProceedings{Hemmati2015,
+  author          = {Hemmati, Hadi and Fang, Zhihan and Mantyla, Mika V},
+  booktitle       = {2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)},
+  title           = {Prioritizing manual test cases in traditional and rapid release environments},
+  year            = {2015},
+  organization    = {IEEE},
+  pages           = {1--10},
+  publisher       = {IEEE},
+  citation-number = {32},
+  groups          = {start_set, backward_1, hemmati2017prioritizing, forward_1, mantyla2015rapid, selected, Recorded, Firefox, backward, forward, processed_backward, processed_forward, kula2019, backward_2},
+  language        = {en},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -5418,34 +7889,45 @@
 0 AllEntriesGroup:;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec01_unrelated\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec03_unavailable\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec03_unavailable\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec05_docs\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec05_docs\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec06_sist_review\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
-3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_abstract\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_intro\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_title\;0\;0\;0xff0000ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
-1 StaticGroup:paper\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:paper\;2\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:abou2019\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:claes2017\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:clark2014moving\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:daCosta2016impact\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:daCosta2018impact\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:fujibayashi2017\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:hemmati2015prioritizing\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:hemmati2017prioritizing\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:ihara2017\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:joshi2019\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:kettunen2010\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:khomh2012\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:khomh2015understanding\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:kula2018\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:kula2019\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:lavoie2013\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:luo2019\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:mantyla2013rapid\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:mantyla2015rapid\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:souza2014\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:souza2015rapid\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:vig2018\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:processed\;2\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:processed_backward\;0\;0\;0x8a8a8aff\;\;\;;
-2 StaticGroup:processed_forward\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:processed_backward\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:processed_forward\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
 1 StaticGroup:selected\;2\;1\;0x008000ff\;\;\;;
 2 StaticGroup:Dataset\;0\;0\;0x99cc99ff\;\;\;;
@@ -5456,7 +7938,7 @@
 1 StaticGroup:step\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:backward\;2\;1\;0x8a8a8aff\;\;\;;
 3 StaticGroup:backward_1\;2\;1\;0x8a8a8aff\;\;\;;
-3 StaticGroup:backward_2\;0\;1\;0x8a8a8aff\;\;\;;
+3 StaticGroup:backward_2\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:forward\;2\;1\;0x8a8a8aff\;\;\;;
 3 StaticGroup:forward_1\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:start_set\;0\;1\;0xffffffff\;\;\;;
