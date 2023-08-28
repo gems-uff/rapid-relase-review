@@ -7762,7 +7762,7 @@
   year         = {2017},
   organization = {Springer International Publishing},
   pages        = {184--198},
-  groups       = {kettunen2010, forward_2},
+  groups       = {kettunen2010, forward_2, need_check},
 }
 
 @InCollection{Kasurinen2012,
@@ -8035,7 +8035,7 @@
   author = {Thangiah, Murugan and Basri, Shuib},
   title  = {Analyses of software testing problems in Small and Medium Software Enterprises (SME’s) and a proposed framework on exploratory testing},
   year   = {2015},
-  groups = {kettunen2010, forward_2},
+  groups = {kettunen2010, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Misc{Karlsson2018,
@@ -8093,7 +8093,7 @@
 @Article{Muram,
   author = {Muram, Faiz UL and Baig, Aftab},
   title  = {Agile Practices in the Industrial Context},
-  groups = {kettunen2010, forward_2},
+  groups = {kettunen2010, forward_2, excluded_ec03_unavailable, excluded_phase_title},
 }
 
 @Article{Curso,
@@ -8445,16 +8445,6 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {1373--1385},
-  groups       = {khomh2012, forward_2},
-}
-
-@InProceedings{Hemmati2013,
-  author       = {Hemmati, Hadi and Nadi, Sarah and Baysal, Olga and Kononenko, Oleksii and Wang, Wei and Holmes, Reid and Godfrey, Michael W},
-  booktitle    = {2013 10th Working Conference on Mining Software Repositories (MSR)},
-  title        = {The msr cookbook: Mining a decade of research},
-  year         = {2013},
-  organization = {IEEE},
-  pages        = {343--352},
   groups       = {khomh2012, forward_2},
 }
 
@@ -8932,7 +8922,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {1545--1546},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec04_cover, excluded_phase_title},
 }
 
 @Book{Syer2013a,
@@ -9142,7 +9132,7 @@
   year    = {2022},
   number  = {5},
   volume  = {21},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
 }
 
 @PhdThesis{Burkhart2016,
@@ -9178,7 +9168,7 @@
   organization = {IEEE},
   pages        = {995--996},
   volume       = {2},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec04_cover, excluded_phase_title},
 }
 
 @InProceedings{Milosevic,
@@ -9324,12 +9314,6 @@
   groups    = {khomh2012, forward_2},
 }
 
-@Article{Hemmati,
-  author = {Hemmati, Hadi and Nadi, Sarah and Baysal, Olga and Kononenko, Oleksii and Wang, Wei and Holmes, Reid and Godfrey, Michael W},
-  title  = {The MSR Cookbook},
-  groups = {khomh2012, forward_2},
-}
-
 @PhdThesis{Nagaraj2013,
   author = {Nagaraj, Karthik Swaminathan},
   school = {Purdue University},
@@ -9350,7 +9334,7 @@
   author    = {藤林大毅},
   title     = {OSS ライブラリのリリースサイクルに着目した最新バージョン導入の分析},
   year      = {2017},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
   publisher = {奈良先端科学技術大学院大学},
 }
 
@@ -9377,7 +9361,7 @@
   number  = {18},
   pages   = {1--7},
   volume  = {2015},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
 }
 
 @PhdThesis{Lavoie2015,
@@ -9396,7 +9380,7 @@
   number    = {4},
   pages     = {4\_131--4\_140},
   volume    = {32},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
   publisher = {日本ソフトウェア科学会},
 }
 
@@ -9416,7 +9400,7 @@
   number  = {20},
   pages   = {1--7},
   volume  = {2014},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
 }
 
 @Article{Kirbas,
@@ -10297,6 +10281,16 @@
   timestamp    = {2020-10-29T19:54:15Z},
 }
 
+@Article{Hemmati,
+  author       = {Hemmati, Hadi and Nadi, Sarah and Baysal, Olga and Kononenko, Oleksii and Wang, Wei and Holmes, Reid and Godfrey, Michael W},
+  title        = {The MSR Cookbook},
+  year         = {2013},
+  pages        = {343--352},
+  booktitle    = {2013 10th Working Conference on Mining Software Repositories (MSR)},
+  groups       = {khomh2012, forward_2},
+  organization = {IEEE},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -10314,7 +10308,7 @@
 3 StaticGroup:excluded_phase_abstract\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_title\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
 1 StaticGroup:paper\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:abou2019\;0\;1\;0x8a8a8aff\;\;\;;
