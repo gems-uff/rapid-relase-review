@@ -8406,7 +8406,7 @@
   number    = {5},
   pages     = {931},
   volume    = {9},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {MDPI},
 }
 
@@ -8426,7 +8426,7 @@
   year         = {2004},
   organization = {IEEE},
   pages        = {471--478},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Chen2014,
@@ -8445,7 +8445,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {1373--1385},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Syer2013,
@@ -8454,7 +8454,7 @@
   title     = {Revisiting prior empirical findings for mobile apps: An empirical case study on the 15 most popular open-source Android apps},
   year      = {2013},
   pages     = {283--297},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Wang2020a,
@@ -8475,7 +8475,7 @@
   title     = {Challenges in software ecosystems research},
   year      = {2015},
   pages     = {1--6},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Guerrouj2015,
@@ -8506,7 +8506,7 @@
   year      = {2016},
   pages     = {1107--1142},
   volume    = {21},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8548,7 +8548,7 @@
   year      = {2016},
   pages     = {960--1001},
   volume    = {21},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8560,7 +8560,7 @@
   number    = {19},
   pages     = {6496--6506},
   volume    = {42},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8610,7 +8610,7 @@
   number    = {4},
   pages     = {817--861},
   volume    = {29},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8620,7 +8620,7 @@
   title     = {Automatically analyzing groups of crashes for finding correlations},
   year      = {2017},
   pages     = {717--726},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Aljedaani2019,
@@ -8628,9 +8628,12 @@
   booktitle    = {2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)},
   title        = {A comparison of bugs across the ios and android platforms of two open source cross platform browser apps},
   year         = {2019},
+  month        = {may},
   organization = {IEEE},
   pages        = {76--86},
-  groups       = {khomh2012, forward_2},
+  publisher    = {{IEEE}},
+  doi          = {10.1109/mobilesoft.2019.00021},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Forsgren2016,
@@ -8667,7 +8670,7 @@
   title     = {Towards release strategy optimization for apps in Google Play},
   year      = {2017},
   pages     = {1--10},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Cito2015,
@@ -8715,7 +8718,7 @@
   year      = {2017},
   pages     = {20777--20784},
   volume    = {5},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -8726,7 +8729,7 @@
   year      = {2020},
   pages     = {225902--225934},
   volume    = {8},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -8764,7 +8767,7 @@
   number    = {2},
   pages     = {393--411},
   volume    = {47},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, need_check},
   publisher = {IEEE},
 }
 
@@ -8799,7 +8802,7 @@
   journal = {arXiv preprint arXiv:2007.10912},
   title   = {The Corrective Commit Probability Code Quality Metric},
   year    = {2020},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Curry2008,
@@ -8911,7 +8914,7 @@
   year      = {2014},
   pages     = {107--120},
   volume    = {96},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8930,7 +8933,7 @@
   publisher = {Queen's University (Canada)},
   title     = {Empirical studies of mobile apps and their dependence on mobile platforms},
   year      = {2013},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Duran2013,
@@ -8986,7 +8989,7 @@
   year      = {2021},
   number    = {3},
   volume    = {26},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer Nature BV},
 }
 
@@ -8997,7 +9000,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {1--4},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Narvaneni2017,
@@ -9027,7 +9030,7 @@
   booktitle = {Proc. 2014 Int’l Workshop Release Eng},
   title     = {Contrasting development and release stabilization work on the Linux kernel},
   year      = {2014},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Bender2021,
@@ -9037,7 +9040,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {1--9},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Mochetti2019,
@@ -9061,7 +9064,7 @@
   author    = {Nistala, Padmalata V},
   title     = {Towards an Intelligent Systems Software Process Infrastructure for early SDLC},
   year      = {2022},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Hyderabad},
 }
 
@@ -9097,7 +9100,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {156--162},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Huang2001,
@@ -9114,7 +9117,7 @@
 @Article{Bender,
   author = {Bender, Benedict and Szadowiak, Andrzej},
   title  = {Feature Removal on Software Platforms},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Book{Alvarado2017,
@@ -9122,7 +9125,7 @@
   publisher = {Ecole Polytechnique, Montreal (Canada)},
   title     = {Automated Improvement of Software Design by Search-based Refactoring},
   year      = {2017},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Федоров2022,
@@ -9198,14 +9201,14 @@
 @Article{Alves,
   author = {Alves, Jo{\~a}o Marcus and von Wangenheim, Christiane Gresse},
   title  = {State-of-the-art in Software Quality Evaluation Models Suitable for Telemedicine and Telehealth Systems},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Bohrweg2021,
   author = {Bohrweg, Niels},
   title  = {ICT in Business and the Public Sector},
   year   = {2021},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{MacAulayAbdelwahab2018,
@@ -9223,7 +9226,7 @@
   number    = {3},
   pages     = {206--214},
   volume    = {9},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_intro},
   publisher = {The Basic Science Institute Chosun University},
 }
 
@@ -9232,7 +9235,7 @@
   journal = {arXiv preprint arXiv:1610.02127},
   title   = {A Decision Support System to Choose Optimal Release Cycle Length in Incremental Software Development Environments},
   year    = {2016},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_intro},
 }
 
 @InProceedings{Sutcliffe2016,
@@ -9241,7 +9244,7 @@
   title     = {Closing the Barn Door: Re-Prioritizing Safety, Security, and Reliability},
   year      = {2016},
   pages     = {1--15},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Licorish2021,
@@ -9250,12 +9253,6 @@
   title   = {They'll Know It When They See It: Analyzing Post-Release Feedback from the Android Community},
   year    = {2021},
   groups  = {khomh2012, forward_2},
-}
-
-@Article{Care,
-  author = {should Care, Why Researchers},
-  title  = {Modern Release Engineering in a Nutshell},
-  groups = {khomh2012, forward_2},
 }
 
 @PhdThesis{Leutgoeb2016,
@@ -9281,7 +9278,7 @@
   journal = {arXiv preprint arXiv:1503.05171},
   title   = {Modeling and Analyzing Release Trajectory based on the Process of Issue Tracking},
   year    = {2015},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Lindgren2015,
@@ -9302,7 +9299,7 @@
 @Article{Ahmad,
   author = {Ahmad, Mahmood and Idris, Muhammad and Pervez, Zeeshan and Lee, Sungyoung},
   title  = {Vulnerability Analysis for Credentials Management in Web Browsers},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Nguyen2014,
@@ -9311,7 +9308,7 @@
   title     = {Characterizing defect trends in software support},
   year      = {2014},
   pages     = {508--511},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Nagaraj2013,
@@ -9342,7 +9339,7 @@
   author    = {SILVA, Antonio C{\'e}sar Brand{\~a}o Gomes da},
   title     = {Uma caracteriza{\c{c}}{\~a}o de projetos de software open source do ponto de vista de atributos de qualidade de produto},
   year      = {2017},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
   publisher = {Universidade Salvador},
 }
 
@@ -9389,7 +9386,7 @@
   school = {Universit{\'e} de Bordeaux},
   title  = {Gestion des biblioth{\`e}ques tierces dans un contexte de maintenance logicielle},
   year   = {2014},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
 }
 
 @Article{小須田光2014,
@@ -10179,21 +10176,6 @@
   school    = {{\'E}cole Polytechnique de Montr{\'e}al},
 }
 
-@InProceedings{Adams2016,
-  author          = {Adams, B. and McIntosh, S.},
-  booktitle       = {Proceedings of the 23rd international conference on software analysis, evolution, and reengineering (SANER},
-  title           = {Modern release engineering in a nutshell: why researchers should care},
-  year            = {2016},
-  organization    = {IEEE},
-  pages           = {78–90},
-  publisher       = {IEEE},
-  volume          = {5},
-  citation-number = {4},
-  groups          = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, excluded_phase_text, excluded_ec01_unrelated, kula2019, backward_2, joshi2019, khomh2012, forward_2},
-  language        = {en},
-  relevance       = {relevant},
-}
-
 @InCollection{2012c,
   author          = {Shankland, S.},
   booktitle       = {CNET, Retrieved on February 08},
@@ -10291,6 +10273,21 @@
   organization = {IEEE},
 }
 
+@InProceedings{Adams2016,
+  author          = {Adams, B. and McIntosh, S.},
+  booktitle       = {Proceedings of the 23rd international conference on software analysis, evolution, and reengineering (SANER},
+  title           = {Modern release engineering in a nutshell: why researchers should care},
+  year            = {2016},
+  organization    = {IEEE},
+  pages           = {78–90},
+  publisher       = {IEEE},
+  volume          = {5},
+  citation-number = {4},
+  groups          = {backward_1, daCosta2018impact, daCosta2016impact, forward_1, mantyla2013rapid, excluded_phase_text, excluded_ec01_unrelated, kula2019, backward_2, joshi2019, khomh2012, forward_2, khomh2012, forward_2},
+  language        = {en},
+  relevance       = {relevant},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -10305,7 +10302,7 @@
 3 StaticGroup:excluded_ec06_sist_review\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
-3 StaticGroup:excluded_phase_abstract\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
