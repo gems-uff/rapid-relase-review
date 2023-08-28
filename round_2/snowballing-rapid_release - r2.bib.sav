@@ -8485,7 +8485,7 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {321--330},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_text},
 }
 
 @Article{Dey2020,
@@ -8747,7 +8747,7 @@
   year         = {2023},
   organization = {IEEE},
   pages        = {473--484},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Martin2016a,
@@ -8850,7 +8850,7 @@
   title     = {Architecting for large-scale systematic component reuse},
   year      = {1999},
   pages     = {615--616},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Wang2018,
