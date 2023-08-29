@@ -1,6 +1,7 @@
 (not groups=excluded_phase) and (not groups=excluded_criteria) and (not groups="selected") and (not groups=need_check)
 (not groups=processed_forward)
 (not groups=processed_forward) and (groups=backward_1|forward_1)
-
+not groups="(^|,)\s?exc_" 
+not groups="(^|,)\s?exc_" and not groups=need_check
 
 Man2015
