@@ -8360,7 +8360,7 @@
   title     = {Quality and productivity outcomes relating to continuous integration in GitHub},
   year      = {2015},
   pages     = {805--816},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Lyon2016,
@@ -8383,7 +8383,7 @@
   number    = {6},
   pages     = {1287--1299},
   volume    = {85},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8394,7 +8394,7 @@
   year      = {2022},
   pages     = {111259},
   volume    = {188},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_intro},
   publisher = {Elsevier},
 }
 
@@ -8416,7 +8416,7 @@
   title     = {Causal impact analysis for app releases in google play},
   year      = {2016},
   pages     = {435--446},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Beckwith2004,
@@ -8435,7 +8435,7 @@
   title     = {An empirical study of dormant bugs},
   year      = {2014},
   pages     = {82--91},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Paul2021,
@@ -8465,7 +8465,7 @@
   number    = {3},
   pages     = {1--35},
   volume    = {29},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {ACM New York, NY, USA},
 }
 
@@ -8495,7 +8495,7 @@
   year      = {2020},
   pages     = {1596--1641},
   volume    = {25},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8510,13 +8510,13 @@
   publisher = {Springer},
 }
 
-@Article{Feijter2017,
+@TechReport{Feijter2017,
   author    = {Feijter, Rico and Vliet, Rob and Jagroep, Erik and Overbeek, Sietse and Brinkkemper, Sjaak and others},
-  journal   = {Technical Report Series},
   title     = {Towards the adoption of DevOps in software product organizations: A Maturity Model Approach},
   year      = {2017},
   number    = {UU-CS-2017-009},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec05_docs, excluded_phase_title},
+  journal   = {Technical Report Series},
   publisher = {UU BETA ICS Departement Informatica},
 }
 
@@ -8527,7 +8527,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {89--98},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Zhu2015,
@@ -8537,7 +8537,7 @@
   year      = {2015},
   pages     = {150--160},
   volume    = {109},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8570,7 +8570,7 @@
   title     = {Which library should I use? A metric-based comparison of software libraries},
   year      = {2018},
   pages     = {37--40},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Khalajzadeh2022,
@@ -8579,7 +8579,7 @@
   title     = {How are diverse end-user human-centric issues discussed on GitHub?},
   year      = {2022},
   pages     = {79--89},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Foundjem2021,
@@ -8650,7 +8650,7 @@
   title     = {Modeling relationship between post-release faults and usage in mobile software},
   year      = {2018},
   pages     = {56--65},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Hasan2021,
@@ -8679,7 +8679,7 @@
   title     = {Runtime metric meets developer: building better cloud applications using feedback},
   year      = {2015},
   pages     = {14--27},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{DominguezAlvarez2019,
@@ -8688,7 +8688,7 @@
   title     = {Release practices for ios and android apps},
   year      = {2019},
   pages     = {15--18},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Zhu2022,
@@ -8697,7 +8697,7 @@
   title     = {Software reliability modeling and methods: A state of the art review},
   year      = {2022},
   pages     = {1--29},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8708,7 +8708,7 @@
   year    = {2015},
   number  = {07},
   volume  = {15},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Qiang2017,
@@ -8777,7 +8777,7 @@
   title     = {ReChan: an automated analysis of Android app release notes to report inconsistencies},
   year      = {2022},
   pages     = {73--83},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Kuutila2017,
@@ -8787,7 +8787,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {54--59},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Lee2015,
@@ -8812,7 +8812,7 @@
   year         = {2008},
   organization = {IEEE},
   pages        = {286--292},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Kerzazi2013,
@@ -8822,7 +8822,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {9--12},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Viseur2013,
@@ -8832,7 +8832,7 @@
   year         = {2013},
   organization = {Springer},
   pages        = {45--60},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Hoenel2018,
@@ -8860,7 +8860,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {99--106},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Tagra2021,
@@ -8868,7 +8868,7 @@
   school = {Queen's University (Canada)},
   title  = {Studying reopened bugs in open source software systems},
   year   = {2021},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Kashiwa2019,
@@ -8886,7 +8886,7 @@
   journal = {arXiv preprint arXiv:2205.09931},
   title   = {Measure the Diversity of Open Source Software Projects' Forks with Fork Entropy},
   year    = {2022},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Foundjem2019,
@@ -8952,7 +8952,7 @@
   title     = {Assisting the elite-driven open source development through activity data},
   year      = {2020},
   pages     = {1670--1673},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Varaprasad2013,
@@ -8962,7 +8962,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {1--7},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Kerzazi2014b,
@@ -8979,7 +8979,7 @@
   school = {UCL (University College London)},
   title  = {App store analysis for software engineering},
   year   = {2017},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Armstrong2021,
@@ -9011,7 +9011,7 @@
   number    = {4},
   pages     = {175--182},
   volume    = {3},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Inderscience Publishers (IEL)},
 }
 
@@ -9021,7 +9021,7 @@
   note      = {US Patent 10,078,509},
   title     = {Method and system for processing lifelong learning of terminal and apparatus},
   year      = {2018},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Google Patents},
 }
 
@@ -9049,7 +9049,7 @@
   title   = {The Impact of Women in Computer Science History: A Post-War American History},
   year    = {2019},
   number  = {6},
-  groups  = {khomh2012, forward_2},
+  groups  = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Martens2020,
@@ -9082,7 +9082,7 @@
   author = {Dey, Tapajit},
   title  = {Modeling user-affected software properties for open source software supply chains},
   year   = {2020},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Dai2022,
@@ -9143,7 +9143,7 @@
   school = {UCLA},
   title  = {Instructional Technology and Learning Analytics in Online Geographic Information Science (GIS) Education},
   year   = {2016},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Yu2008,
@@ -9154,13 +9154,13 @@
   organization = {IEEE},
   pages        = {568--571},
   volume       = {1},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Mullapudi,
   author = {Mullapudi, Rishita and Rahman, Tajmilur and Nwokeji, Joshua},
   title  = {Predicting Software Quality from Development and Release Factors},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Adams2015,
@@ -9178,7 +9178,7 @@
   author    = {Milosevic, Milena and Lazic, Krsto and Kovacevic, Branimir and Jovanovic, Nenad and Kovacevic, Marko},
   booktitle = {X International Symposium on Industrial Electronics},
   title     = {Overview of the HbbTV compliant browser upgrade on Android based DTV platform},
-  groups    = {khomh2012, forward_2},
+  groups    = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Gebert2015a,
@@ -9260,7 +9260,7 @@
   school = {Wien},
   title  = {Development of a build system for cross-platform open-source projects},
   year   = {2016},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Kovacevic2015,
@@ -9270,7 +9270,7 @@
   year         = {2015},
   organization = {IEEE},
   pages        = {35--37},
-  groups       = {khomh2012, forward_2},
+  groups       = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Abdeen2015,
@@ -9316,7 +9316,7 @@
   school = {Purdue University},
   title  = {Enabling richer insight into runtime executions of systems},
   year   = {2013},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Kolli2018,
@@ -9324,7 +9324,7 @@
   school = {{\'E}cole de technologie sup{\'e}rieure},
   title  = {An Empirical Study On Software Testing Tools Terminology},
   year   = {2018},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{藤林大毅2017,
@@ -9347,7 +9347,7 @@
   author = {Eskelinen, Riku},
   title  = {Web-sovelluskehityksen piirteet ja kehityksen laatu},
   year   = {2016},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
 }
 
 @Article{小須田光2015,
@@ -9403,13 +9403,13 @@
 @Article{Kirbas,
   author = {K{\i}rba{\c{s}}, Serkan and {\c{S}}en, Alper},
   title  = {Yaz{\i}l{\i}m Depolar{\i} Madencili{\u{g}}i ile End{\"u}striyel Yaz{\i}l{\i}m Evrimi {\.I}ncelemesi},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec02_language, excluded_phase_title},
 }
 
 @Article{Kraaijeveld,
   author = {Kraaijeveld, Jos},
   title  = {Using metrics to characterize software release cycles},
-  groups = {khomh2012, forward_2},
+  groups = {khomh2012, forward_2, excluded_ec03_unavailable, excluded_phase_title},
 }
 
 @Article{Rodriguez2017,
@@ -10294,7 +10294,7 @@
 0 AllEntriesGroup:;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec01_unrelated\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec02_language\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec03_unavailable\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
@@ -10303,7 +10303,7 @@
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
 3 StaticGroup:excluded_phase_abstract\;0\;0\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_intro\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
