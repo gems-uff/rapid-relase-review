@@ -7,7 +7,7 @@
   year      = {2017},
   pages     = {137--144},
   volume    = {407},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Elsevier},
 }
 
@@ -19,7 +19,7 @@
   number    = {10},
   pages     = {2320--2332},
   volume    = {15},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Am Soc Plant Biol},
 }
 
@@ -30,7 +30,7 @@
   year      = {2016},
   pages     = {139--143},
   volume    = {1032},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Elsevier},
 }
 
@@ -42,7 +42,7 @@
   number    = {10},
   pages     = {2317--2331},
   volume    = {590},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Wiley Online Library},
 }
 
@@ -54,7 +54,7 @@
   number    = {5},
   pages     = {4925--4938},
   volume    = {9},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {ACS Publications},
 }
 
@@ -66,7 +66,7 @@
   number    = {1-3},
   pages     = {54--62},
   volume    = {420},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Elsevier},
 }
 
@@ -88,7 +88,7 @@
   number    = {1},
   pages     = {49--52},
   volume    = {296},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Elsevier},
 }
 
@@ -108,7 +108,7 @@
   publisher = {CRC Press/Taylor \& Francis},
   title     = {Rapid dopamine release in freely moving rats},
   year      = {2007},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
 }
 
 @Article{khan1998maxcred,
@@ -130,7 +130,7 @@
   year      = {2014},
   pages     = {319--328},
   volume    = {86},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Elsevier},
 }
 
@@ -142,7 +142,7 @@
   number    = {27},
   pages     = {8262--8271},
   volume    = {33},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {ACS Publications},
 }
 
@@ -154,7 +154,7 @@
   number    = {24},
   pages     = {1335--1338},
   volume    = {8},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Elsevier},
 }
 
@@ -163,7 +163,7 @@
   publisher = {Pearson Education},
   title     = {Rapid development: taming wild software schedules},
   year      = {1996},
-  groups    = {start_set, excluded_ec05_docs, excluded_phase_title},
+  groups    = {start_set, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @Article{allen2012neutrophil,
@@ -174,7 +174,7 @@
   number    = {1},
   pages     = {381--392},
   volume    = {189},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Am Assoc Immnol},
 }
 
@@ -198,7 +198,7 @@
   number    = {3},
   pages     = {338--343},
   volume    = {71},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Seismological Society of America},
 }
 
@@ -208,7 +208,7 @@
   title     = {Comparison of skin traction, pressure, and rapid muscle release with conventional method on intramuscular injection pain: A randomized clinical trial},
   year      = {2018},
   volume    = {7},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Wolters Kluwer--Medknow Publications},
 }
 
@@ -220,7 +220,7 @@
   number    = {6},
   pages     = {931--943},
   volume    = {68},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Seismological Society of America},
 }
 
@@ -252,7 +252,7 @@
   number    = {5},
   pages     = {1227--1238},
   volume    = {86},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Wiley Online Library},
 }
 
@@ -273,7 +273,7 @@
   year      = {2015},
   pages     = {53--62},
   volume    = {199},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_text},
   publisher = {Elsevier},
 }
 
@@ -285,7 +285,7 @@
   number    = {1},
   pages     = {1--11},
   volume    = {5},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {Nature Publishing Group},
 }
 
@@ -297,7 +297,7 @@
   number    = {42},
   pages     = {35742--35750},
   volume    = {280},
-  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {start_set, excluded_ec01_unrelated, excluded_phase_title, exc_others},
   publisher = {ASBMB},
 }
 
@@ -410,7 +410,7 @@
   author   = {Cohan, S.},
   title    = {Successful integration of agile development techniques within disa},
   year     = {2007},
-  groups   = {backward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
+  groups   = {backward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language = {fr},
   pages    = {255–260},
 }
@@ -421,7 +421,7 @@
   title     = {Statistical power analysis for the behavioral sciences},
   year      = {1988},
   edition   = {2nd edn},
-  groups    = {backward_1, excluded_ec05_docs, excluded_phase_title, mantyla2015rapid},
+  groups    = {backward_1, excluded_ec05_docs, excluded_phase_title, mantyla2015rapid, exc_doc},
   language  = {en},
 }
 
@@ -430,7 +430,7 @@
   publisher = {Simon and Schuster},
   title     = {Competing on internet time: Lessons from netscape and its battle with microsoft},
   year      = {1999},
-  groups    = {backward_1, excluded_phase_title, mantyla2015rapid, excluded_ec05_docs},
+  groups    = {backward_1, excluded_phase_title, mantyla2015rapid, excluded_ec05_docs, exc_doc},
   language  = {en},
 }
 
@@ -479,7 +479,7 @@
   publisher = {Addison-Wesley Longman Publishing Co., Inc. Extreme Programming Perspectives},
   title     = {30. In: eXtreme Adoption eXperiences of a B2B Start Up},
   year      = {2002},
-  groups    = {backward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
+  groups    = {backward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language  = {en},
 }
 
@@ -528,7 +528,7 @@
   title    = {The measurement of observer agreement for categorical data},
   year     = {1977},
   address  = {Biometrics159–174},
-  groups   = {backward_1, excluded_phase_title, excluded_ec05_docs, mantyla2015rapid},
+  groups   = {backward_1, excluded_phase_title, excluded_ec05_docs, mantyla2015rapid, exc_doc},
   language = {en},
 }
 
@@ -633,7 +633,7 @@
   year     = {2012},
   pages    = {0022–25},
   volume   = {29},
-  groups   = {backward_1, mantyla2015rapid, excluded_ec04_cover, excluded_phase_title},
+  groups   = {backward_1, mantyla2015rapid, excluded_ec04_cover, excluded_phase_title, exc_cover_news},
   language = {en},
 }
 
@@ -698,7 +698,7 @@
   year      = {1999},
   address   = {Sebastopol},
   edition   = {1st edn},
-  groups    = {backward_1, excluded_phase_title, hemmati2017prioritizing, hemmati2015prioritizing, excluded_ec05_docs, mantyla2015rapid},
+  groups    = {backward_1, excluded_phase_title, hemmati2017prioritizing, hemmati2015prioritizing, excluded_ec05_docs, mantyla2015rapid, exc_doc},
   language  = {en},
 }
 
@@ -707,7 +707,7 @@
   title    = {The principles of product development flow: second generation lean product development},
   year     = {2009},
   address  = {Celeritas Redondo Beach, Canada},
-  groups   = {backward_1, mantyla2015rapid, excluded_phase_title, excluded_ec05_docs},
+  groups   = {backward_1, mantyla2015rapid, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language = {es},
 }
 
@@ -715,7 +715,7 @@
   author   = {Rogmann, J.J.},
   title    = {Orddom: Ordinal dominance statistics},
   year     = {2013},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2013rapid, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2013rapid, mantyla2015rapid, exc_cover_news},
   language = {io},
   url      = {http://bit.ly/Y0K0eo},
 }
@@ -776,7 +776,7 @@
   author   = {Wikipedia},
   title    = {Firefox release history},
   year     = {2013},
-  groups   = {backward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_cover_news},
   language = {en},
   url      = {http://bit.ly/Ngvfln},
 }
@@ -786,7 +786,7 @@
   note     = {Support Release},
   title    = {Extended support release},
   year     = {2013},
-  groups   = {backward_1, mantyla2013rapid, excluded_phase_title, mantyla2015rapid, excluded_ec07_news},
+  groups   = {backward_1, mantyla2013rapid, excluded_phase_title, mantyla2015rapid, excluded_ec07_news, exc_cover_news},
   language = {it},
   url      = {http://bit.ly/ZlgqoM#Extended},
 }
@@ -795,7 +795,7 @@
   author   = {Wikipedia},
   title    = {Locale},
   year     = {2013},
-  groups   = {backward_1, excluded_ec01_unrelated, mantyla2013rapid, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, mantyla2013rapid, excluded_phase_title, mantyla2015rapid, exc_cover_news},
   language = {it},
   url      = {http://bit.ly/2iJLwB},
 }
@@ -839,7 +839,7 @@
   author          = {Baker, Mitchell},
   title           = {Mozilla Blog},
   citation-number = {4},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {nl},
   url             = {http://blog.lizardwrangler.com/2011/08/25/},
 }
@@ -896,7 +896,7 @@
   edition         = {20th Anniversary},
   month           = aug,
   citation-number = {12},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language        = {en},
   url             = {http://www.amazon.ca/exec/obidos/redirect?tag=},
 }
@@ -972,7 +972,7 @@
   publisher       = {Microsoft Corporation},
   year            = {2013},
   citation-number = {19},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language        = {en},
   url             = {http://www.microsoft.com/},
 }
@@ -1006,7 +1006,7 @@
   title           = {Common vulnerabilities and exposures},
   year            = {2008},
   citation-number = {22},
-  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {fr},
   url             = {http://cve.mitre.org},
 }
@@ -1026,7 +1026,7 @@
   title           = {Mozilla refox esr overview},
   year            = {2014},
   citation-number = {24},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec01_unrelated},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec01_unrelated, exc_cover_news},
   language        = {en},
   url             = {https://www.mozilla.org/en-US/firefox/},
 }
@@ -1059,7 +1059,7 @@
   title           = {Adaptive software development: a collaborative approach to managing complex systems},
   year            = {2013},
   citation-number = {27},
-  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
 }
 
@@ -1070,7 +1070,7 @@
   year            = {2006},
   month           = may,
   citation-number = {28},
-  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
 }
 
@@ -1173,7 +1173,7 @@
   title           = {Bugzilla@Mozilla},
   year            = {2013},
   citation-number = {38},
-  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {it},
   url             = {https://bugzilla.mozilla.org/,},
 }
@@ -1184,7 +1184,7 @@
   title           = {Mozilla Foundation Security Advisories},
   year            = {2013},
   citation-number = {39},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {https://www.mozilla.org/security/announce/,},
 }
@@ -1208,7 +1208,7 @@
   title           = {Software Reliability: Measurement, Prediction, Application},
   year            = {1987},
   citation-number = {41},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language        = {en},
 }
 
@@ -1217,7 +1217,7 @@
   title           = {Mozilla blog post future releases},
   year            = {2011},
   citation-number = {42},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {es},
   url             = {https://blog.mozilla.org/},
 }
@@ -1227,7 +1227,7 @@
   title           = {National Vulnerability Database},
   year            = {2008},
   citation-number = {43},
-  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
   url             = {http://nvd.nist.gov},
 }
@@ -1274,7 +1274,7 @@
   year            = {2008},
   month           = jun,
   citation-number = {47},
-  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
 }
 
@@ -1328,7 +1328,7 @@
   title           = {Agile security review of current research and pilot usages},
   year            = {2013},
   citation-number = {52},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language        = {en},
   url             = {http://resources.sei.cmu.edu/library/},
 }
@@ -1351,7 +1351,7 @@
   title           = {Releases},
   year            = {2014},
   citation-number = {2.},
-  groups          = {backward_1, excluded_phase_title, excluded_ec05_docs, souza2015},
+  groups          = {backward_1, excluded_phase_title, excluded_ec05_docs, souza2015, exc_doc},
   language        = {fi},
   url             = {https://wiki.mozilla.org/Releases.},
 }
@@ -1371,7 +1371,7 @@
   title           = {Tree Rules/Integration},
   year            = {2014},
   citation-number = {4.},
-  groups          = {backward_1, excluded_phase_title, excluded_ec05_docs, souza2015},
+  groups          = {backward_1, excluded_phase_title, excluded_ec05_docs, souza2015, exc_doc},
   language        = {sv},
   url             = {https://wiki.mozilla.org/Tree_Rules/Integration.},
 }
@@ -1444,7 +1444,7 @@
   title     = {Applied regression analysis and generalized linear},
   year      = {2008},
   edition   = {2nd edn},
-  groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
+  groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language  = {en},
 }
 
@@ -1466,7 +1466,7 @@
   title     = {Extreme programming perspectives},
   year      = {2002},
   note      = {30. in: extreme adoption experiences of a B2B start up},
-  groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
+  groups    = {backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language  = {en},
 }
 
@@ -1647,7 +1647,7 @@
   title           = {Web browsers (global marketshare},
   year            = {2013},
   citation-number = {11},
-  groups          = {backward_1, khomh2015understanding,, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {de},
   url             = {http://bit.ly/81klgi,},
 }
@@ -1658,7 +1658,7 @@
   title           = {Litmus wiki},
   year            = {2013},
   citation-number = {15},
-  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {io},
   url             = {http://mzl.la/evJmTW,},
 }
@@ -1669,7 +1669,7 @@
   title           = {Moztrap wiki},
   year            = {2013},
   citation-number = {16},
-  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {pl},
   url             = {http://bit.ly/XBGMfu,},
 }
@@ -1680,7 +1680,7 @@
   title           = {Mozilla source code mercurial repositories},
   year            = {2013},
   citation-number = {18},
-  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {http://hg.mozilla.org/},
 }
@@ -1691,7 +1691,7 @@
   title           = {Firefox extended support will mitigate rapid release challenges},
   year            = {2012},
   citation-number = {22},
-  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec07_news, excluded_phase_title},
+  groups          = {backward_1, mantyla2013rapid, mantyla2015rapid, excluded_ec07_news, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {https://arstechnica.com/information-technology/2012/01/firefox-extended-support-will-mitigate-rapid-release-challenges/},
 }
@@ -1703,7 +1703,7 @@
   year            = {2012},
   month           = oct,
   citation-number = {24},
-  groups          = {backward_1, mantyla2013rapid, excluded_phase_title, mantyla2015rapid, excluded_ec05_docs},
+  groups          = {backward_1, mantyla2013rapid, excluded_phase_title, mantyla2015rapid, excluded_ec05_docs, exc_doc},
   language        = {fr},
   url             = {http://bit.ly/},
 }
@@ -1738,7 +1738,7 @@
   title           = {Regression modeling strategies: with applications to linear models, logistic regression, and survival analysis},
   year            = {2001},
   citation-number = {10},
-  groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language        = {en},
 }
 
@@ -1874,7 +1874,7 @@
   year            = {2003},
   volume          = {28},
   citation-number = {11.},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language        = {en},
   pages           = {128–137},
 }
@@ -2096,7 +2096,7 @@
   publisher = {SAGE, Newbury Park},
   title     = {Constructing grounded theory},
   year      = {2014},
-  groups    = {backward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs},
+  groups    = {backward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language  = {en},
 }
 
@@ -2118,7 +2118,7 @@
   title     = {Statistical methods for research workers},
   year      = {1925},
   address   = {New Delhi},
-  groups    = {backward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs},
+  groups    = {backward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language  = {en},
 }
 
@@ -2314,7 +2314,7 @@
   year      = {2011},
   address   = {Cambridge},
   volume    = {100},
-  groups    = {backward_1, daCosta2018impact, daCosta2016impact, excluded_phase_title, excluded_ec05_docs},
+  groups    = {backward_1, daCosta2018impact, daCosta2016impact, excluded_phase_title, excluded_ec05_docs, exc_doc},
   language  = {en},
 }
 
@@ -2413,7 +2413,7 @@
   author = {Clark, Saender Aren},
   title  = {The Software Vulnerability Ecosystem: Software Development in the Context of Adversarial Behavior},
   year   = {2016},
-  groups = {forward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title},
+  groups = {forward_1, clark2014moving, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @Misc{2012,
@@ -2421,7 +2421,7 @@
   title           = {Web browsers (global marketshare},
   year            = {2012},
   citation-number = {7},
-  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   publisher       = {Roxr Software Ltd},
   url             = {http://bit.ly/81klgi},
@@ -2488,7 +2488,7 @@
   year            = {1999},
   edition         = {2nd},
   citation-number = {20},
-  groups          = {backward_1, mantyla2013rapid, excluded_phase_title, excluded_ec05_docs, mantyla2015rapid, khomh2015understanding, backward_2, khomh2012},
+  groups          = {backward_1, mantyla2013rapid, excluded_phase_title, excluded_ec05_docs, mantyla2015rapid, khomh2015understanding, backward_2, khomh2012, exc_doc},
   language        = {en},
 }
 
@@ -2533,7 +2533,7 @@
   title           = {Continuous Integration: improving software quality and reducing risk},
   year            = {2007},
   citation-number = {28},
-  groups          = {backward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012},
+  groups          = {backward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, exc_doc},
   language        = {en},
 }
 
@@ -2832,7 +2832,7 @@
   year            = {2004},
   address         = {Boston},
   citation-number = {4},
-  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
 }
 
@@ -3045,7 +3045,7 @@
   year            = {2002},
   address         = {Upper Saddle River, NJ},
   citation-number = {24},
-  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
 }
 
@@ -3068,7 +3068,7 @@
   year            = {1995},
   edition         = {5th},
   citation-number = {27},
-  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {nl},
 }
 
@@ -3299,7 +3299,7 @@
   year            = {2010},
   edition         = {1st},
   citation-number = {2},
-  groups          = {backward_1, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, mantyla2013rapid, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, joshi2019},
+  groups          = {backward_1, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, mantyla2013rapid, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, joshi2019, exc_doc},
   language        = {en},
   pages           = {590},
 }
@@ -3447,7 +3447,7 @@
 @Misc{,
   title           = {Mozilla foundation},
   citation-number = {1},
-  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {lavoie2013, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {fr},
   url             = {ftp.mozilla.org/pub/mozilla.org/firefox.},
 }
@@ -3997,7 +3997,7 @@
 @Misc{,
   title           = {Eclipse bugzilla repository},
   citation-number = {32},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {https://bugs.eclipse.org.},
 }
@@ -4005,7 +4005,7 @@
 @Misc{,
   title           = {Eclipse},
   citation-number = {33},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {https://wiki.eclipse.org/Simultaneous},
 }
@@ -4099,7 +4099,7 @@
 @Misc{,
   title           = {Eclipse development process},
   citation-number = {45},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {https://www.eclipse.org/},
 }
@@ -4368,7 +4368,7 @@
   title     = {Program Evolution: The Process of Software Change},
   year      = {1985},
   address   = {New York NY},
-  groups    = {luo2019, backward_2, excluded_ec05_docs, excluded_phase_title},
+  groups    = {luo2019, backward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language  = {en},
 }
 
@@ -4499,7 +4499,7 @@
   title     = {Platform Ecosystems: Aligning Architecture, Governance, and Strategy},
   year      = {2014},
   address   = {Waltham MA},
-  groups    = {luo2019, backward_2, excluded_ec05_docs, excluded_phase_title},
+  groups    = {luo2019, backward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language  = {en},
 }
 
@@ -4631,7 +4631,7 @@
   address         = {Indianapolis, IN, USA},
   edition         = {2nd},
   citation-number = {4},
-  groups          = {souza2014, backward_2, excluded_ec05_docs, excluded_phase_title},
+  groups          = {souza2014, backward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   language        = {en},
 }
 
@@ -4653,7 +4653,7 @@
   title           = {Everybody hates firefox updates},
   year            = {2012},
   citation-number = {8},
-  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title},
+  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {http://evilbrainjono.net/blog?permalink=1094.},
 }
@@ -4663,7 +4663,7 @@
   title           = {Firefox’s move to a rapid release cycle didn’t just upset users},
   year            = {2013},
   citation-number = {9},
-  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title},
+  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title, exc_cover_news},
   language        = {en},
   pages           = {– – –},
   url             = {http://ostatic.com/blog/firefoxs-move-to-a-rapid-releasecycle-},
@@ -4711,7 +4711,7 @@
   title           = {Mozillawiki: Releases},
   year            = {2014},
   citation-number = {14},
-  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title},
+  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title, exc_cover_news},
   language        = {et},
   url             = {https://wiki.mozilla.org/Releases.},
 }
@@ -4721,7 +4721,7 @@
   title           = {Mozilla release processes},
   year            = {2011},
   citation-number = {15},
-  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title},
+  groups          = {souza2014, backward_2, excluded_ec07_news, excluded_phase_title, exc_cover_news},
   language        = {fr},
   url             = {http://mozilla.github.io/process-releases/.},
 }
@@ -4766,7 +4766,7 @@
 @Misc{,
   title           = {Apache Software Foundation (ASF},
   citation-number = {2},
-  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {de},
   url             = {http://www.},
 }
@@ -4815,7 +4815,7 @@
   note            = {IntellijIdea,},
   title           = {GitHub},
   citation-number = {9},
-  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {nl},
   url             = {http://ww.github.com},
 }
@@ -4835,7 +4835,7 @@
 @Misc{Jira,
   author          = {Jira},
   citation-number = {12},
-  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   url             = {http://www.jira.atlassian.org},
 }
 
@@ -5024,7 +5024,7 @@
   year            = {2000},
   edition         = {2nd},
   citation-number = {5},
-  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, kula2018, kula2019, kettunen2010, vig2018},
+  groups          = {backward_1, daCosta2016impact, daCosta2018impact, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, kula2018, kula2019, kettunen2010, vig2018, exc_doc},
   language        = {fr},
   readstatus      = {read},
   relevance       = {relevant},
@@ -5086,7 +5086,7 @@
   title           = {Google ethos speeds up chrome release cycle},
   year            = {2010},
   citation-number = {8},
-  groups          = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news, backward_2, khomh2012, excluded_phase_title, vig2018},
+  groups          = {backward_1, mantyla2013rapid, khomh2015understanding, mantyla2015rapid, excluded_ec07_news, backward_2, khomh2012, excluded_phase_title, vig2018, exc_cover_news},
   language        = {en},
   url             = {https://www.cnet.com/news/google-ethos-speeds-up-chrome-release-cycle/},
 }
@@ -5173,7 +5173,7 @@
   year            = {2005},
   month           = may,
   citation-number = {25},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, vig2018, backward_2},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, backward_2, khomh2012, vig2018, exc_doc},
   language        = {en},
 }
 
@@ -5211,7 +5211,7 @@
   address         = {Santa Clara, CA},
   month           = jun,
   citation-number = {24},
-  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, backward_1, khomh2015understanding, mantyla2015rapid, hemmati2015prioritizing, mantyla2013rapid, hemmati2017prioritizing, excluded_ec05_docs, excluded_phase_title},
+  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, backward_1, khomh2015understanding, mantyla2015rapid, hemmati2015prioritizing, mantyla2013rapid, hemmati2017prioritizing, exc_doc},
   language        = {en},
 }
 
@@ -5364,7 +5364,7 @@
   title           = {Rapid-release firefox meets corporate backlash},
   year            = {2011},
   citation-number = {9},
-  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec07_news, excluded_phase_title, backward_2, khomh2012, luo2019, backward_2},
+  groups          = {backward_1, khomh2015understanding, mantyla2015rapid, mantyla2013rapid, excluded_ec07_news, excluded_phase_title, backward_2, khomh2012, luo2019, exc_cover_news},
   language        = {en},
   publisher       = {CNET},
   url             = {http://cnet.co/ktBsUU},
@@ -5434,7 +5434,7 @@
   year            = {2002},
   edition         = {Third Edition, 3rd},
   citation-number = {20},
-  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, backward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
+  groups          = {backward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, backward_1, khomh2015understanding, exc_doc},
   language        = {en},
 }
 
@@ -5543,7 +5543,7 @@
   school = {Politecnico di Torino},
   title  = {Safety Assessment of UAV Systems: Field Data Analysis},
   year   = {2021},
-  groups = {abou2019, forward_2, excluded_ec05_docs, excluded_phase_title},
+  groups = {abou2019, forward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @InProceedings{Duenas2018,
@@ -6737,7 +6737,7 @@
   school = {The George Washington University},
   title  = {Using Predictive Analytics to Deliver an Improved IT Project Cost Performance Model},
   year   = {2020},
-  groups = {vig2018, forward_2, excluded_ec05_docs, excluded_phase_title},
+  groups = {vig2018, forward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @Article{Purushotham,
@@ -6907,7 +6907,7 @@
   title     = {Towards the adoption of DevOps in software product organizations: A Maturity Model Approach},
   year      = {2017},
   number    = {UU-CS-2017-009},
-  groups    = {khomh2012, forward_2, excluded_ec05_docs, excluded_phase_title},
+  groups    = {khomh2012, forward_2, excluded_ec05_docs, excluded_phase_title, exc_doc},
   journal   = {Technical Report Series},
   publisher = {UU BETA ICS Departement Informatica},
 }
@@ -7257,7 +7257,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {1545--1546},
-  groups       = {khomh2012, forward_2, excluded_ec04_cover, excluded_phase_title},
+  groups       = {khomh2012, forward_2, excluded_ec04_cover, excluded_phase_title, exc_cover_news},
 }
 
 @Book{Syer2013a,
@@ -7454,7 +7454,7 @@
   organization = {IEEE},
   pages        = {995--996},
   volume       = {2},
-  groups       = {khomh2012, forward_2, excluded_ec04_cover, excluded_phase_title},
+  groups       = {khomh2012, forward_2, excluded_ec04_cover, excluded_phase_title, exc_cover_news},
 }
 
 @InProceedings{Milosevic,
@@ -7741,7 +7741,7 @@
   author = {Hesse, Tom-Michael},
   title  = {Supporting software development by an integrated documentation model for decisions},
   year   = {2020},
-  groups = {souza2014, forward_2, khomh2012, excluded_ec05_docs, excluded_phase_title},
+  groups = {souza2014, forward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @Article{Cliff1993,
@@ -7898,7 +7898,7 @@
   title           = {Socorro: Mozilla’s crash reporting system},
   year            = {2011},
   citation-number = {12},
-  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, backward_1, khomh2015understanding, exc_cover_news},
   language        = {en},
   url             = {http://bit.ly/9A9zKP},
 }
@@ -7909,7 +7909,7 @@
   title           = {Sourcemonitor},
   year            = {2012},
   citation-number = {21},
-  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, backward_1, khomh2015understanding, exc_cover_news},
   language        = {en},
   url             = {http://bit.ly/9AKzN8},
 }
@@ -8069,7 +8069,7 @@
   author = {Sarabi, Armin},
   title  = {Quantifying Security: Methods, Challenges and Applications},
   year   = {2018},
-  groups = {forward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @Article{VanGogh,
@@ -8279,7 +8279,7 @@
   school = {Universit{\'e} de Paris},
   title  = {Challenges in the collaborative evolution of a proof language and its ecosystem},
   year   = {2019},
-  groups = {forward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs, khomh2012, forward_2, forward_3},
+  groups = {forward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs, khomh2012, forward_2, forward_3, exc_doc},
 }
 
 @Article{Bernardo2023,
@@ -8307,7 +8307,7 @@
   school = {Queen's University (Canada)},
   title  = {Leveraging the Social Knowledge of Software Systems to Improve the Development Process},
   year   = {2019},
-  groups = {forward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, daCosta2018impact, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @InProceedings{Liu2022a,
@@ -8693,7 +8693,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {397--398},
-  groups       = {forward_1, hemmati2015prioritizing, excluded_ec04_cover, excluded_phase_title, forward_3},
+  groups       = {forward_1, hemmati2015prioritizing, excluded_ec04_cover, excluded_phase_title, forward_3, exc_cover_news},
 }
 
 @InProceedings{Ammar2016,
@@ -8719,7 +8719,7 @@
   school = {M{\"a}lardalen University},
   title  = {Automated system level software testing of networked embedded systems},
   year   = {2018},
-  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @PhdThesis{Lachmann2017,
@@ -8727,7 +8727,7 @@
   school = {Technische Universit{\"a}t Carolo-Wilhelmina zu Braunschweig},
   title  = {Black-Box Test Case Selection and Prioritization for Software Variants and Versions},
   year   = {2017},
-  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @PhdThesis{Unterkalmsteiner2015,
@@ -8735,7 +8735,7 @@
   school = {Blekinge Tekniska H{\"o}gskola},
   title  = {Coordinating requirements engineering and software testing},
   year   = {2015},
-  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @Misc{Sathi2016,
@@ -8783,7 +8783,7 @@
   school = {Queen's University (Canada)},
   title  = {Automated Approaches for Reducing the Execution Time of Performance Tests},
   year   = {2017},
-  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @Article{Mathew2016,
@@ -8791,7 +8791,7 @@
   journal = {Submitted to IST. Available from tiny. cc/citemap},
   title   = {Trends in topics in software engineering conferences, 1992 to 2016},
   year    = {2016},
-  groups  = {forward_1, hemmati2015prioritizing, excluded_ec04_cover, excluded_phase_title, forward_3},
+  groups  = {forward_1, hemmati2015prioritizing, excluded_ec04_cover, excluded_phase_title, forward_3, exc_cover_news},
 }
 
 @Article{Abdelrazek2022,
@@ -9449,7 +9449,7 @@
   school = {Universit{\"a}t Passau},
   title  = {Activity of Core and Peripheral Developers: A Case Study on Mozilla Firefox},
   year   = {2017},
-  groups = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @PhdThesis{An2019,
@@ -9459,7 +9459,7 @@
   year      = {2019},
   month     = apr,
   abstract  = {L'ing\'enierie de production (release engineering) englobe toutes les activit\'es visant \`a \guillemotleft construire un pipeline qui transforme le code source en un produit int\'egr\'e, compil\'e, empaquet\'e, test\'e et sign\'e pr\^et \`a \^etre publier\guillemotright. La strat\'egie des production et les pratiques de publication peuvent avoir un impact sur la qualit\'e d'un produit logiciel. Bien que cet impact ait \'et\'e longuement discut\'e et \'etudi\'e dans la communaut\'e du g\'enie logiciel, il reste encore plusieurs probl\`emes \`a r\'esoudre. Cette th\`ese s'attaque \`a quelque-uns de ces probl\`emes non r\'esoulus de l'ing\'enierie de production en vue de proposer des solutions. En particulier, nous investigons : 1) pourquoi les activit\'es de r\'evision de code (code review) peuvent rater des erreurs de code susceptibles de causer des plantages (crashs); (2) comment pr\'evenir les bogues lors de l'approbation et l'int\'egration des patches urgents; 3) dans un \'ecosyst\`eme logiciel, comment att\'enuer le risque de bogues dus \`a des injections de DLL. Nous avons choisi d'\'etudier ces probl\`emes car ils correspondent \`a trois phases importantes des processus de production de logiciels, c'est-\`a-dire la r\'evision de code, les patches urgents, et la publication de logiciels dans un \'ecosyst\`eme. Les solutions \`a ces probl\`emes peuvent aider les entreprises de logiciels \`a am\'eliorer leur strat\'egie de production et de publication. Ce qui augmentera leur productivit\'e de d\'eveloppement et la qualit\'e g\'en\'erale de leurs produits logiciels.----------ABSTRACT: Release engineering encompasses all the activities aimed at ``building a pipeline that transforms source code into an integrated, compiled, packaged, tested, and signed product that is ready for release''. The strategy of the release processes and practices can impact the quality of a software artefact. Although such impact has been extensively discussed and studied in the software engineering community, there are still many pending issues to resolve. The goal of this thesis is to study and solve some of these pending issues. More specifically, we examine 1) why code review practices can miss crash-prone code; 2) how urgent patches (also called patch uplift) are approved to release and how to prevent regressions due to urgent patches; 3) in a software ecosystem, how to mitigate the risk of defects due to DLL injections. We chose to study these problems because they correspond to three important phases of software release processes, i.e., code review, patch uplift, and releasing software in an ecosystem. The solutions of these problems can help software organizations improve their release strategy; increasing their development productivity and the overall user-perceived quality of their products.},
-  groups    = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, daCosta2016impact, excluded_ec05_docs, excluded_phase_title, khomh2012, forward_2, forward_3},
+  groups    = {forward_01, p_Khomh2015_forward, forward_1, khomh2015understanding, daCosta2016impact, excluded_ec05_docs, excluded_phase_title, khomh2012, forward_2, forward_3, exc_doc},
   language  = {en},
   timestamp = {2020-10-29T21:16:32Z},
 }
@@ -9469,7 +9469,7 @@
   school    = {Queen's University (Canada)},
   title     = {Studying User-Developer Interactions Through the Updating and Reviewing Mechanisms of the Google Play Store},
   year      = {2018},
-  groups    = {khomh2012, forward_2, forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups    = {khomh2012, forward_2, forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
   publisher = {Diss},
 }
 
@@ -9547,7 +9547,7 @@
   year      = {2020},
   pages     = {106257},
   volume    = {121},
-  groups    = {forward_1, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, forward_3},
+  groups    = {forward_1, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, forward_3, exc_abstract},
   publisher = {Elsevier},
 }
 
@@ -9706,7 +9706,7 @@
   title     = {Portability of Process-Aware and Service-Oriented Software: Evidence and Metrics},
   year      = {2016},
   volume    = {23},
-  groups    = {forward_1, mantyla2013rapid, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups    = {forward_1, mantyla2013rapid, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @InProceedings{Varaprasad2013,
@@ -9762,7 +9762,7 @@
   author    = {Lehtonen, Timo},
   title     = {Metrics and Visualizations for Managing Value Creation in Continuous Software Engineering},
   year      = {2017},
-  groups    = {khomh2012, forward_2, forward_1, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups    = {khomh2012, forward_2, forward_1, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
   publisher = {Tampere University of Technology},
 }
 
@@ -9770,7 +9770,7 @@
   author    = {Costa, Daniel Alencar da},
   title     = {Understanding the delivery delay of addressed issues in large software projects},
   year      = {2017},
-  groups    = {forward_1, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups    = {forward_1, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
   publisher = {Brasil},
 }
 
@@ -9779,7 +9779,7 @@
   journal = {From roadmapping to continuous planning. VTT Science},
   title   = {Changing the planning for agile and lean software development},
   volume  = {132},
-  groups  = {lavoie2013, forward_2, khomh2012, forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups  = {lavoie2013, forward_2, khomh2012, forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @Article{Paunovic,
@@ -10114,7 +10114,7 @@
   year      = {2017},
   pages     = {263--291},
   volume    = {123},
-  groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3},
+  groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3, need_check},
   publisher = {Elsevier},
 }
 
@@ -10179,7 +10179,7 @@
   year      = {2017},
   pages     = {55--79},
   volume    = {82},
-  groups    = {forward_1, mantyla2015rapid, excluded_ec06_sist_review, excluded_phase_title, forward_3},
+  groups    = {forward_1, mantyla2015rapid, excluded_ec06_sist_review, excluded_phase_title, forward_3, need_check},
   publisher = {Elsevier},
 }
 
@@ -10605,7 +10605,7 @@
   author = {Virtanen, Tuukka},
   title  = {Literature review of test automation models in Agile testing},
   year   = {2018},
-  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @Article{Armstrong2021,
@@ -10647,7 +10647,7 @@
   school = {Queen's University (Canada)},
   title  = {Software Ecosystem Sustainability, a Socio-Technical Perspective},
   year   = {2022},
-  groups = {abou2019, forward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, mantyla2015rapid, forward_3},
+  groups = {abou2019, forward_2, khomh2012, excluded_ec05_docs, excluded_phase_title, mantyla2015rapid, forward_3, exc_doc},
 }
 
 @PhdThesis{Nurdiani2018a,
@@ -10655,7 +10655,7 @@
   school = {Blekinge Tekniska H{\"o}gskola},
   title  = {Introduction of Agile Practices: Strategies and Impacts},
   year   = {2018},
-  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @InProceedings{Suwa2017,
@@ -10700,7 +10700,7 @@
   school = {Universit{\'e} de Lille; Universite de Mons},
   title  = {Understanding the impact of release policies on software development processes},
   year   = {2021},
-  groups = {abou2019, forward_2, joshi2019, kula2019, khomh2012, excluded_ec05_docs, excluded_phase_title, clark2014moving, forward_3, daCosta2016impact, daCosta2018impact, khomh2015understanding, mantyla2013rapid, mantyla2015rapid},
+  groups = {abou2019, forward_2, joshi2019, kula2019, khomh2012, excluded_ec05_docs, excluded_phase_title, clark2014moving, forward_3, daCosta2016impact, daCosta2018impact, khomh2015understanding, mantyla2013rapid, mantyla2015rapid, exc_doc},
 }
 
 @InProceedings{Kula2018,
@@ -10716,7 +10716,7 @@
   author    = {Pulkkinen, Ville and others},
   title     = {Synthesizing Perceived Challenges in Continuous Delivery: A Systematic Literature Review},
   year      = {2016},
-  groups    = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups    = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
   publisher = {Helsingfors universitet},
 }
 
@@ -10755,7 +10755,7 @@
   author = {Shahin, Mojtaba},
   title  = {An empirical study of architecting and organizing for DevOps},
   year   = {2018},
-  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @InProceedings{Kaur2019,
@@ -10773,7 +10773,7 @@
   author    = {Nayebi, Maleknaz},
   title     = {Analytical Release Management for Mobile Apps},
   year      = {2018},
-  groups    = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, khomh2012, forward_2, forward_3},
+  groups    = {forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, khomh2012, forward_2, forward_3, exc_doc},
   publisher = {Graduate Studies},
 }
 
@@ -10781,7 +10781,7 @@
   author = {Mpofu, Bongeka},
   title  = {Software defect prediction using maximal information coefficient and fast correlation-based filter feature selection},
   year   = {2017},
-  groups = {forward_1, mantyla2015rapid, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups = {forward_1, mantyla2015rapid, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
 }
 
 @Article{Weber,
@@ -10800,7 +10800,7 @@
   author = {Pesola, Juuso},
   title  = {Implementing Continuous Integration in a Small Company: A Case Study},
   year   = {2016},
-  groups = {khomh2012, forward_2, forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3},
+  groups = {khomh2012, forward_2, forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @Article{Paasivaara,
@@ -10814,7 +10814,7 @@
   publisher = {Ecole Polytechnique, Montreal (Canada)},
   title     = {Mining Software Repositories for Release Engineers-Empirical Studies on Integration and Infrastructures-as-Code},
   year      = {2016},
-  groups    = {khomh2012, forward_2, forward_1, mantyla2015rapid, excluded_phase_title, excluded_ec05_docs, forward_3},
+  groups    = {khomh2012, forward_2, forward_1, mantyla2015rapid, excluded_phase_title, excluded_ec05_docs, forward_3, exc_doc},
   school    = {{\'E}cole Polytechnique de Montr{\'e}al},
 }
 
@@ -10988,7 +10988,7 @@
   number  = {1},
   pages   = {107--116},
   volume  = {6},
-  groups  = {forward_1, excluded_ec04_cover, excluded_phase_title, souza2015, forward_3},
+  groups  = {forward_1, excluded_ec04_cover, excluded_phase_title, souza2015, forward_3, exc_cover_news},
 }
 
 @Article{Souza2015b,
@@ -11004,7 +11004,7 @@
   author    = {Laukkanen, Eero and others},
   title     = {Adoption problems of modern release engineering practices},
   year      = {2017},
-  groups    = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
+  groups    = {mantyla2015rapid, forward_3, forward_1, excluded_ec05_docs, excluded_phase_title, exc_doc},
   publisher = {Aalto University},
 }
 
@@ -11080,7 +11080,7 @@
   author    = {Wikstr{\"o}m, Axel and others},
   title     = {Benefits and challenges of continuous integration and delivery: A case study},
   year      = {2019},
-  groups    = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
+  groups    = {mantyla2015rapid, forward_3, forward_1, excluded_ec05_docs, excluded_phase_title, exc_doc},
   publisher = {Helsingin yliopisto},
 }
 
@@ -11100,7 +11100,7 @@
   school = {Walden University},
   title  = {Examination of Adoption Theory on the DevOps Practice of Continuous Delivery},
   year   = {2019},
-  groups = {souza2015, forward_3, forward_1, excluded_ec05_docs, excluded_phase_title, souza2015},
+  groups = {souza2015, forward_3, forward_1, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @Book{Huang2018,
@@ -11108,7 +11108,7 @@
   publisher = {University of Toronto (Canada)},
   title     = {Fixing Software Vulnerabilities and Configuration Errors},
   year      = {2018},
-  groups    = {clark2014moving, forward_3, forward_1, clark2014moving, excluded_phase_title, excluded_ec05_docs},
+  groups    = {clark2014moving, forward_3, forward_1, excluded_phase_title, excluded_ec05_docs, exc_doc},
 }
 
 @PhdThesis{Lin2019,
@@ -11122,7 +11122,7 @@
   annote     = {Accepted: 2019-01-17T18:33:21Z},
   copyright  = {Queen's University's Thesis/Dissertation Non-Exclusive License for Deposit to QSpace and Library and Archives Canada},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\D2522ERT\\Lin - 2019 - How Can Game Developers Leverage Data from Online .pdf:application/pdf},
-  groups     = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, daCosta2016impact, mantyla2013rapid, excluded_phase_title, excluded_ec05_docs, khomh2012, forward_2, souza2015, daCosta2016impact, forward_3, khomh2015understanding, mantyla2013rapid, souza2015},
+  groups     = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, daCosta2016impact, mantyla2013rapid, excluded_phase_title, excluded_ec05_docs, khomh2012, forward_2, souza2015, forward_3, exc_doc},
   language   = {eng},
   shorttitle = {How {{Can Game Developers Leverage Data}} from {{Online Distribution Platforms}}?},
   timestamp  = {2020-10-29T21:20:41Z},
@@ -11186,7 +11186,7 @@
   author = {St{\aa}hl, Daniel Bertil},
   title  = {Large scale continuous integration and delivery},
   year   = {2017},
-  groups = {mantyla2013rapid, forward_3, forward_1, mantyla2013rapid, excluded_ec05_docs, excluded_phase_title},
+  groups = {mantyla2013rapid, forward_3, forward_1, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @Misc{Gustafsson2019,
@@ -11296,7 +11296,7 @@
   school    = {University of Antwerp},
   title     = {Optimising and assessing the effectiveness of spectrum based fault localisation},
   year      = {2018},
-  groups    = {khomh2015understanding, forward_3, forward_01, excluded_title, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_phase_title, excluded_ec05_docs},
+  groups    = {khomh2015understanding, forward_3, forward_01, excluded_title, p_Khomh2015_forward, forward_1, excluded_phase_title, excluded_ec05_docs, exc_doc},
   publisher = {Diss},
 }
 
@@ -11343,7 +11343,7 @@
   annote    = {Accepted: 2016-12-02T18:19:44Z},
   copyright = {Available to the World Wide Web},
   file      = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\7XAPABBI\\Poo-Caamaño - 2016 - Release management in free and open source softwar.pdf:application/pdf},
-  groups    = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, khomh2015understanding, forward_3},
+  groups    = {forward_01, excluded_doubt, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
   language  = {en},
   timestamp = {2020-10-29T20:58:39Z},
 }
@@ -11357,7 +11357,7 @@
   volume          = {86},
   booktitle       = {Information and Software Technology (86), Elsevier B.V},
   citation-number = {2},
-  groups          = {joshi2019, backward_2, forward_1, mantyla2015rapid, hemmati2015prioritizing, khomh2015understanding, clark2014moving, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, luo2019, souza2014, forward_2, khomh2012, souza2015, clark2014moving, forward_3, hemmati2015prioritizing, khomh2015understanding, mantyla2013rapid, mantyla2015rapid, souza2015},
+  groups          = {joshi2019, backward_2, forward_1, mantyla2015rapid, hemmati2015prioritizing, khomh2015understanding, clark2014moving, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, luo2019, souza2014, forward_2, khomh2012, souza2015, forward_3, need_check},
   language        = {en},
   publisher       = {Elsevier},
 }
@@ -11386,14 +11386,14 @@
   author = {Lindstr{\"o}m, Gustav},
   title  = {The Challenges of adopting DevOps},
   year   = {2019},
-  groups = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec05_docs, excluded_phase_title},
+  groups = {mantyla2015rapid, forward_3, forward_1, excluded_ec05_docs, excluded_phase_title, exc_doc},
 }
 
 @MastersThesis{guo2019impact,
   author = {GUO, YUNFANG},
   title  = {The Impact of Adopting Continuous Integration on the Delivery Time of Pull Requests: A Partial Replication and Extension},
   year   = {2019},
-  groups = {forward_1, daCosta2016impact, excluded_ec05_docs, excluded_phase_title, daCosta2016impact, forward_3},
+  groups = {forward_1, daCosta2016impact, excluded_ec05_docs, excluded_phase_title, forward_3, exc_doc},
 }
 
 @Article{Costa,
@@ -11575,10 +11575,12 @@
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:exc\;2\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_abstract\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_abstract\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_cover_news\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_doc\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_intro\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_language\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_language\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_unavailable\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
