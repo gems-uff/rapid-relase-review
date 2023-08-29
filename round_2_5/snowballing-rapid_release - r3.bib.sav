@@ -8316,7 +8316,7 @@
   title     = {Guided bug crush: Assist manual GUI testing of Android apps via hint moves},
   year      = {2022},
   pages     = {1--14},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Haas2021,
@@ -8325,7 +8325,7 @@
   title     = {How can manual testing processes be optimized? developer survey, optimization guidelines, and case studies},
   year      = {2021},
   pages     = {1281--1291},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Waqar2022,
@@ -8336,7 +8336,7 @@
   number    = {13},
   pages     = {6772},
   volume    = {12},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {MDPI},
 }
 
@@ -8346,7 +8346,7 @@
   title     = {Using natural language processing techniques to improve manual test case descriptions},
   year      = {2022},
   pages     = {311--320},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Mondal2021,
@@ -8356,7 +8356,7 @@
   year      = {2021},
   pages     = {110850},
   volume    = {172},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8367,7 +8367,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {146--157},
-  groups       = {hemmati2015prioritizing, forward_3},
+  groups       = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Markiegi2021,
@@ -8378,7 +8378,7 @@
   number    = {4},
   pages     = {943--988},
   volume    = {29},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8389,7 +8389,7 @@
   year      = {2021},
   pages     = {106498},
   volume    = {132},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8400,7 +8400,7 @@
   year      = {2022},
   pages     = {111391},
   volume    = {192},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8412,7 +8412,7 @@
   number    = {2},
   pages     = {50},
   volume    = {29},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8421,7 +8421,7 @@
   journal   = {IEEE Transactions on Software Engineering},
   title     = {Black-box testing of deep neural networks through test case diversity},
   year      = {2023},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -8433,7 +8433,7 @@
   number    = {24},
   pages     = {22435--22447},
   volume    = {34},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8445,7 +8445,7 @@
   number    = {1},
   pages     = {15988},
   volume    = {12},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Nature Publishing Group UK London},
 }
 
@@ -8454,7 +8454,7 @@
   publisher = {Malardalen University (Sweden)},
   title     = {Automated system-level software testing of industrial networked embedded systems},
   year      = {2021},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Aghababaeyan2023a,
@@ -8462,7 +8462,7 @@
   journal = {arXiv preprint arXiv:2303.04878},
   title   = {DeepGD: A Multi-Objective Black-Box Test Selection Approach for Deep Neural Networks},
   year    = {2023},
-  groups  = {hemmati2015prioritizing, forward_3},
+  groups  = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{李英玲2018,
@@ -8473,7 +8473,7 @@
   number  = {10},
   pages   = {3021--3050},
   volume  = {29},
-  groups  = {hemmati2015prioritizing, forward_3},
+  groups  = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Yu2022,
@@ -8483,7 +8483,7 @@
   year      = {2022},
   pages     = {116958},
   volume    = {200},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8494,7 +8494,7 @@
   year         = {2023},
   organization = {IEEE},
   pages        = {168--178},
-  groups       = {hemmati2015prioritizing, forward_3},
+  groups       = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Wuersching2023,
@@ -8504,7 +8504,7 @@
   year         = {2023},
   organization = {IEEE},
   pages        = {398--409},
-  groups       = {hemmati2015prioritizing, forward_3},
+  groups       = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Sharma2023,
@@ -8514,7 +8514,7 @@
   year    = {2023},
   number  = {2},
   volume  = {6},
-  groups  = {hemmati2015prioritizing, forward_3},
+  groups  = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Yao2022,
@@ -8522,14 +8522,14 @@
   school = {Manchester Metropolitan University},
   title  = {Automatic GUI Code Generation with Deep Learning},
   year   = {2022},
-  groups = {hemmati2015prioritizing, forward_3},
+  groups = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Khojah2020,
   author = {Khojah, Ranim and Hong Chao, Chi},
   title  = {Evaluating the Trade-offs of Diversity-Based Test Prioritization: An Experiment},
   year   = {2020},
-  groups = {hemmati2015prioritizing, forward_3},
+  groups = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Azizi2021a,
@@ -8539,7 +8539,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {254--262},
-  groups       = {hemmati2015prioritizing, forward_3},
+  groups       = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Doboli2001,
@@ -8548,14 +8548,14 @@
   title     = {Integrated high-level synthesis and power-net routing for digital design under switching noise constraints},
   year      = {2001},
   pages     = {629--634},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{IbiasMartinez2022,
   author    = {Ibias Mart{\'\i}nez, Alfredo},
   title     = {Applications of information theory and artificial intelligence to software testing},
   year      = {2022},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec03_unavailable, excluded_phase_title},
   publisher = {Universidad Complutense de Madrid},
 }
 
@@ -8564,7 +8564,7 @@
   school = {INDIAN INSTITUTE OF TECHNOLOGY MADRAS},
   title  = {SOFTWARE REGRESSION TESTING POWERED BY PARALLELIZATION WINDOWS},
   year   = {2021},
-  groups = {hemmati2015prioritizing, forward_3},
+  groups = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Book{Yu2020,
@@ -8572,7 +8572,7 @@
   publisher = {North Carolina State University},
   title     = {Total Recall and Software Engineering},
   year      = {2020},
-  groups    = {hemmati2015prioritizing, forward_3},
+  groups    = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Koh2017,
@@ -8580,7 +8580,7 @@
   journal = {Available at SSRN 4340958},
   title   = {Species Diversity-Based Multi-Coverage Test Case Prioritization Technique to Improve Faults Detection Rate},
   year    = {2017},
-  groups  = {hemmati2015prioritizing, forward_3},
+  groups  = {hemmati2015prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Bertolino2020,
@@ -8800,7 +8800,7 @@
   title     = {Topic modeling algorithms and applications: A survey},
   year      = {2022},
   pages     = {102131},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8811,7 +8811,7 @@
   year      = {2021},
   pages     = {106574},
   volume    = {136},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -8821,7 +8821,7 @@
   title     = {Comparative study of machine learning test case prioritization for continuous integration testing},
   year      = {2023},
   pages     = {1--24},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8831,7 +8831,7 @@
   title     = {Automatically identifying shared root causes of test breakages in SAP HANA},
   year      = {2022},
   pages     = {65--74},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Tan2023,
@@ -8839,7 +8839,7 @@
   journal   = {IEEE Transactions on Software Engineering},
   title     = {STRE: An Automated Approach to Suggesting App Developers When to Stop Reading Reviews},
   year      = {2023},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -8848,7 +8848,7 @@
   journal   = {IEEE Access},
   title     = {Application of the law of minimum and dissimilarity analysis to Regression Test Case Prioritization},
   year      = {2023},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -8860,7 +8860,7 @@
   number    = {6},
   pages     = {421},
   volume    = {2},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -8871,7 +8871,7 @@
   year         = {2023},
   organization = {IEEE},
   pages        = {438--449},
-  groups       = {hemmati2017prioritizing, forward_3},
+  groups       = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Nguyen2021a,
@@ -8881,7 +8881,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {1--8},
-  groups       = {hemmati2017prioritizing, forward_3},
+  groups       = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Dong2018,
@@ -8891,7 +8891,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {286--290},
-  groups       = {hemmati2017prioritizing, forward_3},
+  groups       = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Cao2021,
@@ -8901,7 +8901,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {231--242},
-  groups       = {hemmati2017prioritizing, forward_3},
+  groups       = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Konreddy,
@@ -8909,7 +8909,7 @@
   journal = {Journal of University of Shanghai for Science and Technology, ISSN},
   title   = {The Impact of NLP on Software Testing},
   pages   = {1007--6735},
-  groups  = {hemmati2017prioritizing, forward_3},
+  groups  = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Cao2022,
@@ -8918,7 +8918,7 @@
   title     = {Ensemble approaches for Test Case Prioritization in UI testing.},
   year      = {2022},
   pages     = {231--236},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @MastersThesis{Stoelen2021,
@@ -8926,7 +8926,7 @@
   school = {OsloMet-storbyuniversitetet},
   title  = {The CAST-algorithm bridging green energy with continuous testing.},
   year   = {2021},
-  groups = {hemmati2017prioritizing, forward_3},
+  groups = {hemmati2017prioritizing, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @MastersThesis{Lindgren2020,
@@ -8934,14 +8934,14 @@
   title  = {Ohjelmistotestauksen automatisointi ja parhaat k{\"a}yt{\"a}nn{\"o}t},
   year   = {2020},
   type   = {{B.S.} thesis},
-  groups = {hemmati2017prioritizing, forward_3},
+  groups = {hemmati2017prioritizing, forward_3, excluded_ec02_language, excluded_phase_title},
 }
 
 @Article{Bλαχάβας2019,
   author    = {B$\lambda$$\alpha$$\chi$$\acute{\alpha}$$\beta$$\alpha$$\varsigma$, $\Gamma$$\varepsilon$$\acute{\omega}$$\rho$$\gamma$$\iota$o$\varsigma$},
   title     = {$\Pi$$\rho$o$\tau$$\varepsilon$$\rho$$\alpha$$\iota$o$\pi$o$\acute{\iota}$$\eta$$\sigma$$\eta$ $\pi$$\varepsilon$$\rho$$\iota$$\pi$$\tau$$\acute{\omega}$$\sigma$$\varepsilon$$\omega$$\nu$ $\varepsilon$$\lambda$$\acute{\varepsilon}$$\gamma$$\chi$o$\upsilon$ $\sigma$$\varepsilon$ $\sigma$$\upsilon$$\sigma$$\tau$$\acute{\eta}$$\mu$$\alpha$$\tau$$\alpha$ $\lambda$o$\gamma$$\iota$$\sigma$$\mu$$\iota$$\kappa$o$\acute{\nu}$},
   year      = {2019},
-  groups    = {hemmati2017prioritizing, forward_3},
+  groups    = {hemmati2017prioritizing, forward_3, excluded_ec02_language, excluded_phase_title},
   publisher = {$\Pi$$\alpha$$\nu$$\varepsilon$$\pi$$\iota$$\sigma$$\tau$$\acute{\eta}$$\mu$$\iota$o M$\alpha$$\kappa$$\varepsilon$$\delta$o$\nu$$\acute{\iota}$$\alpha$$\varsigma$},
 }
 
@@ -9052,14 +9052,14 @@
   school = {Link{\"o}ping University Electronic Press},
   title  = {Contributions to Improving Feedback and Trust in Automated Testing and Continuous Integration and Delivery},
   year   = {2022},
-  groups = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing},
+  groups = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
-@Article{ViggiatoDeAlmeida2023,
+@PhdThesis{ViggiatoDeAlmeida2023,
   author = {Viggiato De Almeida, Markos},
   title  = {Leveraging Natural Language Processing Techniques to Improve Manual Game Testing},
   year   = {2023},
-  groups = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing},
+  groups = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Hajri2016,
@@ -9075,7 +9075,7 @@
   author    = {Sharifi, Fatemeh},
   title     = {Leveraging Feature Exploitation to Automate Practical Machine Learning with Text, Image and Tabular Data},
   year      = {2021},
-  groups    = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing},
+  groups    = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing, rjc_doc, excluded_ec05_docs, excluded_phase_title},
   publisher = {Schulich School of Engineering},
 }
 
@@ -9094,7 +9094,7 @@
   year         = {2020},
   organization = {IEEE},
   pages        = {104--114},
-  groups       = {khomh2015understanding, forward_3},
+  groups       = {khomh2015understanding, forward_3, need_check},
 }
 
 @Article{Bock2021,
@@ -9105,7 +9105,7 @@
   number    = {2},
   pages     = {1--50},
   volume    = {31},
-  groups    = {khomh2015understanding, forward_3},
+  groups    = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {ACM New York, NY},
 }
 
@@ -9116,7 +9116,7 @@
   year         = {2020},
   organization = {IEEE},
   pages        = {76--81},
-  groups       = {khomh2015understanding, forward_3},
+  groups       = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{VenturaMolina2020,
@@ -9127,7 +9127,7 @@
   number    = {11},
   pages     = {2002},
   volume    = {8},
-  groups    = {khomh2015understanding, forward_3},
+  groups    = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {MDPI},
 }
 
@@ -9137,7 +9137,7 @@
   title     = {AC$^2$: towards understanding architectural changes in Python projects},
   year      = {2021},
   pages     = {1555--1559},
-  groups    = {khomh2015understanding, forward_3},
+  groups    = {khomh2015understanding, forward_3, need_check},
 }
 
 @InProceedings{Souza2022,
@@ -9146,7 +9146,7 @@
   title     = {A characterization study of testing contributors and their contributions in open source projects.},
   year      = {2022},
   pages     = {95--105},
-  groups    = {khomh2015understanding, forward_3},
+  groups    = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Moreno2023,
@@ -9157,7 +9157,7 @@
   number  = {2},
   pages   = {e107763--e107763},
   volume  = {41},
-  groups  = {khomh2015understanding, forward_3},
+  groups  = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InCollection{Agarwal2022,
@@ -9167,7 +9167,7 @@
   title     = {Measuring the Bytecode Quality of Object-Oriented Software},
   year      = {2022},
   pages     = {45--52},
-  groups    = {khomh2015understanding, forward_3},
+  groups    = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Ali2020a,
@@ -9177,7 +9177,7 @@
   year         = {2020},
   organization = {IEEE},
   pages        = {1--5},
-  groups       = {khomh2015understanding, forward_3},
+  groups       = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Abdellatif2021,
@@ -9185,7 +9185,7 @@
   school = {Concordia University},
   title  = {Towards Understanding and Improving the Value of Chatbots in Software Engineering},
   year   = {2021},
-  groups = {khomh2015understanding, forward_3},
+  groups = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Rao2020,
@@ -9193,14 +9193,14 @@
   journal = {arXiv preprint arXiv:2012.11348},
   title   = {AC2--Towards Understanding Architectural Changes in Rapid Releases},
   year    = {2020},
-  groups  = {khomh2015understanding, forward_3},
+  groups  = {khomh2015understanding, forward_3, need_check},
 }
 
 @Article{Kubinyi2022,
   author = {Kubinyi, Iv{\'a}n and others},
   title  = {Building an effective CI/CD pipeline for a content management system},
   year   = {2022},
-  groups = {khomh2015understanding, forward_3},
+  groups = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Chennappan2017,
@@ -9210,7 +9210,7 @@
   year    = {2017},
   number  = {8},
   volume  = {8},
-  groups  = {khomh2015understanding, forward_3},
+  groups  = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{山下一寛2017,
@@ -9218,7 +9218,7 @@
   school = {九州大学},
   title  = {A Study on Sustainability of Open Source Software Projects},
   year   = {2017},
-  groups = {khomh2015understanding, forward_3},
+  groups = {khomh2015understanding, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Lin2017a,
@@ -9226,7 +9226,7 @@
   school = {National Central University},
   title  = {結合本體論與模糊分析網路程序法於軟體測試之風險與風險關聯辨識},
   year   = {2017},
-  groups = {khomh2015understanding, forward_3},
+  groups = {khomh2015understanding, forward_3, excluded_ec02_language, excluded_phase_title},
 }
 
 @InProceedings{Kamei2016,
@@ -9479,7 +9479,7 @@
   title     = {Improving traceability recovery between bug reports and manual test cases},
   year      = {2020},
   pages     = {293--302},
-  groups    = {mantyla2013rapid, forward_3},
+  groups    = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Fang2022a,
@@ -9489,7 +9489,7 @@
   year         = {2022},
   organization = {Association for Information Systems. AIS Electronic Library (AISeL)},
   pages        = {233},
-  groups       = {mantyla2013rapid, forward_3},
+  groups       = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @MastersThesis{Lin2023a,
@@ -9497,14 +9497,14 @@
   school = {University of Waterloo},
   title  = {FlaKat: A Machine Learning-Based Categorization Framework for Flaky Tests},
   year   = {2023},
-  groups = {mantyla2013rapid, forward_3},
+  groups = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Misc{Edin2022,
   author = {Edin, Anton and Qorbanzada, Mariam},
   title  = {An Ambidextrous Approach to User Acceptance Testing Management and Automation: How software customers can optimize their processes to explore new technology as well as current performance to improve the effectiveness of user acceptance testing},
   year   = {2022},
-  groups = {mantyla2013rapid, forward_3},
+  groups = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Tantithamthavorn2016,
@@ -9512,7 +9512,7 @@
   journal   = {(No Title)},
   title     = {Towards a Better Understanding of the Impact of Experimental Components on Defect Prediction Models},
   year      = {2016},
-  groups    = {mantyla2013rapid, forward_3},
+  groups    = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {奈良先端科学技術大学院大学},
 }
 
@@ -9521,7 +9521,7 @@
   school = {Master’s thesis. Concordia University. https://spectrum. library. concordia~…},
   title  = {Quantifying Flaky Tests to Detect Test Instabilities},
   year   = {2019},
-  groups = {mantyla2013rapid, forward_3},
+  groups = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Gao2007,
@@ -9531,13 +9531,13 @@
   year         = {2007},
   organization = {IEEE},
   pages        = {566--567},
-  groups       = {mantyla2013rapid, forward_3},
+  groups       = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Ruohonen,
   author = {Ruohonen, Jukka},
   title  = {ESSAYS ON SOFTWARE VULNERABILITY COORDINATION},
-  groups = {mantyla2013rapid, forward_3},
+  groups = {mantyla2013rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Kuutila2020,
@@ -9577,7 +9577,7 @@
   number    = {6},
   pages     = {1834--1852},
   volume    = {48},
-  groups    = {khomh2015understanding, forward_3, mantyla2013rapid},
+  groups    = {khomh2015understanding, forward_3, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -9812,7 +9812,7 @@
   number    = {12},
   pages     = {5087--5101},
   volume    = {48},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -9824,7 +9824,7 @@
   number    = {3},
   pages     = {193--211},
   volume    = {23},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -9835,7 +9835,7 @@
   year      = {2016},
   pages     = {162--183},
   volume    = {119},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -9846,7 +9846,7 @@
   year      = {2021},
   pages     = {106620},
   volume    = {139},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -9856,7 +9856,7 @@
   title     = {Business process modeling language selection for research modelers},
   year      = {2023},
   pages     = {1--26},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -9866,7 +9866,7 @@
   title     = {Understanding DevOps critical success factors and organizational practices},
   year      = {2022},
   pages     = {83--90},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Hoyos2021,
@@ -9876,18 +9876,7 @@
   year      = {2021},
   pages     = {1--26},
   volume    = {26},
-  groups    = {mantyla2015rapid, forward_3},
-  publisher = {Springer},
-}
-
-@Article{Pecorelli2021,
-  author    = {Pecorelli, Fabiano and Palomba, Fabio and De Lucia, Andrea},
-  journal   = {Empirical Software Engineering},
-  title     = {The relation of test-related factors to software quality: a case study on apache systems},
-  year      = {2021},
-  pages     = {1--42},
-  volume    = {26},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -9899,7 +9888,7 @@
   number    = {12},
   pages     = {5102--5119},
   volume    = {48},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {IEEE},
 }
 
@@ -9911,7 +9900,7 @@
   number    = {5},
   pages     = {89},
   volume    = {26},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -9923,7 +9912,7 @@
   number    = {03},
   pages     = {2240010},
   volume    = {26},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {World Scientific},
 }
 
@@ -9934,7 +9923,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {934--941},
-  groups       = {mantyla2015rapid, forward_3},
+  groups       = {mantyla2015rapid, forward_3, need_check},
 }
 
 @Article{Zhang2022,
@@ -9944,7 +9933,7 @@
   year      = {2022},
   pages     = {111419},
   volume    = {192},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Elsevier},
 }
 
@@ -9954,7 +9943,7 @@
   title     = {Nature-inspired metaheuristic methods in software testing},
   year      = {2023},
   pages     = {1--42},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -9966,7 +9955,7 @@
   number    = {1},
   pages     = {1--22},
   volume    = {27},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {Springer},
 }
 
@@ -9975,14 +9964,14 @@
   journal = {arXiv preprint arXiv:2108.09571},
   title   = {Towards a Theory on Architecting for Continuous Deployment},
   year    = {2021},
-  groups  = {mantyla2015rapid, forward_3},
+  groups  = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @MastersThesis{Rejstroem2016,
   author = {Rejstr{\"o}m, Kim and others},
   title  = {Implementing continuous integration in a small company: A case study},
   year   = {2016},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Book{Rangappa2020,
@@ -9990,18 +9979,7 @@
   publisher = {McGill University (Canada)},
   title     = {Analysis Tool as a Service: A Cloud-based Microservices Architecture for the Design and Analysis of Aero-derivative Gas Turbines},
   year      = {2020},
-  groups    = {mantyla2015rapid, forward_3},
-}
-
-@Article{Fabiano2021,
-  author    = {Fabiano, Pecorelli and Fabio, Palomba and De, Lucia Andrea},
-  journal   = {Empirical Software Engineering},
-  title     = {The Relation of Test-Related Factors to Software Quality: A Case Study on Apache Systems},
-  year      = {2021},
-  number    = {2},
-  volume    = {26},
-  groups    = {mantyla2015rapid, forward_3},
-  publisher = {Springer Nature BV},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Luo2022,
@@ -10009,7 +9987,7 @@
   journal = {arXiv preprint arXiv:2203.15396},
   title   = {Towards Maintainable Platform Software--Delivery Cost Control in Continuous Software Development},
   year    = {2022},
-  groups  = {mantyla2015rapid, forward_3},
+  groups  = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{Tran2022,
@@ -10017,21 +9995,21 @@
   school = {Blekinge Tekniska H{\"o}gskola},
   title  = {Understanding Test-Artifact Quality in Software Engineering},
   year   = {2022},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @PhdThesis{MerinoAguilera2022,
   author = {Merino Aguilera, Xavier Jesus},
   title  = {Towards Orchestration in the Cloud-Fog Continuum},
   year   = {2022},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Misc{Aarnio2022,
   author = {Aarnio, Linus},
   title  = {Confidence in Release Candidates: Maintaining confidence levels when moving from traditional release management to continuous delivery},
   year   = {2022},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, Others, selected},
 }
 
 @Book{Chandrasekaran2022,
@@ -10039,21 +10017,21 @@
   publisher = {North Carolina State University},
   title     = {Taming Confusions in Software Engineering},
   year      = {2022},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Zaib2021,
   author = {Zaib, Shah and Lakshmisetty, Pavan Kumar},
   title  = {A systematical literature review and industrial survey in addressing the possible impacts with the continuous testing and delivery during DevOps transformation.},
   year   = {2021},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Karvonen2017b,
   author    = {Karvonen, Teemu},
   title     = {Continuous software engineering in the development of software-intensive products: towards a reference model for continuous software engineering},
   year      = {2017},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {University of Oulu},
 }
 
@@ -10071,14 +10049,14 @@
   title   = {A literature review of ERP system, challenges and opportunities of ERP implementation on organization},
   year    = {2023},
   pages   = {35--44},
-  groups  = {mantyla2015rapid, forward_3},
+  groups  = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Miranda2018a,
   author = {Miranda, Breno and Verdecchia, R and Cruciani, Emilio and Bertolino, Antonia},
   title  = {VU Research Portal},
   year   = {2018},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @InProceedings{Behutiye2017,
@@ -10089,25 +10067,19 @@
   organization = {Springer},
   pages        = {111},
   volume       = {10651},
-  groups       = {mantyla2015rapid, forward_3},
-}
-
-@Article{Beneits,
-  author = {Beneits, Huge},
-  title  = {Continuous Delivery},
-  groups = {mantyla2015rapid, forward_3},
+  groups       = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Room,
   author = {Room, Chat},
   title  = {Continuous Delivery},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec03_unavailable, excluded_phase_title},
 }
 
 @Article{Ильин,
   author = {Ильин, Дмитрий Юрьевич and Никульчев, ЕВ},
   title  = {МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec02_language, excluded_phase_title},
 }
 
 @MastersThesis{Паріс2020,
@@ -10115,13 +10087,13 @@
   school = {КПІ ім. Ігоря Сікорського},
   title  = {Автоматизований інструментарій розгортання хмарних сервісів},
   year   = {2020},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec02_language, excluded_phase_title},
 }
 
 @Article{Elegado,
   author = {Elegado, Angel Nica T},
   title  = {Adaptive Web Application Testing on Web-based Platforms: A Review of Related Literature},
-  groups = {mantyla2015rapid, forward_3},
+  groups = {mantyla2015rapid, forward_3, excluded_ec03_unavailable, excluded_phase_title},
 }
 
 @Article{Shahin2017,
@@ -10144,18 +10116,6 @@
   volume    = {123},
   groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3},
   publisher = {Elsevier},
-}
-
-@Article{Chen2015,
-  author    = {Chen, Lianping},
-  journal   = {IEEE Software},
-  title     = {Continuous delivery: Huge benefits, but challenges too},
-  year      = {2015},
-  number    = {2},
-  pages     = {50--54},
-  volume    = {32},
-  groups    = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text, forward_3},
-  publisher = {IEEE},
 }
 
 @Article{Lwakatare2019,
@@ -10619,14 +10579,14 @@
   year         = {2022},
   organization = {IEEE},
   pages        = {249--258},
-  groups       = {hemmati2015prioritizing, forward_3, khomh2015understanding, mantyla2013rapid, mantyla2015rapid},
+  groups       = {hemmati2015prioritizing, forward_3, khomh2015understanding, mantyla2013rapid, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
-@Article{Behutiye2022,
+@MastersThesis{Behutiye2022,
   author    = {Behutiye, Woubshet},
   title     = {Toward a better understanding and support of quality requirement documentation in agile software development},
   year      = {2022},
-  groups    = {mantyla2013rapid, forward_3, mantyla2015rapid},
+  groups    = {mantyla2013rapid, forward_3, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {University of Oulu},
 }
 
@@ -10679,7 +10639,7 @@
   school = {Universidad Nacional de La Plata},
   title  = {Modelo de mejora para pruebas continuas},
   year   = {2021},
-  groups = {hemmati2015prioritizing, forward_3, mantyla2015rapid},
+  groups = {hemmati2015prioritizing, forward_3, mantyla2015rapid, excluded_ec02_language, excluded_phase_title},
 }
 
 @PhdThesis{Foundjem2022,
@@ -11101,7 +11061,7 @@
   year      = {2022},
   pages     = {1--13},
   booktitle = {Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
 }
 
 @Article{Hajri2020,
@@ -11196,7 +11156,7 @@
   school    = {University of Alberta},
   title     = {Identifying Similar Test Cases That Are Specified in Natural Language},
   year      = {2022},
-  groups    = {hemmati2015prioritizing, forward_3, hemmati2015prioritizing, forward_3, hemmati2017prioritizing},
+  groups    = {hemmati2015prioritizing, forward_3, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_abstract},
   journal   = {IEEE Transactions on Software Engineering},
   number    = {3},
   pages     = {1027--1043},
@@ -11410,7 +11370,7 @@
   number    = {4},
   pages     = {308},
   volume    = {9},
-  groups    = {mantyla2015rapid, forward_3},
+  groups    = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
   publisher = {MDPI},
 }
 
@@ -11586,25 +11546,49 @@
   organization = {IEEE},
 }
 
+@Article{Chen2015,
+  author    = {Chen, Lianping},
+  journal   = {IEEE Software},
+  title     = {Continuous delivery: Huge benefits, but challenges too},
+  year      = {2015},
+  number    = {2},
+  pages     = {50--54},
+  volume    = {32},
+  groups    = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_text, forward_3},
+  publisher = {IEEE},
+}
+
+@Article{Fabiano2021,
+  author    = {Fabiano, Pecorelli and Fabio, Palomba and De, Lucia Andrea},
+  journal   = {Empirical Software Engineering},
+  title     = {The Relation of Test-Related Factors to Software Quality: A Case Study on Apache Systems},
+  year      = {2021},
+  number    = {2},
+  pages     = {1--42},
+  volume    = {26},
+  groups    = {mantyla2015rapid, forward_3, mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_abstract},
+  publisher = {Springer Nature BV},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec01_unrelated\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec03_unavailable\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec05_docs\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec05_docs\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec06_sist_review\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
 3 StaticGroup:excluded_phase_abstract\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_intro\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_title\;0\;0\;0xff0000ff\;\;\;;
-1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
+3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
+1 StaticGroup:need_check\;0\;1\;0xffff00ff\;\;\;;
 1 StaticGroup:paper\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:abou2019\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:claes2017\;0\;1\;0x8a8a8aff\;\;\;;
@@ -11632,12 +11616,13 @@
 2 StaticGroup:processed_backward\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:processed_forward\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Recorded\;0\;1\;0x001a80ff\;\;\;;
+1 StaticGroup:rjc_doc\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:selected\;2\;1\;0x008000ff\;\;\;;
 2 StaticGroup:Dataset\;0\;0\;0x99cc99ff\;\;\;;
 2 StaticGroup:Firefox\;0\;1\;0x008000ff\;\;\;;
 2 StaticGroup:Other reports\;0\;0\;0x99cc99ff\;\;\;;
 2 StaticGroup:Other Studies\;0\;0\;0x99cc99ff\;\;\;;
-2 StaticGroup:Others\;0\;0\;0x99cc99ff\;\;\;;
+2 StaticGroup:Others\;0\;1\;0x99cc99ff\;\;\;;
 1 StaticGroup:step\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:backward\;2\;1\;0x8a8a8aff\;\;\;;
 3 StaticGroup:backward_1\;2\;1\;0x8a8a8aff\;\;\;;
