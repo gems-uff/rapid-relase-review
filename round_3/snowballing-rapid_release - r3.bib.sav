@@ -4091,9 +4091,9 @@
 @Misc{,
   title           = {Eclipse transition to smaller release cycles},
   citation-number = {44},
-  groups          = {abou2019, backward_2, need_check},
+  groups          = {abou2019, backward_2, , exc_cover_news},
   language        = {fr},
-  url             = {https:},
+  url             = {https://www.eclipse.org/lists/eclipse.org-planning-council},
 }
 
 @Misc{,
@@ -9137,7 +9137,7 @@
   title     = {AC$^2$: towards understanding architectural changes in Python projects},
   year      = {2021},
   pages     = {1555--1559},
-  groups    = {khomh2015understanding, forward_3, need_check},
+  groups    = {khomh2015understanding, forward_3, exc_intro, excluded_ec01_unrelated, excluded_phase_intro},
 }
 
 @InProceedings{Souza2022,
@@ -9193,7 +9193,7 @@
   journal = {arXiv preprint arXiv:2012.11348},
   title   = {AC2--Towards Understanding Architectural Changes in Rapid Releases},
   year    = {2020},
-  groups  = {khomh2015understanding, forward_3, need_check},
+  groups  = {khomh2015understanding, forward_3, exc_intro, excluded_phase_intro, excluded_ec01_unrelated},
 }
 
 @Article{Kubinyi2022,
@@ -10388,7 +10388,7 @@
   year      = {2021},
   pages     = {110882},
   volume    = {173},
-  groups    = {abou2019, forward_2, joshi2019, khomh2012, need_check, daCosta2016impact, forward_3, daCosta2018impact, khomh2015understanding, mantyla2015rapid},
+  groups    = {abou2019, forward_2, joshi2019, khomh2012, daCosta2016impact, forward_3, daCosta2018impact, khomh2015understanding, mantyla2015rapid, Others},
   publisher = {Elsevier},
 }
 
@@ -11570,9 +11570,9 @@
 0 AllEntriesGroup:;
 1 StaticGroup:exc\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_abstract\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_cover_news\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_cover_news\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_doc\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_intro\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_intro\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_language\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
