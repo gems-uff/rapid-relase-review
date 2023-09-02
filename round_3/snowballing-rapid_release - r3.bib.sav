@@ -3001,7 +3001,7 @@
   address         = {Leipzig, Germany},
   pages           = {33–36,},
   citation-number = {19},
-  groups          = {kettunen2010, backward_2, need_check},
+  groups          = {kettunen2010, backward_2, exc_text, excluded_phase_text, excluded_ec01_unrelated},
   language        = {en},
   url             = {http://doi.acm.org},
 }
@@ -6182,7 +6182,7 @@
   year         = {2017},
   organization = {Springer International Publishing},
   pages        = {184--198},
-  groups       = {kettunen2010, forward_2, need_check},
+  groups       = {kettunen2010, forward_2, exc_intro, excluded_phase_intro, excluded_ec01_unrelated},
 }
 
 @InCollection{Kasurinen2012,
@@ -11575,7 +11575,7 @@
 2 StaticGroup:exc_intro\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_language\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_text\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_unavailable\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
