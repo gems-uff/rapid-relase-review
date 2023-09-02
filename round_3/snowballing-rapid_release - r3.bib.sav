@@ -326,7 +326,7 @@
   author   = {Azham, Z. and Ghani, I. and Ithnin, N.},
   title    = {Security backlog in scrum security practices},
   year     = {2011},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
   pages    = {414–417},
 }
@@ -519,7 +519,7 @@
   year     = {2012},
   pages    = {2232–2237},
   volume   = {87},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
 }
 
@@ -539,7 +539,7 @@
   year     = {2011},
   pages    = {929–936},
   volume   = {53},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
 }
 
@@ -547,7 +547,7 @@
   author   = {Maalej, W.},
   title    = {Task-first or context-first? tool integration revisited},
   year     = {2009},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
   pages    = {344–355},
 }
@@ -580,7 +580,7 @@
   year     = {1990},
   pages    = {267–285},
   volume   = {28},
-  groups   = {backward_1, excluded_phase_title, excluded_ec01_unrelated, mantyla2015rapid},
+  groups   = {backward_1, excluded_phase_title, excluded_ec01_unrelated, mantyla2015rapid, exc_abstract},
   language = {en},
 }
 
@@ -621,7 +621,7 @@
   author   = {Olsson, H. and Bosch, J. and Alahyari, H.},
   title    = {Towards r&d as innovation experiment systems: a framework for moving beyond agile software development},
   year     = {2013},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
   pages    = {798–805},
 }
@@ -727,7 +727,7 @@
   year     = {2005},
   pages    = {47–53},
   volume   = {22},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
 }
 
@@ -748,7 +748,7 @@
   year     = {1994},
   pages    = {327–341},
   volume   = {67},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_abstract},
   language = {en},
 }
 
@@ -831,7 +831,7 @@
   number          = {12},
   volume          = {33},
   citation-number = {3},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -864,7 +864,7 @@
   pages           = {47 54},
   publisher       = {ACM},
   citation-number = {7},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -884,7 +884,7 @@
   author          = {Brink, DerekA},
   title           = {Security and the Software Development Lifecycle: Secure at the Source},
   citation-number = {10},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_unavailable},
   language        = {en},
 }
 
@@ -921,7 +921,7 @@
   year            = {1999},
   pages           = {182 203,},
   citation-number = {14},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -931,7 +931,7 @@
   title           = {Security Evolution - Bug Bounty Programs for Web Applications},
   year            = {2011},
   citation-number = {15},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_unavailable},
   language        = {en},
   url             = {http://www.slideshare.net/michael_coates/},
 }
@@ -944,7 +944,7 @@
   pages           = {37 44},
   publisher       = {ACM Press},
   citation-number = {16},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -953,7 +953,7 @@
   title           = {State of Application Security: Immature Practices Fuel Ineciencies, but Positive ROI Is Attainable - A Forrester Consulting Thought Leadership Paper Commissioned by Microsoft},
   year            = {2011},
   citation-number = {17},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {http://www.microsoft.com/en-us/download/},
 }
@@ -1092,7 +1092,7 @@
   title           = {Sse-cmm security metrics},
   year            = {2000},
   citation-number = {30},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
 }
 
@@ -1138,7 +1138,7 @@
   year            = {2010},
   type            = {Technical report,},
   citation-number = {35},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
   url             = {http://www.cigital.com/presentations/ARA10.pdf.},
 }
@@ -1151,7 +1151,7 @@
   address         = {Montreal, Canada},
   month           = aug,
   citation-number = {36},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1162,7 +1162,7 @@
   month           = oct,
   type            = {Technical report,},
   citation-number = {37},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {http://msdn.},
 }
@@ -1237,7 +1237,7 @@
   title           = {SECURITY IN THE SOFTWARE LIFECYCLE: Making Software Development Processes and Software Produced by Them More Secure},
   year            = {2006},
   citation-number = {44},
-  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, exc_unavailable},
   language        = {en},
   url             = {http://resources.sei.cmu.edu/asset_files/},
 }
@@ -1295,7 +1295,7 @@
   title           = {The economic impacts of inadequate infrastructure for software testing},
   year            = {2002},
   citation-number = {49},
-  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec01_unrelated},
+  groups          = {backward_1, clark2014moving, excluded_phase_title, excluded_ec01_unrelated, exc_abstract},
   language        = {en},
 }
 
@@ -1342,7 +1342,7 @@
   pages           = {30–37},
   volume          = {30},
   citation-number = {1.},
-  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, souza2015},
+  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, souza2015, exc_abstract},
   language        = {en},
 }
 
@@ -1392,7 +1392,7 @@
   author   = {Vaughan-Nichols, S.J.},
   title    = {The truth about goobuntu: Google’s in-house desktop ubuntu linux},
   year     = {2012},
-  groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
+  groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language = {en},
   url      = {http://www.zdnet.com/the-truth-about-goobuntu-googles-in-house-desktop-ubuntu-linux-7000003462/},
 }
@@ -1413,7 +1413,7 @@
   author   = {Rouget, P.},
   title    = {Shaping a firefox feature - how does it work?},
   year     = {2012},
-  groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
+  groups   = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language = {en},
   url      = {http://paulrouget.com/e/featuredesign/},
 }
@@ -1434,7 +1434,7 @@
   title     = {When do changes induce fixes?},
   year      = {2005},
   pages     = {1–5},
-  groups    = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language  = {en},
 }
 
@@ -1519,7 +1519,7 @@
   month           = mar,
   pages           = {312–321},
   citation-number = {4},
-  groups          = {backward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2017prioritizing},
+  groups          = {backward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2017prioritizing, exc_abstract},
   language        = {en},
 }
 
@@ -1532,7 +1532,7 @@
   pages           = {182–212,},
   volume          = {19},
   citation-number = {5},
-  groups          = {backward_1, hemmati2017prioritizing, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1545,7 +1545,7 @@
   pages           = {67–120,},
   volume          = {22},
   citation-number = {8},
-  groups          = {backward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec01_unrelated},
+  groups          = {backward_1, hemmati2015prioritizing, excluded_phase_title, excluded_ec01_unrelated, exc_abstract},
   language        = {en},
 }
 
@@ -1625,7 +1625,7 @@
   year            = {2004},
   pages           = {469– 473},
   citation-number = {32},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1799,7 +1799,7 @@
   pages           = {284 292},
   publisher       = {IEEE},
   citation-number = {23},
-  groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, daCosta2018impact, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1863,7 +1863,7 @@
   pages           = {67–120},
   volume          = {22},
   citation-number = {10.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1888,7 +1888,7 @@
   pages           = {81–86},
   volume          = {41},
   citation-number = {13.},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1952,7 +1952,7 @@
   pages           = {1–14},
   publisher       = {IBM Press},
   citation-number = {21.},
-  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2015prioritizing},
+  groups          = {backward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2015prioritizing, exc_abstract},
   language        = {en},
 }
 
@@ -1965,7 +1965,7 @@
   pages           = {64–73},
   publisher       = {Noosa Heads},
   citation-number = {23.},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -1990,7 +1990,7 @@
   pages           = {225–237},
   volume          = {33},
   citation-number = {25.},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -2028,7 +2028,7 @@
   address         = {Kingston. Canada},
   pages           = {447–455},
   citation-number = {34.},
-  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, excluded_phase_title},
+  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, need_check},
   language        = {en},
 }
 
@@ -2052,7 +2052,7 @@
   year            = {2009},
   pages           = {776–780},
   citation-number = {38.},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -2062,7 +2062,7 @@
   title           = {Topic coverage test prioritization tool},
   year            = {2014},
   citation-number = {40.},
-  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
   url             = {https://github.com/stepthom/tcp.lda},
 }
@@ -2129,7 +2129,7 @@
   year     = {2004},
   pages    = {243–253},
   volume   = {46},
-  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language = {en},
 }
 
@@ -2139,7 +2139,7 @@
   title     = {Towards a simplification of the bug report form in eclipse},
   year      = {2008},
   pages     = {145–148},
-  groups    = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {backward_1, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language  = {en},
 }
 
@@ -2193,7 +2193,7 @@
   number   = {260},
   pages    = {583–621},
   volume   = {47},
-  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language = {en},
 }
 
@@ -2247,7 +2247,7 @@
   number   = {2},
   pages    = {179–183},
   volume   = {18},
-  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language = {en},
 }
 
@@ -2292,7 +2292,7 @@
   number   = {1},
   pages    = {72–101},
   volume   = {15},
-  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups   = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language = {en},
 }
 
@@ -2325,7 +2325,7 @@
   year      = {2011},
   address   = {New York},
   pages     = {93–102},
-  groups    = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language  = {en},
 }
 
@@ -2350,13 +2350,13 @@
   year    = {2020},
   pages   = {105701},
   volume  = {124},
-  groups  = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups  = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
 }
 
 @Article{parninfeatured,
   author = {Parnin, Chris and Helms, Eric and Williams, Laurie and Glover, Andy and Murphy, Brendan and Whitaker, Shari and Atlee, Chris and Holman, James and Ghattas, Mark and Boughton, Harley and others},
   title  = {Featured: More},
-  groups = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, exc_unavailable},
 }
 
 @Article{karvonenascientiae,
@@ -2376,14 +2376,14 @@
   author = {Yu, Zhe and others},
   title  = {Total Recall and Software Engineering.},
   year   = {2020},
-  groups = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
 }
 
 @Article{unterkalmsteiner2015supporting,
   author = {Unterkalmsteiner, Michael and Feldt, Robert and Gorschek, Tony},
   title  = {Supporting Experts in Test Case Selection with Topic Models},
   year   = {2015},
-  groups = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title},
+  groups = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, exc_unavailable},
 }
 
 @MastersThesis{,
@@ -2432,7 +2432,7 @@
   title           = {Understanding the corporate impact},
   year            = {2012},
   citation-number = {17},
-  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
   url             = {http://bit.ly/mBzP37},
 }
@@ -2454,7 +2454,7 @@
   title           = {Some clarification and musings},
   year            = {2011},
   citation-number = {6},
-  groups          = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012},
+  groups          = {backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012, exc_cover_news},
   language        = {en},
   url             = {http://bit.ly/q8RCuw},
 }
@@ -2545,7 +2545,7 @@
   month           = aug,
   pages           = {12},
   citation-number = {30},
-  groups          = {backward_1, mantyla2015rapid, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012},
+  groups          = {backward_1, mantyla2015rapid, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, backward_2, khomh2012, exc_abstract},
   language        = {en},
 }
 
@@ -2556,7 +2556,7 @@
   year            = {2006},
   pages           = {44–50},
   citation-number = {35},
-  groups          = {backward_1, excluded_phase_title, excluded_ec01_unrelated, mantyla2015rapid, khomh2015understanding, backward_2, khomh2012},
+  groups          = {backward_1, excluded_phase_title, excluded_ec01_unrelated, mantyla2015rapid, khomh2015understanding, backward_2, khomh2012, exc_abstract},
   language        = {en},
 }
 
@@ -2598,7 +2598,7 @@
   title           = {Spotify engineering culture},
   citation-number = {5},
   date            = {2014/},
-  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {et},
   pages           = {– – – –1,},
   url             = {https://},
@@ -2683,7 +2683,7 @@
   pages           = {3–62},
   volume          = {8},
   citation-number = {24},
-  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {it},
 }
 
@@ -2732,7 +2732,7 @@
   pages           = {385–400},
   volume          = {7},
   citation-number = {37},
-  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kula2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {fr},
 }
 
@@ -2755,7 +2755,7 @@
   title           = {Research design: Qualitative, quantitative, and mixed methods approaches},
   year            = {2017},
   citation-number = {8},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019, exc_abstract},
   language        = {en},
 }
 
@@ -2854,7 +2854,7 @@
   title           = {SME Definition},
   year            = {2003},
   citation-number = {6},
-  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
 }
 
@@ -2901,7 +2901,7 @@
   year            = {1967},
   address         = {Chicago},
   citation-number = {10},
-  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -3023,7 +3023,7 @@
   year            = {1997},
   address         = {Philadelphia, USA},
   citation-number = {21},
-  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -3140,7 +3140,7 @@
   number          = {0},
   volume          = {2},
   citation-number = {33},
-  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kettunen2010, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -3165,7 +3165,7 @@
   year            = {2002},
   edition         = {Second},
   citation-number = {16},
-  groups          = {kula2019, backward_2, kettunen2010, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {kula2019, backward_2, kettunen2010, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -3215,7 +3215,7 @@
   pages           = {92–101},
   publisher       = {ACM},
   citation-number = {10},
-  groups          = {joshi2019, backward_2, excluded_phase_title, excluded_ec01_unrelated},
+  groups          = {joshi2019, backward_2, excluded_phase_title, excluded_ec01_unrelated, exc_abstract},
   language        = {en},
 }
 
@@ -3391,7 +3391,7 @@
   title           = {Thurmann-Nielsen, C.: A decision support system to refactor class cycles},
   year            = {2015},
   citation-number = {12.},
-  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -3404,7 +3404,7 @@
   pages           = {475–484},
   volume          = {32},
   citation-number = {14.},
-  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {ihara2017, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -3953,7 +3953,7 @@
   pages           = {332–341,},
   publisher       = {IEEE Press},
   citation-number = {25},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -4061,7 +4061,7 @@
   title           = {Survival and event history analysis: a process point of view},
   year            = {2008},
   citation-number = {41},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -4074,7 +4074,7 @@
   pages           = {1073,},
   volume          = {328},
   citation-number = {42},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {no},
 }
 
@@ -4759,7 +4759,7 @@
   pages           = {743–774},
   volume          = {23},
   citation-number = {1},
-  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -4987,7 +4987,7 @@
 @Misc{,
   title           = {Waikato Environment for Knowledge Analysis, www. cs.waikato.ac.nz/ml/weka/},
   citation-number = {36},
-  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {vig2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_cover_news},
   language        = {en},
 }
 
@@ -5137,7 +5137,7 @@
   volume          = {FOSE '07},
   booktitle       = {2007 Future of Software Engineering},
   citation-number = {3},
-  groups          = {backward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2017prioritizing, kettunen2010, backward_2},
+  groups          = {backward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, hemmati2017prioritizing, kettunen2010, backward_2, exc_abstract},
   language        = {nl},
   publisher       = {IEEE Computer Society},
 }
@@ -5199,7 +5199,7 @@
   pages           = {101–104},
   publisher       = {ACM},
   citation-number = {12},
-  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019, backward_2},
+  groups          = {kula2018, backward_2, excluded_ec01_unrelated, excluded_phase_title, kula2019, exc_abstract},
   language        = {en},
 }
 
@@ -5461,7 +5461,7 @@
   year            = {2004},
   booktitle       = {in annual meeting of the American Educational Research Association},
   citation-number = {39},
-  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title},
+  groups          = {abou2019, backward_2, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   language        = {en},
 }
 
@@ -8075,7 +8075,7 @@
 @Article{VanGogh,
   author = {Van Gogh, Vincent},
   title  = {For Good Measure},
-  groups = {forward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups = {forward_1, clark2014moving, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_unavailable},
 }
 
 @InProceedings{Nicholson2021,
@@ -8122,7 +8122,7 @@
   number    = {2},
   pages     = {194--218},
   volume    = {45},
-  groups    = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups    = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
   publisher = {IEEE},
 }
 
@@ -8182,7 +8182,7 @@
   author = {Lopez de la Mora, Fernando},
   title  = {Providing Software Library Selection Assistance By Using Metric-Based Comparisons},
   year   = {2018},
-  groups = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3},
+  groups = {forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3, exc_abstract},
 }
 
 @Article{Izadi2022,
@@ -8599,7 +8599,7 @@
   year      = {2019},
   pages     = {1--34},
   volume    = {149},
-  groups    = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups    = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
   publisher = {Elsevier},
 }
 
@@ -8609,7 +8609,7 @@
   title     = {TERMINATOR: better automated UI test case prioritization},
   year      = {2019},
   pages     = {883--894},
-  groups    = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups    = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @InCollection{Lou2019,
@@ -8650,7 +8650,7 @@
   number    = {4},
   pages     = {1451--1482},
   volume    = {26},
-  groups    = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups    = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
   publisher = {Springer},
 }
 
@@ -8683,7 +8683,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {149--158},
-  groups       = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups       = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @InProceedings{Mathew2017,
@@ -8711,7 +8711,7 @@
   journal = {arXiv preprint arXiv:1909.07249},
   title   = {Searching for Better Test Case Prioritization Schemes: a Case Study of AI-assisted Systematic Literature Review},
   year    = {2019},
-  groups  = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups  = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @PhdThesis{Strandberg2018,
@@ -8768,7 +8768,7 @@
   author = {Ibias Mart{\'\i}nez, Alfredo},
   title  = {Using mutual information to select test suites in a black-box framework},
   year   = {2019},
-  groups = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups = {forward_1, hemmati2015prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{Strandbergfl2018,
@@ -9022,7 +9022,7 @@
   year         = {2019},
   organization = {IEEE},
   pages        = {1013--1022},
-  groups       = {forward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups       = {forward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @InProceedings{Nakagawa2019,
@@ -9068,7 +9068,7 @@
   title     = {Supporting change in product lines within the context of use case-driven development and testing},
   year      = {2016},
   pages     = {1082--1084},
-  groups    = {forward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups    = {forward_1, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{Sharifi2021,
@@ -9431,7 +9431,7 @@
   pages        = {590--594},
   abstract     = {The majority of the software development effort is spent on software maintenance. Bug handling constitutes one of the major software maintenance activities. Earlier studies have empirically investigated various aspects of bug handling, such as bug triaging, bug fixing, and bug process analysis. However, results from previous studies may not be applicable to contemporary agile software development practices.Moreover, these studies did not investigate how changes in the development policies and supporting tools impact the bug handling process. Therefore, our main goal is to investigate the impact of such changes on the bug handling process performance. To do so, we are conducting empirical studies on large and long-lived open source software projects. We report on our current research findings and outline the ongoing Ph.D. research project of the first author.},
   doi          = {10.1109/ICSME.2019.00093},
-  groups       = {abou2019, forward_2, khomh2012, forward_01, p_Khomh2015_forward, p_Costa2018_forward, forward_1, khomh2015understanding, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups       = {abou2019, forward_2, khomh2012, forward_01, p_Khomh2015_forward, p_Costa2018_forward, forward_1, khomh2015understanding, daCosta2016impact, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
   issn         = {2576-3148},
   keywords     = {agile software development practices,bug fixing,bug handling process performance,bug tracker; empirical analysis; bug fixing process; software maintenance; rapid release cycle; bug triaging; Bugzilla,bug triaging,Computer bugs,Delays,development policies,open source software projects,policy changes,program debugging,project management,public domain software,Schedules,software development effort,software development management,software maintenance,Software maintenance,software maintenance activities,Tools},
   timestamp    = {2020-10-29T19:54:15Z},
@@ -9566,7 +9566,7 @@
   title     = {The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds},
   year      = {2018},
   pages     = {857--862},
-  groups    = {forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3},
+  groups    = {forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3, exc_abstract},
 }
 
 @Article{Bi2020,
@@ -9637,7 +9637,7 @@
   title     = {Time pressure: a controlled experiment of test case development and requirements review},
   year      = {2014},
   pages     = {83--94},
-  groups    = {forward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups    = {forward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{Souza2015,
@@ -9786,12 +9786,6 @@
   author = {Paunovi{\'c}, Valentina B},
   title  = {Biological modeling of software development dynamics},
   groups = {forward_1, mantyla2013rapid, excluded_criteria, excluded_phase_title, forward_3, exc_abstract},
-}
-
-@Article{Hassan,
-  author = {Hassan, E and Abebe, Surafel Lemma},
-  title  = {Daniel Alencar da Costa, Shane McIntosh, Uir{\'a} Kulesza, Ahmed},
-  groups = {forward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3},
 }
 
 @Article{吉行勇人2015,
@@ -10483,7 +10477,7 @@
   year         = {2017},
   organization = {Springer},
   pages        = {111--121},
-  groups       = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups       = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{CesarBrandaoGomesdaSilva2017,
@@ -10530,7 +10524,7 @@
   year         = {2018},
   organization = {Springer},
   pages        = {243--259},
-  groups       = {forward_1, mantyla2015rapid, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups       = {forward_1, mantyla2015rapid, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @MastersThesis{Lindholm2019,
@@ -10822,13 +10816,13 @@
   author = {Medidi, Prasadbabu},
   title  = {Waste in Lean Software Development: A Root Cause Analysis},
   year   = {2015},
-  groups = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{Guerriero,
   author = {Guerriero, Antonio and de Vito, Romolo},
   title  = {Reinforced RT: una tecnica di Regression Testing in Continuous Integration},
-  groups = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{藤林大毅2017,
@@ -10898,7 +10892,7 @@
   number    = {4},
   pages     = {2095--2126},
   volume    = {22},
-  groups    = {forward_1, daCosta2016impact, khomh2015understanding, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, souza2015, forward_3},
+  groups    = {forward_1, daCosta2016impact, khomh2015understanding, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, souza2015, forward_3, exc_abstract},
   publisher = {Springer},
 }
 
@@ -11330,7 +11324,7 @@
   organization = {IEEE},
   pages        = {106--117},
   volume       = {10},
-  groups       = {khomh2012, forward_2, forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, forward_3, daCosta2016impact, forward_3},
+  groups       = {khomh2012, forward_2, forward_1, daCosta2016impact, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
   journal      = {ICSE’17},
 }
 
@@ -11379,7 +11373,7 @@
   journal = {LU-CS-EX 2019-06},
   title   = {Test Case Prioritization Using AHP and Customer Usage Pro les for Regression Testing},
   year    = {2019},
-  groups  = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3},
+  groups  = {mantyla2015rapid, forward_3, forward_1, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
 }
 
 @Misc{Lindstroem2019,
@@ -11415,7 +11409,7 @@
   title     = {The Influence of Software Product Quality Attributes on Open Source Projects: A Characterization Study.},
   year      = {2017},
   pages     = {29--39},
-  groups    = {forward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, mantyla2013rapid, forward_3},
+  groups    = {forward_1, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
 }
 
 @Article{Rechenmacher2020,
@@ -11423,7 +11417,7 @@
   title     = {The JDownloader Immune System for Continuous Deployment},
   year      = {2020},
   booktitle = {Proceedings of the 53rd Hawaii International Conference on System Sciences},
-  groups    = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {mantyla2015rapid, forward_3, forward_1, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
 }
 
 @InCollection{da2018tools,
@@ -11433,7 +11427,7 @@
   title        = {Tools to Support SMEs to Migrate to the Cloud: Opportunities and Challenges},
   year         = {2018},
   pages        = {159--165},
-  groups       = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, forward_3},
+  groups       = {forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_abstract},
   organization = {Springer},
 }
 
@@ -11445,7 +11439,7 @@
   number    = {2},
   pages     = {8},
   volume    = {12},
-  groups    = {mantyla2015rapid, forward_3, forward_1, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title},
+  groups    = {mantyla2015rapid, forward_3, forward_1, excluded_ec01_unrelated, excluded_phase_title, exc_abstract},
   publisher = {Association of Digital Forensics, Security and Law},
 }
 
@@ -11480,7 +11474,7 @@
   title           = {Why do companies stay on old technology?},
   year            = {2012},
   citation-number = {18},
-  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, backward_1, khomh2015understanding, mantyla2013rapid, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_title, backward_1, khomh2015understanding, mantyla2013rapid, mantyla2015rapid, exc_cover_news},
   language        = {en},
   url             = {http://bit.ly/k3fruK},
 }
@@ -11530,7 +11524,7 @@
   year         = {2016},
   organization = {IEEE},
   pages        = {301--311},
-  groups       = {souza2015, forward_3, backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, forward_1, souza2015, souza2015, forward_3},
+  groups       = {souza2015, forward_3, backward_1, daCosta2018impact, excluded_ec01_unrelated, excluded_phase_title, forward_1, exc_abstract},
   journal      = {A comparative study of industrial and open source projects},
   language     = {en},
 }
@@ -11576,13 +11570,13 @@
 0 AllEntriesGroup:;
 1 StaticGroup:exc\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_abstract\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_cover_news\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_cover_news\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_doc\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_intro\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_language\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_unavailable\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_unavailable\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
