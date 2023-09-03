@@ -756,7 +756,7 @@
   author   = {Sundmark, D. and Petersen, K. and Larsson, S.},
   title    = {An exploratory case study of testing in an automotive electrical system release process},
   year     = {2011},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, need_check},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, need_check, exc_text},
   language = {en},
   pages    = {166–175},
 }
@@ -2028,7 +2028,7 @@
   address         = {Kingston. Canada},
   pages           = {447–455},
   citation-number = {34.},
-  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, need_check},
+  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, Others},
   language        = {en},
 }
 
@@ -2443,7 +2443,7 @@
   title           = {eXtreme Adoption eXperiences of a B2B Start Up},
   year            = {2002},
   citation-number = {32},
-  groups          = {backward_2, khomh2012, need_check},
+  groups          = {backward_2, khomh2012, excluded_ec01_unrelated, excluded_phase_text, exc_text},
   language        = {en},
   publisher       = {Addison-Wesley Longman Publishing Co., Inc},
 }
@@ -2695,7 +2695,7 @@
   pages           = {982–991},
   publisher       = {IEEE Press},
   citation-number = {27},
-  groups          = {kula2019, backward_2, need_check},
+  groups          = {kula2019, backward_2, excluded_phase_intro, excluded_ec01_unrelated, exc_intro},
   language        = {en},
 }
 
@@ -3057,7 +3057,7 @@
   pages           = {470–477},
   volume          = {08},
   citation-number = {26},
-  groups          = {kettunen2010, backward_2, need_check},
+  groups          = {kettunen2010, backward_2, exc_text, excluded_ec01_unrelated, excluded_phase_text},
   language        = {en},
 }
 
@@ -3178,7 +3178,7 @@
   pages           = {833–859,},
   volume          = {50},
   citation-number = {6},
-  groups          = {joshi2019, backward_2, need_check},
+  groups          = {joshi2019, backward_2, excluded_ec01_unrelated, excluded_phase_intro, exc_intro},
   language        = {en},
 }
 
@@ -5396,7 +5396,7 @@
   pages           = {1–5,},
   volume          = {30},
   citation-number = {34},
-  groups          = {backward_2, khomh2012, need_check, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, vig2018, backward_2},
+  groups          = {backward_2, khomh2012, need_check, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, vig2018, exc_intro},
   language        = {en},
 }
 
@@ -5845,7 +5845,7 @@
   number    = {1},
   pages     = {e2499},
   volume    = {35},
-  groups    = {joshi2019, forward_2, need_check},
+  groups    = {joshi2019, forward_2, excluded_ec01_unrelated, excluded_phase_intro, exc_intro},
   publisher = {Wiley Online Library},
 }
 
@@ -6059,7 +6059,7 @@
   year         = {2013},
   organization = {Springer},
   pages        = {35--49},
-  groups       = {kettunen2010, forward_2, need_check},
+  groups       = {kettunen2010, forward_2, exc_intro, excluded_ec01_unrelated, excluded_phase_intro},
 }
 
 @Article{Wang2019,
@@ -6172,7 +6172,7 @@
   year         = {2016},
   organization = {IEEE},
   pages        = {600--605},
-  groups       = {kettunen2010, forward_2, need_check},
+  groups       = {kettunen2010, forward_2, exc_intro, excluded_phase_intro, excluded_ec01_unrelated},
 }
 
 @InProceedings{Tyagi2017,
@@ -6299,7 +6299,7 @@
   number  = {2},
   pages   = {2},
   volume  = {1},
-  groups  = {kettunen2010, forward_2, need_check},
+  groups  = {kettunen2010, forward_2, excluded_phase_intro, excluded_ec01_unrelated, exc_intro},
 }
 
 @PhdThesis{Liang2018,
@@ -7136,7 +7136,7 @@
   number    = {2},
   pages     = {393--411},
   volume    = {47},
-  groups    = {khomh2012, forward_2, need_check},
+  groups    = {khomh2012, forward_2, exc_text, excluded_phase_text, excluded_ec01_unrelated},
   publisher = {IEEE},
 }
 
@@ -7275,7 +7275,7 @@
   year         = {2013},
   organization = {IEEE},
   pages        = {292--300},
-  groups       = {khomh2012, forward_2, need_check},
+  groups       = {khomh2012, forward_2, excluded_phase_intro, excluded_ec01_unrelated, exc_intro},
 }
 
 @InProceedings{Wang2020b,
@@ -7790,7 +7790,7 @@
   pages           = {1346–1370},
   volume          = {21},
   citation-number = {32},
-  groups          = {vig2018, backward_2, need_check, khomh2012, forward_2},
+  groups          = {vig2018, backward_2, khomh2012, forward_2, excluded_phase_text, excluded_ec01_unrelated, exc_text},
   language        = {en},
   publisher       = {Springer},
 }
@@ -8982,7 +8982,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {309--319},
-  groups       = {forward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, need_check},
+  groups       = {forward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, need_check, excluded_phase_text, exc_text},
 }
 
 @InCollection{Hemmati2019,
@@ -9094,7 +9094,7 @@
   year         = {2020},
   organization = {IEEE},
   pages        = {104--114},
-  groups       = {khomh2015understanding, forward_3, need_check},
+  groups       = {khomh2015understanding, forward_3, exc_intro, excluded_phase_intro, excluded_ec01_unrelated},
 }
 
 @Article{Bock2021,
@@ -9724,7 +9724,7 @@
   booktitle = {XXV Congreso Argentino de Ciencias de la Computaci{\'o}n (CACIC)(Universidad Nacional de R{\'\i}o Cuarto, C{\'o}rdoba, 14 al 18 de octubre de 2019)},
   title     = {Rapid Releases and Testing Problems at the industry: A survey},
   year      = {2019},
-  groups    = {forward_1, mantyla2013rapid, need_check, khomh2012, forward_2, forward_3},
+  groups    = {forward_1, mantyla2013rapid, khomh2012, forward_2, forward_3, excluded_phase_text, excluded_ec01_unrelated, exc_text},
 }
 
 @Article{Gadelha2019,
@@ -9917,7 +9917,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {934--941},
-  groups       = {mantyla2015rapid, forward_3, need_check},
+  groups       = {mantyla2015rapid, forward_3, excluded_ec01_unrelated, excluded_phase_intro, exc_intro},
 }
 
 @Article{Zhang2022,
@@ -10108,7 +10108,7 @@
   year      = {2017},
   pages     = {263--291},
   volume    = {123},
-  groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3, need_check},
+  groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3, need_check, exc_text},
   publisher = {Elsevier},
 }
 
@@ -10659,7 +10659,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {63--70},
-  groups       = {forward_1, daCosta2016impact, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3, need_check},
+  groups       = {forward_1, daCosta2016impact, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3, Others},
 }
 
 @InProceedings{Fujibayashi2017,
@@ -11573,16 +11573,16 @@
 2 StaticGroup:exc_cover_news\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_doc\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_intro\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_language\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_language\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_text\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_unavailable\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_criteria\;2\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec01_unrelated\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec02_language\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec03_unavailable\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_ec04_cover\;0\;1\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_ec04_cover\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec05_docs\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec06_sist_review\;0\;0\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
