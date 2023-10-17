@@ -756,7 +756,7 @@
   author   = {Sundmark, D. and Petersen, K. and Larsson, S.},
   title    = {An exploratory case study of testing in an automotive electrical system release process},
   year     = {2011},
-  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, need_check, exc_text},
+  groups   = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, exc_text},
   language = {en},
   pages    = {166–175},
 }
@@ -2028,7 +2028,7 @@
   address         = {Kingston. Canada},
   pages           = {447–455},
   citation-number = {34.},
-  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, Others},
+  groups          = {backward_1, excluded_ec01_unrelated, excluded_phase_title, mantyla2015rapid, hemmati2017prioritizing, hemmati2015prioritizing, Others, selected},
   language        = {en},
 }
 
@@ -5396,7 +5396,7 @@
   pages           = {1–5,},
   volume          = {30},
   citation-number = {34},
-  groups          = {backward_2, khomh2012, need_check, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, vig2018, exc_intro},
+  groups          = {backward_2, khomh2012, backward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, vig2018, exc_intro},
   language        = {en},
 }
 
@@ -8982,7 +8982,7 @@
   year         = {2018},
   organization = {IEEE},
   pages        = {309--319},
-  groups       = {forward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, need_check, excluded_phase_text, exc_text},
+  groups       = {forward_1, hemmati2015prioritizing, hemmati2017prioritizing, excluded_ec01_unrelated, excluded_phase_title, forward_3, excluded_phase_text, exc_text},
 }
 
 @InCollection{Hemmati2019,
@@ -10108,7 +10108,7 @@
   year      = {2017},
   pages     = {263--291},
   volume    = {123},
-  groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3, need_check, exc_text},
+  groups    = {forward_1, mantyla2015rapid, mantyla2013rapid, excluded_ec06_sist_review, excluded_phase_title, lavoie2013, forward_2, khomh2012, forward_3, exc_text},
   publisher = {Elsevier},
 }
 
@@ -10388,7 +10388,7 @@
   year      = {2021},
   pages     = {110882},
   volume    = {173},
-  groups    = {abou2019, forward_2, joshi2019, khomh2012, daCosta2016impact, forward_3, daCosta2018impact, khomh2015understanding, mantyla2015rapid, Others},
+  groups    = {abou2019, forward_2, joshi2019, khomh2012, daCosta2016impact, forward_3, daCosta2018impact, khomh2015understanding, mantyla2015rapid, Others, selected},
   publisher = {Elsevier},
 }
 
@@ -10659,7 +10659,7 @@
   year         = {2017},
   organization = {IEEE},
   pages        = {63--70},
-  groups       = {forward_1, daCosta2016impact, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3, Others},
+  groups       = {forward_1, daCosta2016impact, mantyla2015rapid, excluded_ec01_unrelated, excluded_phase_title, khomh2012, forward_2, forward_3, Others, selected},
 }
 
 @InProceedings{Fujibayashi2017,
@@ -11202,7 +11202,7 @@
   abstract   = {Open Source Software (OSS) is vital to both end users and enterprises. As OSS systems are becoming a type of infrastructure, long-term OSS projects are desired. For the survival of OSS projects, the projects need to not only retain existing developers, but also attract new developers to grow. To better understand how projects retain and attract contributors, our preliminary study aimed to measure the personnel attraction and retention of OSS projects using a pair of population migration metrics, called Magnet (personnel attraction) and Sticky (retention) metrics. Because the preliminary study analyzed only 90 projects and the 90 projects are not representative of GitHub, this paper extend the preliminary study to better understand the generalizability of the results by analyzing 16, 552 projects of GitHub. Furthermore, we also add a pilot study to investigate the typical duration between releases to find more appropriate release duration. The study results show that (1) approximately 23\% of developers remain in the same projects that the developers contribute to, (2) the larger projects are likely to attract and retain more developers, (3) 53\% of terminal projects eventually decay to a state of fewer than ten developers and (4) 55\% of attractive projects remain in an attractive category.},
   doi        = {10.2197/ipsjjip.24.339},
   file       = {Full Text PDF:C\:\\Users\\felipecrp\\Zotero\\storage\\QJK2ZQFE\\Yamashita et al. - 2016 - Magnet or Sticky Measuring Project Characteristic.pdf:application/pdf},
-  groups     = {forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, forward_3, need_check},
+  groups     = {forward_01, excluded_abstract, p_Khomh2015_forward, forward_1, khomh2015understanding, excluded_ec01_unrelated, excluded_phase_title, forward_3, exc_intro},
   keywords   = {Developer Transition,Magnet,Mining Software Repositories,Open Source Software,Sticky},
   publisher  = {Information Processing Society of Japan},
   shorttitle = {Magnet or {{Sticky}}?},
@@ -11572,7 +11572,7 @@
 2 StaticGroup:exc_abstract\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_cover_news\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_doc\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_intro\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_intro\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_language\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
@@ -11588,7 +11588,7 @@
 3 StaticGroup:excluded_ec07_news\;0\;1\;0xff0000ff\;\;\;;
 2 StaticGroup:excluded_phase\;2\;1\;0x800000ff\;\;\;;
 3 StaticGroup:excluded_phase_abstract\;0\;1\;0xff0000ff\;\;\;;
-3 StaticGroup:excluded_phase_intro\;0\;0\;0xff0000ff\;\;\;;
+3 StaticGroup:excluded_phase_intro\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_text\;0\;1\;0xff0000ff\;\;\;;
 3 StaticGroup:excluded_phase_title\;0\;1\;0xff0000ff\;\;\;;
 1 StaticGroup:need_check\;0\;0\;0xffff00ff\;\;\;;
