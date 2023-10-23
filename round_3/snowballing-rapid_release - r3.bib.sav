@@ -5883,7 +5883,7 @@
   year         = {2023},
   organization = {IEEE},
   pages        = {372--376},
-  groups       = {joshi2019, forward_2, Others, selected},
+  groups       = {joshi2019, forward_2, selected, Other Studies, Recorded},
 }
 
 @Article{Surana2020,
@@ -9441,7 +9441,7 @@
   author = {Song, Peijian and Wang, Alex and Fang, Yulin and Li, Huifang},
   title  = {Untangling Synchronized App Update Behaviors within the Ecosystem of Software Platform},
   year   = {2022},
-  groups = {clark2014moving, forward_3, khomh2015understanding, Firefox, selected},
+  groups = {clark2014moving, forward_3, khomh2015understanding, exc_unavailable},
 }
 
 @PhdThesis{Frank2017,
@@ -10003,7 +10003,7 @@
   author = {Aarnio, Linus},
   title  = {Confidence in Release Candidates: Maintaining confidence levels when moving from traditional release management to continuous delivery},
   year   = {2022},
-  groups = {mantyla2015rapid, forward_3, Others, selected},
+  groups = {mantyla2015rapid, forward_3, exc_doc},
 }
 
 @Book{Chandrasekaran2022,
@@ -10679,7 +10679,7 @@
   year         = {2021},
   organization = {IEEE},
   pages        = {17--24},
-  groups       = {abou2019, forward_2, joshi2019, souza2014, Others, selected, daCosta2018impact, forward_3, khomh2015understanding, mantyla2015rapid},
+  groups       = {abou2019, forward_2, joshi2019, souza2014, selected, daCosta2018impact, forward_3, khomh2015understanding, mantyla2015rapid, Other Studies, Recorded},
 }
 
 @Article{Luo2019a,
@@ -11571,10 +11571,10 @@
 1 StaticGroup:exc\;2\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_abstract\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_cover_news\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_doc\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_doc\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_intro\;0\;0\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_language\;0\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:exc_others\;0\;0\;0x8a8a8aff\;\;\;;
+2 StaticGroup:exc_others\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_text\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:exc_unavailable\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:excluded\;2\;1\;0xff0000ff\;\;\;;
