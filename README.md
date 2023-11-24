@@ -37,3 +37,6 @@ on Evaluation and Assessment in Software Engineering. [S.l.: s.n.], 2014. P. 1â€
 
 Use [JabRef](https://www.jabref.org/) to open the `rapid-release-review.bib`. The tool enables navigating through the steps of the systematic review. We categorized the papers found in each forward and backward snowballing.
 
+![jabref](figs/jabref.png)
+
+The record folder summarizes the studies results. The round_n folders summarize the backward and forward snowballing of each paper.
